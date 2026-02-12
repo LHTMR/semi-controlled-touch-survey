@@ -57,3 +57,6 @@ rsconnect/
 
 *.xlsx
 *.csv
+
+# Local editor config
+.vscode/
