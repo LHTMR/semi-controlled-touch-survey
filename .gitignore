@@ -60,3 +60,6 @@ rsconnect/
 
 # Local editor config
 .vscode/
+
+# When running python script, ignore the cache
+__pycache__/
