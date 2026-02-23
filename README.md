@@ -74,6 +74,7 @@ Structure of the dataset, i.e., where files are located.
 │       ├── word_frequencies_grouped.csv.txt
 │       ├── word_frequencies_raw.csv.txt
 │       ├── word_frequencies_tree.txt
+│       ├── word_grouping_dict.json
 │       ├── word_list_filtered.txt
 │       └── word_list_raw.txt
 ├── Qualitative_Flavia
