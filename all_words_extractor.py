@@ -24,6 +24,7 @@ Features:
 - spaCy-based negation detection for more accurate parsing (default, requires spaCy installation)
 - Word variation grouping (typos, different spellings, morphological variations)
 - Multiple output formats (CSV, tree visualization)
+- Minimum frequency filter (for individual words and groups of words).
 
 Dependencies:
 - pandas, numpy (data handling)
@@ -64,7 +65,7 @@ Scientific Rationale:
 - Stopword customization supports domain-specific terminology
 
 Written by: Yohann OPOLKA, University of Borås, Sweden.
-Last updated: 2026.2.20 (with spaCy integration)
+Last updated: 2026.2.23
 """
 
 import os
@@ -212,8 +213,10 @@ DEFAULT_CONFIG = {
     "save_raw_counts": True,  # Baseline analysis without linguistic processing
     "save_filtered_counts": True,  # Analysis after stopword removal and negation handling
     "save_grouped_counts": True,  # Detailed grouping information for methodological transparency
+    "save_grouping_dict": True,  # JSON dictionary for custom transformations and human review
     "save_tree_visualization": True,  # Visual representation of word variation patterns
     "tree_max_depth": None,  # Limits tree depth for readability while showing key variations
+    "min_frequency_threshold": 0,  # Minimum frequency for words/groups to be included in output
     # NLTK data
     "nltk_data_path": None,  # Optional custom NLTK data path
     # Debugging
@@ -2278,6 +2281,13 @@ def create_tree_visualization(
     """
     print("Creating tree visualization...")
 
+    # Apply frequency threshold filter to groups
+    threshold = config.get("min_frequency_threshold", 0)
+    groups = filter_groups_by_threshold(groups, threshold)
+
+    if not groups:
+        return "No word groups meet the frequency threshold for tree visualization."
+
     tree_lines = []
     tree_lines.append("Word Frequency Tree")
     tree_lines.append("=" * 50)
@@ -2330,17 +2340,72 @@ def create_tree_visualization(
             if remaining_count > 0:
                 tree_lines.append(f"    └── ... and {remaining_count} more variations")
 
-    return "\n".join(
-        tree_lines
-    )  # ============================================================================
+    return "\n".join(tree_lines)
 
 
+# ============================================================================
 # Output Functions
 # ============================================================================
 
 
+def filter_word_counts_by_threshold(
+    word_counts: Dict[str, int], threshold: int
+) -> Dict[str, int]:
+    """
+    Filter word counts by minimum frequency threshold.
+
+    Args:
+        word_counts: Dictionary of word frequencies.
+        threshold: Minimum frequency for words to be included.
+
+    Returns:
+        Filtered dictionary with only words meeting or exceeding the threshold.
+    """
+    if threshold <= 0:
+        return word_counts
+
+    filtered = {
+        word: count for word, count in word_counts.items() if count >= threshold
+    }
+    removed = len(word_counts) - len(filtered)
+    if removed > 0:
+        print(f"  Filtered out {removed} words with frequency < {threshold}")
+    return filtered
+
+
+def filter_groups_by_threshold(
+    groups: Dict[str, List[Tuple[str, int]]], threshold: int
+) -> Dict[str, List[Tuple[str, int]]]:
+    """
+    Filter word groups by minimum total frequency threshold.
+
+    Args:
+        groups: Dictionary of word groups from group_word_variations().
+        threshold: Minimum total frequency for groups to be included.
+
+    Returns:
+        Filtered dictionary with only groups whose total frequency meets or exceeds threshold.
+    """
+    if threshold <= 0:
+        return groups
+
+    filtered_groups = {}
+    for main_word, members in groups.items():
+        total_count = sum(count for _, count in members)
+        if total_count >= threshold:
+            filtered_groups[main_word] = members
+
+    removed = len(groups) - len(filtered_groups)
+    if removed > 0:
+        print(f"  Filtered out {removed} groups with total frequency < {threshold}")
+    return filtered_groups
+
+
 def save_word_outputs(
-    word_counts: Dict[str, int], output_path_base: str, file_type: str
+    word_counts: Dict[str, int],
+    output_path_base: str,
+    file_type: str,
+    config: Dict[str, Any],
 ) -> None:
     """
     Save word counts to CSV and word lists to TXT files for scientific analysis.
@@ -2349,6 +2414,7 @@ def save_word_outputs(
         word_counts: Dictionary of word frequencies.
         output_path_base: Base path for output files.
         file_type: Type of analysis (e.g., 'raw', 'filtered').
+        config: Configuration dictionary with processing parameters.
 
     Notes:
         - Saves two file types: CSV with frequencies, TXT with word lists
@@ -2359,6 +2425,16 @@ def save_word_outputs(
     """
     if not word_counts:
         print(f"⚠️  No word counts to save for type '{file_type}'")
+        return
+
+    # Apply frequency threshold filter
+    threshold = config.get("min_frequency_threshold", 0)
+    word_counts = filter_word_counts_by_threshold(word_counts, threshold)
+
+    if not word_counts:
+        print(
+            f"⚠️  No word counts remaining after threshold filtering for type '{file_type}'"
+        )
         return
 
     try:
@@ -2405,7 +2481,7 @@ def save_word_outputs(
 
 
 def save_grouped_counts(
-    groups: Dict[str, List[Tuple[str, int]]], output_path: str
+    groups: Dict[str, List[Tuple[str, int]]], output_path: str, config: Dict[str, Any]
 ) -> None:
     """
     Save grouped word counts to CSV file for detailed scientific analysis.
@@ -2413,6 +2489,7 @@ def save_grouped_counts(
     Args:
         groups: Dictionary of word groups from group_word_variations().
         output_path: Path for the output CSV file.
+        config: Configuration dictionary with processing parameters.
 
     Notes:
         - Preserves hierarchical structure of word groups
@@ -2420,6 +2497,14 @@ def save_grouped_counts(
         - Scientific rationale: enables detailed analysis of word variation patterns
         - Useful for understanding morphological relationships and spelling variations
     """
+    # Apply frequency threshold filter to groups
+    threshold = config.get("min_frequency_threshold", 0)
+    groups = filter_groups_by_threshold(groups, threshold)
+
+    if not groups:
+        print(f"⚠️  No groups remaining after threshold filtering")
+        return
+
     rows = []
 
     # Sort groups by total frequency
@@ -2461,6 +2546,100 @@ def save_grouped_counts(
     print(f"Saved grouped word counts to {output_path}")
     print(f"  Total groups: {len(groups)}")
     print(f"  Total words: {len(df)}")
+
+
+def save_grouping_dictionary(
+    groups: Dict[str, List[Tuple[str, int]]], output_path: str, config: Dict[str, Any]
+) -> None:
+    """
+    Save word grouping dictionary as JSON for custom transformations and human review.
+
+    Args:
+        groups: Dictionary of word groups from group_word_variations().
+        output_path: Path for the output JSON file.
+        config: Configuration dictionary with processing parameters.
+
+    Returns:
+        None
+
+    Notes:
+        - Creates a JSON dictionary with structure: {main_word: [variant1, variant2, ...]}
+        - Includes metadata about the grouping process for reproducibility
+        - Sorted by total group frequency for easier human review
+        - Includes configuration parameters used for grouping
+        - Scientific rationale: enables manual review and correction of automatic groupings
+          before using them as custom transformation dictionaries
+    """
+    # Apply frequency threshold filter to groups
+    threshold = config.get("min_frequency_threshold", 0)
+    groups = filter_groups_by_threshold(groups, threshold)
+
+    if not groups:
+        print(f"⚠️  No groups remaining after threshold filtering")
+        return
+
+    # Create the transformation dictionary
+    transformation_dict = {}
+
+    # Sort groups by total frequency for easier review
+    sorted_groups = sorted(
+        groups.items(), key=lambda x: sum(count for _, count in x[1]), reverse=True
+    )
+
+    for main_word, members in sorted_groups:
+        # Extract just the words (not counts) for the transformation dictionary
+        variants = [word for word, _ in members]
+        transformation_dict[main_word] = variants
+
+    # Create metadata for reproducibility
+    metadata = {
+        "generated_at": datetime.now().isoformat(),
+        "total_groups": len(transformation_dict),
+        "total_variants": sum(
+            len(variants) for variants in transformation_dict.values()
+        ),
+        "grouping_configuration": {
+            "max_edit_distance": config.get("max_edit_distance", 2),
+            "similarity_threshold": config.get("similarity_threshold", 0.8),
+            "use_lemmatization": config.get("use_lemmatization", True),
+            "min_frequency_threshold": threshold,
+        },
+        "notes": [
+            "This dictionary maps main words to their detected variants (typos, spelling variations, etc.)",
+            "For human review: check if variants should really be grouped together",
+            "After review, this can be used as a custom transformation dictionary",
+            "Structure: {main_word: [variant1, variant2, ...]}",
+            "To use: replace all variants with their main_word in text processing",
+        ],
+    }
+
+    # Combine data and metadata
+    output_data = {
+        "metadata": metadata,
+        "transformation_dictionary": transformation_dict,
+    }
+
+    # Save as JSON with pretty formatting
+    try:
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(output_data, f, indent=2, ensure_ascii=False)
+
+        print(f"✓ Saved grouping dictionary to {output_path}")
+        print(f"  Total groups: {len(transformation_dict)}")
+        print(f"  Total variants: {metadata['total_variants']}")
+        print(
+            f"  Average variants per group: {metadata['total_variants'] / len(transformation_dict):.2f}"
+        )
+
+        # Show some examples
+        print(f"\n  Example groups (first 5):")
+        for i, (main_word, variants) in enumerate(
+            list(transformation_dict.items())[:5]
+        ):
+            print(f"    {i+1}. '{main_word}' -> {variants}")
+
+    except Exception as e:
+        print(f"✗ Error saving grouping dictionary to {output_path}: {e}")
 
 
 # ============================================================================
@@ -2626,8 +2805,14 @@ def update_config_from_args(
     if args.no_grouped_counts:
         config["save_grouped_counts"] = False
 
+    if args.no_grouping_dict:
+        config["save_grouping_dict"] = False
+
     if args.no_tree:
         config["save_tree_visualization"] = False
+
+    if args.min_frequency is not None:
+        config["min_frequency_threshold"] = args.min_frequency
 
     # Debugging
     if args.verbose:
@@ -2831,7 +3016,18 @@ Examples:
         help="Don't save grouped word counts",
     )
     parser.add_argument(
+        "--no-grouping-dict",
+        action="store_true",
+        help="Don't save grouping dictionary as JSON",
+    )
+    parser.add_argument(
         "--no-tree", action="store_true", help="Don't save tree visualization"
+    )
+    parser.add_argument(
+        "--min-frequency",
+        type=int,
+        default=0,
+        help="Minimum frequency threshold for words/groups to be included in output (default: 0)",
     )
 
     # Debugging options
@@ -2970,7 +3166,7 @@ Examples:
 
     # Save raw counts if requested - using ONLY raw words (no spaCy processing)
     if config.get("save_raw_counts", True) and raw_word_counts:
-        save_word_outputs(raw_word_counts, config["output_prefix"], "raw")
+        save_word_outputs(raw_word_counts, config["output_prefix"], "raw", config)
     elif config.get("save_raw_counts", True):
         print("⚠️  Could not save raw counts - no raw words extracted")
 
@@ -3006,7 +3202,7 @@ Examples:
     # Save aggregated filtered counts if requested
     if config.get("save_filtered_counts", True) and aggregated_filtered_counts:
         save_word_outputs(
-            aggregated_filtered_counts, config["output_prefix"], "filtered"
+            aggregated_filtered_counts, config["output_prefix"], "filtered", config
         )
     elif config.get("save_filtered_counts", True):
         print("⚠️  Could not save filtered counts - no aggregated counts after grouping")
@@ -3014,7 +3210,12 @@ Examples:
     # Save grouped counts if requested
     if config.get("save_grouped_counts", True) and groups:
         output_path = f"{config['output_prefix']}_grouped.csv"
-        save_grouped_counts(groups, output_path)
+        save_grouped_counts(groups, output_path, config)
+
+    # Save grouping dictionary as JSON for custom transformations
+    if config.get("save_grouping_dict", True) and groups:
+        output_path = f"word_grouping_dict.json"
+        save_grouping_dictionary(groups, output_path, config)
 
     # Create and save tree visualization if requested
     if config.get("save_tree_visualization", True) and groups:
