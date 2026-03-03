@@ -57,6 +57,7 @@ import tempfile
 import shutil
 from datetime import datetime
 from termcolor import colored
+from tqdm import tqdm
 
 # ============================================================================
 # Global variables for interruption handling
@@ -292,9 +293,6 @@ def find_closest_words(
 
     ref_name = reference_synset.name()
 
-    if show_progress:
-        print(f"Finding {num_closest} closest words to {ref_name}...")
-
     # Try to load from checkpoint
     checkpoint_path = os.path.join(output_dir, "closest_words_checkpoint.json")
     checkpoint_data = None
@@ -356,14 +354,27 @@ def find_closest_words(
         processed_count = 0
         total_synsets = len(all_synsets)
 
+    # Create progress bar if show_progress is True
     if show_progress:
-        print(f"Comparing against {total_synsets} synsets...")
+        # Initialize tqdm progress bar
+        pbar = tqdm(
+            total=total_synsets,
+            initial=processed_count,
+            desc=f"Comparing to {ref_name[:20]:20s}",
+            unit="synset",
+            leave=False,  # Keep progress bar after completion
+            bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}{postfix}]",
+        )
+    else:
+        pbar = None
 
     # Calculate distances
     for i, synset in enumerate(all_synsets):
         # Check for interruption
         if INTERRUPTED:
             if show_progress:
+                if pbar:
+                    pbar.close()
                 print("\nInterruption detected during closest words calculation.")
             # Save checkpoint before returning
             save_closest_words_checkpoint(
@@ -394,14 +405,17 @@ def find_closest_words(
             word_name = synset.lemmas()[0].name().replace("_", " ")
             distances.append((word_name, distance, synset.name()))
 
+        # Update progress bar
+        if pbar:
+            pbar.update(1)
+            # Update description with current synset info
+            if synset.lemmas():
+                current_word = synset.lemmas()[0].name()
+                pbar.set_description(f"Comparing: {current_word[:20]:20s}")
+
         # Save checkpoint periodically
         if checkpoint_interval > 0 and (i + 1) % checkpoint_interval == 0:
             current_processed = processed_count + i + 1
-            if show_progress:
-                print(
-                    f"  Checkpoint: {current_processed}/{total_synsets} synsets processed"
-                )
-
             save_closest_words_checkpoint(
                 ref_name,
                 distances,
@@ -411,6 +425,10 @@ def find_closest_words(
                 pos_filter,
                 output_dir,
             )
+
+    # Close progress bar if it exists
+    if pbar:
+        pbar.close()
 
     # Sort by distance (ascending)
     distances.sort(key=lambda x: x[1])
@@ -469,6 +487,60 @@ def save_closest_words_checkpoint(
 # ============================================================================
 
 
+def parse_multiple_selections(selection_input, max_selection):
+    """
+    Parse multiple selection input (e.g., "1,3,5" or "1-3,5").
+
+    Args:
+        selection_input: User input string
+        max_selection: Maximum valid selection number
+
+    Returns:
+        List of selected indices (1-based) or None if invalid
+    """
+    if not selection_input.strip():
+        return []
+
+    selection_input = selection_input.strip()
+    selected_indices = []
+
+    # Split by commas
+    parts = [part.strip() for part in selection_input.split(",") if part.strip()]
+
+    for part in parts:
+        # Check for range (e.g., "1-3")
+        if "-" in part:
+            range_parts = part.split("-")
+            if len(range_parts) != 2:
+                return None  # Invalid range format
+
+            try:
+                start = int(range_parts[0].strip())
+                end = int(range_parts[1].strip())
+
+                # Ensure valid range
+                if start < 1 or end > max_selection or start > end:
+                    return None
+
+                # Add all indices in range
+                selected_indices.extend(range(start, end + 1))
+            except ValueError:
+                return None  # Not integers
+        else:
+            # Single number
+            try:
+                num = int(part)
+                if num < 1 or num > max_selection:
+                    return None
+                selected_indices.append(num)
+            except ValueError:
+                return None  # Not an integer
+
+    # Remove duplicates and sort
+    selected_indices = sorted(set(selected_indices))
+    return selected_indices
+
+
 def disambiguate_words(
     words, previous_selections=None, output_dir=".", safe_mode=False
 ):
@@ -477,12 +549,12 @@ def disambiguate_words(
 
     Args:
         words: List of words to disambiguate
-        previous_selections: Dictionary of previous selections {word: synset_name}
+        previous_selections: Dictionary of previous selections {word: [synset_name1, synset_name2, ...]}
         output_dir: Directory to save partial results
         safe_mode: Whether to save after each word
 
     Returns:
-        Dictionary of selections {word: synset_name}
+        Dictionary of selections {word: [synset_name1, synset_name2, ...]}
     """
     global INTERRUPTED, CURRENT_SELECTIONS, CURRENT_OUTPUT_DIR
 
@@ -541,23 +613,32 @@ def disambiguate_words(
 
         # Display all synsets with numbers
         ss_j = 1
-        past_selection_j = None
+        past_selections_indices = []
 
         for ss in synsets:
             print(f"\t{colored(ss_j, 'yellow')}. {ss.definition()} ({ss.name()})")
 
-            # Check if this was previously selected
-            if ss.name() == previous_selections.get(word):
-                past_selection_j = ss_j
+            # Check if this was previously selected (handle both old and new formats)
+            prev_selections = previous_selections.get(word)
+            if prev_selections:
+                if isinstance(prev_selections, list):
+                    # New format: list of synsets
+                    if ss.name() in prev_selections:
+                        past_selections_indices.append(ss_j)
+                else:
+                    # Old format: single synset
+                    if ss.name() == prev_selections:
+                        past_selections_indices.append(ss_j)
             ss_j += 1
 
         print("")
 
         # Get user input
-        prompt = f"Selection"
-        if past_selection_j is not None:
-            prompt += f" ({colored(past_selection_j, 'green')})"
-        prompt += " [or 'skip' to skip, 'stop' to save and exit]: "
+        prompt = "Selection"
+        if past_selections_indices:
+            past_str = ",".join(str(idx) for idx in past_selections_indices)
+            prompt += f" ({colored(past_str, 'green')})"
+        prompt += " [comma-separated numbers, e.g., '1,3,5' or '1-3,5', or 'skip' to skip, 'stop' to save and exit]: "
 
         try:
             selection_input = input(prompt).strip()
@@ -588,37 +669,33 @@ def disambiguate_words(
                     pass
             continue
 
-        # Handle empty input (use previous selection)
-        if not selection_input and past_selection_j is not None:
-            selection_j = past_selection_j
+        # Handle empty input (use previous selections if available)
+        if not selection_input and past_selections_indices:
+            selected_indices = past_selections_indices
         elif selection_input:
-            try:
-                selection_j = int(selection_input)
-            except ValueError:
+            # Parse multiple selections
+            selected_indices = parse_multiple_selections(selection_input, len(synsets))
+            if selected_indices is None:
                 print(
                     colored(
-                        "Invalid input. Please enter a number, 'skip', or 'stop'.",
+                        f"Invalid input. Please enter comma-separated numbers between 1 and {len(synsets)}, or ranges like '1-3'.",
                         "red",
                     )
                 )
-                selection_j = None
+                selected_indices = []
         else:
-            selection_j = None
+            selected_indices = []
 
         # Process selection
-        if selection_j is not None:
-            if 1 <= selection_j <= len(synsets):
-                selected_synset = synsets[selection_j - 1]
-                selections[word] = selected_synset.name()
-                print(f"--> {colored(selected_synset.name(), 'green')}")
-            else:
-                print(
-                    colored(
-                        f"Invalid selection number. Must be between 1 and {len(synsets)}.",
-                        "red",
-                    )
-                )
-                selections[word] = None
+        if selected_indices:
+            selected_synsets = []
+            for idx in selected_indices:
+                selected_synset = synsets[idx - 1]
+                selected_synsets.append(selected_synset.name())
+
+            selections[word] = selected_synsets
+            synset_names = ", ".join(selected_synsets)
+            print(f"--> {colored(synset_names, 'green')}")
         else:
             print(colored("No selection made. Skipping.", "yellow"))
             selections[word] = None
@@ -649,7 +726,7 @@ def save_results(
     Save disambiguation results to multiple file formats.
 
     Args:
-        selections: Dictionary of {word: synset_name}
+        selections: Dictionary of {word: [synset_name1, synset_name2, ...]} or {word: synset_name}
         output_dir: Directory to save files
         extend_synonyms: Whether to find closest words in WordNet
         num_closest: Number of closest words to find (if extend_synonyms=True)
@@ -688,9 +765,37 @@ def save_results(
     csv_rows = []
     csv_extended_rows = []  # For extended CSV with closest words
 
-    for i, (word, synset_name) in enumerate(selections.items()):
+    # Create outer progress bar for processing words/synsets
+    if show_progress and extend_synonyms:
+        # Count total synsets to process
+        total_synsets_to_process = 0
+        for synset_value in selections.values():
+            if synset_value:
+                if isinstance(synset_value, list):
+                    total_synsets_to_process += len(synset_value)
+                else:
+                    total_synsets_to_process += 1
+
+        if total_synsets_to_process > 0:
+            outer_pbar = tqdm(
+                total=total_synsets_to_process,
+                desc="Processing words",
+                unit="synset",
+                leave=True,
+                bar_format="{l_bar}{bar}| {n_fmt}/{total_fmt} [{elapsed}<{remaining}, {rate_fmt}{postfix}]",
+            )
+        else:
+            outer_pbar = None
+    else:
+        outer_pbar = None
+
+    synset_counter = 0
+    for i, (word, synset_value) in enumerate(selections.items()):
         # Check for interruption
         if INTERRUPTED:
+            # Close outer progress bar if it exists
+            if outer_pbar:
+                outer_pbar.close()
             print(
                 colored(
                     "\nInterruption detected during save. Saving partial results...",
@@ -706,7 +811,20 @@ def save_results(
                     json.dump(enhanced_data, f, indent=2)
                 print(f"Partial enhanced data saved to {enhanced_json_path}")
             break
-        if synset_name:
+
+        # Handle both old (single synset) and new (list of synsets) formats
+        if synset_value:
+            if isinstance(synset_value, list):
+                synset_names = synset_value
+            else:
+                # Old format: single synset
+                synset_names = [synset_value]
+        else:
+            synset_names = []
+
+        # Process each synset
+        word_enhanced_data = []
+        for synset_name in synset_names:
             try:
                 synset = wn.synset(synset_name)
                 definition = synset.definition()
@@ -721,10 +839,9 @@ def save_results(
                 closest_words_info = []
                 closest_words = []
                 if extend_synonyms:
-                    if show_progress:
-                        print(
-                            f"\n[{i+1}/{len(selections)}] Finding {num_closest} closest words to '{word}' ({synset_name})..."
-                        )
+                    # Update outer progress bar description
+                    if outer_pbar:
+                        outer_pbar.set_description(f"Processing: {word[:15]:15s}")
 
                     closest_words_info = find_closest_words(
                         synset_name,
@@ -741,15 +858,15 @@ def save_results(
                     # Extract just the word names from the tuples
                     closest_words = [word_info[0] for word_info in closest_words_info]
 
-                    if show_progress:
-                        print(f"   Found {len(closest_words)} closest words")
+                    # Update outer progress bar
+                    if outer_pbar:
+                        outer_pbar.update(1)
                         if closest_words_info:
-                            print(
-                                f"   Closest word: '{closest_words_info[0][0]}' (distance: {closest_words_info[0][1]:.3f})"
-                            )
+                            closest_dist = closest_words_info[0][1]
+                            outer_pbar.set_postfix_str(f"closest: {closest_dist:.3f}")
 
-                # Enhanced JSON data
-                enhanced_data[word] = {
+                # Enhanced JSON data for this synset
+                synset_data = {
                     "synset": synset_name,
                     "definition": definition,
                     "synonyms": synonyms,
@@ -763,8 +880,9 @@ def save_results(
                         else []
                     ),
                 }
+                word_enhanced_data.append(synset_data)
 
-                # CSV row (original format)
+                # CSV row (original format) - one row per synset
                 csv_rows.append(
                     [
                         word,
@@ -774,7 +892,7 @@ def save_results(
                     ]
                 )
 
-                # Extended CSV row with closest words
+                # Extended CSV row with closest words - one row per synset
                 if extend_synonyms:
                     csv_extended_rows.append(
                         [
@@ -808,14 +926,17 @@ def save_results(
                 closest_words = []
                 closest_words_info = []
 
-                enhanced_data[word] = {
+                # Add error synset data
+                synset_data = {
                     "synset": synset_name,
                     "definition": definition,
                     "synonyms": synonyms,
                     "closest_words": closest_words,
                     "closest_words_info": [],
                 }
+                word_enhanced_data.append(synset_data)
 
+                # CSV row for error case
                 csv_rows.append(
                     [
                         word,
@@ -828,17 +949,20 @@ def save_results(
                     csv_extended_rows.append(
                         [word, synset_name, definition, "N/A", "N/A", "N/A"]
                     )
+
+        # Store all synset data for this word
+        if word_enhanced_data:
+            enhanced_data[word] = word_enhanced_data
         else:
-            enhanced_data[word] = {
-                "synset": None,
-                "definition": "N/A",
-                "synonyms": [],
-                "closest_words": [],
-                "closest_words_info": [],
-            }
+            # No synsets selected
+            enhanced_data[word] = []
             csv_rows.append([word, "N/A", "N/A", "N/A"])
             if extend_synonyms:
                 csv_extended_rows.append([word, "N/A", "N/A", "N/A", "N/A", "N/A"])
+
+    # Close outer progress bar if it exists
+    if outer_pbar:
+        outer_pbar.close()
 
     # Save enhanced JSON
     enhanced_json_path = os.path.join(output_dir, "wordnet_selections_synonyms.json")
@@ -892,9 +1016,13 @@ def save_results(
     # Save to TXT (synsets only, one per line)
     txt_path = os.path.join(output_dir, "wordnet_selections.txt")
     with open(txt_path, "w") as f:
-        for word, synset_name in selections.items():
-            if synset_name:
-                f.write(f"{synset_name}\n")
+        for word, synset_value in selections.items():
+            if synset_value:
+                if isinstance(synset_value, list):
+                    for synset_name in synset_value:
+                        f.write(f"{synset_name}\n")
+                else:
+                    f.write(f"{synset_value}\n")
 
     print(f"Synsets only (TXT) saved to {txt_path}")
 
@@ -909,7 +1037,7 @@ def load_previous_results(filepath, validate=True, force_resume=False):
         force_resume: Continue even if validation fails
 
     Returns:
-        Dictionary of previous selections {word: synset_name}
+        Dictionary of previous selections {word: [synset_name1, synset_name2, ...]} or {word: synset_name}
     """
     if not os.path.exists(filepath):
         print(colored(f"File not found: {filepath}", "red"))
@@ -923,22 +1051,44 @@ def load_previous_results(filepath, validate=True, force_resume=False):
             with open(filepath, "r") as f:
                 data = json.load(f)
 
-            # Handle both simple and enhanced JSON formats
+            # Handle multiple JSON formats
             for word, value in data.items():
-                if isinstance(value, dict):
-                    # Enhanced format: {"synset": "...", "definition": "...", "synonyms": [...]}
+                if isinstance(value, list):
+                    # New format: list of synset data objects or synset names
+                    synset_names = []
+                    for item in value:
+                        if isinstance(item, dict) and "synset" in item:
+                            # List of enhanced data objects
+                            synset_names.append(item["synset"])
+                        elif isinstance(item, str):
+                            # List of synset names
+                            synset_names.append(item)
+                    selections[word] = synset_names if synset_names else None
+                elif isinstance(value, dict):
+                    # Old enhanced format: {"synset": "...", "definition": "...", "synonyms": [...]}
                     if "synset" in value and value["synset"]:
                         selections[word] = value["synset"]
                 else:
-                    # Simple format: just the synset name (or None)
+                    # Old simple format: just the synset name (or None)
                     selections[word] = value
 
         elif filepath.endswith(".csv"):
             with open(filepath, "r") as f:
                 reader = csv.DictReader(f)
                 for row in reader:
-                    if row.get("synset") and row["synset"] != "N/A":
-                        selections[row["word"]] = row["synset"]
+                    word = row["word"]
+                    synset_name = row.get("synset")
+                    if synset_name and synset_name != "N/A":
+                        # Handle multiple rows per word
+                        if word in selections:
+                            # Word already exists, add to list
+                            if isinstance(selections[word], list):
+                                selections[word].append(synset_name)
+                            else:
+                                # Convert from single to list
+                                selections[word] = [selections[word], synset_name]
+                        else:
+                            selections[word] = synset_name
         else:
             print(colored(f"Unsupported file format: {filepath}", "red"))
             return {}
@@ -950,23 +1100,92 @@ def load_previous_results(filepath, validate=True, force_resume=False):
             print("Validating loaded synsets...")
             valid_selections = {}
 
-            for word, synset_name in list(selections.items()):
-                if synset_name is None:
+            for word, synset_value in list(selections.items()):
+                if synset_value is None:
                     valid_selections[word] = None
                     continue
 
-                try:
-                    # Try to load the synset to verify it exists
-                    synset = wn.synset(synset_name)
-                    valid_selections[word] = synset_name
-                except Exception as e:
-                    invalid_entries.append((word, synset_name, str(e)))
-                    print(
-                        colored(
-                            f"  ✗ Invalid synset for '{word}': {synset_name}", "red"
+                # Handle both single synset and list of synsets
+                if isinstance(synset_value, list):
+                    valid_synsets = []
+                    invalid_synsets = []
+
+                    for synset_name in synset_value:
+                        try:
+                            # Try to load the synset to verify it exists
+                            synset = wn.synset(synset_name)
+                            valid_synsets.append(synset_name)
+                        except Exception as e:
+                            invalid_synsets.append((synset_name, str(e)))
+                            print(
+                                colored(
+                                    f"  ✗ Invalid synset for '{word}': {synset_name}",
+                                    "red",
+                                )
+                            )
+                            print(f"     Error: {e}")
+
+                    if valid_synsets:
+                        valid_selections[word] = valid_synsets
+                    else:
+                        valid_selections[word] = None
+
+                    if invalid_synsets and not force_resume:
+                        # Handle invalid synsets in list
+                        for synset_name, error in invalid_synsets:
+                            print(
+                                f"\nWhat should I do with synset '{synset_name}' for word '{word}'?"
+                            )
+                            print("  1. Skip this synset (remove from list)")
+                            print("  2. Keep but mark as invalid")
+                            print("  3. Try to find a similar valid synset")
+
+                            choice = input("Choice [1/2/3, default=1]: ").strip()
+                            if choice == "2":
+                                # Keep as None (will be re-disambiguated)
+                                pass
+                            elif choice == "3":
+                                # Try to find similar synsets
+                                synsets = wn.synsets(word)
+                                if synsets:
+                                    print(
+                                        f"Found {len(synsets)} possible synsets for '{word}':"
+                                    )
+                                    for j, ss in enumerate(
+                                        synsets[:5], 1
+                                    ):  # Show first 5
+                                        print(f"  {j}. {ss.definition()} ({ss.name()})")
+
+                                    sel = input(
+                                        f"Select replacement [1-{len(synsets)}] or press Enter to skip: "
+                                    ).strip()
+                                    if (
+                                        sel
+                                        and sel.isdigit()
+                                        and 1 <= int(sel) <= len(synsets)
+                                    ):
+                                        replacement = synsets[int(sel) - 1].name()
+                                        if word in valid_selections and isinstance(
+                                            valid_selections[word], list
+                                        ):
+                                            valid_selections[word].append(replacement)
+                                        else:
+                                            valid_selections[word] = [replacement]
+                else:
+                    # Single synset
+                    try:
+                        # Try to load the synset to verify it exists
+                        synset = wn.synset(synset_value)
+                        valid_selections[word] = synset_value
+                    except Exception as e:
+                        invalid_entries.append((word, synset_value, str(e)))
+                        print(
+                            colored(
+                                f"  ✗ Invalid synset for '{word}': {synset_value}",
+                                "red",
+                            )
                         )
-                    )
-                    print(f"     Error: {e}")
+                        print(f"     Error: {e}")
 
                     if not force_resume:
                         # Ask user what to do
