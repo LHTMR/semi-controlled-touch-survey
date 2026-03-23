@@ -4,11 +4,27 @@
 ## File Tree
 Structure of the dataset, i.e., where files are located.
 
-```
+<details>
+<summary>See repository tree</summary>
+
+```text
 .
-├── .git
-├── .gitattributes
-├── .gitignore
+├── Analysis
+│   ├── All_words_by_frequency
+│   │   ├── word_frequencies_filtered.csv.txt
+│   │   ├── word_frequencies_grouped.csv.txt
+│   │   ├── word_frequencies_raw.csv.txt
+│   │   ├── word_frequencies_tree.txt
+│   │   ├── word_grouping_dict.json
+│   │   ├── word_list_filtered.txt
+│   │   └── word_list_raw.txt
+│   └── Scripts
+│       ├── README.md
+│       ├── all_words_extractor.py
+│       ├── data_exploration_utils.py
+│       ├── generate_setup_stats.py
+│       ├── wordnet_cluster.py
+│       └── wordnet_disambiguator.py
 ├── Emojigrid_high_res.png
 ├── Figures
 │   ├── 9set_1_code_map.svg
@@ -48,6 +64,11 @@ Structure of the dataset, i.e., where files are located.
 │   ├── sensory_map.svg
 │   └── top9_code_map.svg
 ├── LICENSE
+├── Metadata
+│   ├── data_dictionary.yaml
+│   ├── experimental_setup.yaml
+│   ├── touch_data.yaml
+│   └── touch_data_fixed.psv.yaml
 ├── Processed Data
 │   ├── Emotional_self_word-freq-plot-data.txt
 │   ├── Emotional_self_word-freq.txt
@@ -55,6 +76,32 @@ Structure of the dataset, i.e., where files are located.
 │   ├── Emotional_touch_word-freq.txt
 │   ├── Intention&Purpose_word-freq-plot-data.txt
 │   ├── Intention&Purpose_word-freq.txt
+│   ├── Per_video
+│   │   ├── touch_data_video_1.psv.txt
+│   │   ├── touch_data_video_2.psv.txt
+│   │   ├── touch_data_video_3.psv.txt
+│   │   ├── touch_data_video_4.psv.txt
+│   │   ├── touch_data_video_5.psv.txt
+│   │   ├── touch_data_video_6.psv.txt
+│   │   ├── touch_data_video_7.psv.txt
+│   │   ├── touch_data_video_8.psv.txt
+│   │   ├── touch_data_video_9.psv.txt
+│   │   ├── touch_data_video_10.psv.txt
+│   │   ├── touch_data_video_11.psv.txt
+│   │   ├── touch_data_video_12.psv.txt
+│   │   ├── touch_data_video_13.psv.txt
+│   │   ├── touch_data_video_14.psv.txt
+│   │   ├── touch_data_video_15.psv.txt
+│   │   ├── touch_data_video_16.psv.txt
+│   │   ├── touch_data_video_17.psv.txt
+│   │   ├── touch_data_video_18.psv.txt
+│   │   ├── touch_data_video_19.psv.txt
+│   │   ├── touch_data_video_20.psv.txt
+│   │   ├── touch_data_video_21.psv.txt
+│   │   ├── touch_data_video_22.psv.txt
+│   │   ├── touch_data_video_23.psv.txt
+│   │   └── touch_data_video_24.psv.txt
+│   ├── README.md
 │   ├── Sensory_word-freq-plot-data.txt
 │   ├── Sensory_word-freq.txt
 │   ├── Social_body_word-freq-plot-data.txt
@@ -67,16 +114,8 @@ Structure of the dataset, i.e., where files are located.
 │   ├── Social_self_word-freq.txt
 │   ├── descriptor_map_data.tsv
 │   ├── descriptor_map_data.xlsx
-│   └── touch_data.txt
-├── Analysis
-│   └── All_words_by_frequency
-│       ├── word_frequencies_filtered.csv.txt
-│       ├── word_frequencies_grouped.csv.txt
-│       ├── word_frequencies_raw.csv.txt
-│       ├── word_frequencies_tree.txt
-│       ├── word_grouping_dict.json
-│       ├── word_list_filtered.txt
-│       └── word_list_raw.txt
+│   ├── touch_data.txt
+│   └── touch_data_fixed.psv.txt
 ├── Qualitative_Flavia
 │   ├── clean_maxqda_codes.R
 │   ├── code_maps.R
@@ -85,12 +124,14 @@ Structure of the dataset, i.e., where files are located.
 │   ├── maxqda_data_preprocessing.R
 │   └── survey_data_preprocessing.R
 ├── README.md
-├── all_words_extractor.py
 ├── analysis_IASATposter.R
 ├── descriptor_maps.R
-├── semi-controlled-touch-survey.Rproj
-└── wordnet_disambiguator.py
+└── semi-controlled-touch-survey.Rproj
+
+12 directories, 107 files
 ```
+
+</details>
 
 ## Dataset Content
 
@@ -118,10 +159,6 @@ This R script is for analyzing data from a social touch survey. It performs data
     *   A processed data file: `touch_data.txt`.
     *   Several plots are generated and saved as PDF files in the `Figures/` directory.
     *   Word frequency data is saved as text files.
-
-### .git, .gitattributes, .gitignore
-
-These files indicate that this dataset is now managed as a Git repository. The `.git` directory contains the version control history, `.gitattributes` specifies attributes for Git operations, and `.gitignore` specifies which files and directories should be ignored by Git.
 
 ### Qualitative_Flavia/
 
@@ -204,6 +241,38 @@ This R script is for visualizing the frequency of different codes from the coded
 *   **Output:**
     *   The script generates a plot of the code maps and saves it as an SVG file in the `Figures/` directory.
 
+#### maxqda_data_preprocessing.R
+
+This R script is for preprocessing and exploring data exported from MAXQDA. It appears to be an initial exploration of the data structure, with a focus on understanding the relationship between codes, questions, and video IDs.
+
+*   **Libraries Used:** It uses `readxl` for reading Excel files, `readr` for reading text files, and `tidyverse` for data manipulation.
+*   **Input:**
+    *   `MAXQDA 24 Coded Segments_NewProject.xlsx`: An Excel file containing coded segments exported from MAXQDA.
+*   **Data Processing and Exploration:**
+    *   **Code and Variable Name Comparison:** It extracts code names from both the column headers and the `Code` column and compares them to find differences.
+    *   **Video Question Identification:** It identifies the unique video questions from the column names.
+    *   **Video ID Extraction:** It creates a `VideoID` column by identifying the start of each video's data.
+    *   **Participant Data Subsetting:** It includes an example of how to filter the data for a specific participant and select relevant columns.
+    *   **Code Exploration:** It demonstrates how to find which specific codes were applied for a given question and participant.
+*   **Output:** The script is primarily for interactive exploration and does not save any new data files.
+
+#### survey_data_preprocessing.R
+
+This R script is designed to clean and re-format the original survey data file. The primary goal is to transform the wide-format survey data into a long-format data frame, which is more suitable for analysis and for import into qualitative data analysis software like MAXQDA.
+
+*   **Libraries Used:** It uses `readxl` for reading Excel files, `openxlsx` for writing Excel files, `readr` for reading CSV files, and `tidyverse` for data manipulation.
+*   **Input:**
+    *   `SocialTouchProlific_February26_2024_original.xlsx`: The original survey data file, where each row represents a participant and columns contain demographic information and responses to questions for multiple videos.
+    *   `video_info.csv`: A CSV file containing metadata for each video shown in the survey, such as the intensity of the touch, speed, body part used, and movement type.
+*   **Data Processing:**
+    *   **Data Reshaping:** The script iterates through each participant's data (each row) and transforms it from a wide format to a long format. The original format has one row per participant, with answers to video questions in columns prefixed with the video ID. The script creates a new data frame where each row represents a single video watched by a single participant.
+    *   **Data Cleaning:** It performs data cleaning by checking each response. If a response is a single character (e.g., "a" or "1"), it is considered an invalid or low-effort response and is replaced with `NA`. If a participant-video combination has too many (`>4`) `NA` values, a warning is printed.
+    *   **Merging with Video Info:** For each new row in the long-format data, the script merges the participant's survey data with the corresponding video's metadata from `video_info.csv`. This adds contextual information about the touch stimuli to each response.
+    *   **Unique Key Generation:** A unique key is created for each row by concatenating the participant's ID and the video ID, ensuring that every participant-video entry is unique.
+*   **Output:**
+    *   `output_ilona15_03_24.xlsx`: An Excel file containing the preprocessed survey data in a long format, with clearly defined columns. This file is ready to be imported into MAXQDA for qualitative coding and analysis.
+
+
 ### descriptor_maps.R
 
 This R script is for creating "descriptor maps," which are visualizations of word frequencies associated with different types of touch. It groups words into higher-level "descriptors" and then into broader "Groups" (e.g., "emotion", "person", "sensory").
@@ -228,40 +297,11 @@ This R script is for creating "descriptor maps," which are visualizations of wor
 
 This is a high-resolution image file named `Emojigrid_high_res.png`. This is the "Emojigrid", a tool used in the survey for participants to rate their emotional state. The Emojigrid is a graphical tool that allows users to report their feelings in terms of valence (pleasure-displeasure) and arousal (activation-deactivation) by selecting a coordinate on the emoji grid.
 
-### Figures/
 
-This directory contains various plots and visualizations generated by the R scripts. The files are in SVG and PDF formats.
+### semi-controlled-touch-survey.Rproj
 
-*   **Code Maps (`.svg`):**
-    *   `9set_1_code_map.svg` to `9set_6_code_map.svg`: These are the code map visualizations created by `code_maps.R`.
-    *   `affect_map.svg`, `emotional_map.svg`, `person_map.svg`, `sensory_map.svg`, `top9_code_map.svg`: These are the descriptor maps created by `descriptor_maps.R`.
+This is an RStudio project file. It is used by the RStudio IDE to manage project-specific settings. When a user opens this `.Rproj` file in RStudio, the IDE will automatically set the working directory to the directory containing this file and load the project's settings. This makes it easier to work on the project and ensures that the code runs in the correct context. The file contains settings related to workspace management, code indexing, text encoding, and document weaving.
 
-*   **Word Frequency Plots (`.pdf`):**
-    *   `Emotional_self_word-freq.pdf`, `Emotional_touch_word-freq.pdf`, `Intention&Purpose_word-freq.pdf`, `Sensory_word-freq.pdf`, `Social_body_word-freq.pdf`, `Social_context_word-freq.pdf`, `Social_place_word-freq.pdf`, `Social_self_word-freq.pdf`: These are the word frequency plots generated by `analysis_IASATposter.R`.
-
-*   **Subdirectories:**
-    *   **`Appropriateness/`:** Contains plots related to the appropriateness of touch.
-    *   **`Valence_Arousal/`:** Contains plots related to valence and arousal ratings.
-    *   **`Word_frequencies/`:** This directory contains duplicates of the word frequency plots.
-
-### LICENSE
-
-This file contains the MIT License for the software and associated documentation files in this dataset. The copyright holder is S McIntyre (2024). The MIT License is a permissive free software license that allows for the free use, copying, modification, and distribution of the software, with the condition that the original copyright and permission notices are included in all copies. The software is provided "as is" without any warranty.
-
-#### maxqda_data_preprocessing.R
-
-This R script is for preprocessing and exploring data exported from MAXQDA. It appears to be an initial exploration of the data structure, with a focus on understanding the relationship between codes, questions, and video IDs.
-
-*   **Libraries Used:** It uses `readxl` for reading Excel files, `readr` for reading text files, and `tidyverse` for data manipulation.
-*   **Input:**
-    *   `MAXQDA 24 Coded Segments_NewProject.xlsx`: An Excel file containing coded segments exported from MAXQDA.
-*   **Data Processing and Exploration:**
-    *   **Code and Variable Name Comparison:** It extracts code names from both the column headers and the `Code` column and compares them to find differences.
-    *   **Video Question Identification:** It identifies the unique video questions from the column names.
-    *   **Video ID Extraction:** It creates a `VideoID` column by identifying the start of each video's data.
-    *   **Participant Data Subsetting:** It includes an example of how to filter the data for a specific participant and select relevant columns.
-    *   **Code Exploration:** It demonstrates how to find which specific codes were applied for a given question and participant.
-*   **Output:** The script is primarily for interactive exploration and does not save any new data files.
 
 ### Processed Data/
 
@@ -273,115 +313,14 @@ This directory contains various data files that are the result of the preprocess
     *   `*_word-freq.txt`: These files contain the word frequency data for each question, generated by `analysis_IASATposter.R`.
     *   `*_word-freq-plot-data.txt`: These files contain the data used to generate the word frequency plots, also from `analysis_IASATposter.R`.
 
-*   **`touch_data.txt`:** This is the main processed data file for the touch survey data, created by `analysis_IASATposter.R`.
+*   **`touch_data.txt`** and **`touch_data_fixed.psv.txt`**: This is the main processed data file for the touch survey data, created by `analysis_IASATposter.R`.
 
-### semi-controlled-touch-survey.Rproj
-
-This is an RStudio project file. It is used by the RStudio IDE to manage project-specific settings. When a user opens this `.Rproj` file in RStudio, the IDE will automatically set the working directory to the directory containing this file and load the project's settings. This makes it easier to work on the project and ensures that the code runs in the correct context. The file contains settings related to workspace management, code indexing, text encoding, and document weaving.
-
-#### survey_data_preprocessing.R
-
-This R script is designed to clean and re-format the original survey data file. The primary goal is to transform the wide-format survey data into a long-format data frame, which is more suitable for analysis and for import into qualitative data analysis software like MAXQDA.
-
-*   **Libraries Used:** It uses `readxl` for reading Excel files, `openxlsx` for writing Excel files, `readr` for reading CSV files, and `tidyverse` for data manipulation.
-*   **Input:**
-    *   `SocialTouchProlific_February26_2024_original.xlsx`: The original survey data file, where each row represents a participant and columns contain demographic information and responses to questions for multiple videos.
-    *   `video_info.csv`: A CSV file containing metadata for each video shown in the survey, such as the intensity of the touch, speed, body part used, and movement type.
-*   **Data Processing:**
-    *   **Data Reshaping:** The script iterates through each participant's data (each row) and transforms it from a wide format to a long format. The original format has one row per participant, with answers to video questions in columns prefixed with the video ID. The script creates a new data frame where each row represents a single video watched by a single participant.
-    *   **Data Cleaning:** It performs data cleaning by checking each response. If a response is a single character (e.g., "a" or "1"), it is considered an invalid or low-effort response and is replaced with `NA`. If a participant-video combination has too many (`>4`) `NA` values, a warning is printed.
-    *   **Merging with Video Info:** For each new row in the long-format data, the script merges the participant's survey data with the corresponding video's metadata from `video_info.csv`. This adds contextual information about the touch stimuli to each response.
-    *   **Unique Key Generation:** A unique key is created for each row by concatenating the participant's ID and the video ID, ensuring that every participant-video entry is unique.
-*   **Output:**
-    *   `output_ilona15_03_24.xlsx`: An Excel file containing the preprocessed survey data in a long format, with clearly defined columns. This file is ready to be imported into MAXQDA for qualitative coding and analysis.
-
-### wordnet_disambiguator.py
-
-This Python script is a WordNet disambiguation tool that helps resolve word sense ambiguity by allowing users to select the correct WordNet synset definition for each word in a list. It can also extend synonyms with the closest words in WordNet using semantic similarity measures.
-
-*   **Libraries Used:** It uses `nltk` for WordNet access and natural language processing, along with standard Python libraries for argument parsing, JSON, CSV, and file operations.
-*   **Features:**
-    *   **Word Sense Disambiguation:** Presents WordNet synsets and definitions for each word, allowing users to select the appropriate sense.
-    *   **Synonym Extension:** Optionally extends synonyms with the closest words in WordNet using semantic similarity measures (Wu-Palmer, path similarity, or average of both).
-    *   **Robust Interruption Handling:** Automatically saves partial results and supports resume functionality with validation.
-    *   **Checkpointing:** Saves progress during time-consuming closest words calculations.
-    *   **Safe Mode:** Provides maximum data protection with automatic backup of partial results.
-*   **Input:**
-    *   Can accept words via command-line arguments (`--words` flag) or from an input file (`--input-file`).
-    *   Supports interactive mode when no arguments are provided.
-*   **Data Processing:**
-    *   For each word, retrieves all WordNet synsets (different senses/meanings).
-    *   Presents definitions and examples to the user for selection.
-    *   Optionally calculates semantic similarity to find closest words in WordNet.
-    *   Handles interruptions gracefully with automatic saving of partial results.
-*   **Output:**
-    *   `wordnet_selections.json`: Simple mapping of words to selected synsets.
-    *   `wordnet_selections_synonyms.json`: Extended mapping with synonyms and closest words.
-    *   `wordnet_selections.csv`: CSV file with definitions and synonyms.
-    *   `wordnet_selections_extended.csv`: CSV file with closest words (if `--extend-synonyms` used).
-    *   `wordnet_selections.txt`: Simple list of synsets, one per line.
-    *   Partial/interrupted results saved to `wordnet_selections_partial.json` and `closest_words_checkpoint.json`.
-*   **Usage Examples:**
-    *   `python wordnet_disambiguator.py --words "word1,word2,word3"`
-    *   `python wordnet_disambiguator.py --input-file words.txt`
-    *   `python wordnet_disambiguator.py --words "sensation" --extend-synonyms --num-closest 20`
-    *   `python wordnet_disambiguator.py --words "apple" --extend-synonyms --similarity-method path`
-    *   `python wordnet_disambiguator.py --words "word1,word2" --safe-mode`
-    *   `python wordnet_disambiguator.py --resume wordnet_selections_partial.json --force-resume`
+See [Processed Data/README.md](Processed%20Data/README.md).
 
 
-### all_words_extractor.py
+### Analysis/
 
-This Python script is a comprehensive text analysis tool designed for extracting and analyzing word frequencies from the touch survey data files. It provides text processing capabilities specifically tailored for linguistic analysis in human-computer interaction research.
-
-*   **Scientific Context:**
-    *   Designed for analyzing semi-controlled touch survey responses
-    *   Handles negation patterns common in subjective experience descriptions
-    *   Groups word variations to account for spelling differences and typos
-    *   Preserves linguistic constructs important for qualitative analysis
-    *   Uses a two-pass processing approach for comprehensive analysis
-
-*   **Libraries Used:** It uses `pandas` and `numpy` for data handling, `nltk` for tokenization, stopwords, and lemmatization, `spacy` for enhanced negation detection (default), and `difflib` for word similarity comparison.
-
-*   **Features:**
-    *   **Multiple File Format Support:** Supports CSV, TSV, TXT, XLS, XLSX, and other formats via pandas with automatic format detection
-    *   **Advanced Negation Handling:** Uses spaCy-based negation detection for grammatical accuracy, with fallback to heuristic methods
-    *   **Word Variation Grouping:** Accounts for natural language variation including typos, different spellings, and morphological variations
-    *   **Configurable Processing:** JSON configuration file support with priority: command line > config file > defaults
-    *   **Scientific Stopword Customization:** NLTK stopword removal with domain-specific customization
-    *   **Enhanced Negation Handling:** Configurable negation terms and intensifiers with Option B approach (intensifiers removed from negation forms)
-    *   **Multiple Output Formats:** CSV outputs and tree visualization for word variation patterns
-    *   **Minimum Frequency Threshold:** The last version of the script now has a frequency threshold to remove from the output words (or groups of words) with low frequency. Turned off by default (min_freq=0).
-
-*   **Input:**
-    *   Can accept various file formats containing survey response data
-    *   Supports automatic text column detection or manual specification via `--text-columns`
-    *   Can use custom configuration files for specialized analysis needs
-
-*   **Data Processing:**
-    *   **Two-pass analysis:** Separate raw and processed outputs for methodological transparency
-    *   **Raw extraction:** Simple word splitting for baseline frequencies
-    *   **Advanced processing:** spaCy-based parsing for negation and compound words
-    *   **Variation grouping:** Accounts for spelling variations and morphological forms using configurable similarity thresholds
-    *   **Negation handling:** Preserves semantic meaning in subjective responses with configurable distance thresholds (mostly for the fallback analysis without spaCy)
-
-*   **Output:**
-    *   `word_frequencies_raw.csv.txt`: Baseline word frequencies without linguistic processing
-    *   `word_frequencies_filtered.csv.txt`: Word frequencies after stopword removal and negation handling
-    *   `word_frequencies_grouped.csv.txt`: Detailed grouping information showing word variations
-    *   `word_frequencies_tree.txt`: Visual tree representation of word variation patterns
-    *   `word_list_raw.txt`: Simple list of raw words
-    *   `word_list_filtered.txt`: List of filtered words after processing
-    *   `word_grouping_dict.json`: JSON dictionary with all the word groups detected by the script, as shown in `word_frequencies_tree.txt`. This file is the interface with human review.
-
-*   **Usage Examples:**
-    *   `python all_words_extractor.py survey_data.csv`
-    *   `python all_words_extractor.py survey_data.csv --text-columns "response,comments"`
-    *   `python all_words_extractor.py survey_data.csv --config my_config.json`
-    *   `python all_words_extractor.py survey_data.csv --no-spacy`
-    *   `python all_words_extractor.py survey_data.csv --similarity-threshold 0.85 --max-edit-distance 1`
-
-### Analysis/All_words_by_frequency/
+#### All_words_by_frequency/
 
 This directory contains the output files generated by the `all_words_extractor.py` script using `Processed Data/touch_data.txt` as input, providing comprehensive word frequency analysis for the entire touch survey dataset.
 
@@ -399,3 +338,31 @@ This directory contains the output files generated by the `all_words_extractor.p
     *   The grouped frequencies help understand natural language variation in survey responses
     *   The tree visualization aids in understanding word relationships and variation patterns
     *   The raw vs filtered comparison supports methodological decisions in text processing pipelines
+
+#### Scripts/
+
+This directory contains Python scripts designed for comprehensive text analysis, word extraction, and semantic disambiguation of the qualitative touch survey responses.
+
+See [Analysis/Scripts/README.md](Analysis/Scripts/README.md).
+
+
+### Figures/
+
+This directory contains various plots and visualizations generated by the R scripts. The files are in SVG and PDF formats.
+
+*   **Code Maps (`.svg`):**
+    *   `9set_1_code_map.svg` to `9set_6_code_map.svg`: These are the code map visualizations created by `code_maps.R`.
+    *   `affect_map.svg`, `emotional_map.svg`, `person_map.svg`, `sensory_map.svg`, `top9_code_map.svg`: These are the descriptor maps created by `descriptor_maps.R`.
+
+*   **Word Frequency Plots (`.pdf`):**
+    *   `Emotional_self_word-freq.pdf`, `Emotional_touch_word-freq.pdf`, `Intention&Purpose_word-freq.pdf`, `Sensory_word-freq.pdf`, `Social_body_word-freq.pdf`, `Social_context_word-freq.pdf`, `Social_place_word-freq.pdf`, `Social_self_word-freq.pdf`: These are the word frequency plots generated by `analysis_IASATposter.R`.
+
+*   **Subdirectories:**
+    *   **`Appropriateness/`:** Contains plots related to the appropriateness of touch.
+    *   **`Valence_Arousal/`:** Contains plots related to valence and arousal ratings.
+    *   **`Word_frequencies/`:** This directory contains duplicates of the word frequency plots.
+
+
+### LICENSE
+
+This file contains the MIT License for the software and associated documentation files in this dataset. The copyright holder is S McIntyre (2024). The MIT License is a permissive free software license that allows for the free use, copying, modification, and distribution of the software, with the condition that the original copyright and permission notices are included in all copies. The software is provided "as is" without any warranty.
