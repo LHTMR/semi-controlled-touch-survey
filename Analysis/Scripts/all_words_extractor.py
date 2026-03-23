@@ -217,6 +217,7 @@ DEFAULT_CONFIG = {
     "save_tree_visualization": True,  # Visual representation of word variation patterns
     "tree_max_depth": None,  # Limits tree depth for readability while showing key variations
     "min_frequency_threshold": 0,  # Minimum frequency for words/groups to be included in output
+    "count_participants": False,  # NEW: Count participants (document frequency)
     # NLTK data
     "nltk_data_path": None,  # Optional custom NLTK data path
     # Debugging
@@ -1518,14 +1519,18 @@ def extract_text_from_dataframe(df: pd.DataFrame, config: Dict[str, Any]) -> Lis
     print(f"\n  Final text columns to process: {text_columns}")
     print(f"  Total rows in dataframe: {len(df)}")
 
-    # Extract text from selected columns with robust error handling
-    all_text = []
+    # NEW: Combine columns row by row to ensure 1 item = 1 participant
+    df["_combined_text_"] = (
+        df[text_columns].fillna("").astype(str).agg(" ".join, axis=1)
+    )
+    all_text = df["_combined_text_"].tolist()
+
     total_rows = len(df)
     extraction_stats = []
 
     for col_idx, col in enumerate(text_columns):
         print(
-            f"\n  Extracting text from column {col_idx + 1}/{len(text_columns)}: '{col}'"
+            f"\n  Analyzing text from column {col_idx + 1}/{len(text_columns)}: '{col}'"
         )
 
         try:
@@ -1571,8 +1576,6 @@ def extract_text_from_dataframe(df: pd.DataFrame, config: Dict[str, Any]) -> Lis
         if non_empty > 0:
             print(f"    Average text length: {avg_length:.1f} characters")
 
-        all_text.extend(col_text)
-
     # Summary of extraction
     print(f"\n  Extraction summary:")
     total_extracted = len(all_text)
@@ -1609,9 +1612,10 @@ def extract_text_from_dataframe(df: pd.DataFrame, config: Dict[str, Any]) -> Lis
 
     print(f"\n  Final text count: {len(filtered_text)} non-empty text entries")
 
-    return filtered_text  # ============================================================================
+    return filtered_text
 
 
+# ============================================================================
 # Text Processing
 # ============================================================================
 
@@ -2814,6 +2818,10 @@ def update_config_from_args(
     if args.min_frequency is not None:
         config["min_frequency_threshold"] = args.min_frequency
 
+    # New logic modulation for word counts
+    if args.count_participants:
+        config["count_participants"] = True
+
     # Debugging
     if args.verbose:
         config["verbose"] = True
@@ -3030,6 +3038,13 @@ Examples:
         help="Minimum frequency threshold for words/groups to be included in output (default: 0)",
     )
 
+    # logic modulation: count words or count participants who used the words
+    parser.add_argument(
+        "--count-participants",
+        action="store_true",
+        help="Count words per participant (document frequency) rather than total occurrences",
+    )
+
     # Debugging options
     parser.add_argument(
         "--verbose", action="store_true", help="Enable verbose output for debugging"
@@ -3112,9 +3127,13 @@ Examples:
     # 1. First pass: Extract raw words (simple splitting, no spaCy)
     # 2. Second pass: Process text with spaCy (if available) for advanced processing
 
-    print("\nExtracting raw words (simple splitting)...")
+    print("\nExtracting words...")
     raw_words = []
     processed_words = []
+
+    # NEW: Store per-document tokens for participant counting
+    raw_words_per_doc = []
+    processed_words_per_doc = []
 
     for i, text in enumerate(all_texts):
         if INTERRUPTED:
@@ -3124,10 +3143,12 @@ Examples:
         # First pass: Extract raw words (no spaCy, no advanced processing)
         raw_words_batch = extract_raw_words(text, config)
         raw_words.extend(raw_words_batch)
+        raw_words_per_doc.append(raw_words_batch)
 
         # Second pass: Process text with spaCy (if available) for advanced processing
         processed_words_batch = preprocess_text(text, config)
         processed_words.extend(processed_words_batch)
+        processed_words_per_doc.append(processed_words_batch)
 
         # Show progress for large datasets
         if len(all_texts) > 1000 and (i + 1) % 1000 == 0:
@@ -3139,7 +3160,13 @@ Examples:
                 break
 
     print(f"Extracted {len(raw_words)} raw words (simple splitting)")
+    print(
+        f"Extracted {len(raw_words_per_doc)} raw words after deduplication per document"
+    )
     print(f"Extracted {len(processed_words)} processed words (with spaCy if available)")
+    print(
+        f"Extracted {len(processed_words_per_doc)} processed words after deduplication per document"
+    )
 
     # Check if we extracted any words
     if len(raw_words) == 0 and len(processed_words) == 0:
@@ -3163,6 +3190,17 @@ Examples:
     if not raw_word_counts and not processed_word_counts:
         print("✗ No word counts generated. Cannot proceed with analysis.")
         return
+
+    # Generate initial word counts (Participant Frequency vs Raw Frequency)
+    if config.get("count_participants", False):
+        print("\nCalculating participant (document) frequencies...")
+        raw_word_counts = Counter(w for doc in raw_words_per_doc for w in set(doc))
+        processed_word_counts = Counter(
+            w for doc in processed_words_per_doc for w in set(doc)
+        )
+    else:
+        raw_word_counts = Counter(raw_words)
+        processed_word_counts = Counter(processed_words)
 
     # Save raw counts if requested - using ONLY raw words (no spaCy processing)
     if config.get("save_raw_counts", True) and raw_word_counts:
@@ -3190,6 +3228,40 @@ Examples:
 
     # Group word variations
     groups = group_word_variations(filtered_word_counts, config)
+
+    # Calculate aggregated counts, avoiding double-counting
+    aggregated_filtered_counts = {}
+
+    if config.get("count_participants", False):
+        # Create a mapping to pull variants back to their main word
+        variant_to_main = {}
+        for main_word, members in groups.items():
+            for variant, _ in members:
+                variant_to_main[variant] = main_word
+
+        # Recalculate true participant counts for the groups
+        doc_counts = Counter()
+        for doc_tokens in processed_words_per_doc:
+            # Filter stopwords for this specific document
+            valid_tokens = [
+                w
+                for w in doc_tokens
+                if w not in stopwords_set
+                and not is_negative_stopword(w, stopwords_set, config)
+            ]
+            # Map variants to main words and get a UNIQUE set per participant
+            unique_main_words = set(variant_to_main.get(w, w) for w in valid_tokens)
+            doc_counts.update(unique_main_words)
+
+        # Only keep aggregated counts for words that actually formed groups
+        aggregated_filtered_counts = {
+            word: count for word, count in doc_counts.items() if word in groups
+        }
+    else:
+        # Standard raw frequency sum
+        for main_word, members in groups.items():
+            total_count = sum(count for _, count in members)
+            aggregated_filtered_counts[main_word] = total_count
 
     # Create aggregated counts after grouping
     # This sums frequencies for words in the same group (e.g., "feel" and "felt" both count toward "feel")
