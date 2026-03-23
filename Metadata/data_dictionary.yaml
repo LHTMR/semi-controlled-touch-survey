@@ -1,0 +1,27 @@
+# Global project definitions and terminology
+project_name: "Semi-Controlled Touch Survey"
+
+definitions:
+  Emojigrid:
+    description: "A 2D graphical tool used to measure self-reported affect. The x-axis represents Valence, and the y-axis represents Arousal."
+  
+  Valence:
+    description: "The intrinsic attractiveness (positive valence) or aversiveness (negative valence) of an event, object, or situation."
+    measurement: "Extracted from the X-axis of the Emojigrid."
+
+  Arousal:
+    description: "The physiological and psychological state of being awoken or of sense organs stimulated to a point of perception."
+    measurement: "Extracted from the inverted Y-axis of the Emojigrid."
+
+  Force:
+    description: "The physical pressure applied during the touch stimulus."
+    levels:
+      light: "Gentle pressure."
+      strong: "Firm, distinct pressure."
+      
+  Speed:
+    description: "The velocity of the touch movement across the skin."
+    levels:
+      3: "Slow (3 cm/s)"
+      9: "Medium (9 cm/s)"
+      18: "Fast (18 cm/s)"
