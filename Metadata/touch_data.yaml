@@ -1,0 +1,104 @@
+# Metadata for the main survey responses dataset
+file_name: "Processed Data/touch_data.txt"
+description: "Consolidated survey responses in which participants described how they perceived the touch demonstrated in the video that was shown to them, including situational, emotional and sensory evaluations."
+format: "Tab-separated values (TSV) saved as .txt"
+
+columns:
+  - name: "ResponseID"
+    description: "Unique identifier for each participant's survey session."
+    type: "string"
+
+  - name: "Touch No."
+    description: "Identifier for the specific touch video/scenario presented to the participant."
+    type: "integer"
+
+  - name: "Social_self"
+    description: "The imagined person performing the touch (e.g., 'my girlfriend', 'hairdresser', 'a stranger')."
+    type: "string"
+
+  - name: "Social_body"
+    description: "The body part being touched (e.g., 'neck', 'arm', 'chest')."
+    type: "string"
+
+  - name: "Social_place"
+    description: "The imagined physical location where the touch occurs (e.g., 'at home on the sofa')."
+    type: "string"
+
+  - name: "Social_context"
+    description: "The situational context or narrative of the touch event."
+    type: "string"
+
+  - name: "Intention&Purpose"
+    description: "The perceived intention or purpose behind the touch."
+    type: "string"
+
+  - name: "Appropriateness"
+    description: "Participant's rating of whether the touch is appropriate."
+    categories: 
+      - "Yes, that would be okay."
+      - "No, it would not be okay."
+      - "It depends (e.g. if they asked me for permission before or if they would stop when I asked them to)"
+      - "I don't know."
+
+  - name: "Sensory"
+    description: "Sensory descriptors applied to the touch (e.g., 'rubbing, light, fluid')."
+    type: "string"
+
+  - name: "Valence&Arousal_x"
+    description: "Raw X-coordinate from the Emojigrid (Valence dimension)."
+    type: "integer"
+
+  - name: "Valence&Arousal_y"
+    description: "Raw Y-coordinate from the Emojigrid (Arousal dimension)."
+    type: "integer"
+
+  - name: "Emotional_self"
+    description: "How the touch makes the participant feel (e.g., 'trust, calmness, comfortable')."
+    type: "string"
+
+  - name: "Emotional_touch"
+    description: "Emotional quality attributed to the touch itself (e.g., 'tender, delicate')."
+    type: "string"
+
+  - name: "Continue"
+    description: "Participant's choice to continue the survey or stop."
+    categories:
+      - "YES, show me another video"
+      - "NO, I would like to finish the survey now."
+
+  - name: "Input"
+    description: "Additional participant input or feedback (often 'NA')."
+    type: "string"
+
+  - name: "Valence"
+    description: "Processed Valence score."
+    type: "integer"
+
+  - name: "Arousal"
+    description: "Processed Arousal score (usually the inverted Y-coordinate)."
+    type: "integer"
+
+  - name: "Type"
+    description: "The specific combination of contact, direction, speed, and force."
+    type: "string"
+
+  - name: "Contact"
+    description: "The part of the hand used for the touch."
+    categories: ["finger", "hand"]
+
+  - name: "Direction"
+    description: "The direction of the touch movement."
+    categories: ["horizontal", "vertical"]
+
+  - name: "Speed (cm/s)"
+    description: "The velocity of the touch movement."
+    units: "cm/s"
+    values: [3, 9, 18]
+
+  - name: "Force"
+    description: "The intensity/pressure of the touch stimulus."
+    categories: ["light", "strong"]
+
+  - name: "Touch_desc"
+    description: "A concatenated string describing the physical touch parameters (Contact + Direction + Speed + Force)."
+    type: "string"
