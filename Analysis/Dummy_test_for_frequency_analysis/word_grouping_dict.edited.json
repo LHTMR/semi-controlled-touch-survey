@@ -1,0 +1,183 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-24T12:35:53.448048",
+    "total_groups": 50,
+    "total_variants": 59,
+    "grouping_configuration": {
+      "max_edit_distance": 2,
+      "similarity_threshold": 0.8,
+      "use_lemmatization": true,
+      "min_frequency_threshold": 0
+    },
+    "notes": [
+      "This dictionary maps main words to their detected variants (typos, spelling variations, etc.)",
+      "For human review: check if variants should really be grouped together",
+      "After review, this can be used as a custom transformation dictionary",
+      "Structure: {main_word: [variant1, variant2, ...]}",
+      "To use: replace all variants with their main_word in text processing"
+    ]
+  },
+  "transformation_dictionary": {
+    "no_pain": [
+      "no_pain",
+      "not_pain"
+    ],
+    "words": [
+      "words",
+      "word"
+    ],
+    "not_painful": [
+      "not_painful"
+    ],
+    "test": [
+      "test"
+    ],
+    "feel": [
+      "feel"
+    ],
+    "relevant": [
+      "relevant",
+      "relevent",
+      "relevnt"
+    ],
+    "never_painful": [
+      "never_painful"
+    ],
+    "text": [
+      "text"
+    ],
+    "felt": [
+      "felt"
+    ],
+    "english": [
+      "english"
+    ],
+    "not_good": [
+      "not_good"
+    ],
+    "not_go": [
+      "not_go"
+    ],
+    "negations": [
+      "negations",
+      "negation"
+    ],
+    "modelling": [
+      "modelling",
+      "modeling"
+    ],
+    "traveling": [
+      "traveling",
+      "travelling"
+    ],
+    "misspelling": [
+      "misspelling",
+      "missspelling"
+    ],
+    "absent_pain": [
+      "absent_pain"
+    ],
+    "never_bad": [
+      "never_bad"
+    ],
+    "not_unpleasant": [
+      "not_unpleasant"
+    ],
+    "seldom_pain": [
+      "seldom_pain"
+    ],
+    "rarely_pain": [
+      "rarely_pain"
+    ],
+    "without_pain": [
+      "without_pain"
+    ],
+    "not_happy": [
+      "not_happy"
+    ],
+    "not_doctor": [
+      "not_doctor"
+    ],
+    "not_run": [
+      "not_run"
+    ],
+    "simple": [
+      "simple"
+    ],
+    "punctuation": [
+      "punctuation"
+    ],
+    "like": [
+      "like"
+    ],
+    "commas": [
+      "commas"
+    ],
+    "periods": [
+      "periods"
+    ],
+    "numbers": [
+      "numbers"
+    ],
+    "compound": [
+      "compound"
+    ],
+    "ice_cream": [
+      "ice_cream"
+    ],
+    "ca": [
+      "ca"
+    ],
+    "inserted": [
+      "inserted"
+    ],
+    "previous": [
+      "previous"
+    ],
+    "sensation": [
+      "sensation"
+    ],
+    "painful": [
+      "painful"
+    ],
+    "painless": [
+      "painless"
+    ],
+    "procedure": [
+      "procedure"
+    ],
+    "stockholm": [
+      "stockholm"
+    ],
+    "yesterday": [
+      "yesterday"
+    ],
+    "british": [
+      "british"
+    ],
+    "american": [
+      "american"
+    ],
+    "travel": [
+      "travel"
+    ],
+    "typo": [
+      "typo"
+    ],
+    "wrd": [
+      "wrd"
+    ],
+    "unplesant": [
+      "unplesant"
+    ],
+    "error": [
+      "error"
+    ],
+    "hopefully": [
+      "hopefully"
+    ],
+    "worked": [
+      "worked"
+    ]
+  }
+}
