@@ -1,0 +1,33 @@
+This is a simple test text with some words.
+It has punctuation, like commas, periods. And numbers: 123.
+Also some negations: not good, never bad, no pain.
+And compound words: ice-cream, don't, can't.
+I inserted also the text from my previous negation test:
+I felt no pain
+I did not feel any pain
+I have no pain
+There is no pain
+I am not in pain
+It was not painful
+This is not very painful
+The sensation is not unpleasant
+I don't feel pain
+It isn't painful
+Never painful
+Very very painful
+It is never painful
+I have seldom felt pain
+I rarely feel pain
+Without any pain
+A painless procedure
+The pain was absent
+I am not happy
+He is not a doctor
+She was not running
+We did not go to Stockholm yesterday.
+Here are two words in British English and American English: modelling and modeling. 
+Travel and traveling and travelling.
+A little typo in the wrd unplesant.
+relevant and relevent and relevnt.
+Little error and misspelling in the word missspelling.
+This test hopefully worked well.

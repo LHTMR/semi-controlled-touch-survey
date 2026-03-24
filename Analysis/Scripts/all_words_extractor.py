@@ -217,6 +217,7 @@ DEFAULT_CONFIG = {
     "save_tree_visualization": True,  # Visual representation of word variation patterns
     "tree_max_depth": None,  # Limits tree depth for readability while showing key variations
     "min_frequency_threshold": 0,  # Minimum frequency for words/groups to be included in output
+    "count_participants": False,  # NEW: Count participants (document frequency)
     # NLTK data
     "nltk_data_path": None,  # Optional custom NLTK data path
     # Debugging
@@ -1518,14 +1519,18 @@ def extract_text_from_dataframe(df: pd.DataFrame, config: Dict[str, Any]) -> Lis
     print(f"\n  Final text columns to process: {text_columns}")
     print(f"  Total rows in dataframe: {len(df)}")
 
-    # Extract text from selected columns with robust error handling
-    all_text = []
+    # NEW: Combine columns row by row to ensure 1 item = 1 participant
+    df["_combined_text_"] = (
+        df[text_columns].fillna("").astype(str).agg(" ".join, axis=1)
+    )
+    all_text = df["_combined_text_"].tolist()
+
     total_rows = len(df)
     extraction_stats = []
 
     for col_idx, col in enumerate(text_columns):
         print(
-            f"\n  Extracting text from column {col_idx + 1}/{len(text_columns)}: '{col}'"
+            f"\n  Analyzing text from column {col_idx + 1}/{len(text_columns)}: '{col}'"
         )
 
         try:
@@ -1571,8 +1576,6 @@ def extract_text_from_dataframe(df: pd.DataFrame, config: Dict[str, Any]) -> Lis
         if non_empty > 0:
             print(f"    Average text length: {avg_length:.1f} characters")
 
-        all_text.extend(col_text)
-
     # Summary of extraction
     print(f"\n  Extraction summary:")
     total_extracted = len(all_text)
@@ -1609,9 +1612,10 @@ def extract_text_from_dataframe(df: pd.DataFrame, config: Dict[str, Any]) -> Lis
 
     print(f"\n  Final text count: {len(filtered_text)} non-empty text entries")
 
-    return filtered_text  # ============================================================================
+    return filtered_text
 
 
+# ============================================================================
 # Text Processing
 # ============================================================================
 
@@ -2184,6 +2188,114 @@ def are_words_similar(word1: str, word2: str, config: Dict[str, Any]) -> bool:
     return True
 
 
+def load_grouping_dictionary(filepath: str) -> Dict[str, List[str]]:
+    """
+    Load an existing grouping dictionary from a JSON file.
+    
+    Args:
+        filepath: Path to the JSON grouping dictionary file.
+        
+    Returns:
+        Dictionary: {main_word: [variant1, variant2, ...]}
+        
+    Raises:
+        FileNotFoundError: If the file doesn't exist.
+        JSONDecodeError: If the file is not valid JSON.
+    """
+    import json
+    
+    print(f"Loading grouping dictionary from {filepath}...")
+    
+    with open(filepath, 'r', encoding='utf-8') as f:
+        grouping_dict = json.load(f)
+    
+    # Convert to the format we need: {main_word: [variants]}
+    # The JSON might be in different formats, so we need to handle them
+    
+    # Check if it's the format with metadata and transformation_dictionary
+    if isinstance(grouping_dict, dict) and "transformation_dictionary" in grouping_dict:
+        # Format: {"metadata": {...}, "transformation_dictionary": {...}}
+        grouping_dict = grouping_dict["transformation_dictionary"]
+    
+    processed_dict = {}
+    
+    for main_word, variants in grouping_dict.items():
+        if isinstance(variants, list):
+            # Format: {"main_word": ["variant1", "variant2", ...]}
+            processed_dict[main_word] = variants
+        elif isinstance(variants, dict) and "members" in variants:
+            # Format: {"main_word": {"members": ["variant1", "variant2", ...], ...}}
+            processed_dict[main_word] = variants["members"]
+        else:
+            # Unknown format, try to handle it
+            processed_dict[main_word] = [variants] if isinstance(variants, str) else []
+    
+    print(f"  Loaded {len(processed_dict)} word groups")
+    return processed_dict
+
+
+def apply_existing_grouping(
+    word_counts: Dict[str, int], 
+    grouping_dict: Dict[str, List[str]]
+) -> Dict[str, List[Tuple[str, int]]]:
+    """
+    Apply an existing grouping dictionary to word counts.
+    
+    Args:
+        word_counts: Dictionary of word frequencies.
+        grouping_dict: Dictionary: {main_word: [variant1, variant2, ...]}
+        
+    Returns:
+        Dictionary: {main_word: [(variant, count), ...]}
+        
+    Notes:
+        - Words not in the grouping dictionary are kept as individual groups
+        - Only includes words that actually appear in the current word_counts
+    """
+    print("Applying existing grouping dictionary...")
+    
+    # Create reverse mapping from variant to main word
+    variant_to_main = {}
+    for main_word, variants in grouping_dict.items():
+        # Include the main word itself as a variant
+        all_variants = [main_word] + variants
+        for variant in all_variants:
+            variant_to_main[variant] = main_word
+    
+    # Track which words we've processed
+    processed_words = set()
+    groups = {}
+    
+    # First, process words that are in the grouping dictionary
+    for word, count in word_counts.items():
+        if word in processed_words:
+            continue
+            
+        if word in variant_to_main:
+            main_word = variant_to_main[word]
+            
+            # Collect all variants of this group that appear in our word_counts
+            group_members = []
+            all_variants = [main_word] + grouping_dict.get(main_word, [])
+            
+            for variant in all_variants:
+                if variant in word_counts and variant not in processed_words:
+                    group_members.append((variant, word_counts[variant]))
+                    processed_words.add(variant)
+            
+            if group_members:
+                # Sort by frequency (descending)
+                group_members.sort(key=lambda x: x[1], reverse=True)
+                groups[main_word] = group_members
+        else:
+            # Word not in grouping dictionary, create individual group
+            groups[word] = [(word, count)]
+            processed_words.add(word)
+    
+    print(f"  Applied grouping to {len(processed_words)} words, creating {len(groups)} groups")
+    return groups
+
+
 def group_word_variations(
     word_counts: Dict[str, int], config: Dict[str, Any]
 ) -> Dict[str, List[Tuple[str, int]]]:
@@ -2204,6 +2316,15 @@ def group_word_variations(
         - Scientific rationale: accounts for natural language variation in survey responses
         - Preserves methodological transparency by showing all grouped variants
     """
+    # Check if we should use an existing grouping dictionary
+    if "use_grouping_dict" in config and config["use_grouping_dict"]:
+        try:
+            grouping_dict = load_grouping_dictionary(config["use_grouping_dict"])
+            return apply_existing_grouping(word_counts, grouping_dict)
+        except Exception as e:
+            print(f"Warning: Could not load grouping dictionary: {e}")
+            print("Falling back to automatic grouping...")
+    
     if not config.get("group_variations", True):
         return {word: [(word, count)] for word, count in word_counts.items()}
 
@@ -2808,11 +2929,18 @@ def update_config_from_args(
     if args.no_grouping_dict:
         config["save_grouping_dict"] = False
 
+    if args.use_grouping_dict:
+        config["use_grouping_dict"] = args.use_grouping_dict
+
     if args.no_tree:
         config["save_tree_visualization"] = False
 
     if args.min_frequency is not None:
         config["min_frequency_threshold"] = args.min_frequency
+
+    # New logic modulation for word counts
+    if args.count_participants:
+        config["count_participants"] = True
 
     # Debugging
     if args.verbose:
@@ -3021,6 +3149,11 @@ Examples:
         help="Don't save grouping dictionary as JSON",
     )
     parser.add_argument(
+        "--use-grouping-dict",
+        type=str,
+        help="Use existing grouping dictionary JSON file instead of creating new groups",
+    )
+    parser.add_argument(
         "--no-tree", action="store_true", help="Don't save tree visualization"
     )
     parser.add_argument(
@@ -3028,6 +3161,13 @@ Examples:
         type=int,
         default=0,
         help="Minimum frequency threshold for words/groups to be included in output (default: 0)",
+    )
+
+    # logic modulation: count words or count participants who used the words
+    parser.add_argument(
+        "--count-participants",
+        action="store_true",
+        help="Count words per participant (document frequency) rather than total occurrences",
     )
 
     # Debugging options
@@ -3112,9 +3252,13 @@ Examples:
     # 1. First pass: Extract raw words (simple splitting, no spaCy)
     # 2. Second pass: Process text with spaCy (if available) for advanced processing
 
-    print("\nExtracting raw words (simple splitting)...")
+    print("\nExtracting words...")
     raw_words = []
     processed_words = []
+
+    # NEW: Store per-document tokens for participant counting
+    raw_words_per_doc = []
+    processed_words_per_doc = []
 
     for i, text in enumerate(all_texts):
         if INTERRUPTED:
@@ -3124,10 +3268,12 @@ Examples:
         # First pass: Extract raw words (no spaCy, no advanced processing)
         raw_words_batch = extract_raw_words(text, config)
         raw_words.extend(raw_words_batch)
+        raw_words_per_doc.append(raw_words_batch)
 
         # Second pass: Process text with spaCy (if available) for advanced processing
         processed_words_batch = preprocess_text(text, config)
         processed_words.extend(processed_words_batch)
+        processed_words_per_doc.append(processed_words_batch)
 
         # Show progress for large datasets
         if len(all_texts) > 1000 and (i + 1) % 1000 == 0:
@@ -3139,7 +3285,13 @@ Examples:
                 break
 
     print(f"Extracted {len(raw_words)} raw words (simple splitting)")
+    print(
+        f"Extracted {len(raw_words_per_doc)} raw words after deduplication per document"
+    )
     print(f"Extracted {len(processed_words)} processed words (with spaCy if available)")
+    print(
+        f"Extracted {len(processed_words_per_doc)} processed words after deduplication per document"
+    )
 
     # Check if we extracted any words
     if len(raw_words) == 0 and len(processed_words) == 0:
@@ -3163,6 +3315,17 @@ Examples:
     if not raw_word_counts and not processed_word_counts:
         print("✗ No word counts generated. Cannot proceed with analysis.")
         return
+
+    # Generate initial word counts (Participant Frequency vs Raw Frequency)
+    if config.get("count_participants", False):
+        print("\nCalculating participant (document) frequencies...")
+        raw_word_counts = Counter(w for doc in raw_words_per_doc for w in set(doc))
+        processed_word_counts = Counter(
+            w for doc in processed_words_per_doc for w in set(doc)
+        )
+    else:
+        raw_word_counts = Counter(raw_words)
+        processed_word_counts = Counter(processed_words)
 
     # Save raw counts if requested - using ONLY raw words (no spaCy processing)
     if config.get("save_raw_counts", True) and raw_word_counts:
@@ -3191,13 +3354,40 @@ Examples:
     # Group word variations
     groups = group_word_variations(filtered_word_counts, config)
 
-    # Create aggregated counts after grouping
+    # Calculate aggregated counts after grouping
     # This sums frequencies for words in the same group (e.g., "feel" and "felt" both count toward "feel")
     aggregated_filtered_counts = {}
-    for main_word, members in groups.items():
-        # Sum all counts in the group
-        total_count = sum(count for _, count in members)
-        aggregated_filtered_counts[main_word] = total_count
+    
+    if config.get("count_participants", False):
+        # Create a mapping to pull variants back to their main word
+        variant_to_main = {}
+        for main_word, members in groups.items():
+            for variant, _ in members:
+                variant_to_main[variant] = main_word
+
+        # Recalculate true participant counts for the groups
+        doc_counts = Counter()
+        for doc_tokens in processed_words_per_doc:
+            # Filter stopwords for this specific document
+            valid_tokens = [
+                w
+                for w in doc_tokens
+                if w not in stopwords_set
+                and not is_negative_stopword(w, stopwords_set, config)
+            ]
+            # Map variants to main words and get a UNIQUE set per participant
+            unique_main_words = set(variant_to_main.get(w, w) for w in valid_tokens)
+            doc_counts.update(unique_main_words)
+
+        # Only keep aggregated counts for words that actually formed groups
+        aggregated_filtered_counts = {
+            word: count for word, count in doc_counts.items() if word in groups
+        }
+    else:
+        # Standard raw frequency sum
+        for main_word, members in groups.items():
+            total_count = sum(count for _, count in members)
+            aggregated_filtered_counts[main_word] = total_count
 
     # Save aggregated filtered counts if requested
     if config.get("save_filtered_counts", True) and aggregated_filtered_counts:
@@ -3213,9 +3403,12 @@ Examples:
         save_grouped_counts(groups, output_path, config)
 
     # Save grouping dictionary as JSON for custom transformations
-    if config.get("save_grouping_dict", True) and groups:
+    # Only save if not using an existing dictionary (unless explicitly requested with --no-grouping-dict)
+    if config.get("save_grouping_dict", True) and groups and "use_grouping_dict" not in config:
         output_path = f"word_grouping_dict.json"
         save_grouping_dictionary(groups, output_path, config)
+    elif "use_grouping_dict" in config and config.get("save_grouping_dict", True):
+        print("Note: Not saving new grouping dictionary because using existing one from", config["use_grouping_dict"])
 
     # Create and save tree visualization if requested
     if config.get("save_tree_visualization", True) and groups:
@@ -3258,7 +3451,10 @@ Examples:
             total_aggregated = sum(aggregated_filtered_counts.values())
             print(f"Total occurrences after aggregation: {total_aggregated}")
 
-    if config.get("group_variations", True):
+    if "use_grouping_dict" in config:
+        print(f"Word groups loaded from: {config['use_grouping_dict']}")
+        print(f"Word groups applied: {len(groups)}")
+    elif config.get("group_variations", True):
         print(f"Word groups created: {len(groups)}")
 
     print("\nOutput files created:")
