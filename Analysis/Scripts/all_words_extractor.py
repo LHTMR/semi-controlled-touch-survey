@@ -2188,6 +2188,114 @@ def are_words_similar(word1: str, word2: str, config: Dict[str, Any]) -> bool:
     return True
 
 
+def load_grouping_dictionary(filepath: str) -> Dict[str, List[str]]:
+    """
+    Load an existing grouping dictionary from a JSON file.
+    
+    Args:
+        filepath: Path to the JSON grouping dictionary file.
+        
+    Returns:
+        Dictionary: {main_word: [variant1, variant2, ...]}
+        
+    Raises:
+        FileNotFoundError: If the file doesn't exist.
+        JSONDecodeError: If the file is not valid JSON.
+    """
+    import json
+    
+    print(f"Loading grouping dictionary from {filepath}...")
+    
+    with open(filepath, 'r', encoding='utf-8') as f:
+        grouping_dict = json.load(f)
+    
+    # Convert to the format we need: {main_word: [variants]}
+    # The JSON might be in different formats, so we need to handle them
+    
+    # Check if it's the format with metadata and transformation_dictionary
+    if isinstance(grouping_dict, dict) and "transformation_dictionary" in grouping_dict:
+        # Format: {"metadata": {...}, "transformation_dictionary": {...}}
+        grouping_dict = grouping_dict["transformation_dictionary"]
+    
+    processed_dict = {}
+    
+    for main_word, variants in grouping_dict.items():
+        if isinstance(variants, list):
+            # Format: {"main_word": ["variant1", "variant2", ...]}
+            processed_dict[main_word] = variants
+        elif isinstance(variants, dict) and "members" in variants:
+            # Format: {"main_word": {"members": ["variant1", "variant2", ...], ...}}
+            processed_dict[main_word] = variants["members"]
+        else:
+            # Unknown format, try to handle it
+            processed_dict[main_word] = [variants] if isinstance(variants, str) else []
+    
+    print(f"  Loaded {len(processed_dict)} word groups")
+    return processed_dict
+
+
+def apply_existing_grouping(
+    word_counts: Dict[str, int], 
+    grouping_dict: Dict[str, List[str]]
+) -> Dict[str, List[Tuple[str, int]]]:
+    """
+    Apply an existing grouping dictionary to word counts.
+    
+    Args:
+        word_counts: Dictionary of word frequencies.
+        grouping_dict: Dictionary: {main_word: [variant1, variant2, ...]}
+        
+    Returns:
+        Dictionary: {main_word: [(variant, count), ...]}
+        
+    Notes:
+        - Words not in the grouping dictionary are kept as individual groups
+        - Only includes words that actually appear in the current word_counts
+    """
+    print("Applying existing grouping dictionary...")
+    
+    # Create reverse mapping from variant to main word
+    variant_to_main = {}
+    for main_word, variants in grouping_dict.items():
+        # Include the main word itself as a variant
+        all_variants = [main_word] + variants
+        for variant in all_variants:
+            variant_to_main[variant] = main_word
+    
+    # Track which words we've processed
+    processed_words = set()
+    groups = {}
+    
+    # First, process words that are in the grouping dictionary
+    for word, count in word_counts.items():
+        if word in processed_words:
+            continue
+            
+        if word in variant_to_main:
+            main_word = variant_to_main[word]
+            
+            # Collect all variants of this group that appear in our word_counts
+            group_members = []
+            all_variants = [main_word] + grouping_dict.get(main_word, [])
+            
+            for variant in all_variants:
+                if variant in word_counts and variant not in processed_words:
+                    group_members.append((variant, word_counts[variant]))
+                    processed_words.add(variant)
+            
+            if group_members:
+                # Sort by frequency (descending)
+                group_members.sort(key=lambda x: x[1], reverse=True)
+                groups[main_word] = group_members
+        else:
+            # Word not in grouping dictionary, create individual group
+            groups[word] = [(word, count)]
+            processed_words.add(word)
+    
+    print(f"  Applied grouping to {len(processed_words)} words, creating {len(groups)} groups")
+    return groups
+
+
 def group_word_variations(
     word_counts: Dict[str, int], config: Dict[str, Any]
 ) -> Dict[str, List[Tuple[str, int]]]:
@@ -2208,6 +2316,15 @@ def group_word_variations(
         - Scientific rationale: accounts for natural language variation in survey responses
         - Preserves methodological transparency by showing all grouped variants
     """
+    # Check if we should use an existing grouping dictionary
+    if "use_grouping_dict" in config and config["use_grouping_dict"]:
+        try:
+            grouping_dict = load_grouping_dictionary(config["use_grouping_dict"])
+            return apply_existing_grouping(word_counts, grouping_dict)
+        except Exception as e:
+            print(f"Warning: Could not load grouping dictionary: {e}")
+            print("Falling back to automatic grouping...")
+    
     if not config.get("group_variations", True):
         return {word: [(word, count)] for word, count in word_counts.items()}
 
@@ -2812,6 +2929,9 @@ def update_config_from_args(
     if args.no_grouping_dict:
         config["save_grouping_dict"] = False
 
+    if args.use_grouping_dict:
+        config["use_grouping_dict"] = args.use_grouping_dict
+
     if args.no_tree:
         config["save_tree_visualization"] = False
 
@@ -3029,6 +3149,11 @@ Examples:
         help="Don't save grouping dictionary as JSON",
     )
     parser.add_argument(
+        "--use-grouping-dict",
+        type=str,
+        help="Use existing grouping dictionary JSON file instead of creating new groups",
+    )
+    parser.add_argument(
         "--no-tree", action="store_true", help="Don't save tree visualization"
     )
     parser.add_argument(
@@ -3229,9 +3354,10 @@ Examples:
     # Group word variations
     groups = group_word_variations(filtered_word_counts, config)
 
-    # Calculate aggregated counts, avoiding double-counting
+    # Calculate aggregated counts after grouping
+    # This sums frequencies for words in the same group (e.g., "feel" and "felt" both count toward "feel")
     aggregated_filtered_counts = {}
-
+    
     if config.get("count_participants", False):
         # Create a mapping to pull variants back to their main word
         variant_to_main = {}
@@ -3263,14 +3389,6 @@ Examples:
             total_count = sum(count for _, count in members)
             aggregated_filtered_counts[main_word] = total_count
 
-    # Create aggregated counts after grouping
-    # This sums frequencies for words in the same group (e.g., "feel" and "felt" both count toward "feel")
-    aggregated_filtered_counts = {}
-    for main_word, members in groups.items():
-        # Sum all counts in the group
-        total_count = sum(count for _, count in members)
-        aggregated_filtered_counts[main_word] = total_count
-
     # Save aggregated filtered counts if requested
     if config.get("save_filtered_counts", True) and aggregated_filtered_counts:
         save_word_outputs(
@@ -3285,9 +3403,12 @@ Examples:
         save_grouped_counts(groups, output_path, config)
 
     # Save grouping dictionary as JSON for custom transformations
-    if config.get("save_grouping_dict", True) and groups:
+    # Only save if not using an existing dictionary (unless explicitly requested with --no-grouping-dict)
+    if config.get("save_grouping_dict", True) and groups and "use_grouping_dict" not in config:
         output_path = f"word_grouping_dict.json"
         save_grouping_dictionary(groups, output_path, config)
+    elif "use_grouping_dict" in config and config.get("save_grouping_dict", True):
+        print("Note: Not saving new grouping dictionary because using existing one from", config["use_grouping_dict"])
 
     # Create and save tree visualization if requested
     if config.get("save_tree_visualization", True) and groups:
@@ -3330,7 +3451,10 @@ Examples:
             total_aggregated = sum(aggregated_filtered_counts.values())
             print(f"Total occurrences after aggregation: {total_aggregated}")
 
-    if config.get("group_variations", True):
+    if "use_grouping_dict" in config:
+        print(f"Word groups loaded from: {config['use_grouping_dict']}")
+        print(f"Word groups applied: {len(groups)}")
+    elif config.get("group_variations", True):
         print(f"Word groups created: {len(groups)}")
 
     print("\nOutput files created:")
