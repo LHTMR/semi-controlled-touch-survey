@@ -128,28 +128,9 @@ Structure of the dataset, i.e., where files are located.
 
 Here is a brief overview of the different documents contained in this folder.
 
-### Qualitative_Flavia/
-
-A compact qualitative coding module with MAXQDA export processing, QA, and data-cleaning scripts.
-
-See [Qualitative_Flavia/README.md](Qualitative_Flavia/README.md) for details.
-
 ### process_raw_data.R
 
 This R script processes the raw survey data exported from Qualtrics. It reads the Excel file, cleans and reshapes the data, adds descriptive labels for touch types, and saves the processed touch data as text files.
-
-### IASAT_poster_Sarah/
-
-Short summary: analysis scripts and figure outputs for the IASAT poster workflow, including touch rating and descriptor maps.
-
-See [IASAT_poster_Sarah/README.md](IASAT_poster_Sarah/README.md).
-
-#### Processed Data/
-
-This directory contains processed data files from the IASAT poster analysis.
-
-*   **`descriptor_map_data.tsv`:** Processed descriptor map data.
-*   **Word Frequency Data:** Various .txt files for word frequencies and plot data.
 
 ### Materials/
 
@@ -167,11 +148,6 @@ This directory contains metadata files.
 *   **`data_dictionary.yaml`:** Data dictionary.
 *   **`experimental_setup.yaml`:** Experimental setup description.
 *   **`touch_data.yaml` and `touch_data_fixed.psv.yaml`:** Metadata for touch data.
-
-### semi-controlled-touch-survey.Rproj
-
-This is an RStudio project file. It is used by the RStudio IDE to manage project-specific settings. When a user opens this `.Rproj` file in RStudio, the IDE will automatically set the working directory to the directory containing this file and load the project's settings. This makes it easier to work on the project and ensures that the code runs in the correct context. The file contains settings related to workspace management, code indexing, text encoding, and document weaving.
-
 
 ### Processed Data/
 
@@ -211,6 +187,17 @@ This directory contains Python scripts designed for comprehensive text analysis,
 
 See [Analysis/Scripts/README.md](Analysis/Scripts/README.md).
 
+### Qualitative_Flavia/
+
+A compact qualitative coding module with MAXQDA export processing, QA, and data-cleaning scripts.
+
+See [Qualitative_Flavia/README.md](Qualitative_Flavia/README.md) for details.
+
+### IASAT_poster_Sarah/
+
+Short summary: analysis scripts and figure outputs for the IASAT poster workflow, including touch rating and descriptor maps.
+
+See [IASAT_poster_Sarah/README.md](IASAT_poster_Sarah/README.md).
 
 ### LICENSE
 
