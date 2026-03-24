@@ -9,126 +9,117 @@ Structure of the dataset, i.e., where files are located.
 
 ```text
 .
+├── LICENSE
+├── process_raw_data.R
+├── README.md
+├── semi-controlled-touch-survey.Rproj
 ├── Analysis
 │   ├── All_words_by_frequency
+│   │   ├── analysis_record.md
 │   │   ├── word_frequencies_filtered.csv.txt
 │   │   ├── word_frequencies_grouped.csv.txt
 │   │   ├── word_frequencies_raw.csv.txt
 │   │   ├── word_frequencies_tree.txt
 │   │   ├── word_grouping_dict.json
 │   │   ├── word_list_filtered.txt
+│   │   ├── word_list_raw.txt
+│   │   └── Social_context_only
+│   ├── Dummy_test_for_frequency_analysis
+│   │   ├── analysis_record.md
+│   │   ├── test_text_frequency_extraction.txt
+│   │   ├── word_frequencies_filtered.csv.txt
+│   │   ├── word_frequencies_grouped.csv.txt
+│   │   ├── word_frequencies_raw.csv.txt
+│   │   ├── word_frequencies_tree.txt
+│   │   ├── word_grouping_dict.edited.json
+│   │   ├── word_grouping_dict.original.json
+│   │   ├── word_list_filtered.txt
 │   │   └── word_list_raw.txt
 │   └── Scripts
-│       ├── README.md
 │       ├── all_words_extractor.py
 │       ├── data_exploration_utils.py
 │       ├── generate_setup_stats.py
+│       ├── geometric_association_test.py
+│       ├── README.md
 │       ├── wordnet_cluster.py
 │       └── wordnet_disambiguator.py
-├── Emojigrid_high_res.png
-├── Figures
-│   ├── 9set_1_code_map.svg
-│   ├── 9set_2_code_map.svg
-│   ├── 9set_3_code_map.svg
-│   ├── 9set_4_code_map.svg
-│   ├── 9set_5_code_map.svg
-│   ├── 9set_6_code_map.svg
-│   ├── Appropriateness
-│   │   ├── Appropriate_comparison.pdf
-│   │   ├── Appropriateness.pdf
-│   │   └── Innapropriate_comparison.pdf
-│   ├── Emotional_self_word-freq.pdf
-│   ├── Emotional_touch_word-freq.pdf
-│   ├── Intention&Purpose_word-freq.pdf
-│   ├── Sensory_word-freq.pdf
-│   ├── Social_body_word-freq.pdf
-│   ├── Social_context_word-freq.pdf
-│   ├── Social_place_word-freq.pdf
-│   ├── Social_self_word-freq.pdf
-│   ├── Valence_Arousal
-│   │   ├── Arousal_comparison.pdf
-│   │   ├── Valence_Arousal_coordinates.pdf
-│   │   └── Valence_comparison.pdf
-│   ├── Word_frequencies
-│   │   ├── Emotional_self_word-freq.pdf
-│   │   ├── Emotional_touch_word-freq.pdf
-│   │   ├── Intention&Purpose_word-freq.pdf
-│   │   ├── Sensory_word-freq.pdf
-│   │   ├── Social_body_word-freq.pdf
-│   │   ├── Social_context_word-freq.pdf
-│   │   ├── Social_place_word-freq.pdf
-│   │   └── Social_self_word-freq.pdf
-│   ├── affect_map.svg
-│   ├── emotional_map.svg
-│   ├── person_map.svg
-│   ├── sensory_map.svg
-│   └── top9_code_map.svg
-├── LICENSE
+├── IASAT_poster_Sarah
+│   ├── analysis_IASATposter.R
+│   ├── descriptor_maps.R
+│   ├── Figures
+│   │   ├── Appropriateness
+│   │   ├── Valence_Arousal
+│   │   └── Word_frequencies
+│   └── Processed Data
+│       ├── descriptor_map_data.tsv
+│       ├── Emotional_self_word-freq-plot-data.txt
+│       ├── Emotional_self_word-freq.txt
+│       ├── Emotional_touch_word-freq-plot-data.txt
+│       ├── Emotional_touch_word-freq.txt
+│       ├── Intention&Purpose_word-freq-plot-data.txt
+│       ├── Intention&Purpose_word-freq.txt
+│       ├── Sensory_word-freq-plot-data.txt
+│       ├── Social_body_word-freq-plot-data.txt
+│       ├── Social_body_word-freq.txt
+│       ├── Social_context_word-freq-plot-data.txt
+│       ├── Social_context_word-freq.txt
+│       ├── Social_place_word-freq-plot-data.txt
+│       ├── Social_place_word-freq.txt
+│       ├── Social_self_word-freq-plot-data.txt
+│       └── Social_self_word-freq.txt
+├── Materials
+│   ├── emojigrid_qualtrics_precise-key.txt
+│   ├── Social_Touch_-_Prolific.qsf
+│   ├── video_mapping.csv
+│   └── videos.md
 ├── Metadata
 │   ├── data_dictionary.yaml
 │   ├── experimental_setup.yaml
-│   ├── touch_data.yaml
-│   └── touch_data_fixed.psv.yaml
+│   ├── touch_data_fixed.psv.yaml
+│   └── touch_data.yaml
 ├── Processed Data
-│   ├── Emotional_self_word-freq-plot-data.txt
-│   ├── Emotional_self_word-freq.txt
-│   ├── Emotional_touch_word-freq-plot-data.txt
-│   ├── Emotional_touch_word-freq.txt
-│   ├── Intention&Purpose_word-freq-plot-data.txt
-│   ├── Intention&Purpose_word-freq.txt
-│   ├── Per_video
-│   │   ├── touch_data_video_1.psv.txt
-│   │   ├── touch_data_video_2.psv.txt
-│   │   ├── touch_data_video_3.psv.txt
-│   │   ├── touch_data_video_4.psv.txt
-│   │   ├── touch_data_video_5.psv.txt
-│   │   ├── touch_data_video_6.psv.txt
-│   │   ├── touch_data_video_7.psv.txt
-│   │   ├── touch_data_video_8.psv.txt
-│   │   ├── touch_data_video_9.psv.txt
-│   │   ├── touch_data_video_10.psv.txt
-│   │   ├── touch_data_video_11.psv.txt
-│   │   ├── touch_data_video_12.psv.txt
-│   │   ├── touch_data_video_13.psv.txt
-│   │   ├── touch_data_video_14.psv.txt
-│   │   ├── touch_data_video_15.psv.txt
-│   │   ├── touch_data_video_16.psv.txt
-│   │   ├── touch_data_video_17.psv.txt
-│   │   ├── touch_data_video_18.psv.txt
-│   │   ├── touch_data_video_19.psv.txt
-│   │   ├── touch_data_video_20.psv.txt
-│   │   ├── touch_data_video_21.psv.txt
-│   │   ├── touch_data_video_22.psv.txt
-│   │   ├── touch_data_video_23.psv.txt
-│   │   └── touch_data_video_24.psv.txt
 │   ├── README.md
-│   ├── Sensory_word-freq-plot-data.txt
-│   ├── Sensory_word-freq.txt
-│   ├── Social_body_word-freq-plot-data.txt
-│   ├── Social_body_word-freq.txt
-│   ├── Social_context_word-freq-plot-data.txt
-│   ├── Social_context_word-freq.txt
-│   ├── Social_place_word-freq-plot-data.txt
-│   ├── Social_place_word-freq.txt
-│   ├── Social_self_word-freq-plot-data.txt
-│   ├── Social_self_word-freq.txt
-│   ├── descriptor_map_data.tsv
-│   ├── descriptor_map_data.xlsx
+│   ├── touch_data_fixed.psv.txt
 │   ├── touch_data.txt
-│   └── touch_data_fixed.psv.txt
-├── Qualitative_Flavia
-│   ├── clean_maxqda_codes.R
-│   ├── code_maps.R
-│   ├── coded_export_data_processing.R
-│   ├── coded_preprocessing_quality_control.R
-│   ├── maxqda_data_preprocessing.R
-│   └── survey_data_preprocessing.R
-├── README.md
-├── analysis_IASATposter.R
-├── descriptor_maps.R
-└── semi-controlled-touch-survey.Rproj
+│   └── Per_video
+│       ├── touch_data_video_1.psv.txt
+│       ├── touch_data_video_2.psv.txt
+│       ├── touch_data_video_3.psv.txt
+│       ├── touch_data_video_4.psv.txt
+│       ├── touch_data_video_5.psv.txt
+│       ├── touch_data_video_6.psv.txt
+│       ├── touch_data_video_7.psv.txt
+│       ├── touch_data_video_8.psv.txt
+│       ├── touch_data_video_9.psv.txt
+│       ├── touch_data_video_10.psv.txt
+│       ├── touch_data_video_11.psv.txt
+│       ├── touch_data_video_12.psv.txt
+│       ├── touch_data_video_13.psv.txt
+│       ├── touch_data_video_14.psv.txt
+│       ├── touch_data_video_15.psv.txt
+│       ├── touch_data_video_16.psv.txt
+│       ├── touch_data_video_17.psv.txt
+│       ├── touch_data_video_18.psv.txt
+│       ├── touch_data_video_19.psv.txt
+│       ├── touch_data_video_20.psv.txt
+│       ├── touch_data_video_21.psv.txt
+│       ├── touch_data_video_22.psv.txt
+│       ├── touch_data_video_23.psv.txt
+│       └── touch_data_video_24.psv.txt
+└── Qualitative_Flavia
+    ├── clean_maxqda_codes.R
+    ├── code_maps.R
+    ├── coded_export_data_processing.R
+    ├── coded_preprocessing_quality_control.R
+    ├── duplicate_rows.csv
+    ├── maxqda_data_preprocessing.R
+    ├── missing_Q_remaining38.csv
+    ├── missing_Q_situationalwhat60.csv
+    ├── output_preprocessed_codes_ilona19_04.csv
+    ├── remaining_missing03_05_24.csv
+    └── survey_data_preprocessing.R
 
-12 directories, 107 files
+17 directories, 147 files
 ```
 
 </details>
@@ -136,29 +127,6 @@ Structure of the dataset, i.e., where files are located.
 ## Dataset Content
 
 Here is a brief overview of the different documents contained in this folder.
-
-### analysis_IASATposter.R
-
-This R script is for analyzing data from a social touch survey. It performs data cleaning, processing, and visualization.
-
-*   **Libraries Used:** It uses several R libraries, including `dplyr` for data manipulation, `readxl` for reading Excel files, `tidyr` for tidying data, `ggplot2` for plotting, `Hmisc` for statistical functions, and `quanteda` for text analysis.
-*   **Input:** It reads raw survey data from an Excel file (`.xlsx`) located in a specific directory.
-*   **Data Processing:**
-    *   It separates respondent data and touch data.
-    *   It cleans and reshapes the touch data, creating new variables like "Valence" and "Arousal".
-    *   It adds descriptive labels to the touch data based on touch number, speed, force, etc.
-    *   It saves the processed touch data as a text file (`touch_data.txt`).
-*   **Analysis and Visualization:**
-    *   It calculates and plots the number of responses per touch and per respondent.
-    *   It creates boxplots to visualize the distribution of "Valence" and "Arousal" for different touch types.
-    *   It performs direct comparisons of "Valence" and "Arousal" based on speed and force.
-    *   It calculates and plots confidence intervals for "Valence" and "Arousal".
-    *   It performs word frequency analysis on the text data from the survey.
-    *   It analyzes the "Appropriateness" of the touch, creating bar plots to show the distribution of responses.
-*   **Output:** The script generates several outputs:
-    *   A processed data file: `touch_data.txt`.
-    *   Several plots are generated and saved as PDF files in the `Figures/` directory.
-    *   Word frequency data is saved as text files.
 
 ### Qualitative_Flavia/
 
@@ -273,7 +241,38 @@ This R script is designed to clean and re-format the original survey data file. 
     *   `output_ilona15_03_24.xlsx`: An Excel file containing the preprocessed survey data in a long format, with clearly defined columns. This file is ready to be imported into MAXQDA for qualitative coding and analysis.
 
 
-### descriptor_maps.R
+### process_raw_data.R
+
+This R script processes the raw survey data exported from Qualtrics. It reads the Excel file, cleans and reshapes the data, adds descriptive labels for touch types, and saves the processed touch data as text files.
+
+### IASAT_poster_Sarah/
+
+This directory contains R scripts, figures, and processed data related to the analysis for the IASAT poster.
+
+#### analysis_IASATposter.R
+
+This R script is for analyzing data from a social touch survey. It performs data cleaning, processing, and visualization.
+
+*   **Libraries Used:** It uses several R libraries, including `dplyr` for data manipulation, `readxl` for reading Excel files, `tidyr` for tidying data, `ggplot2` for plotting, `Hmisc` for statistical functions, and `quanteda` for text analysis.
+*   **Input:** It reads raw survey data from an Excel file (`.xlsx`) located in a specific directory.
+*   **Data Processing:**
+    *   It separates respondent data and touch data.
+    *   It cleans and reshapes the touch data, creating new variables like "Valence" and "Arousal".
+    *   It adds descriptive labels to the touch data based on touch number, speed, force, etc.
+    *   It saves the processed touch data as a text file (`touch_data.txt`).
+*   **Analysis and Visualization:**
+    *   It calculates and plots the number of responses per touch and per respondent.
+    *   It creates boxplots to visualize the distribution of "Valence" and "Arousal" for different touch types.
+    *   It performs direct comparisons of "Valence" and "Arousal" based on speed and force.
+    *   It calculates and plots confidence intervals for "Valence" and "Arousal".
+    *   It performs word frequency analysis on the text data from the survey.
+    *   It analyzes the "Appropriateness" of the touch, creating bar plots to show the distribution of responses.
+*   **Output:** The script generates several outputs:
+    *   A processed data file: `touch_data.txt`.
+    *   Several plots are generated and saved as PDF files in the `Figures/` directory.
+    *   Word frequency data is saved as text files.
+
+#### descriptor_maps.R
 
 This R script is for creating "descriptor maps," which are visualizations of word frequencies associated with different types of touch. It groups words into higher-level "descriptors" and then into broader "Groups" (e.g., "emotion", "person", "sensory").
 
@@ -293,10 +292,38 @@ This R script is for creating "descriptor maps," which are visualizations of wor
     *   `Processed Data/descriptor_map_data.tsv`: A tab-separated file containing the processed descriptor map data.
     *   Several SVG files in the `Figures/` directory, each showing a map for a different group of descriptors (e.g., `sensory_map.svg`, `person_map.svg`).
 
-### Emojigrid_high_res.png
+#### Figures/
 
-This is a high-resolution image file named `Emojigrid_high_res.png`. This is the "Emojigrid", a tool used in the survey for participants to rate their emotional state. The Emojigrid is a graphical tool that allows users to report their feelings in terms of valence (pleasure-displeasure) and arousal (activation-deactivation) by selecting a coordinate on the emoji grid.
+This directory contains various plots and visualizations generated by the R scripts. The files are in SVG and PDF formats.
 
+*   **Subdirectories:**
+    *   **`Appropriateness/`:** Contains plots related to the appropriateness of touch.
+    *   **`Valence_Arousal/`:** Contains plots related to valence and arousal ratings.
+    *   **`Word_frequencies/`:** Contains word frequency plots.
+
+#### Processed Data/
+
+This directory contains processed data files from the IASAT poster analysis.
+
+*   **`descriptor_map_data.tsv`:** Processed descriptor map data.
+*   **Word Frequency Data:** Various .txt files for word frequencies and plot data.
+
+### Materials/
+
+This directory contains materials used for the survey.
+
+*   **`emojigrid_qualtrics_precise-key.txt`:** Key for the emojigrid used in Qualtrics.
+*   **`Social_Touch_-_Prolific.qsf`:** The Qualtrics survey file.
+*   **`video_mapping.csv`:** Mapping of videos.
+*   **`videos.md`:** Description of videos.
+
+### Metadata/
+
+This directory contains metadata files.
+
+*   **`data_dictionary.yaml`:** Data dictionary.
+*   **`experimental_setup.yaml`:** Experimental setup description.
+*   **`touch_data.yaml` and `touch_data_fixed.psv.yaml`:** Metadata for touch data.
 
 ### semi-controlled-touch-survey.Rproj
 
@@ -305,15 +332,11 @@ This is an RStudio project file. It is used by the RStudio IDE to manage project
 
 ### Processed Data/
 
-This directory contains various data files that are the result of the preprocessing and analysis scripts.
+This directory contains the main processed touch data files.
 
-*   **`descriptor_map_data.tsv` and `descriptor_map_data.xlsx`:** These files contain the processed descriptor map data, as generated by `descriptor_maps.R`.
-
-*   **Word Frequency Data (`.txt`):**
-    *   `*_word-freq.txt`: These files contain the word frequency data for each question, generated by `analysis_IASATposter.R`.
-    *   `*_word-freq-plot-data.txt`: These files contain the data used to generate the word frequency plots, also from `analysis_IASATposter.R`.
-
-*   **`touch_data.txt`** and **`touch_data_fixed.psv.txt`**: This is the main processed data file for the touch survey data, created by `analysis_IASATposter.R`.
+*   **`touch_data.txt`** and **`touch_data_fixed.psv.txt`**: The main processed data files.
+*   **`Per_video/`:** Directory containing per-video data files.
+*   **`README.md`:** Documentation for the processed data.
 
 See [Processed Data/README.md](Processed%20Data/README.md).
 
@@ -344,23 +367,6 @@ This directory contains the output files generated by the `all_words_extractor.p
 This directory contains Python scripts designed for comprehensive text analysis, word extraction, and semantic disambiguation of the qualitative touch survey responses.
 
 See [Analysis/Scripts/README.md](Analysis/Scripts/README.md).
-
-
-### Figures/
-
-This directory contains various plots and visualizations generated by the R scripts. The files are in SVG and PDF formats.
-
-*   **Code Maps (`.svg`):**
-    *   `9set_1_code_map.svg` to `9set_6_code_map.svg`: These are the code map visualizations created by `code_maps.R`.
-    *   `affect_map.svg`, `emotional_map.svg`, `person_map.svg`, `sensory_map.svg`, `top9_code_map.svg`: These are the descriptor maps created by `descriptor_maps.R`.
-
-*   **Word Frequency Plots (`.pdf`):**
-    *   `Emotional_self_word-freq.pdf`, `Emotional_touch_word-freq.pdf`, `Intention&Purpose_word-freq.pdf`, `Sensory_word-freq.pdf`, `Social_body_word-freq.pdf`, `Social_context_word-freq.pdf`, `Social_place_word-freq.pdf`, `Social_self_word-freq.pdf`: These are the word frequency plots generated by `analysis_IASATposter.R`.
-
-*   **Subdirectories:**
-    *   **`Appropriateness/`:** Contains plots related to the appropriateness of touch.
-    *   **`Valence_Arousal/`:** Contains plots related to valence and arousal ratings.
-    *   **`Word_frequencies/`:** This directory contains duplicates of the word frequency plots.
 
 
 ### LICENSE
