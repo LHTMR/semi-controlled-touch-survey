@@ -1,0 +1,52 @@
+
+Coordinates are min = 156.5, max = 1244.5  (square)
+
+https://community.qualtrics.com/custom-code-12/heat-map-what-are-the-pixels-corresponding-to-the-edges-of-the-a-region-23412?postid=80567#post80567
+
+
+1088 x 1088 (dimensions when hovering over region in Chrome with inspect element)
+
+### inspect element from qualtrics in builder view ###
+
+<svg height="1400" version="1.1" width="1400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="overflow: hidden; position: relative; top: -0.65625px;">
+
+<rect x="0" y="0" width="1400" height="1400" rx="0" ry="0" fill="#000000" stroke="none" fill-opacity="0" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); fill-opacity: 0; cursor: default;"></rect>
+
+<path fill="none" stroke="#ffffff" d="M156.5,156.5C156.5,156.5,1244.5,156.5,1244.5,156.5C1244.5,156.5,1244.5,1244.5,1244.5,1244.5C1244.5,1244.5,156.5,1244.5,156.5,1244.5C156.5,1244.5,156.5,156.5,156.5,156.5" stroke-linejoin="round" stroke-linecap="round" stroke-width="4" opacity="0.2" transform="matrix(1,0,0,1,0,0)" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke-linejoin: round; stroke-linecap: round; opacity: 0.2;"></path>
+
+<path fill="none" stroke="#ffffff" d="M156.5,156.5C156.5,156.5,1244.5,156.5,1244.5,156.5C1244.5,156.5,1244.5,1244.5,1244.5,1244.5C1244.5,1244.5,156.5,1244.5,156.5,1244.5C156.5,1244.5,156.5,156.5,156.5,156.5" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" opacity="0.2" transform="matrix(1,0,0,1,0,0)" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke-linejoin: round; stroke-linecap: round; opacity: 0.2;"></path>
+
+<desc style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);">Created with Raphaël 2.3.0</desc>
+
+<defs style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"></defs>
+
+<path fill="#ff0000" stroke="#000000" d="M156.5,156.5L1244.5,156.5L1244.5,1244.5L156.5,1244.5Z" stroke-opacity="1" stroke-width="0.75" fill-opacity="0.2" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0); stroke-opacity: 1; fill-opacity: 0.2; cursor: move;"></path>
+
+</svg>
+
+
+### interpretation ####
+
+https://css-tricks.com/svg-path-syntax-illustrated-guide/
+
+d="
+M 156.5,156.5 # start location
+C 156.5,156.5, # bezier point 1
+	1244.5,156.5, # bezier point 2
+	1244.5,156.5 # bezier point 3
+
+# first line from 156.5,156.5 to 1244.5,156.5
+
+C 1244.5,156.5,1244.5,1244.5,1244.5,1244.5
+
+# second line from 1244.5,156.5 to 1244.5,1244.5
+
+C 1244.5,1244.5,156.5,1244.5,156.5,1244.5
+
+# third line from 1244.5,1244.5 to 156.5,1244.5
+
+C 156.5,1244.5,156.5,156.5,156.5,156.5
+
+# fourth line from 156.5,1244.5 to 156.5,156.5
+" 
+

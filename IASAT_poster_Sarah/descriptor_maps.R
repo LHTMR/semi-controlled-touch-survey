@@ -2,13 +2,18 @@ library(tidyverse)
 library(svglite)
 library(ggdark)
 
-data_folder <- "Processed Data/"
-files <- list.files(data_folder, "plot-data")
+# input path ####
+PROCESSED_DATA_FOLDER <- "Processed Data/"
+
+# output paths ####
+FIGURES_FOLDER <- "IASAT_poster_Sarah/Figures/"
+
+files <- list.files(PROCESSED_DATA_FOLDER, "plot-data")
 questions <- str_remove(files, "_word-freq-plot-data\\.txt")
 
 word_freqs <- tibble()
 for (f in seq_along(files)) {
-  raw_data <- read_tsv(paste0(data_folder, files[f]), col_types = "ciiiiicccccdic") %>% 
+  raw_data <- read_tsv(paste0(PROCESSED_DATA_FOLDER, files[f]), col_types = "ciiiiicccccdic") %>% 
     mutate(Question = questions[f])
   word_freqs <- rbind(
     word_freqs,
@@ -135,7 +140,7 @@ by_descriptor <- by_feature %>%
   ) 
 
 by_descriptor %>% 
-  write_tsv(paste0(data_folder, "descriptor_map_data.tsv"))
+  write_tsv(paste0(PROCESSED_DATA_FOLDER, "descriptor_map_data.tsv"))
 
 by_descriptor_overall <- by_descriptor %>% 
   group_by(descriptor) %>% 
@@ -177,7 +182,7 @@ by_descriptor %>%
   scale_fill_manual(values = c("#EDC948", "#17becf")) +
   labs(x = NULL) 
 
-ggsave("Figures/sensory_map.svg", width = 6, height = 4.8)
+ggsave(paste0(FIGURES_FOLDER,"sensory_map.svg"), width = 6, height = 4.8)
 
 
 person_descriptors <- c(
@@ -194,7 +199,7 @@ by_descriptor %>%
   scale_fill_manual(values = c("#EDC948", "#17becf")) +
   labs(x = NULL) 
 
-ggsave("Figures/person_map.svg", width = 6, height = 4.8)
+ggsave(paste0(FIGURES_FOLDER,"person_map.svg"), width = 6, height = 4.8)
 
 affect_descriptors <- c(
   "comfort", "attention", "annoy",
@@ -211,7 +216,7 @@ by_descriptor %>%
   scale_fill_manual(values = c("#EDC948", "#17becf")) +
   labs(x = NULL) 
 
-ggsave("Figures/affect_map.svg", width = 6.5, height = 4.5)
+ggsave(paste0(FIGURES_FOLDER,"affect_map.svg"), width = 6.5, height = 4.5)
 
 
 
@@ -228,7 +233,7 @@ by_descriptor %>%
   scale_fill_manual(values = c("#EDC948", "#17becf")) +
   labs(x = NULL) 
 
-ggsave("Figures/place_map.svg", width = 8, height = 4.8)
+ggsave(paste0(FIGURES_FOLDER,"place_map.svg"), width = 8, height = 4.8)
 
 by_descriptor %>% 
   mutate(Descriptor = factor(descriptor, levels = freq_order)) %>% 
@@ -239,6 +244,6 @@ by_descriptor %>%
   scale_fill_manual(values = c("#EDC948", "#17becf")) +
   labs(x = NULL) 
 
-ggsave("Figures/intention_map.svg", width = 8, height = 4.8)
+ggsave(paste0(FIGURES_FOLDER,"intention_map.svg"), width = 8, height = 4.8)
 
 
