@@ -1,0 +1,1322 @@
+{
+  "12": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "comfort",
+          "comforting",
+          "consolation",
+          "romantic",
+          "embracing"
+        ],
+        "faction_positive_keywords": [
+          "distracted",
+          "distracting",
+          "attention",
+          "irritating",
+          "pointing"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "definitely",
+          "sure",
+          "no_okay",
+          "possibly",
+          "yes"
+        ],
+        "faction_positive_keywords": [
+          "hugging",
+          "patting",
+          "forearm",
+          "arm",
+          "touch"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "withdrawing",
+          "stress",
+          "counselling",
+          "consolation",
+          "physiotherapist"
+        ],
+        "faction_positive_keywords": [
+          "patting",
+          "child",
+          "fondness",
+          "affectionate",
+          "rubbing"
+        ]
+      }
+    ]
+  },
+  "9": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "comfort",
+          "comforting",
+          "soothing",
+          "supportive",
+          "reassuring"
+        ],
+        "faction_positive_keywords": [
+          "gesture",
+          "attention_grabbing",
+          "touch",
+          "not_touch",
+          "tapping"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "affectionate",
+          "affection",
+          "sensual",
+          "partner",
+          "intimacy"
+        ],
+        "faction_positive_keywords": [
+          "shoulder",
+          "hospital",
+          "apoliogisin",
+          "appointment",
+          "forearm"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "patting",
+          "affection",
+          "affectionate",
+          "hugging",
+          "stroking"
+        ],
+        "faction_positive_keywords": [
+          "questa",
+          "bedroom",
+          "unamica",
+          "fever",
+          "excitement"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "sensual",
+          "romantic",
+          "romance",
+          "intimate",
+          "affection"
+        ],
+        "faction_positive_keywords": [
+          "interrupting",
+          "permission",
+          "annoyed",
+          "annoy",
+          "without_attention"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "forearm",
+          "rubbing",
+          "touch",
+          "patting",
+          "touching"
+        ],
+        "faction_positive_keywords": [
+          "romance",
+          "conversation",
+          "bus",
+          "opportunity",
+          "friendship"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "toddler",
+          "child",
+          "kid",
+          "playground",
+          "sibling"
+        ],
+        "faction_positive_keywords": [
+          "colleague",
+          "massage",
+          "professional",
+          "examination",
+          "exam"
+        ]
+      }
+    ]
+  },
+  "18": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "sensual",
+          "romantic",
+          "intercourse",
+          "pleasurable",
+          "intimate"
+        ],
+        "faction_positive_keywords": [
+          "harassment",
+          "annoy",
+          "permission",
+          "irritability",
+          "annoyed"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "romance",
+          "intimacy",
+          "intercourse",
+          "bedroom",
+          "brainstorm"
+        ],
+        "faction_positive_keywords": [
+          "forearm",
+          "massaging",
+          "massage",
+          "diagnosis",
+          "symptoms"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "sibling",
+          "playful",
+          "child",
+          "ironic",
+          "calming"
+        ],
+        "faction_positive_keywords": [
+          "procedure",
+          "doctor",
+          "permission",
+          "exam",
+          "salon"
+        ]
+      }
+    ]
+  },
+  "5": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "romantic",
+          "sensual",
+          "comfort",
+          "intimate",
+          "romance"
+        ],
+        "faction_positive_keywords": [
+          "distracted",
+          "annoy",
+          "distracting",
+          "without_attention",
+          "annoying"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "nephew",
+          "child",
+          "annoyed",
+          "grandson",
+          "annoy"
+        ],
+        "faction_positive_keywords": [
+          "massage",
+          "reiki",
+          "healer",
+          "romantic",
+          "sensual"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "romance",
+          "street",
+          "jestem",
+          "partner",
+          "mojej"
+        ],
+        "faction_positive_keywords": [
+          "forearm",
+          "tapping",
+          "wrist",
+          "taps",
+          "touch"
+        ]
+      }
+    ]
+  },
+  "10": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "comfort",
+          "affection",
+          "affectionate",
+          "hugging",
+          "comforting"
+        ],
+        "faction_positive_keywords": [
+          "annoyance",
+          "annoy",
+          "boredom",
+          "distracting",
+          "permission"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "arousal",
+          "movements",
+          "discomfort",
+          "sensual",
+          "touch"
+        ],
+        "faction_positive_keywords": [
+          "friendship",
+          "acquaintance",
+          "friendliness",
+          "friend",
+          "patronized"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "maybe",
+          "no_okay",
+          "not_course",
+          "would",
+          "mechaniczny"
+        ],
+        "faction_positive_keywords": [
+          "patting",
+          "touching",
+          "touch",
+          "touched",
+          "stroking"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "romantic",
+          "sensual",
+          "intimate",
+          "affectionate",
+          "affection"
+        ],
+        "faction_positive_keywords": [
+          "annoy",
+          "behavior",
+          "interrupting",
+          "attention",
+          "annoyed"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "sibling",
+          "nephew",
+          "child",
+          "playground",
+          "parent"
+        ],
+        "faction_positive_keywords": [
+          "massaging",
+          "pressing",
+          "hand",
+          "forearm",
+          "medical"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "forearm",
+          "arm",
+          "wrist",
+          "stroking",
+          "patting"
+        ],
+        "faction_positive_keywords": [
+          "street",
+          "stranger",
+          "subway",
+          "pass",
+          "public"
+        ]
+      }
+    ]
+  },
+  "7": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "cozy",
+          "affection",
+          "comfort",
+          "affectionate",
+          "comforting"
+        ],
+        "faction_positive_keywords": [
+          "harassment",
+          "colleague",
+          "behavior",
+          "annoyance",
+          "lecture"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "sensual",
+          "romance",
+          "sexual",
+          "intimacy",
+          "intimate"
+        ],
+        "faction_positive_keywords": [
+          "comforting",
+          "consolation",
+          "calmly",
+          "calming",
+          "calmer"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "mother",
+          "mom",
+          "mum",
+          "topics",
+          "verbs"
+        ],
+        "faction_positive_keywords": [
+          "patting",
+          "hugging",
+          "friendship",
+          "forearm",
+          "acquaintance"
+        ]
+      }
+    ]
+  },
+  "1": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "affection",
+          "affectionate",
+          "massage",
+          "romantic",
+          "comfort"
+        ],
+        "faction_positive_keywords": [
+          "without_attention",
+          "attention",
+          "not_attention",
+          "distracted",
+          "interrupted"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "hospital",
+          "doctor",
+          "bed",
+          "fare",
+          "upset"
+        ],
+        "faction_positive_keywords": [
+          "touch",
+          "touching",
+          "touched",
+          "stroking",
+          "forearm"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "doctor",
+          "medical",
+          "clinic",
+          "permission",
+          "treatment"
+        ],
+        "faction_positive_keywords": [
+          "without_attention",
+          "not_attention",
+          "attention",
+          "distracting",
+          "child"
+        ]
+      }
+    ]
+  },
+  "6": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "massage",
+          "comfortable",
+          "forearm",
+          "not_comfortable",
+          "vein"
+        ],
+        "faction_positive_keywords": [
+          "attention_grabbing",
+          "attention",
+          "child",
+          "socializing",
+          "annoy"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "child",
+          "parent",
+          "granddaughter",
+          "sibling",
+          "daughter"
+        ],
+        "faction_positive_keywords": [
+          "doctor",
+          "permission",
+          "professional",
+          "accused",
+          "irregularities"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "acquaintance",
+          "classmate",
+          "colleague",
+          "roommate",
+          "attention_grabbing"
+        ],
+        "faction_positive_keywords": [
+          "child",
+          "doctor",
+          "discomfort",
+          "kid",
+          "maternity"
+        ]
+      }
+    ]
+  },
+  "23": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "comfort",
+          "comforting",
+          "romantic",
+          "soothing",
+          "sensual"
+        ],
+        "faction_positive_keywords": [
+          "annoy",
+          "mocking",
+          "frustration",
+          "competition",
+          "attention_grabbing"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "caring",
+          "comforting",
+          "calming",
+          "empathy",
+          "consolation"
+        ],
+        "faction_positive_keywords": [
+          "erotic",
+          "intercourse",
+          "sexual",
+          "aroused",
+          "sensual"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "romance",
+          "intercourse",
+          "romantic",
+          "lively",
+          "love"
+        ],
+        "faction_positive_keywords": [
+          "forearm",
+          "upperarm",
+          "rubbing",
+          "shoulder",
+          "wrist"
+        ]
+      }
+    ]
+  },
+  "17": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "sensual",
+          "romantic",
+          "romance",
+          "intimate",
+          "affection"
+        ],
+        "faction_positive_keywords": [
+          "annoy",
+          "annoyed",
+          "irritating",
+          "grievance",
+          "annoying"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "dermatologist",
+          "cream",
+          "pimple",
+          "anesthesiologist",
+          "injection"
+        ],
+        "faction_positive_keywords": [
+          "romance",
+          "desire",
+          "flirting",
+          "conversation",
+          "affectionate"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "definitely",
+          "probably",
+          "amusement",
+          "maybe",
+          "lively"
+        ],
+        "faction_positive_keywords": [
+          "touch",
+          "touched",
+          "touching",
+          "caresses",
+          "rubbing"
+        ]
+      }
+    ]
+  },
+  "11": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "comfort",
+          "comforting",
+          "soothing",
+          "without_consolation",
+          "beloved"
+        ],
+        "faction_positive_keywords": [
+          "distracting",
+          "distracted",
+          "annoy",
+          "behavior",
+          "tapping"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "permission",
+          "conversation",
+          "colleague",
+          "people",
+          "workplace"
+        ],
+        "faction_positive_keywords": [
+          "tapping",
+          "touch",
+          "stroking",
+          "forearm",
+          "touching"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "grandmoms",
+          "preste",
+          "parent",
+          "child",
+          "antebrazo"
+        ],
+        "faction_positive_keywords": [
+          "forearm",
+          "shoulder",
+          "physiotherapist",
+          "massage",
+          "touching"
+        ]
+      }
+    ]
+  },
+  "16": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "romantic",
+          "romance",
+          "sensual",
+          "intimate",
+          "affectionate"
+        ],
+        "faction_positive_keywords": [
+          "permission",
+          "annoyed",
+          "diagnosis",
+          "annoy",
+          "elevated"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "childlike",
+          "childish",
+          "playful",
+          "playground",
+          "child"
+        ],
+        "faction_positive_keywords": [
+          "massaging",
+          "massage",
+          "tenderness",
+          "forearm",
+          "rubbed"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "probably",
+          "should",
+          "would",
+          "maybe",
+          "cheer"
+        ],
+        "faction_positive_keywords": [
+          "affection",
+          "affectionate",
+          "stroking",
+          "touch",
+          "touching"
+        ]
+      }
+    ]
+  },
+  "2": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "sensual",
+          "romantic",
+          "affection",
+          "comfort",
+          "affectionate"
+        ],
+        "faction_positive_keywords": [
+          "annoy",
+          "annoyed",
+          "permission",
+          "impatience",
+          "irritability"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "physiotherapist",
+          "diagnosis",
+          "exercising",
+          "doctor",
+          "medical"
+        ],
+        "faction_positive_keywords": [
+          "affectionate",
+          "romance",
+          "affection",
+          "attract",
+          "playful"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "forearm",
+          "touch",
+          "touching",
+          "wrist",
+          "arm"
+        ],
+        "faction_positive_keywords": [
+          "hospital",
+          "supermarket",
+          "stuzzicare",
+          "romantyczny",
+          "fare"
+        ]
+      }
+    ]
+  },
+  "13": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "sensual",
+          "romantic",
+          "romanticism",
+          "romance",
+          "intimacy"
+        ],
+        "faction_positive_keywords": [
+          "annoy",
+          "accident",
+          "annoyed",
+          "permission",
+          "arm"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "comfortable",
+          "swollen",
+          "tingly",
+          "ticklish",
+          "soothed"
+        ],
+        "faction_positive_keywords": [
+          "romance",
+          "desire",
+          "marital",
+          "affectionate",
+          "romanticism"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "pass",
+          "level",
+          "bed",
+          "form",
+          "romantyczny"
+        ],
+        "faction_positive_keywords": [
+          "forearm",
+          "arm",
+          "hand",
+          "affection",
+          "stroking"
+        ]
+      }
+    ]
+  },
+  "22": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "romantic",
+          "comfort",
+          "affection",
+          "affectionate",
+          "embracing"
+        ],
+        "faction_positive_keywords": [
+          "annoy",
+          "permission",
+          "annoyed",
+          "avoid",
+          "friction"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "comforting",
+          "hospital",
+          "reassuring",
+          "comfort",
+          "supportive"
+        ],
+        "faction_positive_keywords": [
+          "sensual",
+          "non_sexual",
+          "sexual",
+          "horny",
+          "intimate"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "jestem",
+          "think",
+          "especie",
+          "understanding",
+          "rozgrzewanie"
+        ],
+        "faction_positive_keywords": [
+          "rubbing",
+          "rubbed",
+          "massaging",
+          "massage",
+          "touching"
+        ]
+      }
+    ]
+  },
+  "8": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "affection",
+          "affectionate",
+          "romantic",
+          "sensual",
+          "romance"
+        ],
+        "faction_positive_keywords": [
+          "distracted",
+          "pointing",
+          "impacting",
+          "distracting",
+          "wrist"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "sexual",
+          "intercourse",
+          "romance",
+          "erotic",
+          "flirting"
+        ],
+        "faction_positive_keywords": [
+          "comforting",
+          "calming",
+          "without_comforting",
+          "soothing",
+          "reassuring"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "touch",
+          "touching",
+          "patting",
+          "rubbing",
+          "massage"
+        ],
+        "faction_positive_keywords": [
+          "possibly",
+          "maybe",
+          "probably",
+          "would",
+          "no_okay"
+        ]
+      }
+    ]
+  },
+  "15": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "permission",
+          "annoyed",
+          "discouragement",
+          "agitation",
+          "irritated"
+        ],
+        "faction_positive_keywords": [
+          "romantic",
+          "sensual",
+          "romance",
+          "intercourse",
+          "intimate"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "lively",
+          "travelling",
+          "boredom",
+          "amusement",
+          "maybe"
+        ],
+        "faction_positive_keywords": [
+          "touching",
+          "touch",
+          "forearm",
+          "touched",
+          "caresses"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "sunscreen",
+          "soothing",
+          "calming",
+          "pimple",
+          "comforting"
+        ],
+        "faction_positive_keywords": [
+          "desire",
+          "romance",
+          "sexual",
+          "courtship",
+          "conversation"
+        ]
+      }
+    ]
+  },
+  "21": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "sensual",
+          "erotic",
+          "romance",
+          "sexual",
+          "intimate"
+        ],
+        "faction_positive_keywords": [
+          "not_comforting",
+          "comforting",
+          "calmer",
+          "calming",
+          "reassuring"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "cozy",
+          "not_comforting",
+          "comforting",
+          "comfort",
+          "hugging"
+        ],
+        "faction_positive_keywords": [
+          "friction",
+          "permission",
+          "touch",
+          "distracting",
+          "traffic"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "pociesza",
+          "apartment",
+          "incoraggiarmi",
+          "confortato",
+          "pocieszenie"
+        ],
+        "faction_positive_keywords": [
+          "touching",
+          "touch",
+          "stroking",
+          "touched",
+          "patting"
+        ]
+      }
+    ]
+  },
+  "24": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "massaging",
+          "affection",
+          "not_super_comforting",
+          "patting",
+          "affectionate"
+        ],
+        "faction_positive_keywords": [
+          "mobile",
+          "monitor",
+          "competition",
+          "car",
+          "rodrigo"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "forearm",
+          "arm",
+          "diagnosis",
+          "itchy",
+          "scratching"
+        ],
+        "faction_positive_keywords": [
+          "romantic",
+          "romance",
+          "intimate",
+          "love",
+          "sensual"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "not_super_comforting",
+          "comforting",
+          "empathy",
+          "empathize",
+          "stress"
+        ],
+        "faction_positive_keywords": [
+          "stroking",
+          "horny",
+          "erotic",
+          "nasty",
+          "rubbing"
+        ]
+      }
+    ]
+  },
+  "19": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "calmer",
+          "calm",
+          "hospital",
+          "stress",
+          "calmly"
+        ],
+        "faction_positive_keywords": [
+          "sensual",
+          "romantic",
+          "romance",
+          "erotic",
+          "intimate"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "comfort",
+          "comforting",
+          "soothing",
+          "healer",
+          "supportive"
+        ],
+        "faction_positive_keywords": [
+          "touch",
+          "friction",
+          "touching",
+          "touched",
+          "stroking"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "affection",
+          "affectionate",
+          "patting",
+          "embracing",
+          "hugging"
+        ],
+        "faction_positive_keywords": [
+          "amusement",
+          "bedroom",
+          "bed",
+          "chilling",
+          "cold"
+        ]
+      }
+    ]
+  },
+  "14": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "romantic",
+          "romantically",
+          "sensual",
+          "romance",
+          "intimate"
+        ],
+        "faction_positive_keywords": [
+          "permission",
+          "annoy",
+          "doctor",
+          "annoyed",
+          "medical"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "stroking",
+          "touching",
+          "touch",
+          "grabing",
+          "touched"
+        ],
+        "faction_positive_keywords": [
+          "hospital",
+          "medico",
+          "comfort",
+          "comforting",
+          "healer"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "forearm",
+          "arm",
+          "definitely",
+          "kinda",
+          "probably"
+        ],
+        "faction_positive_keywords": [
+          "intercourse",
+          "desire",
+          "doctor",
+          "arousal",
+          "examination"
+        ]
+      }
+    ]
+  },
+  "20": {
+    "axes_keywords": [
+      {
+        "axis_index": 1,
+        "faction_negative_keywords": [
+          "sympathise",
+          "trembling",
+          "calm",
+          "agitation",
+          "stress"
+        ],
+        "faction_positive_keywords": [
+          "romantic",
+          "romance",
+          "sensual",
+          "erotic",
+          "erotically"
+        ]
+      },
+      {
+        "axis_index": 2,
+        "faction_negative_keywords": [
+          "comfort",
+          "comforting",
+          "soothing",
+          "relaxing",
+          "calming"
+        ],
+        "faction_positive_keywords": [
+          "friction",
+          "insecurity",
+          "permission",
+          "intention",
+          "provoke"
+        ]
+      },
+      {
+        "axis_index": 3,
+        "faction_negative_keywords": [
+          "dermatological",
+          "forearm",
+          "abrasive",
+          "thigh",
+          "surgery"
+        ],
+        "faction_positive_keywords": [
+          "caring",
+          "affection",
+          "empathy",
+          "affectionate",
+          "friendliness"
+        ]
+      }
+    ]
+  }
+}

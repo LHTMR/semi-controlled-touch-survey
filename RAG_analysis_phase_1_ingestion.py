@@ -70,7 +70,7 @@ def run_phase1_pipeline(data_path: str, dict_path: str):
     """
     logger.info(f"Loading touch data from {data_path}...")
     # Read the dataset (touch_data.txt is tab-separated based on the raw file structure)
-    df = pd.read_csv(data_path, sep="\t", encoding="utf-8")
+    df = pd.read_csv(data_path, sep="|", encoding="utf-8")
 
     reverse_map = load_transformation_dict(dict_path)
 
@@ -149,7 +149,7 @@ def run_phase1_pipeline(data_path: str, dict_path: str):
 if __name__ == "__main__":
     # Ensure you are running this in the same directory as the source files
     micro_data, macro_data = run_phase1_pipeline(
-        data_path="Processed Data/touch_data.txt",
+        data_path="Processed Data/touch_data_fixed.csv.txt",
         dict_path="Analysis/All_words_by_frequency/word_grouping_dict.json",
     )
 
