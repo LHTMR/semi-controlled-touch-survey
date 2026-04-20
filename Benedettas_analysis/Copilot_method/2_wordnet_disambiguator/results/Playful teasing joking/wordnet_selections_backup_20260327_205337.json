@@ -1,0 +1,67 @@
+{
+  "Poke": [
+    "poke.v.03"
+  ],
+  "Annoy": [
+    "annoy.v.01"
+  ],
+  "Joke": [
+    "joke.n.01"
+  ],
+  "Playful": [
+    "playful.a.01"
+  ],
+  "Laugh": [
+    "laugh.n.01"
+  ],
+  "Fun": [
+    "fun.n.01"
+  ],
+  "Tease": [
+    "tease.n.03"
+  ],
+  "Bother": [
+    "fuss.n.02"
+  ],
+  "Tickle": [
+    "tickle.n.01"
+  ],
+  "Funny": [
+    "funny_story.n.01"
+  ],
+  "Messing_around": null,
+  "Play": [
+    "turn.n.03"
+  ],
+  "Mock": [
+    "mock.n.01"
+  ],
+  "Banter": [
+    "banter.n.01"
+  ],
+  "Sarcasm": [
+    "sarcasm.n.01"
+  ],
+  "Giggle": [
+    "giggle.n.01"
+  ],
+  "Silly": [
+    "silly.n.01"
+  ],
+  "Make_me_laugh": null,
+  "Revenge": [
+    "retaliation.n.01"
+  ],
+  "Ticklish": [
+    "delicate.s.05"
+  ],
+  "Make_fun": [
+    "ridicule.v.01"
+  ],
+  "Nose": [
+    "nose.n.01"
+  ],
+  "Making": [
+    "devising.n.01"
+  ]
+}
