@@ -1,0 +1,82 @@
+{
+  "Attention": [
+    "attention.n.01",
+    "care.n.01"
+  ],
+  "Tap": [
+    "tap.v.07"
+  ],
+  "Ask": [
+    "ask.v.01"
+  ],
+  "Poke": [
+    "poke.v.03"
+  ],
+  "Pat": [
+    "tap.n.08",
+    "chuck.v.03",
+    "dab.v.02"
+  ],
+  "Call": [
+    "call.n.06",
+    "visit.v.03"
+  ],
+  "Wake": [
+    "wake.v.01",
+    "wake_up.v.02"
+  ],
+  "Show": [
+    "show.n.01",
+    "show.n.03"
+  ],
+  "Question": [
+    "question.n.01"
+  ],
+  "Grab": [
+    "catch.n.09"
+  ],
+  "Catch": [
+    "catch.v.04",
+    "catch.v.07",
+    "capture.v.02"
+  ],
+  "Line": [
+    "telephone_line.n.02",
+    "channel.n.05",
+    "line.n.29"
+  ],
+  "Look": [
+    "expression.n.01",
+    "look.n.02"
+  ],
+  "Draw": [
+    "pull.v.01",
+    "draw.v.16"
+  ],
+  "Hear": [
+    "hear.v.01"
+  ],
+  "Gesture": [
+    "gesture.n.01"
+  ],
+  "Queue": [
+    "queue.n.01"
+  ],
+  "Talk": [
+    "talk.n.01",
+    "talk.n.02"
+  ],
+  "Knock": [
+    "knock.n.01"
+  ],
+  "Pass": [
+    "guide.v.05"
+  ],
+  "Move": [
+    "move.n.02",
+    "motion.n.03"
+  ],
+  "Alert": [
+    "alert.n.01"
+  ]
+}

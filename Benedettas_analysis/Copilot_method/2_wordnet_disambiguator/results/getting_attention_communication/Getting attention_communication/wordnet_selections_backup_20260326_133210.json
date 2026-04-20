@@ -1,0 +1,24 @@
+{
+  "Attention": [
+    "attention.n.01",
+    "care.n.01"
+  ],
+  "Tap": [
+    "tap.v.07"
+  ],
+  "Ask": [
+    "ask.v.01"
+  ],
+  "Poke": [
+    "poke.v.03"
+  ],
+  "Pat": [
+    "tap.n.08",
+    "chuck.v.03",
+    "dab.v.02"
+  ],
+  "Call": [
+    "call.n.06",
+    "visit.v.03"
+  ]
+}
