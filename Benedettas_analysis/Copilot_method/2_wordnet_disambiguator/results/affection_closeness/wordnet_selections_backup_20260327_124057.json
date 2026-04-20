@@ -1,0 +1,75 @@
+{
+  "Pat": [
+    "tap.n.08"
+  ],
+  "Cuddle": [
+    "cuddle.n.01",
+    "cuddle.v.01",
+    "cuddle.v.02"
+  ],
+  "Stroke": [
+    "stroke.n.04"
+  ],
+  "Caress": [
+    "caress.n.01",
+    "caress.v.01"
+  ],
+  "Affection": [
+    "affection.n.01"
+  ],
+  "Romantic": [
+    "amatory.s.01"
+  ],
+  "Hug": [
+    "hug.n.01"
+  ],
+  "Partner": [
+    "spouse.n.01"
+  ],
+  "Love": [
+    "love.n.01"
+  ],
+  "Close": [
+    "close.v.11"
+  ],
+  "Warm": [
+    "warm.v.01"
+  ],
+  "Pet": [
+    "pet.n.01"
+  ],
+  "Intimate": [
+    "confidant.n.01",
+    "intimate.s.04"
+  ],
+  "Together": [
+    "together.s.01",
+    "together.r.01"
+  ],
+  "Affectionate": [
+    "affectionate.s.01"
+  ],
+  "Kiss": [
+    "kiss.n.01"
+  ],
+  "Hold_hands": null,
+  "Gentle": [
+    "gentle.s.01"
+  ],
+  "Loving": [
+    "love.v.01",
+    "love.v.03"
+  ],
+  "Sweet": [
+    "gratifying.s.01"
+  ],
+  "Embrace": [
+    "embrace.n.01"
+  ],
+  "Warmth": [
+    "warmheartedness.n.01"
+  ],
+  "Rubbing": [
+    "rub.v.01"
+  ]
+}

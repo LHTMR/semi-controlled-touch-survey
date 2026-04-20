@@ -1,0 +1,26 @@
+{
+  "Pat": [
+    "tap.n.08"
+  ],
+  "Cuddle": [
+    "cuddle.n.01",
+    "cuddle.v.01",
+    "cuddle.v.02"
+  ],
+  "Stroke": [
+    "stroke.n.04"
+  ],
+  "Caress": [
+    "caress.n.01",
+    "caress.v.01"
+  ],
+  "Affection": [
+    "affection.n.01"
+  ],
+  "Romantic": [
+    "amatory.s.01"
+  ],
+  "Hug": [
+    "hug.n.01"
+  ]
+}
