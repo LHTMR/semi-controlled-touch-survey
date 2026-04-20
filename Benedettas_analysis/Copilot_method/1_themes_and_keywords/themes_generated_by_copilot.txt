@@ -1,0 +1,24 @@
+Top themes (ranked by prevalence)
+1. Leisure at home (TV / couch / bed / “just chilling”) — 15.9% (450)
+Scenes of sitting or lying together on the sofa/bed, relaxing, watching TV/films/series, or taking it easy at home. [social_context | Excel]
+2. Getting attention / communication — 14.9% (420)
+Touches used to call someone’s attention, ask a question, wake someone, or signal something in noisy or distracted settings (e.g., “tap,” “poke,” “look”). [social_context | Excel]
+3. Comfort & emotional support — 12.4% (350)
+Consoling after bad news, calming anxiety or stress, comforting someone who is sad, crying, upset, or overwhelmed. [social_context | Excel]
+4. Childrelated (care or attention) — 11.4% (321)
+Children using touch to seek attention, ask for help, show playfulness/affection, or be soothed. [social_context | Excel]
+5. Medical / examination / therapy — 10.2% (289)
+Clinical or therapeutic contexts (doctor/nurse checks, injections/blood draws, physio/massage, pain assessment). [social_context | Excel]
+6. Affection / closeness (nonexplicit) — 9.8% (277)
+Nonsexual closeness such as cuddling, hugging, gentle stroking/caressing to show care or warmth. (Notes: entries that contained explicit sexual details were not analyzed beyond this highlevel, nonexplicit category.) [social_context | Excel]
+7. Work / school context — 8.2% (231)
+Colleagues/classmates/teachers using brief touch to get attention, offer reassurance, or interact during meetings/classes. [social_context | Excel]
+8. Pain / injury / soreness — 4.1% (115)
+Touch tied to injury, soreness, cramps, or checking whether an area hurts. [social_context | Excel]
+9. Playful / teasing / joking — 3.7% (106)
+Light teasing, playful pokes/taps, or trying to “annoy” for amusement. [social_context | Excel]
+10. Stranger / boundary concerns — 2.3% (66)
+Unwanted or uncomfortable touch (e.g., “stranger,” “creepy,” “without consent”), boundary testing, or ambiguous social approaches. [social_context | Excel]
+
+
+
