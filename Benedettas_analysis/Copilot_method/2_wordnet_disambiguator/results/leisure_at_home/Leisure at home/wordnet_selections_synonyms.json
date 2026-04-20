@@ -1,0 +1,4408 @@
+{
+  "Watching": [
+    {
+      "synset": "observation.n.02",
+      "definition": "the act of observing; taking a patient look",
+      "synonyms": [
+        "observation",
+        "observance"
+      ],
+      "closest_words": [
+        "monitoring",
+        "sighting",
+        "stargazing",
+        "look",
+        "landfall",
+        "glance",
+        "scrutiny",
+        "peek",
+        "squint",
+        "stare",
+        "evil eye",
+        "sightseeing",
+        "lookout",
+        "view",
+        "dekko",
+        "sensing",
+        "eye-beaming",
+        "side-glance",
+        "gaze",
+        "glare"
+      ],
+      "closest_words_info": [
+        {
+          "word": "monitoring",
+          "distance": 0.04761904761904767,
+          "synset": "monitoring.n.01"
+        },
+        {
+          "word": "sighting",
+          "distance": 0.04761904761904767,
+          "synset": "sighting.n.01"
+        },
+        {
+          "word": "stargazing",
+          "distance": 0.04761904761904767,
+          "synset": "stargazing.n.01"
+        },
+        {
+          "word": "look",
+          "distance": 0.052631578947368474,
+          "synset": "look.n.02"
+        },
+        {
+          "word": "landfall",
+          "distance": 0.09090909090909094,
+          "synset": "landfall.n.02"
+        },
+        {
+          "word": "glance",
+          "distance": 0.09999999999999998,
+          "synset": "glance.n.01"
+        },
+        {
+          "word": "scrutiny",
+          "distance": 0.09999999999999998,
+          "synset": "scrutiny.n.02"
+        },
+        {
+          "word": "peek",
+          "distance": 0.09999999999999998,
+          "synset": "peek.n.01"
+        },
+        {
+          "word": "squint",
+          "distance": 0.09999999999999998,
+          "synset": "squint.n.02"
+        },
+        {
+          "word": "stare",
+          "distance": 0.09999999999999998,
+          "synset": "stare.n.01"
+        },
+        {
+          "word": "evil eye",
+          "distance": 0.09999999999999998,
+          "synset": "evil_eye.n.01"
+        },
+        {
+          "word": "sightseeing",
+          "distance": 0.09999999999999998,
+          "synset": "sightseeing.n.01"
+        },
+        {
+          "word": "lookout",
+          "distance": 0.09999999999999998,
+          "synset": "lookout.n.04"
+        },
+        {
+          "word": "view",
+          "distance": 0.09999999999999998,
+          "synset": "view.n.03"
+        },
+        {
+          "word": "dekko",
+          "distance": 0.09999999999999998,
+          "synset": "dekko.n.01"
+        },
+        {
+          "word": "sensing",
+          "distance": 0.11111111111111116,
+          "synset": "sensing.n.02"
+        },
+        {
+          "word": "eye-beaming",
+          "distance": 0.1428571428571429,
+          "synset": "eye-beaming.n.01"
+        },
+        {
+          "word": "side-glance",
+          "distance": 0.1428571428571429,
+          "synset": "side-glance.n.01"
+        },
+        {
+          "word": "gaze",
+          "distance": 0.1428571428571429,
+          "synset": "gaze.n.01"
+        },
+        {
+          "word": "glare",
+          "distance": 0.1428571428571429,
+          "synset": "glare.n.02"
+        }
+      ]
+    },
+    {
+      "synset": "watch.v.01",
+      "definition": "look attentively",
+      "synonyms": [
+        "watch"
+      ],
+      "closest_words": [
+        "witness",
+        "rubberneck",
+        "watch",
+        "observe",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag"
+      ],
+      "closest_words_info": [
+        {
+          "word": "witness",
+          "distance": 0.33333333333333337,
+          "synset": "witness.v.01"
+        },
+        {
+          "word": "rubberneck",
+          "distance": 0.33333333333333337,
+          "synset": "rubberneck.v.01"
+        },
+        {
+          "word": "watch",
+          "distance": 0.33333333333333337,
+          "synset": "watch.v.03"
+        },
+        {
+          "word": "observe",
+          "distance": 0.33333333333333337,
+          "synset": "observe.v.04"
+        },
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        }
+      ]
+    },
+    {
+      "synset": "watch.v.03",
+      "definition": "see or watch",
+      "synonyms": [
+        "watch",
+        "view",
+        "see",
+        "catch",
+        "take_in"
+      ],
+      "closest_words": [
+        "visualize",
+        "spectate",
+        "preview",
+        "image",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag"
+      ],
+      "closest_words_info": [
+        {
+          "word": "visualize",
+          "distance": 0.19999999999999996,
+          "synset": "visualize.v.02"
+        },
+        {
+          "word": "spectate",
+          "distance": 0.19999999999999996,
+          "synset": "spectate.v.01"
+        },
+        {
+          "word": "preview",
+          "distance": 0.19999999999999996,
+          "synset": "preview.v.01"
+        },
+        {
+          "word": "image",
+          "distance": 0.33333333333333337,
+          "synset": "image.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.6,
+          "synset": "gag.v.07"
+        }
+      ]
+    }
+  ],
+  "Tv": [
+    {
+      "synset": "television_receiver.n.01",
+      "definition": "an electronic device that receives television signals and displays them on a screen",
+      "synonyms": [
+        "television_receiver",
+        "television",
+        "television_set",
+        "tv_set",
+        "idiot_box",
+        "boob_tube",
+        "telly",
+        "goggle_box"
+      ],
+      "closest_words": [
+        "receiver",
+        "direction finder",
+        "radio receiver",
+        "satellite receiver",
+        "set",
+        "clock radio",
+        "crystal set",
+        "goniometer",
+        "heterodyne receiver",
+        "push-button radio",
+        "radio compass",
+        "transmitter",
+        "electronic equipment",
+        "jammer",
+        "radio transmitter",
+        "satellite transmitter",
+        "television transmitter",
+        "amplifier",
+        "audio system",
+        "cassette player"
+      ],
+      "closest_words_info": [
+        {
+          "word": "receiver",
+          "distance": 0.04761904761904767,
+          "synset": "receiver.n.01"
+        },
+        {
+          "word": "direction finder",
+          "distance": 0.09090909090909094,
+          "synset": "direction_finder.n.01"
+        },
+        {
+          "word": "radio receiver",
+          "distance": 0.09090909090909094,
+          "synset": "radio_receiver.n.01"
+        },
+        {
+          "word": "satellite receiver",
+          "distance": 0.09090909090909094,
+          "synset": "satellite_receiver.n.01"
+        },
+        {
+          "word": "set",
+          "distance": 0.09999999999999998,
+          "synset": "set.n.13"
+        },
+        {
+          "word": "clock radio",
+          "distance": 0.13043478260869568,
+          "synset": "clock_radio.n.01"
+        },
+        {
+          "word": "crystal set",
+          "distance": 0.13043478260869568,
+          "synset": "crystal_set.n.01"
+        },
+        {
+          "word": "goniometer",
+          "distance": 0.13043478260869568,
+          "synset": "goniometer.n.01"
+        },
+        {
+          "word": "heterodyne receiver",
+          "distance": 0.13043478260869568,
+          "synset": "heterodyne_receiver.n.01"
+        },
+        {
+          "word": "push-button radio",
+          "distance": 0.13043478260869568,
+          "synset": "push-button_radio.n.01"
+        },
+        {
+          "word": "radio compass",
+          "distance": 0.13043478260869568,
+          "synset": "radio_compass.n.01"
+        },
+        {
+          "word": "transmitter",
+          "distance": 0.1428571428571429,
+          "synset": "transmitter.n.03"
+        },
+        {
+          "word": "electronic equipment",
+          "distance": 0.1578947368421053,
+          "synset": "electronic_equipment.n.01"
+        },
+        {
+          "word": "jammer",
+          "distance": 0.18181818181818177,
+          "synset": "jammer.n.01"
+        },
+        {
+          "word": "radio transmitter",
+          "distance": 0.18181818181818177,
+          "synset": "radio_transmitter.n.01"
+        },
+        {
+          "word": "satellite transmitter",
+          "distance": 0.18181818181818177,
+          "synset": "satellite_transmitter.n.01"
+        },
+        {
+          "word": "television transmitter",
+          "distance": 0.18181818181818177,
+          "synset": "television_transmitter.n.01"
+        },
+        {
+          "word": "amplifier",
+          "distance": 0.19999999999999996,
+          "synset": "amplifier.n.01"
+        },
+        {
+          "word": "audio system",
+          "distance": 0.19999999999999996,
+          "synset": "audio_system.n.01"
+        },
+        {
+          "word": "cassette player",
+          "distance": 0.19999999999999996,
+          "synset": "cassette_player.n.01"
+        }
+      ]
+    }
+  ],
+  "Movie": [
+    {
+      "synset": "movie.n.01",
+      "definition": "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+      "synonyms": [
+        "film",
+        "picture",
+        "moving_picture",
+        "moving-picture_show",
+        "motion_picture",
+        "motion-picture_show",
+        "picture_show",
+        "pic",
+        "flick"
+      ],
+      "closest_words": [
+        "telefilm",
+        "feature",
+        "final cut",
+        "home movie",
+        "collage film",
+        "coming attraction",
+        "shoot-'em-up",
+        "short subject",
+        "documentary",
+        "cinema verite",
+        "film noir",
+        "skin flick",
+        "rough cut",
+        "silent movie",
+        "slow motion",
+        "talking picture",
+        "three-D",
+        "musical",
+        "product",
+        "show"
+      ],
+      "closest_words_info": [
+        {
+          "word": "telefilm",
+          "distance": 0.05882352941176472,
+          "synset": "telefilm.n.01"
+        },
+        {
+          "word": "feature",
+          "distance": 0.05882352941176472,
+          "synset": "feature.n.03"
+        },
+        {
+          "word": "final cut",
+          "distance": 0.05882352941176472,
+          "synset": "final_cut.n.01"
+        },
+        {
+          "word": "home movie",
+          "distance": 0.05882352941176472,
+          "synset": "home_movie.n.01"
+        },
+        {
+          "word": "collage film",
+          "distance": 0.05882352941176472,
+          "synset": "collage_film.n.01"
+        },
+        {
+          "word": "coming attraction",
+          "distance": 0.05882352941176472,
+          "synset": "coming_attraction.n.01"
+        },
+        {
+          "word": "shoot-'em-up",
+          "distance": 0.05882352941176472,
+          "synset": "shoot-'em-up.n.01"
+        },
+        {
+          "word": "short subject",
+          "distance": 0.05882352941176472,
+          "synset": "short_subject.n.01"
+        },
+        {
+          "word": "documentary",
+          "distance": 0.05882352941176472,
+          "synset": "documentary.n.01"
+        },
+        {
+          "word": "cinema verite",
+          "distance": 0.05882352941176472,
+          "synset": "cinema_verite.n.01"
+        },
+        {
+          "word": "film noir",
+          "distance": 0.05882352941176472,
+          "synset": "film_noir.n.01"
+        },
+        {
+          "word": "skin flick",
+          "distance": 0.05882352941176472,
+          "synset": "skin_flick.n.01"
+        },
+        {
+          "word": "rough cut",
+          "distance": 0.05882352941176472,
+          "synset": "rough_cut.n.01"
+        },
+        {
+          "word": "silent movie",
+          "distance": 0.05882352941176472,
+          "synset": "silent_movie.n.01"
+        },
+        {
+          "word": "slow motion",
+          "distance": 0.05882352941176472,
+          "synset": "slow_motion.n.01"
+        },
+        {
+          "word": "talking picture",
+          "distance": 0.05882352941176472,
+          "synset": "talking_picture.n.01"
+        },
+        {
+          "word": "three-D",
+          "distance": 0.05882352941176472,
+          "synset": "three-d.n.01"
+        },
+        {
+          "word": "musical",
+          "distance": 0.05882352941176472,
+          "synset": "musical.n.01"
+        },
+        {
+          "word": "product",
+          "distance": 0.06666666666666665,
+          "synset": "product.n.02"
+        },
+        {
+          "word": "show",
+          "distance": 0.07692307692307687,
+          "synset": "show.n.03"
+        }
+      ]
+    }
+  ],
+  "Show": [],
+  "Series": [
+    {
+      "synset": "series.n.01",
+      "definition": "similar things placed in order or happening one after another",
+      "synonyms": [],
+      "closest_words": [
+        "Stations",
+        "chain",
+        "cordon",
+        "course",
+        "cycle",
+        "electromotive series",
+        "hierarchy",
+        "nexus",
+        "progression",
+        "rash",
+        "sequence",
+        "string",
+        "succession",
+        "wave train",
+        "helium group",
+        "actinide series",
+        "lanthanide series",
+        "ordering",
+        "gene",
+        "string"
+      ],
+      "closest_words_info": [
+        {
+          "word": "Stations",
+          "distance": 0.07692307692307687,
+          "synset": "stations.n.01"
+        },
+        {
+          "word": "chain",
+          "distance": 0.07692307692307687,
+          "synset": "chain.n.01"
+        },
+        {
+          "word": "cordon",
+          "distance": 0.07692307692307687,
+          "synset": "cordon.n.01"
+        },
+        {
+          "word": "course",
+          "distance": 0.07692307692307687,
+          "synset": "course.n.02"
+        },
+        {
+          "word": "cycle",
+          "distance": 0.07692307692307687,
+          "synset": "cycle.n.02"
+        },
+        {
+          "word": "electromotive series",
+          "distance": 0.07692307692307687,
+          "synset": "electromotive_series.n.01"
+        },
+        {
+          "word": "hierarchy",
+          "distance": 0.07692307692307687,
+          "synset": "hierarchy.n.01"
+        },
+        {
+          "word": "nexus",
+          "distance": 0.07692307692307687,
+          "synset": "nexus.n.02"
+        },
+        {
+          "word": "progression",
+          "distance": 0.07692307692307687,
+          "synset": "progression.n.01"
+        },
+        {
+          "word": "rash",
+          "distance": 0.07692307692307687,
+          "synset": "rash.n.02"
+        },
+        {
+          "word": "sequence",
+          "distance": 0.07692307692307687,
+          "synset": "sequence.n.01"
+        },
+        {
+          "word": "string",
+          "distance": 0.07692307692307687,
+          "synset": "string.n.04"
+        },
+        {
+          "word": "succession",
+          "distance": 0.07692307692307687,
+          "synset": "succession.n.02"
+        },
+        {
+          "word": "wave train",
+          "distance": 0.07692307692307687,
+          "synset": "wave_train.n.01"
+        },
+        {
+          "word": "helium group",
+          "distance": 0.07692307692307687,
+          "synset": "helium_group.n.01"
+        },
+        {
+          "word": "actinide series",
+          "distance": 0.07692307692307687,
+          "synset": "actinide_series.n.01"
+        },
+        {
+          "word": "lanthanide series",
+          "distance": 0.07692307692307687,
+          "synset": "lanthanide_series.n.01"
+        },
+        {
+          "word": "ordering",
+          "distance": 0.09090909090909094,
+          "synset": "ordering.n.01"
+        },
+        {
+          "word": "gene",
+          "distance": 0.1428571428571429,
+          "synset": "gene.n.01"
+        },
+        {
+          "word": "string",
+          "distance": 0.1428571428571429,
+          "synset": "string.n.05"
+        }
+      ]
+    },
+    {
+      "synset": "serial.n.01",
+      "definition": "a serialized set of programs",
+      "synonyms": [
+        "serial"
+      ],
+      "closest_words": [
+        "soap opera",
+        "tetralogy",
+        "broadcast",
+        "news program",
+        "rerun",
+        "talk show",
+        "television program",
+        "game show",
+        "episode",
+        "sustaining program",
+        "show",
+        "phone-in",
+        "colorcast",
+        "pilot program",
+        "quiz program",
+        "cliffhanger",
+        "television news",
+        "situation comedy",
+        "special",
+        "stage dancing"
+      ],
+      "closest_words_info": [
+        {
+          "word": "soap opera",
+          "distance": 0.05882352941176472,
+          "synset": "soap_opera.n.01"
+        },
+        {
+          "word": "tetralogy",
+          "distance": 0.05882352941176472,
+          "synset": "tetralogy.n.01"
+        },
+        {
+          "word": "broadcast",
+          "distance": 0.06666666666666665,
+          "synset": "broadcast.n.02"
+        },
+        {
+          "word": "news program",
+          "distance": 0.125,
+          "synset": "news_program.n.01"
+        },
+        {
+          "word": "rerun",
+          "distance": 0.125,
+          "synset": "rerun.n.01"
+        },
+        {
+          "word": "talk show",
+          "distance": 0.125,
+          "synset": "talk_show.n.01"
+        },
+        {
+          "word": "television program",
+          "distance": 0.125,
+          "synset": "television_program.n.01"
+        },
+        {
+          "word": "game show",
+          "distance": 0.125,
+          "synset": "game_show.n.01"
+        },
+        {
+          "word": "episode",
+          "distance": 0.125,
+          "synset": "episode.n.03"
+        },
+        {
+          "word": "sustaining program",
+          "distance": 0.125,
+          "synset": "sustaining_program.n.01"
+        },
+        {
+          "word": "show",
+          "distance": 0.1428571428571429,
+          "synset": "show.n.03"
+        },
+        {
+          "word": "phone-in",
+          "distance": 0.17647058823529416,
+          "synset": "phone-in.n.01"
+        },
+        {
+          "word": "colorcast",
+          "distance": 0.17647058823529416,
+          "synset": "colorcast.n.01"
+        },
+        {
+          "word": "pilot program",
+          "distance": 0.17647058823529416,
+          "synset": "pilot_program.n.02"
+        },
+        {
+          "word": "quiz program",
+          "distance": 0.17647058823529416,
+          "synset": "quiz_program.n.01"
+        },
+        {
+          "word": "cliffhanger",
+          "distance": 0.17647058823529416,
+          "synset": "cliffhanger.n.02"
+        },
+        {
+          "word": "television news",
+          "distance": 0.17647058823529416,
+          "synset": "television_news.n.01"
+        },
+        {
+          "word": "situation comedy",
+          "distance": 0.17647058823529416,
+          "synset": "situation_comedy.n.02"
+        },
+        {
+          "word": "special",
+          "distance": 0.17647058823529416,
+          "synset": "special.n.03"
+        },
+        {
+          "word": "stage dancing",
+          "distance": 0.19999999999999996,
+          "synset": "stage_dancing.n.01"
+        }
+      ]
+    }
+  ],
+  "Netflix": [],
+  "Cartoon": [
+    {
+      "synset": "cartoon.n.01",
+      "definition": "a humorous or satirical drawing published in a newspaper or magazine",
+      "synonyms": [
+        "sketch"
+      ],
+      "closest_words": [
+        "comic strip",
+        "wit",
+        "jeu d'esprit",
+        "bon mot",
+        "esprit de l'escalier",
+        "pungency",
+        "sarcasm",
+        "repartee",
+        "joke",
+        "caricature",
+        "fun",
+        "ribaldry",
+        "topper",
+        "message",
+        "mock-heroic",
+        "banter",
+        "belly laugh",
+        "dirty joke",
+        "ethnic joke",
+        "funny story"
+      ],
+      "closest_words_info": [
+        {
+          "word": "comic strip",
+          "distance": 0.07692307692307687,
+          "synset": "comic_strip.n.01"
+        },
+        {
+          "word": "wit",
+          "distance": 0.09090909090909094,
+          "synset": "wit.n.01"
+        },
+        {
+          "word": "jeu d'esprit",
+          "distance": 0.16666666666666663,
+          "synset": "jeu_d'esprit.n.01"
+        },
+        {
+          "word": "bon mot",
+          "distance": 0.16666666666666663,
+          "synset": "bon_mot.n.01"
+        },
+        {
+          "word": "esprit de l'escalier",
+          "distance": 0.16666666666666663,
+          "synset": "esprit_de_l'escalier.n.01"
+        },
+        {
+          "word": "pungency",
+          "distance": 0.16666666666666663,
+          "synset": "pungency.n.01"
+        },
+        {
+          "word": "sarcasm",
+          "distance": 0.16666666666666663,
+          "synset": "sarcasm.n.01"
+        },
+        {
+          "word": "repartee",
+          "distance": 0.16666666666666663,
+          "synset": "repartee.n.01"
+        },
+        {
+          "word": "joke",
+          "distance": 0.16666666666666663,
+          "synset": "joke.n.01"
+        },
+        {
+          "word": "caricature",
+          "distance": 0.16666666666666663,
+          "synset": "caricature.n.01"
+        },
+        {
+          "word": "fun",
+          "distance": 0.16666666666666663,
+          "synset": "fun.n.02"
+        },
+        {
+          "word": "ribaldry",
+          "distance": 0.16666666666666663,
+          "synset": "ribaldry.n.01"
+        },
+        {
+          "word": "topper",
+          "distance": 0.16666666666666663,
+          "synset": "topper.n.04"
+        },
+        {
+          "word": "message",
+          "distance": 0.19999999999999996,
+          "synset": "message.n.02"
+        },
+        {
+          "word": "mock-heroic",
+          "distance": 0.23076923076923073,
+          "synset": "mock-heroic.n.01"
+        },
+        {
+          "word": "banter",
+          "distance": 0.23076923076923073,
+          "synset": "banter.n.01"
+        },
+        {
+          "word": "belly laugh",
+          "distance": 0.23076923076923073,
+          "synset": "belly_laugh.n.02"
+        },
+        {
+          "word": "dirty joke",
+          "distance": 0.23076923076923073,
+          "synset": "dirty_joke.n.01"
+        },
+        {
+          "word": "ethnic joke",
+          "distance": 0.23076923076923073,
+          "synset": "ethnic_joke.n.01"
+        },
+        {
+          "word": "funny story",
+          "distance": 0.23076923076923073,
+          "synset": "funny_story.n.01"
+        }
+      ]
+    }
+  ],
+  "Couch": [
+    {
+      "synset": "sofa.n.01",
+      "definition": "an upholstered seat for more than one person",
+      "synonyms": [
+        "sofa",
+        "lounge"
+      ],
+      "closest_words": [
+        "convertible",
+        "daybed",
+        "divan",
+        "love seat",
+        "settee",
+        "squab",
+        "seat",
+        "davenport",
+        "studio couch",
+        "bench",
+        "bench",
+        "box",
+        "box seat",
+        "chair",
+        "ottoman",
+        "Siege Perilous",
+        "stool",
+        "toilet seat",
+        "furniture",
+        "chesterfield"
+      ],
+      "closest_words_info": [
+        {
+          "word": "convertible",
+          "distance": 0.04761904761904767,
+          "synset": "convertible.n.03"
+        },
+        {
+          "word": "daybed",
+          "distance": 0.04761904761904767,
+          "synset": "daybed.n.01"
+        },
+        {
+          "word": "divan",
+          "distance": 0.04761904761904767,
+          "synset": "divan.n.01"
+        },
+        {
+          "word": "love seat",
+          "distance": 0.04761904761904767,
+          "synset": "love_seat.n.01"
+        },
+        {
+          "word": "settee",
+          "distance": 0.04761904761904767,
+          "synset": "settee.n.02"
+        },
+        {
+          "word": "squab",
+          "distance": 0.04761904761904767,
+          "synset": "squab.n.02"
+        },
+        {
+          "word": "seat",
+          "distance": 0.052631578947368474,
+          "synset": "seat.n.03"
+        },
+        {
+          "word": "davenport",
+          "distance": 0.09090909090909094,
+          "synset": "davenport.n.03"
+        },
+        {
+          "word": "studio couch",
+          "distance": 0.09090909090909094,
+          "synset": "studio_couch.n.01"
+        },
+        {
+          "word": "bench",
+          "distance": 0.09999999999999998,
+          "synset": "bench.n.01"
+        },
+        {
+          "word": "bench",
+          "distance": 0.09999999999999998,
+          "synset": "bench.n.07"
+        },
+        {
+          "word": "box",
+          "distance": 0.09999999999999998,
+          "synset": "box.n.08"
+        },
+        {
+          "word": "box seat",
+          "distance": 0.09999999999999998,
+          "synset": "box_seat.n.01"
+        },
+        {
+          "word": "chair",
+          "distance": 0.09999999999999998,
+          "synset": "chair.n.01"
+        },
+        {
+          "word": "ottoman",
+          "distance": 0.09999999999999998,
+          "synset": "ottoman.n.03"
+        },
+        {
+          "word": "Siege Perilous",
+          "distance": 0.09999999999999998,
+          "synset": "siege_perilous.n.01"
+        },
+        {
+          "word": "stool",
+          "distance": 0.09999999999999998,
+          "synset": "stool.n.01"
+        },
+        {
+          "word": "toilet seat",
+          "distance": 0.09999999999999998,
+          "synset": "toilet_seat.n.01"
+        },
+        {
+          "word": "furniture",
+          "distance": 0.11111111111111116,
+          "synset": "furniture.n.01"
+        },
+        {
+          "word": "chesterfield",
+          "distance": 0.13043478260869568,
+          "synset": "chesterfield.n.02"
+        }
+      ]
+    }
+  ],
+  "Sofa": [
+    {
+      "synset": "sofa.n.01",
+      "definition": "an upholstered seat for more than one person",
+      "synonyms": [
+        "couch",
+        "lounge"
+      ],
+      "closest_words": [
+        "convertible",
+        "daybed",
+        "divan",
+        "love seat",
+        "settee",
+        "squab",
+        "seat",
+        "davenport",
+        "studio couch",
+        "bench",
+        "bench",
+        "box",
+        "box seat",
+        "chair",
+        "ottoman",
+        "Siege Perilous",
+        "stool",
+        "toilet seat",
+        "furniture",
+        "chesterfield"
+      ],
+      "closest_words_info": [
+        {
+          "word": "convertible",
+          "distance": 0.04761904761904767,
+          "synset": "convertible.n.03"
+        },
+        {
+          "word": "daybed",
+          "distance": 0.04761904761904767,
+          "synset": "daybed.n.01"
+        },
+        {
+          "word": "divan",
+          "distance": 0.04761904761904767,
+          "synset": "divan.n.01"
+        },
+        {
+          "word": "love seat",
+          "distance": 0.04761904761904767,
+          "synset": "love_seat.n.01"
+        },
+        {
+          "word": "settee",
+          "distance": 0.04761904761904767,
+          "synset": "settee.n.02"
+        },
+        {
+          "word": "squab",
+          "distance": 0.04761904761904767,
+          "synset": "squab.n.02"
+        },
+        {
+          "word": "seat",
+          "distance": 0.052631578947368474,
+          "synset": "seat.n.03"
+        },
+        {
+          "word": "davenport",
+          "distance": 0.09090909090909094,
+          "synset": "davenport.n.03"
+        },
+        {
+          "word": "studio couch",
+          "distance": 0.09090909090909094,
+          "synset": "studio_couch.n.01"
+        },
+        {
+          "word": "bench",
+          "distance": 0.09999999999999998,
+          "synset": "bench.n.01"
+        },
+        {
+          "word": "bench",
+          "distance": 0.09999999999999998,
+          "synset": "bench.n.07"
+        },
+        {
+          "word": "box",
+          "distance": 0.09999999999999998,
+          "synset": "box.n.08"
+        },
+        {
+          "word": "box seat",
+          "distance": 0.09999999999999998,
+          "synset": "box_seat.n.01"
+        },
+        {
+          "word": "chair",
+          "distance": 0.09999999999999998,
+          "synset": "chair.n.01"
+        },
+        {
+          "word": "ottoman",
+          "distance": 0.09999999999999998,
+          "synset": "ottoman.n.03"
+        },
+        {
+          "word": "Siege Perilous",
+          "distance": 0.09999999999999998,
+          "synset": "siege_perilous.n.01"
+        },
+        {
+          "word": "stool",
+          "distance": 0.09999999999999998,
+          "synset": "stool.n.01"
+        },
+        {
+          "word": "toilet seat",
+          "distance": 0.09999999999999998,
+          "synset": "toilet_seat.n.01"
+        },
+        {
+          "word": "furniture",
+          "distance": 0.11111111111111116,
+          "synset": "furniture.n.01"
+        },
+        {
+          "word": "chesterfield",
+          "distance": 0.13043478260869568,
+          "synset": "chesterfield.n.02"
+        }
+      ]
+    }
+  ],
+  "Bed": [
+    {
+      "synset": "bed.n.01",
+      "definition": "a piece of furniture that provides a place to sleep",
+      "synonyms": [],
+      "closest_words": [
+        "berth",
+        "built-in bed",
+        "bunk",
+        "bunk bed",
+        "cot",
+        "couch",
+        "deathbed",
+        "double bed",
+        "four-poster",
+        "hammock",
+        "marriage bed",
+        "Murphy bed",
+        "plank-bed",
+        "platform bed",
+        "sickbed",
+        "single bed",
+        "sleigh bed",
+        "trundle bed",
+        "twin bed",
+        "water bed"
+      ],
+      "closest_words_info": [
+        {
+          "word": "berth",
+          "distance": 0.04761904761904767,
+          "synset": "berth.n.03"
+        },
+        {
+          "word": "built-in bed",
+          "distance": 0.04761904761904767,
+          "synset": "built-in_bed.n.01"
+        },
+        {
+          "word": "bunk",
+          "distance": 0.04761904761904767,
+          "synset": "bunk.n.03"
+        },
+        {
+          "word": "bunk bed",
+          "distance": 0.04761904761904767,
+          "synset": "bunk_bed.n.01"
+        },
+        {
+          "word": "cot",
+          "distance": 0.04761904761904767,
+          "synset": "cot.n.03"
+        },
+        {
+          "word": "couch",
+          "distance": 0.04761904761904767,
+          "synset": "couch.n.03"
+        },
+        {
+          "word": "deathbed",
+          "distance": 0.04761904761904767,
+          "synset": "deathbed.n.02"
+        },
+        {
+          "word": "double bed",
+          "distance": 0.04761904761904767,
+          "synset": "double_bed.n.01"
+        },
+        {
+          "word": "four-poster",
+          "distance": 0.04761904761904767,
+          "synset": "four-poster.n.01"
+        },
+        {
+          "word": "hammock",
+          "distance": 0.04761904761904767,
+          "synset": "hammock.n.02"
+        },
+        {
+          "word": "marriage bed",
+          "distance": 0.04761904761904767,
+          "synset": "marriage_bed.n.01"
+        },
+        {
+          "word": "Murphy bed",
+          "distance": 0.04761904761904767,
+          "synset": "murphy_bed.n.01"
+        },
+        {
+          "word": "plank-bed",
+          "distance": 0.04761904761904767,
+          "synset": "plank-bed.n.01"
+        },
+        {
+          "word": "platform bed",
+          "distance": 0.04761904761904767,
+          "synset": "platform_bed.n.01"
+        },
+        {
+          "word": "sickbed",
+          "distance": 0.04761904761904767,
+          "synset": "sickbed.n.01"
+        },
+        {
+          "word": "single bed",
+          "distance": 0.04761904761904767,
+          "synset": "single_bed.n.01"
+        },
+        {
+          "word": "sleigh bed",
+          "distance": 0.04761904761904767,
+          "synset": "sleigh_bed.n.01"
+        },
+        {
+          "word": "trundle bed",
+          "distance": 0.04761904761904767,
+          "synset": "trundle_bed.n.01"
+        },
+        {
+          "word": "twin bed",
+          "distance": 0.04761904761904767,
+          "synset": "twin_bed.n.01"
+        },
+        {
+          "word": "water bed",
+          "distance": 0.04761904761904767,
+          "synset": "water_bed.n.01"
+        }
+      ]
+    }
+  ],
+  "Sitting": [
+    {
+      "synset": "sitting.n.02",
+      "definition": "the act of assuming or maintaining a seated position",
+      "synonyms": [],
+      "closest_words": [
+        "motion",
+        "abduction",
+        "adduction",
+        "agitation",
+        "body English",
+        "circumduction",
+        "disturbance",
+        "fetal movement",
+        "flit",
+        "gesture",
+        "headshake",
+        "inclination",
+        "inversion",
+        "inversion",
+        "jerk",
+        "kick",
+        "kneel",
+        "lurch",
+        "eye movement",
+        "opening"
+      ],
+      "closest_words_info": [
+        {
+          "word": "motion",
+          "distance": 0.05882352941176472,
+          "synset": "motion.n.03"
+        },
+        {
+          "word": "abduction",
+          "distance": 0.11111111111111116,
+          "synset": "abduction.n.02"
+        },
+        {
+          "word": "adduction",
+          "distance": 0.11111111111111116,
+          "synset": "adduction.n.01"
+        },
+        {
+          "word": "agitation",
+          "distance": 0.11111111111111116,
+          "synset": "agitation.n.05"
+        },
+        {
+          "word": "body English",
+          "distance": 0.11111111111111116,
+          "synset": "body_english.n.01"
+        },
+        {
+          "word": "circumduction",
+          "distance": 0.11111111111111116,
+          "synset": "circumduction.n.01"
+        },
+        {
+          "word": "disturbance",
+          "distance": 0.11111111111111116,
+          "synset": "disturbance.n.05"
+        },
+        {
+          "word": "fetal movement",
+          "distance": 0.11111111111111116,
+          "synset": "fetal_movement.n.01"
+        },
+        {
+          "word": "flit",
+          "distance": 0.11111111111111116,
+          "synset": "flit.n.01"
+        },
+        {
+          "word": "gesture",
+          "distance": 0.11111111111111116,
+          "synset": "gesture.n.01"
+        },
+        {
+          "word": "headshake",
+          "distance": 0.11111111111111116,
+          "synset": "headshake.n.01"
+        },
+        {
+          "word": "inclination",
+          "distance": 0.11111111111111116,
+          "synset": "inclination.n.08"
+        },
+        {
+          "word": "inversion",
+          "distance": 0.11111111111111116,
+          "synset": "inversion.n.09"
+        },
+        {
+          "word": "inversion",
+          "distance": 0.11111111111111116,
+          "synset": "inversion.n.08"
+        },
+        {
+          "word": "jerk",
+          "distance": 0.11111111111111116,
+          "synset": "jerk.n.02"
+        },
+        {
+          "word": "kick",
+          "distance": 0.11111111111111116,
+          "synset": "kick.n.06"
+        },
+        {
+          "word": "kneel",
+          "distance": 0.11111111111111116,
+          "synset": "kneel.n.01"
+        },
+        {
+          "word": "lurch",
+          "distance": 0.11111111111111116,
+          "synset": "lurch.n.03"
+        },
+        {
+          "word": "eye movement",
+          "distance": 0.11111111111111116,
+          "synset": "eye_movement.n.01"
+        },
+        {
+          "word": "opening",
+          "distance": 0.11111111111111116,
+          "synset": "opening.n.05"
+        }
+      ]
+    },
+    {
+      "synset": "sit.v.01",
+      "definition": "be seated",
+      "synonyms": [
+        "sit",
+        "sit_down"
+      ],
+      "closest_words": [
+        "lounge",
+        "sprawl",
+        "perch",
+        "squat",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag"
+      ],
+      "closest_words_info": [
+        {
+          "word": "lounge",
+          "distance": 0.33333333333333337,
+          "synset": "lounge.v.01"
+        },
+        {
+          "word": "sprawl",
+          "distance": 0.33333333333333337,
+          "synset": "sprawl.v.01"
+        },
+        {
+          "word": "perch",
+          "distance": 0.33333333333333337,
+          "synset": "perch.v.01"
+        },
+        {
+          "word": "squat",
+          "distance": 0.33333333333333337,
+          "synset": "squat.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        }
+      ]
+    },
+    {
+      "synset": "sit_down.v.01",
+      "definition": "take a seat",
+      "synonyms": [
+        "sit_down",
+        "sit"
+      ],
+      "closest_words": [
+        "change posture",
+        "straighten",
+        "arise",
+        "fall",
+        "fall",
+        "right",
+        "lie down",
+        "sink",
+        "hunch",
+        "straighten",
+        "bow",
+        "uncurl",
+        "sit up",
+        "take a bow",
+        "rear",
+        "drop open",
+        "draw up",
+        "take the floor",
+        "stretch",
+        "charge"
+      ],
+      "closest_words_info": [
+        {
+          "word": "change posture",
+          "distance": 0.19999999999999996,
+          "synset": "change_posture.v.01"
+        },
+        {
+          "word": "straighten",
+          "distance": 0.33333333333333337,
+          "synset": "straighten.v.03"
+        },
+        {
+          "word": "arise",
+          "distance": 0.33333333333333337,
+          "synset": "arise.v.03"
+        },
+        {
+          "word": "fall",
+          "distance": 0.33333333333333337,
+          "synset": "fall.v.24"
+        },
+        {
+          "word": "fall",
+          "distance": 0.33333333333333337,
+          "synset": "fall.v.23"
+        },
+        {
+          "word": "right",
+          "distance": 0.33333333333333337,
+          "synset": "right.v.03"
+        },
+        {
+          "word": "lie down",
+          "distance": 0.33333333333333337,
+          "synset": "lie_down.v.01"
+        },
+        {
+          "word": "sink",
+          "distance": 0.33333333333333337,
+          "synset": "sink.v.01"
+        },
+        {
+          "word": "hunch",
+          "distance": 0.33333333333333337,
+          "synset": "hunch.v.01"
+        },
+        {
+          "word": "straighten",
+          "distance": 0.33333333333333337,
+          "synset": "straighten.v.01"
+        },
+        {
+          "word": "bow",
+          "distance": 0.33333333333333337,
+          "synset": "bow.v.03"
+        },
+        {
+          "word": "uncurl",
+          "distance": 0.33333333333333337,
+          "synset": "uncurl.v.01"
+        },
+        {
+          "word": "sit up",
+          "distance": 0.33333333333333337,
+          "synset": "sit_up.v.02"
+        },
+        {
+          "word": "take a bow",
+          "distance": 0.4285714285714286,
+          "synset": "take_a_bow.v.02"
+        },
+        {
+          "word": "rear",
+          "distance": 0.4285714285714286,
+          "synset": "rear.v.01"
+        },
+        {
+          "word": "drop open",
+          "distance": 0.4285714285714286,
+          "synset": "drop_open.v.01"
+        },
+        {
+          "word": "draw up",
+          "distance": 0.4285714285714286,
+          "synset": "draw_up.v.02"
+        },
+        {
+          "word": "take the floor",
+          "distance": 0.4285714285714286,
+          "synset": "take_the_floor.v.01"
+        },
+        {
+          "word": "stretch",
+          "distance": 0.4285714285714286,
+          "synset": "stretch.v.06"
+        },
+        {
+          "word": "charge",
+          "distance": 0.4285714285714286,
+          "synset": "charge.v.13"
+        }
+      ]
+    }
+  ],
+  "Lying": [
+    {
+      "synset": "lying.n.01",
+      "definition": "the deliberate act of deviating from the truth",
+      "synonyms": [
+        "prevarication",
+        "fabrication"
+      ],
+      "closest_words": [
+        "fibbing",
+        "falsification",
+        "distortion",
+        "equivocation",
+        "deception",
+        "wrongdoing",
+        "fakery",
+        "indirection",
+        "trickery",
+        "duplicity",
+        "cheat",
+        "delusion",
+        "pretense",
+        "imposture",
+        "obscurantism",
+        "bluff",
+        "take-in",
+        "brutalization",
+        "trespass",
+        "tort"
+      ],
+      "closest_words_info": [
+        {
+          "word": "fibbing",
+          "distance": 0.052631578947368474,
+          "synset": "fibbing.n.01"
+        },
+        {
+          "word": "falsification",
+          "distance": 0.05882352941176472,
+          "synset": "falsification.n.02"
+        },
+        {
+          "word": "distortion",
+          "distance": 0.11111111111111116,
+          "synset": "distortion.n.05"
+        },
+        {
+          "word": "equivocation",
+          "distance": 0.11111111111111116,
+          "synset": "equivocation.n.03"
+        },
+        {
+          "word": "deception",
+          "distance": 0.11111111111111116,
+          "synset": "deception.n.02"
+        },
+        {
+          "word": "wrongdoing",
+          "distance": 0.125,
+          "synset": "wrongdoing.n.02"
+        },
+        {
+          "word": "fakery",
+          "distance": 0.1578947368421053,
+          "synset": "fakery.n.01"
+        },
+        {
+          "word": "indirection",
+          "distance": 0.1578947368421053,
+          "synset": "indirection.n.02"
+        },
+        {
+          "word": "trickery",
+          "distance": 0.1578947368421053,
+          "synset": "trickery.n.02"
+        },
+        {
+          "word": "duplicity",
+          "distance": 0.1578947368421053,
+          "synset": "duplicity.n.02"
+        },
+        {
+          "word": "cheat",
+          "distance": 0.1578947368421053,
+          "synset": "cheat.n.05"
+        },
+        {
+          "word": "delusion",
+          "distance": 0.1578947368421053,
+          "synset": "delusion.n.03"
+        },
+        {
+          "word": "pretense",
+          "distance": 0.1578947368421053,
+          "synset": "pretense.n.01"
+        },
+        {
+          "word": "imposture",
+          "distance": 0.1578947368421053,
+          "synset": "imposture.n.01"
+        },
+        {
+          "word": "obscurantism",
+          "distance": 0.1578947368421053,
+          "synset": "obscurantism.n.02"
+        },
+        {
+          "word": "bluff",
+          "distance": 0.1578947368421053,
+          "synset": "bluff.n.03"
+        },
+        {
+          "word": "take-in",
+          "distance": 0.1578947368421053,
+          "synset": "take-in.n.01"
+        },
+        {
+          "word": "brutalization",
+          "distance": 0.17647058823529416,
+          "synset": "brutalization.n.02"
+        },
+        {
+          "word": "trespass",
+          "distance": 0.17647058823529416,
+          "synset": "trespass.n.02"
+        },
+        {
+          "word": "tort",
+          "distance": 0.17647058823529416,
+          "synset": "tort.n.01"
+        }
+      ]
+    },
+    {
+      "synset": "lie.v.02",
+      "definition": "be lying, be prostrate; be in a horizontal position",
+      "synonyms": [
+        "lie"
+      ],
+      "closest_words": [
+        "sun",
+        "sprawl",
+        "recumb",
+        "overlie",
+        "lie awake",
+        "repose",
+        "bask",
+        "entity",
+        "breathe",
+        "act",
+        "rest",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear"
+      ],
+      "closest_words_info": [
+        {
+          "word": "sun",
+          "distance": 0.33333333333333337,
+          "synset": "sun.v.01"
+        },
+        {
+          "word": "sprawl",
+          "distance": 0.33333333333333337,
+          "synset": "sprawl.v.01"
+        },
+        {
+          "word": "recumb",
+          "distance": 0.33333333333333337,
+          "synset": "recumb.v.01"
+        },
+        {
+          "word": "overlie",
+          "distance": 0.33333333333333337,
+          "synset": "overlie.v.01"
+        },
+        {
+          "word": "lie awake",
+          "distance": 0.33333333333333337,
+          "synset": "lie_awake.v.01"
+        },
+        {
+          "word": "repose",
+          "distance": 0.33333333333333337,
+          "synset": "repose.v.03"
+        },
+        {
+          "word": "bask",
+          "distance": 0.33333333333333337,
+          "synset": "bask.v.02"
+        },
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "rest",
+          "distance": 0.5,
+          "synset": "rest.v.05"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        }
+      ]
+    }
+  ],
+  "Relaxing": [
+    {
+      "synset": "relax.v.01",
+      "definition": "become less tense, rest, or take one's ease",
+      "synonyms": [
+        "relax",
+        "loosen_up",
+        "unbend",
+        "unwind",
+        "decompress",
+        "slow_down"
+      ],
+      "closest_words": [
+        "vege out",
+        "sit back",
+        "change state",
+        "wake up",
+        "zonk out",
+        "come to",
+        "tense",
+        "reduce",
+        "gain",
+        "dress",
+        "cross-fertilize",
+        "conceive",
+        "secularize",
+        "citrate",
+        "equilibrate",
+        "fall",
+        "become",
+        "worsen",
+        "better",
+        "disengage"
+      ],
+      "closest_words_info": [
+        {
+          "word": "vege out",
+          "distance": 0.1428571428571429,
+          "synset": "vege_out.v.01"
+        },
+        {
+          "word": "sit back",
+          "distance": 0.1428571428571429,
+          "synset": "sit_back.v.01"
+        },
+        {
+          "word": "change state",
+          "distance": 0.19999999999999996,
+          "synset": "change_state.v.01"
+        },
+        {
+          "word": "wake up",
+          "distance": 0.33333333333333337,
+          "synset": "wake_up.v.02"
+        },
+        {
+          "word": "zonk out",
+          "distance": 0.33333333333333337,
+          "synset": "zonk_out.v.01"
+        },
+        {
+          "word": "come to",
+          "distance": 0.33333333333333337,
+          "synset": "come_to.v.04"
+        },
+        {
+          "word": "tense",
+          "distance": 0.33333333333333337,
+          "synset": "tense.v.03"
+        },
+        {
+          "word": "reduce",
+          "distance": 0.33333333333333337,
+          "synset": "reduce.v.20"
+        },
+        {
+          "word": "gain",
+          "distance": 0.33333333333333337,
+          "synset": "gain.v.09"
+        },
+        {
+          "word": "dress",
+          "distance": 0.33333333333333337,
+          "synset": "dress.v.02"
+        },
+        {
+          "word": "cross-fertilize",
+          "distance": 0.33333333333333337,
+          "synset": "cross-fertilize.v.01"
+        },
+        {
+          "word": "conceive",
+          "distance": 0.33333333333333337,
+          "synset": "conceive.v.03"
+        },
+        {
+          "word": "secularize",
+          "distance": 0.33333333333333337,
+          "synset": "secularize.v.01"
+        },
+        {
+          "word": "citrate",
+          "distance": 0.33333333333333337,
+          "synset": "citrate.v.01"
+        },
+        {
+          "word": "equilibrate",
+          "distance": 0.33333333333333337,
+          "synset": "equilibrate.v.01"
+        },
+        {
+          "word": "fall",
+          "distance": 0.33333333333333337,
+          "synset": "fall.v.03"
+        },
+        {
+          "word": "become",
+          "distance": 0.33333333333333337,
+          "synset": "become.v.01"
+        },
+        {
+          "word": "worsen",
+          "distance": 0.33333333333333337,
+          "synset": "worsen.v.01"
+        },
+        {
+          "word": "better",
+          "distance": 0.33333333333333337,
+          "synset": "better.v.03"
+        },
+        {
+          "word": "disengage",
+          "distance": 0.33333333333333337,
+          "synset": "disengage.v.03"
+        }
+      ]
+    }
+  ],
+  "Chilling": [
+    {
+      "synset": "cooling.n.01",
+      "definition": "the process of becoming cooler; a falling temperature",
+      "synonyms": [
+        "cooling",
+        "temperature_reduction"
+      ],
+      "closest_words": [
+        "freeze",
+        "heat dissipation",
+        "refrigeration",
+        "temperature change",
+        "freeze-drying",
+        "frost",
+        "advection",
+        "climate change",
+        "convection",
+        "heating",
+        "natural process",
+        "boiling",
+        "global warming",
+        "induction heating",
+        "overheating",
+        "radiant heating",
+        "thaw",
+        "radiation",
+        "absorption",
+        "acidification"
+      ],
+      "closest_words_info": [
+        {
+          "word": "freeze",
+          "distance": 0.07692307692307687,
+          "synset": "freeze.n.01"
+        },
+        {
+          "word": "heat dissipation",
+          "distance": 0.07692307692307687,
+          "synset": "heat_dissipation.n.01"
+        },
+        {
+          "word": "refrigeration",
+          "distance": 0.07692307692307687,
+          "synset": "refrigeration.n.01"
+        },
+        {
+          "word": "temperature change",
+          "distance": 0.09090909090909094,
+          "synset": "temperature_change.n.01"
+        },
+        {
+          "word": "freeze-drying",
+          "distance": 0.1428571428571429,
+          "synset": "freeze-drying.n.01"
+        },
+        {
+          "word": "frost",
+          "distance": 0.1428571428571429,
+          "synset": "frost.n.03"
+        },
+        {
+          "word": "advection",
+          "distance": 0.16666666666666663,
+          "synset": "advection.n.01"
+        },
+        {
+          "word": "climate change",
+          "distance": 0.16666666666666663,
+          "synset": "climate_change.n.01"
+        },
+        {
+          "word": "convection",
+          "distance": 0.16666666666666663,
+          "synset": "convection.n.01"
+        },
+        {
+          "word": "heating",
+          "distance": 0.16666666666666663,
+          "synset": "heating.n.01"
+        },
+        {
+          "word": "natural process",
+          "distance": 0.19999999999999996,
+          "synset": "natural_process.n.01"
+        },
+        {
+          "word": "boiling",
+          "distance": 0.23076923076923073,
+          "synset": "boiling.n.01"
+        },
+        {
+          "word": "global warming",
+          "distance": 0.23076923076923073,
+          "synset": "global_warming.n.01"
+        },
+        {
+          "word": "induction heating",
+          "distance": 0.23076923076923073,
+          "synset": "induction_heating.n.01"
+        },
+        {
+          "word": "overheating",
+          "distance": 0.23076923076923073,
+          "synset": "overheating.n.01"
+        },
+        {
+          "word": "radiant heating",
+          "distance": 0.23076923076923073,
+          "synset": "radiant_heating.n.01"
+        },
+        {
+          "word": "thaw",
+          "distance": 0.23076923076923073,
+          "synset": "thaw.n.01"
+        },
+        {
+          "word": "radiation",
+          "distance": 0.2727272727272727,
+          "synset": "radiation.n.05"
+        },
+        {
+          "word": "absorption",
+          "distance": 0.2727272727272727,
+          "synset": "absorption.n.02"
+        },
+        {
+          "word": "acidification",
+          "distance": 0.2727272727272727,
+          "synset": "acidification.n.01"
+        }
+      ]
+    },
+    {
+      "synset": "chilling.s.01",
+      "definition": "provoking fear terror",
+      "synonyms": [
+        "scarey",
+        "scary",
+        "shivery",
+        "shuddery"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "Reading": [
+    {
+      "synset": "reading.n.01",
+      "definition": "the cognitive process of understanding a written linguistic message",
+      "synonyms": [],
+      "closest_words": [
+        "speed-reading",
+        "perusal",
+        "browse",
+        "skim",
+        "linguistic process",
+        "higher cognitive process",
+        "search",
+        "thinking",
+        "suggestion",
+        "decision making",
+        "knowing",
+        "process",
+        "umpirage",
+        "awareness",
+        "incognizance",
+        "hunt",
+        "pursuit",
+        "free association",
+        "construction",
+        "reasoning"
+      ],
+      "closest_words_info": [
+        {
+          "word": "speed-reading",
+          "distance": 0.05882352941176472,
+          "synset": "speed-reading.n.01"
+        },
+        {
+          "word": "perusal",
+          "distance": 0.05882352941176472,
+          "synset": "perusal.n.01"
+        },
+        {
+          "word": "browse",
+          "distance": 0.05882352941176472,
+          "synset": "browse.n.02"
+        },
+        {
+          "word": "skim",
+          "distance": 0.05882352941176472,
+          "synset": "skim.n.02"
+        },
+        {
+          "word": "linguistic process",
+          "distance": 0.06666666666666665,
+          "synset": "linguistic_process.n.02"
+        },
+        {
+          "word": "higher cognitive process",
+          "distance": 0.1428571428571429,
+          "synset": "higher_cognitive_process.n.01"
+        },
+        {
+          "word": "search",
+          "distance": 0.19999999999999996,
+          "synset": "search.n.04"
+        },
+        {
+          "word": "thinking",
+          "distance": 0.19999999999999996,
+          "synset": "thinking.n.01"
+        },
+        {
+          "word": "suggestion",
+          "distance": 0.19999999999999996,
+          "synset": "suggestion.n.05"
+        },
+        {
+          "word": "decision making",
+          "distance": 0.19999999999999996,
+          "synset": "decision_making.n.01"
+        },
+        {
+          "word": "knowing",
+          "distance": 0.19999999999999996,
+          "synset": "knowing.n.01"
+        },
+        {
+          "word": "process",
+          "distance": 0.23076923076923073,
+          "synset": "process.n.02"
+        },
+        {
+          "word": "umpirage",
+          "distance": 0.25,
+          "synset": "umpirage.n.02"
+        },
+        {
+          "word": "awareness",
+          "distance": 0.25,
+          "synset": "awareness.n.01"
+        },
+        {
+          "word": "incognizance",
+          "distance": 0.25,
+          "synset": "incognizance.n.01"
+        },
+        {
+          "word": "hunt",
+          "distance": 0.25,
+          "synset": "hunt.n.05"
+        },
+        {
+          "word": "pursuit",
+          "distance": 0.25,
+          "synset": "pursuit.n.02"
+        },
+        {
+          "word": "free association",
+          "distance": 0.25,
+          "synset": "free_association.n.01"
+        },
+        {
+          "word": "construction",
+          "distance": 0.25,
+          "synset": "construction.n.03"
+        },
+        {
+          "word": "reasoning",
+          "distance": 0.25,
+          "synset": "reasoning.n.01"
+        }
+      ]
+    },
+    {
+      "synset": "read.v.01",
+      "definition": "interpret something that is written or printed",
+      "synonyms": [
+        "read"
+      ],
+      "closest_words": [
+        "anagram",
+        "reread",
+        "dip into",
+        "decipher",
+        "skim",
+        "lipread",
+        "interpret",
+        "misconstrue",
+        "read between the lines",
+        "mythicize",
+        "literalize",
+        "spiritualize",
+        "reinterpret",
+        "allegorize",
+        "take",
+        "read",
+        "educe",
+        "misread",
+        "misread",
+        "entity"
+      ],
+      "closest_words_info": [
+        {
+          "word": "anagram",
+          "distance": 0.1428571428571429,
+          "synset": "anagram.v.01"
+        },
+        {
+          "word": "reread",
+          "distance": 0.1428571428571429,
+          "synset": "reread.v.01"
+        },
+        {
+          "word": "dip into",
+          "distance": 0.1428571428571429,
+          "synset": "dip_into.v.01"
+        },
+        {
+          "word": "decipher",
+          "distance": 0.1428571428571429,
+          "synset": "decipher.v.02"
+        },
+        {
+          "word": "skim",
+          "distance": 0.1428571428571429,
+          "synset": "skim.v.07"
+        },
+        {
+          "word": "lipread",
+          "distance": 0.1428571428571429,
+          "synset": "lipread.v.01"
+        },
+        {
+          "word": "interpret",
+          "distance": 0.19999999999999996,
+          "synset": "interpret.v.01"
+        },
+        {
+          "word": "misconstrue",
+          "distance": 0.33333333333333337,
+          "synset": "misconstrue.v.01"
+        },
+        {
+          "word": "read between the lines",
+          "distance": 0.33333333333333337,
+          "synset": "read_between_the_lines.v.01"
+        },
+        {
+          "word": "mythicize",
+          "distance": 0.33333333333333337,
+          "synset": "mythicize.v.01"
+        },
+        {
+          "word": "literalize",
+          "distance": 0.33333333333333337,
+          "synset": "literalize.v.01"
+        },
+        {
+          "word": "spiritualize",
+          "distance": 0.33333333333333337,
+          "synset": "spiritualize.v.01"
+        },
+        {
+          "word": "reinterpret",
+          "distance": 0.33333333333333337,
+          "synset": "reinterpret.v.02"
+        },
+        {
+          "word": "allegorize",
+          "distance": 0.33333333333333337,
+          "synset": "allegorize.v.01"
+        },
+        {
+          "word": "take",
+          "distance": 0.33333333333333337,
+          "synset": "take.v.06"
+        },
+        {
+          "word": "read",
+          "distance": 0.33333333333333337,
+          "synset": "read.v.04"
+        },
+        {
+          "word": "educe",
+          "distance": 0.33333333333333337,
+          "synset": "educe.v.01"
+        },
+        {
+          "word": "misread",
+          "distance": 0.4285714285714286,
+          "synset": "misread.v.02"
+        },
+        {
+          "word": "misread",
+          "distance": 0.4285714285714286,
+          "synset": "misread.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6666666666666667,
+          "synset": "entity.n.01"
+        }
+      ]
+    }
+  ],
+  "Living room": [],
+  "Blanket": [
+    {
+      "synset": "blanket.n.01",
+      "definition": "bedding that keeps a person warm in bed",
+      "synonyms": [
+        "cover"
+      ],
+      "closest_words": [
+        "afghan",
+        "electric blanket",
+        "mackinaw",
+        "manta",
+        "security blanket",
+        "bedclothes",
+        "bedroll",
+        "bedspread",
+        "mattress cover",
+        "quilt",
+        "throw",
+        "cloth covering",
+        "coverlet",
+        "eiderdown",
+        "patchwork",
+        "quilted bedspread",
+        "antimacassar",
+        "back",
+        "blindfold",
+        "bosom"
+      ],
+      "closest_words_info": [
+        {
+          "word": "afghan",
+          "distance": 0.052631578947368474,
+          "synset": "afghan.n.01"
+        },
+        {
+          "word": "electric blanket",
+          "distance": 0.052631578947368474,
+          "synset": "electric_blanket.n.01"
+        },
+        {
+          "word": "mackinaw",
+          "distance": 0.052631578947368474,
+          "synset": "mackinaw.n.02"
+        },
+        {
+          "word": "manta",
+          "distance": 0.052631578947368474,
+          "synset": "manta.n.01"
+        },
+        {
+          "word": "security blanket",
+          "distance": 0.052631578947368474,
+          "synset": "security_blanket.n.02"
+        },
+        {
+          "word": "bedclothes",
+          "distance": 0.05882352941176472,
+          "synset": "bedclothes.n.01"
+        },
+        {
+          "word": "bedroll",
+          "distance": 0.11111111111111116,
+          "synset": "bedroll.n.01"
+        },
+        {
+          "word": "bedspread",
+          "distance": 0.11111111111111116,
+          "synset": "bedspread.n.01"
+        },
+        {
+          "word": "mattress cover",
+          "distance": 0.11111111111111116,
+          "synset": "mattress_cover.n.01"
+        },
+        {
+          "word": "quilt",
+          "distance": 0.11111111111111116,
+          "synset": "quilt.n.01"
+        },
+        {
+          "word": "throw",
+          "distance": 0.11111111111111116,
+          "synset": "throw.n.04"
+        },
+        {
+          "word": "cloth covering",
+          "distance": 0.125,
+          "synset": "cloth_covering.n.01"
+        },
+        {
+          "word": "coverlet",
+          "distance": 0.1578947368421053,
+          "synset": "coverlet.n.01"
+        },
+        {
+          "word": "eiderdown",
+          "distance": 0.1578947368421053,
+          "synset": "eiderdown.n.01"
+        },
+        {
+          "word": "patchwork",
+          "distance": 0.1578947368421053,
+          "synset": "patchwork.n.02"
+        },
+        {
+          "word": "quilted bedspread",
+          "distance": 0.1578947368421053,
+          "synset": "quilted_bedspread.n.01"
+        },
+        {
+          "word": "antimacassar",
+          "distance": 0.17647058823529416,
+          "synset": "antimacassar.n.01"
+        },
+        {
+          "word": "back",
+          "distance": 0.17647058823529416,
+          "synset": "back.n.07"
+        },
+        {
+          "word": "blindfold",
+          "distance": 0.17647058823529416,
+          "synset": "blindfold.n.01"
+        },
+        {
+          "word": "bosom",
+          "distance": 0.17647058823529416,
+          "synset": "bosom.n.03"
+        }
+      ]
+    }
+  ],
+  "Laptop": [
+    {
+      "synset": "laptop.n.01",
+      "definition": "a portable computer small enough to use in your lap",
+      "synonyms": [
+        "laptop_computer"
+      ],
+      "closest_words": [
+        "portable computer",
+        "briefcase computer",
+        "hand-held computer",
+        "notebook",
+        "personal computer",
+        "planner",
+        "desktop computer",
+        "digital computer",
+        "bulletin board system",
+        "file server",
+        "mainframe",
+        "minicomputer",
+        "multiprocessor",
+        "von Neumann machine",
+        "workstation",
+        "computer",
+        "dedicated file server",
+        "non-dedicated file server",
+        "supercomputer",
+        "analog computer"
+      ],
+      "closest_words_info": [
+        {
+          "word": "portable computer",
+          "distance": 0.040000000000000036,
+          "synset": "portable_computer.n.01"
+        },
+        {
+          "word": "briefcase computer",
+          "distance": 0.07692307692307687,
+          "synset": "briefcase_computer.n.01"
+        },
+        {
+          "word": "hand-held computer",
+          "distance": 0.07692307692307687,
+          "synset": "hand-held_computer.n.01"
+        },
+        {
+          "word": "notebook",
+          "distance": 0.07692307692307687,
+          "synset": "notebook.n.02"
+        },
+        {
+          "word": "personal computer",
+          "distance": 0.08333333333333337,
+          "synset": "personal_computer.n.01"
+        },
+        {
+          "word": "planner",
+          "distance": 0.11111111111111116,
+          "synset": "planner.n.02"
+        },
+        {
+          "word": "desktop computer",
+          "distance": 0.12,
+          "synset": "desktop_computer.n.01"
+        },
+        {
+          "word": "digital computer",
+          "distance": 0.13043478260869568,
+          "synset": "digital_computer.n.01"
+        },
+        {
+          "word": "bulletin board system",
+          "distance": 0.16666666666666663,
+          "synset": "bulletin_board_system.n.01"
+        },
+        {
+          "word": "file server",
+          "distance": 0.16666666666666663,
+          "synset": "file_server.n.01"
+        },
+        {
+          "word": "mainframe",
+          "distance": 0.16666666666666663,
+          "synset": "mainframe.n.01"
+        },
+        {
+          "word": "minicomputer",
+          "distance": 0.16666666666666663,
+          "synset": "minicomputer.n.01"
+        },
+        {
+          "word": "multiprocessor",
+          "distance": 0.16666666666666663,
+          "synset": "multiprocessor.n.01"
+        },
+        {
+          "word": "von Neumann machine",
+          "distance": 0.16666666666666663,
+          "synset": "von_neumann_machine.n.01"
+        },
+        {
+          "word": "workstation",
+          "distance": 0.16666666666666663,
+          "synset": "workstation.n.01"
+        },
+        {
+          "word": "computer",
+          "distance": 0.18181818181818177,
+          "synset": "computer.n.01"
+        },
+        {
+          "word": "dedicated file server",
+          "distance": 0.19999999999999996,
+          "synset": "dedicated_file_server.n.01"
+        },
+        {
+          "word": "non-dedicated file server",
+          "distance": 0.19999999999999996,
+          "synset": "non-dedicated_file_server.n.01"
+        },
+        {
+          "word": "supercomputer",
+          "distance": 0.19999999999999996,
+          "synset": "supercomputer.n.01"
+        },
+        {
+          "word": "analog computer",
+          "distance": 0.21739130434782605,
+          "synset": "analog_computer.n.01"
+        }
+      ]
+    }
+  ],
+  "Headphones": [
+    {
+      "synset": "earphone.n.01",
+      "definition": "electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear",
+      "synonyms": [
+        "earphone",
+        "earpiece",
+        "headphone",
+        "phone"
+      ],
+      "closest_words": [
+        "earplug",
+        "telephone receiver",
+        "electro-acoustic transducer",
+        "headset",
+        "cartridge",
+        "loudspeaker",
+        "microphone",
+        "transducer",
+        "bug",
+        "bullhorn",
+        "condenser microphone",
+        "crystal microphone",
+        "crystal pickup",
+        "directional microphone",
+        "spike mike",
+        "squawk box",
+        "subwoofer",
+        "tannoy",
+        "tweeter",
+        "woofer"
+      ],
+      "closest_words_info": [
+        {
+          "word": "earplug",
+          "distance": 0.04347826086956519,
+          "synset": "earplug.n.01"
+        },
+        {
+          "word": "telephone receiver",
+          "distance": 0.04347826086956519,
+          "synset": "telephone_receiver.n.01"
+        },
+        {
+          "word": "electro-acoustic transducer",
+          "distance": 0.04761904761904767,
+          "synset": "electro-acoustic_transducer.n.01"
+        },
+        {
+          "word": "headset",
+          "distance": 0.08333333333333337,
+          "synset": "headset.n.01"
+        },
+        {
+          "word": "cartridge",
+          "distance": 0.09090909090909094,
+          "synset": "cartridge.n.04"
+        },
+        {
+          "word": "loudspeaker",
+          "distance": 0.09090909090909094,
+          "synset": "loudspeaker.n.01"
+        },
+        {
+          "word": "microphone",
+          "distance": 0.09090909090909094,
+          "synset": "microphone.n.01"
+        },
+        {
+          "word": "transducer",
+          "distance": 0.09999999999999998,
+          "synset": "transducer.n.01"
+        },
+        {
+          "word": "bug",
+          "distance": 0.13043478260869568,
+          "synset": "bug.n.03"
+        },
+        {
+          "word": "bullhorn",
+          "distance": 0.13043478260869568,
+          "synset": "bullhorn.n.01"
+        },
+        {
+          "word": "condenser microphone",
+          "distance": 0.13043478260869568,
+          "synset": "condenser_microphone.n.01"
+        },
+        {
+          "word": "crystal microphone",
+          "distance": 0.13043478260869568,
+          "synset": "crystal_microphone.n.01"
+        },
+        {
+          "word": "crystal pickup",
+          "distance": 0.13043478260869568,
+          "synset": "crystal_pickup.n.01"
+        },
+        {
+          "word": "directional microphone",
+          "distance": 0.13043478260869568,
+          "synset": "directional_microphone.n.01"
+        },
+        {
+          "word": "spike mike",
+          "distance": 0.13043478260869568,
+          "synset": "spike_mike.n.01"
+        },
+        {
+          "word": "squawk box",
+          "distance": 0.13043478260869568,
+          "synset": "squawk_box.n.01"
+        },
+        {
+          "word": "subwoofer",
+          "distance": 0.13043478260869568,
+          "synset": "subwoofer.n.01"
+        },
+        {
+          "word": "tannoy",
+          "distance": 0.13043478260869568,
+          "synset": "tannoy.n.01"
+        },
+        {
+          "word": "tweeter",
+          "distance": 0.13043478260869568,
+          "synset": "tweeter.n.01"
+        },
+        {
+          "word": "woofer",
+          "distance": 0.13043478260869568,
+          "synset": "woofer.n.01"
+        }
+      ]
+    }
+  ],
+  "Popcorn": [
+    {
+      "synset": "popcorn.n.01",
+      "definition": "corn having small ears and kernels that burst when exposed to dry heat",
+      "synonyms": [
+        "Zea_mays_everta"
+      ],
+      "closest_words": [
+        "corn",
+        "field corn",
+        "sweet corn",
+        "cereal",
+        "dent corn",
+        "flint corn",
+        "soft corn",
+        "oat",
+        "barley",
+        "rice",
+        "ricegrass",
+        "pearl millet",
+        "rye",
+        "millet",
+        "grain",
+        "wheat",
+        "corn",
+        "wild rice",
+        "grass",
+        "cereal oat"
+      ],
+      "closest_words_info": [
+        {
+          "word": "corn",
+          "distance": 0.03703703703703709,
+          "synset": "corn.n.01"
+        },
+        {
+          "word": "field corn",
+          "distance": 0.0714285714285714,
+          "synset": "field_corn.n.01"
+        },
+        {
+          "word": "sweet corn",
+          "distance": 0.0714285714285714,
+          "synset": "sweet_corn.n.01"
+        },
+        {
+          "word": "cereal",
+          "distance": 0.07692307692307687,
+          "synset": "cereal.n.01"
+        },
+        {
+          "word": "dent corn",
+          "distance": 0.10344827586206895,
+          "synset": "dent_corn.n.01"
+        },
+        {
+          "word": "flint corn",
+          "distance": 0.10344827586206895,
+          "synset": "flint_corn.n.01"
+        },
+        {
+          "word": "soft corn",
+          "distance": 0.10344827586206895,
+          "synset": "soft_corn.n.01"
+        },
+        {
+          "word": "oat",
+          "distance": 0.11111111111111116,
+          "synset": "oat.n.01"
+        },
+        {
+          "word": "barley",
+          "distance": 0.11111111111111116,
+          "synset": "barley.n.02"
+        },
+        {
+          "word": "rice",
+          "distance": 0.11111111111111116,
+          "synset": "rice.n.02"
+        },
+        {
+          "word": "ricegrass",
+          "distance": 0.11111111111111116,
+          "synset": "ricegrass.n.01"
+        },
+        {
+          "word": "pearl millet",
+          "distance": 0.11111111111111116,
+          "synset": "pearl_millet.n.01"
+        },
+        {
+          "word": "rye",
+          "distance": 0.11111111111111116,
+          "synset": "rye.n.02"
+        },
+        {
+          "word": "millet",
+          "distance": 0.11111111111111116,
+          "synset": "millet.n.01"
+        },
+        {
+          "word": "grain",
+          "distance": 0.11111111111111116,
+          "synset": "grain.n.08"
+        },
+        {
+          "word": "wheat",
+          "distance": 0.11111111111111116,
+          "synset": "wheat.n.01"
+        },
+        {
+          "word": "corn",
+          "distance": 0.11111111111111116,
+          "synset": "corn.n.05"
+        },
+        {
+          "word": "wild rice",
+          "distance": 0.11111111111111116,
+          "synset": "wild_rice.n.01"
+        },
+        {
+          "word": "grass",
+          "distance": 0.12,
+          "synset": "grass.n.01"
+        },
+        {
+          "word": "cereal oat",
+          "distance": 0.1428571428571429,
+          "synset": "cereal_oat.n.01"
+        }
+      ]
+    },
+    {
+      "synset": "popcorn.n.02",
+      "definition": "small kernels of corn exploded by heat",
+      "synonyms": [],
+      "closest_words": [
+        "corn",
+        "sweet corn",
+        "hominy",
+        "grain",
+        "lye hominy",
+        "pearl hominy",
+        "grist",
+        "groats",
+        "millet",
+        "barley",
+        "buckwheat",
+        "wheat",
+        "oat",
+        "rice",
+        "wild rice",
+        "malt",
+        "foodstuff",
+        "pearl barley",
+        "bulgur",
+        "cracked wheat"
+      ],
+      "closest_words_info": [
+        {
+          "word": "corn",
+          "distance": 0.05882352941176472,
+          "synset": "corn.n.03"
+        },
+        {
+          "word": "sweet corn",
+          "distance": 0.11111111111111116,
+          "synset": "sweet_corn.n.02"
+        },
+        {
+          "word": "hominy",
+          "distance": 0.11111111111111116,
+          "synset": "hominy.n.01"
+        },
+        {
+          "word": "grain",
+          "distance": 0.125,
+          "synset": "grain.n.02"
+        },
+        {
+          "word": "lye hominy",
+          "distance": 0.1578947368421053,
+          "synset": "lye_hominy.n.01"
+        },
+        {
+          "word": "pearl hominy",
+          "distance": 0.1578947368421053,
+          "synset": "pearl_hominy.n.01"
+        },
+        {
+          "word": "grist",
+          "distance": 0.17647058823529416,
+          "synset": "grist.n.01"
+        },
+        {
+          "word": "groats",
+          "distance": 0.17647058823529416,
+          "synset": "groats.n.01"
+        },
+        {
+          "word": "millet",
+          "distance": 0.17647058823529416,
+          "synset": "millet.n.03"
+        },
+        {
+          "word": "barley",
+          "distance": 0.17647058823529416,
+          "synset": "barley.n.01"
+        },
+        {
+          "word": "buckwheat",
+          "distance": 0.17647058823529416,
+          "synset": "buckwheat.n.02"
+        },
+        {
+          "word": "wheat",
+          "distance": 0.17647058823529416,
+          "synset": "wheat.n.02"
+        },
+        {
+          "word": "oat",
+          "distance": 0.17647058823529416,
+          "synset": "oat.n.02"
+        },
+        {
+          "word": "rice",
+          "distance": 0.17647058823529416,
+          "synset": "rice.n.01"
+        },
+        {
+          "word": "wild rice",
+          "distance": 0.17647058823529416,
+          "synset": "wild_rice.n.02"
+        },
+        {
+          "word": "malt",
+          "distance": 0.17647058823529416,
+          "synset": "malt.n.03"
+        },
+        {
+          "word": "foodstuff",
+          "distance": 0.19999999999999996,
+          "synset": "foodstuff.n.02"
+        },
+        {
+          "word": "pearl barley",
+          "distance": 0.2222222222222222,
+          "synset": "pearl_barley.n.01"
+        },
+        {
+          "word": "bulgur",
+          "distance": 0.2222222222222222,
+          "synset": "bulgur.n.01"
+        },
+        {
+          "word": "cracked wheat",
+          "distance": 0.2222222222222222,
+          "synset": "cracked_wheat.n.01"
+        }
+      ]
+    }
+  ],
+  "Snacks": [
+    {
+      "synset": "bite.n.04",
+      "definition": "a light informal meal",
+      "synonyms": [
+        "bite",
+        "collation",
+        "snack"
+      ],
+      "closest_words": [
+        "refreshment",
+        "nosh",
+        "coffee break",
+        "meal",
+        "mess",
+        "square meal",
+        "potluck",
+        "refection",
+        "breakfast",
+        "brunch",
+        "lunch",
+        "tea",
+        "dinner",
+        "supper",
+        "buffet",
+        "picnic",
+        "nosh-up",
+        "ploughman's lunch",
+        "banquet",
+        "nutriment"
+      ],
+      "closest_words_info": [
+        {
+          "word": "refreshment",
+          "distance": 0.05882352941176472,
+          "synset": "refreshment.n.01"
+        },
+        {
+          "word": "nosh",
+          "distance": 0.05882352941176472,
+          "synset": "nosh.n.01"
+        },
+        {
+          "word": "coffee break",
+          "distance": 0.05882352941176472,
+          "synset": "coffee_break.n.01"
+        },
+        {
+          "word": "meal",
+          "distance": 0.06666666666666665,
+          "synset": "meal.n.01"
+        },
+        {
+          "word": "mess",
+          "distance": 0.125,
+          "synset": "mess.n.04"
+        },
+        {
+          "word": "square meal",
+          "distance": 0.125,
+          "synset": "square_meal.n.01"
+        },
+        {
+          "word": "potluck",
+          "distance": 0.125,
+          "synset": "potluck.n.01"
+        },
+        {
+          "word": "refection",
+          "distance": 0.125,
+          "synset": "refection.n.01"
+        },
+        {
+          "word": "breakfast",
+          "distance": 0.125,
+          "synset": "breakfast.n.01"
+        },
+        {
+          "word": "brunch",
+          "distance": 0.125,
+          "synset": "brunch.n.01"
+        },
+        {
+          "word": "lunch",
+          "distance": 0.125,
+          "synset": "lunch.n.01"
+        },
+        {
+          "word": "tea",
+          "distance": 0.125,
+          "synset": "tea.n.02"
+        },
+        {
+          "word": "dinner",
+          "distance": 0.125,
+          "synset": "dinner.n.01"
+        },
+        {
+          "word": "supper",
+          "distance": 0.125,
+          "synset": "supper.n.01"
+        },
+        {
+          "word": "buffet",
+          "distance": 0.125,
+          "synset": "buffet.n.02"
+        },
+        {
+          "word": "picnic",
+          "distance": 0.125,
+          "synset": "picnic.n.03"
+        },
+        {
+          "word": "nosh-up",
+          "distance": 0.125,
+          "synset": "nosh-up.n.01"
+        },
+        {
+          "word": "ploughman's lunch",
+          "distance": 0.125,
+          "synset": "ploughman's_lunch.n.01"
+        },
+        {
+          "word": "banquet",
+          "distance": 0.125,
+          "synset": "banquet.n.02"
+        },
+        {
+          "word": "nutriment",
+          "distance": 0.1428571428571429,
+          "synset": "nutriment.n.01"
+        }
+      ]
+    }
+  ],
+  "Cuddling": [
+    {
+      "synset": "cuddle.v.01",
+      "definition": "move or arrange oneself in a comfortable and cozy position",
+      "synonyms": [
+        "cuddle",
+        "snuggle",
+        "nestle",
+        "nest",
+        "nuzzle",
+        "draw_close"
+      ],
+      "closest_words": [
+        "cling to",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust"
+      ],
+      "closest_words_info": [
+        {
+          "word": "cling to",
+          "distance": 0.19999999999999996,
+          "synset": "cling_to.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6666666666666667,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6666666666666667,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6666666666666667,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6666666666666667,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6666666666666667,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6666666666666667,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6666666666666667,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6666666666666667,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6666666666666667,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6666666666666667,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6666666666666667,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6666666666666667,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6666666666666667,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6666666666666667,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6666666666666667,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.6666666666666667,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.6666666666666667,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.6666666666666667,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.6666666666666667,
+          "synset": "exhaust.v.05"
+        }
+      ]
+    },
+    {
+      "synset": "cuddle.v.02",
+      "definition": "hold (a person or thing) close, as for affection, comfort, or warmth",
+      "synonyms": [
+        "cuddle"
+      ],
+      "closest_words": [
+        "embrace",
+        "clinch",
+        "interlock",
+        "clasp",
+        "grasp",
+        "latch on",
+        "cling",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in"
+      ],
+      "closest_words_info": [
+        {
+          "word": "embrace",
+          "distance": 0.11111111111111116,
+          "synset": "embrace.v.02"
+        },
+        {
+          "word": "clinch",
+          "distance": 0.19999999999999996,
+          "synset": "clinch.v.04"
+        },
+        {
+          "word": "interlock",
+          "distance": 0.19999999999999996,
+          "synset": "interlock.v.03"
+        },
+        {
+          "word": "clasp",
+          "distance": 0.25,
+          "synset": "clasp.v.01"
+        },
+        {
+          "word": "grasp",
+          "distance": 0.4285714285714286,
+          "synset": "grasp.v.01"
+        },
+        {
+          "word": "latch on",
+          "distance": 0.5,
+          "synset": "latch_on.v.01"
+        },
+        {
+          "word": "cling",
+          "distance": 0.5,
+          "synset": "cling.v.03"
+        },
+        {
+          "word": "entity",
+          "distance": 0.75,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.75,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.75,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.75,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.75,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.75,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.75,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.75,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.75,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.75,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.75,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.75,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.75,
+          "synset": "lie_in.v.02"
+        }
+      ]
+    }
+  ],
+  "Lounge": [
+    {
+      "synset": "sofa.n.01",
+      "definition": "an upholstered seat for more than one person",
+      "synonyms": [
+        "sofa",
+        "couch"
+      ],
+      "closest_words": [
+        "convertible",
+        "daybed",
+        "divan",
+        "love seat",
+        "settee",
+        "squab",
+        "seat",
+        "davenport",
+        "studio couch",
+        "bench",
+        "bench",
+        "box",
+        "box seat",
+        "chair",
+        "ottoman",
+        "Siege Perilous",
+        "stool",
+        "toilet seat",
+        "furniture",
+        "chesterfield"
+      ],
+      "closest_words_info": [
+        {
+          "word": "convertible",
+          "distance": 0.04761904761904767,
+          "synset": "convertible.n.03"
+        },
+        {
+          "word": "daybed",
+          "distance": 0.04761904761904767,
+          "synset": "daybed.n.01"
+        },
+        {
+          "word": "divan",
+          "distance": 0.04761904761904767,
+          "synset": "divan.n.01"
+        },
+        {
+          "word": "love seat",
+          "distance": 0.04761904761904767,
+          "synset": "love_seat.n.01"
+        },
+        {
+          "word": "settee",
+          "distance": 0.04761904761904767,
+          "synset": "settee.n.02"
+        },
+        {
+          "word": "squab",
+          "distance": 0.04761904761904767,
+          "synset": "squab.n.02"
+        },
+        {
+          "word": "seat",
+          "distance": 0.052631578947368474,
+          "synset": "seat.n.03"
+        },
+        {
+          "word": "davenport",
+          "distance": 0.09090909090909094,
+          "synset": "davenport.n.03"
+        },
+        {
+          "word": "studio couch",
+          "distance": 0.09090909090909094,
+          "synset": "studio_couch.n.01"
+        },
+        {
+          "word": "bench",
+          "distance": 0.09999999999999998,
+          "synset": "bench.n.01"
+        },
+        {
+          "word": "bench",
+          "distance": 0.09999999999999998,
+          "synset": "bench.n.07"
+        },
+        {
+          "word": "box",
+          "distance": 0.09999999999999998,
+          "synset": "box.n.08"
+        },
+        {
+          "word": "box seat",
+          "distance": 0.09999999999999998,
+          "synset": "box_seat.n.01"
+        },
+        {
+          "word": "chair",
+          "distance": 0.09999999999999998,
+          "synset": "chair.n.01"
+        },
+        {
+          "word": "ottoman",
+          "distance": 0.09999999999999998,
+          "synset": "ottoman.n.03"
+        },
+        {
+          "word": "Siege Perilous",
+          "distance": 0.09999999999999998,
+          "synset": "siege_perilous.n.01"
+        },
+        {
+          "word": "stool",
+          "distance": 0.09999999999999998,
+          "synset": "stool.n.01"
+        },
+        {
+          "word": "toilet seat",
+          "distance": 0.09999999999999998,
+          "synset": "toilet_seat.n.01"
+        },
+        {
+          "word": "furniture",
+          "distance": 0.11111111111111116,
+          "synset": "furniture.n.01"
+        },
+        {
+          "word": "chesterfield",
+          "distance": 0.13043478260869568,
+          "synset": "chesterfield.n.02"
+        }
+      ]
+    },
+    {
+      "synset": "lounge.n.02",
+      "definition": "a room (as in a hotel or airport) with seating where people can wait",
+      "synonyms": [
+        "waiting_room",
+        "waiting_area"
+      ],
+      "closest_words": [
+        "cloakroom",
+        "departure lounge",
+        "room",
+        "anechoic chamber",
+        "anteroom",
+        "back room",
+        "ballroom",
+        "barroom",
+        "bathroom",
+        "bedroom",
+        "belfry",
+        "billiard room",
+        "boardroom",
+        "cardroom",
+        "cell",
+        "cell",
+        "chamber",
+        "checkroom",
+        "classroom",
+        "clean room"
+      ],
+      "closest_words_info": [
+        {
+          "word": "cloakroom",
+          "distance": 0.052631578947368474,
+          "synset": "cloakroom.n.01"
+        },
+        {
+          "word": "departure lounge",
+          "distance": 0.052631578947368474,
+          "synset": "departure_lounge.n.01"
+        },
+        {
+          "word": "room",
+          "distance": 0.05882352941176472,
+          "synset": "room.n.01"
+        },
+        {
+          "word": "anechoic chamber",
+          "distance": 0.11111111111111116,
+          "synset": "anechoic_chamber.n.01"
+        },
+        {
+          "word": "anteroom",
+          "distance": 0.11111111111111116,
+          "synset": "anteroom.n.01"
+        },
+        {
+          "word": "back room",
+          "distance": 0.11111111111111116,
+          "synset": "back_room.n.01"
+        },
+        {
+          "word": "ballroom",
+          "distance": 0.11111111111111116,
+          "synset": "ballroom.n.01"
+        },
+        {
+          "word": "barroom",
+          "distance": 0.11111111111111116,
+          "synset": "barroom.n.01"
+        },
+        {
+          "word": "bathroom",
+          "distance": 0.11111111111111116,
+          "synset": "bathroom.n.01"
+        },
+        {
+          "word": "bedroom",
+          "distance": 0.11111111111111116,
+          "synset": "bedroom.n.01"
+        },
+        {
+          "word": "belfry",
+          "distance": 0.11111111111111116,
+          "synset": "belfry.n.02"
+        },
+        {
+          "word": "billiard room",
+          "distance": 0.11111111111111116,
+          "synset": "billiard_room.n.01"
+        },
+        {
+          "word": "boardroom",
+          "distance": 0.11111111111111116,
+          "synset": "boardroom.n.01"
+        },
+        {
+          "word": "cardroom",
+          "distance": 0.11111111111111116,
+          "synset": "cardroom.n.01"
+        },
+        {
+          "word": "cell",
+          "distance": 0.11111111111111116,
+          "synset": "cell.n.07"
+        },
+        {
+          "word": "cell",
+          "distance": 0.11111111111111116,
+          "synset": "cell.n.06"
+        },
+        {
+          "word": "chamber",
+          "distance": 0.11111111111111116,
+          "synset": "chamber.n.03"
+        },
+        {
+          "word": "checkroom",
+          "distance": 0.11111111111111116,
+          "synset": "checkroom.n.01"
+        },
+        {
+          "word": "classroom",
+          "distance": 0.11111111111111116,
+          "synset": "classroom.n.01"
+        },
+        {
+          "word": "clean room",
+          "distance": 0.11111111111111116,
+          "synset": "clean_room.n.01"
+        }
+      ]
+    }
+  ],
+  "Evening": [
+    {
+      "synset": "evening.n.01",
+      "definition": "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)",
+      "synonyms": [
+        "eve",
+        "even",
+        "eventide"
+      ],
+      "closest_words": [
+        "guest night",
+        "day",
+        "afternoon",
+        "midafternoon",
+        "time period",
+        "trial period",
+        "time frame",
+        "hours",
+        "downtime",
+        "uptime",
+        "work time",
+        "time off",
+        "bout",
+        "hospitalization",
+        "travel time",
+        "times",
+        "time",
+        "elapsed time",
+        "duration",
+        "week"
+      ],
+      "closest_words_info": [
+        {
+          "word": "guest night",
+          "distance": 0.06666666666666665,
+          "synset": "guest_night.n.01"
+        },
+        {
+          "word": "day",
+          "distance": 0.07692307692307687,
+          "synset": "day.n.04"
+        },
+        {
+          "word": "afternoon",
+          "distance": 0.1428571428571429,
+          "synset": "afternoon.n.01"
+        },
+        {
+          "word": "midafternoon",
+          "distance": 0.1428571428571429,
+          "synset": "midafternoon.n.01"
+        },
+        {
+          "word": "time period",
+          "distance": 0.16666666666666663,
+          "synset": "time_period.n.01"
+        },
+        {
+          "word": "trial period",
+          "distance": 0.23076923076923073,
+          "synset": "trial_period.n.01"
+        },
+        {
+          "word": "time frame",
+          "distance": 0.23076923076923073,
+          "synset": "time_frame.n.01"
+        },
+        {
+          "word": "hours",
+          "distance": 0.23076923076923073,
+          "synset": "hours.n.02"
+        },
+        {
+          "word": "downtime",
+          "distance": 0.23076923076923073,
+          "synset": "downtime.n.01"
+        },
+        {
+          "word": "uptime",
+          "distance": 0.23076923076923073,
+          "synset": "uptime.n.01"
+        },
+        {
+          "word": "work time",
+          "distance": 0.23076923076923073,
+          "synset": "work_time.n.01"
+        },
+        {
+          "word": "time off",
+          "distance": 0.23076923076923073,
+          "synset": "time_off.n.01"
+        },
+        {
+          "word": "bout",
+          "distance": 0.23076923076923073,
+          "synset": "bout.n.02"
+        },
+        {
+          "word": "hospitalization",
+          "distance": 0.23076923076923073,
+          "synset": "hospitalization.n.01"
+        },
+        {
+          "word": "travel time",
+          "distance": 0.23076923076923073,
+          "synset": "travel_time.n.01"
+        },
+        {
+          "word": "times",
+          "distance": 0.23076923076923073,
+          "synset": "times.n.01"
+        },
+        {
+          "word": "time",
+          "distance": 0.23076923076923073,
+          "synset": "time.n.03"
+        },
+        {
+          "word": "elapsed time",
+          "distance": 0.23076923076923073,
+          "synset": "elapsed_time.n.01"
+        },
+        {
+          "word": "duration",
+          "distance": 0.23076923076923073,
+          "synset": "duration.n.01"
+        },
+        {
+          "word": "week",
+          "distance": 0.23076923076923073,
+          "synset": "week.n.03"
+        }
+      ]
+    }
+  ],
+  "Weekend": [
+    {
+      "synset": "weekend.n.01",
+      "definition": "a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday",
+      "synonyms": [],
+      "closest_words": [
+        "time period",
+        "trial period",
+        "time frame",
+        "hours",
+        "downtime",
+        "uptime",
+        "work time",
+        "time off",
+        "bout",
+        "hospitalization",
+        "travel time",
+        "times",
+        "time",
+        "elapsed time",
+        "duration",
+        "week",
+        "midweek",
+        "field day",
+        "life",
+        "life"
+      ],
+      "closest_words_info": [
+        {
+          "word": "time period",
+          "distance": 0.09090909090909094,
+          "synset": "time_period.n.01"
+        },
+        {
+          "word": "trial period",
+          "distance": 0.16666666666666663,
+          "synset": "trial_period.n.01"
+        },
+        {
+          "word": "time frame",
+          "distance": 0.16666666666666663,
+          "synset": "time_frame.n.01"
+        },
+        {
+          "word": "hours",
+          "distance": 0.16666666666666663,
+          "synset": "hours.n.02"
+        },
+        {
+          "word": "downtime",
+          "distance": 0.16666666666666663,
+          "synset": "downtime.n.01"
+        },
+        {
+          "word": "uptime",
+          "distance": 0.16666666666666663,
+          "synset": "uptime.n.01"
+        },
+        {
+          "word": "work time",
+          "distance": 0.16666666666666663,
+          "synset": "work_time.n.01"
+        },
+        {
+          "word": "time off",
+          "distance": 0.16666666666666663,
+          "synset": "time_off.n.01"
+        },
+        {
+          "word": "bout",
+          "distance": 0.16666666666666663,
+          "synset": "bout.n.02"
+        },
+        {
+          "word": "hospitalization",
+          "distance": 0.16666666666666663,
+          "synset": "hospitalization.n.01"
+        },
+        {
+          "word": "travel time",
+          "distance": 0.16666666666666663,
+          "synset": "travel_time.n.01"
+        },
+        {
+          "word": "times",
+          "distance": 0.16666666666666663,
+          "synset": "times.n.01"
+        },
+        {
+          "word": "time",
+          "distance": 0.16666666666666663,
+          "synset": "time.n.03"
+        },
+        {
+          "word": "elapsed time",
+          "distance": 0.16666666666666663,
+          "synset": "elapsed_time.n.01"
+        },
+        {
+          "word": "duration",
+          "distance": 0.16666666666666663,
+          "synset": "duration.n.01"
+        },
+        {
+          "word": "week",
+          "distance": 0.16666666666666663,
+          "synset": "week.n.03"
+        },
+        {
+          "word": "midweek",
+          "distance": 0.16666666666666663,
+          "synset": "midweek.n.02"
+        },
+        {
+          "word": "field day",
+          "distance": 0.16666666666666663,
+          "synset": "field_day.n.03"
+        },
+        {
+          "word": "life",
+          "distance": 0.16666666666666663,
+          "synset": "life.n.05"
+        },
+        {
+          "word": "life",
+          "distance": 0.16666666666666663,
+          "synset": "life.n.06"
+        }
+      ]
+    }
+  ]
+}

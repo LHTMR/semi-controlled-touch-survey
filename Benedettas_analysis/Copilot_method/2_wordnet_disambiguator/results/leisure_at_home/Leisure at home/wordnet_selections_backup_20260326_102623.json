@@ -1,0 +1,14 @@
+{
+  "Watching": [
+    "observation.n.02",
+    "watch.v.01",
+    "watch.v.03"
+  ],
+  "Tv": [
+    "television_receiver.n.01"
+  ],
+  "Movie": [
+    "movie.n.01"
+  ],
+  "Show": null
+}

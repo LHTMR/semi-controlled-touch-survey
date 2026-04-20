@@ -1,0 +1,47 @@
+{
+  "Watching": [
+    "observation.n.02",
+    "watch.v.01",
+    "watch.v.03"
+  ],
+  "Tv": [
+    "television_receiver.n.01"
+  ],
+  "Movie": [
+    "movie.n.01"
+  ],
+  "Show": null,
+  "Series": [
+    "series.n.01",
+    "serial.n.01"
+  ],
+  "Netflix": null,
+  "Cartoon": [
+    "cartoon.n.01"
+  ],
+  "Couch": [
+    "sofa.n.01"
+  ],
+  "Sofa": [
+    "sofa.n.01"
+  ],
+  "Bed": [
+    "bed.n.01"
+  ],
+  "Sitting": [
+    "sitting.n.02",
+    "sit.v.01",
+    "sit_down.v.01"
+  ],
+  "Lying": [
+    "lying.n.01",
+    "lie.v.02"
+  ],
+  "Relaxing": [
+    "relax.v.01"
+  ],
+  "Chilling": [
+    "cooling.n.01",
+    "chilling.s.01"
+  ]
+}

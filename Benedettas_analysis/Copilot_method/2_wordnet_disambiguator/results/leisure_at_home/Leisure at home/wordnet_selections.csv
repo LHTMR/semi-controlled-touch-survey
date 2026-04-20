@@ -1,0 +1,37 @@
+word,synset,definition,synonyms
+Watching,observation.n.02,the act of observing; taking a patient look,"observation, observance"
+Watching,watch.v.01,look attentively,watch
+Watching,watch.v.03,see or watch,"watch, view, see, catch, take_in"
+Tv,television_receiver.n.01,an electronic device that receives television signals and displays them on a screen,"television_receiver, television, television_set, tv_set, idiot_box, boob_tube, telly, goggle_box"
+Movie,movie.n.01,a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement,"film, picture, moving_picture, moving-picture_show, motion_picture, motion-picture_show, picture_show, pic, flick"
+Show,N/A,N/A,N/A
+Series,series.n.01,similar things placed in order or happening one after another,N/A
+Series,serial.n.01,a serialized set of programs,serial
+Netflix,N/A,N/A,N/A
+Cartoon,cartoon.n.01,a humorous or satirical drawing published in a newspaper or magazine,sketch
+Couch,sofa.n.01,an upholstered seat for more than one person,"sofa, lounge"
+Sofa,sofa.n.01,an upholstered seat for more than one person,"couch, lounge"
+Bed,bed.n.01,a piece of furniture that provides a place to sleep,N/A
+Sitting,sitting.n.02,the act of assuming or maintaining a seated position,N/A
+Sitting,sit.v.01,be seated,"sit, sit_down"
+Sitting,sit_down.v.01,take a seat,"sit_down, sit"
+Lying,lying.n.01,the deliberate act of deviating from the truth,"prevarication, fabrication"
+Lying,lie.v.02,"be lying, be prostrate; be in a horizontal position",lie
+Relaxing,relax.v.01,"become less tense, rest, or take one's ease","relax, loosen_up, unbend, unwind, decompress, slow_down"
+Chilling,cooling.n.01,the process of becoming cooler; a falling temperature,"cooling, temperature_reduction"
+Chilling,chilling.s.01,provoking fear terror,"scarey, scary, shivery, shuddery"
+Reading,reading.n.01,the cognitive process of understanding a written linguistic message,N/A
+Reading,read.v.01,interpret something that is written or printed,read
+Living room,N/A,N/A,N/A
+Blanket,blanket.n.01,bedding that keeps a person warm in bed,cover
+Laptop,laptop.n.01,a portable computer small enough to use in your lap,laptop_computer
+Headphones,earphone.n.01,electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear,"earphone, earpiece, headphone, phone"
+Popcorn,popcorn.n.01,corn having small ears and kernels that burst when exposed to dry heat,Zea_mays_everta
+Popcorn,popcorn.n.02,small kernels of corn exploded by heat,N/A
+Snacks,bite.n.04,a light informal meal,"bite, collation, snack"
+Cuddling,cuddle.v.01,move or arrange oneself in a comfortable and cozy position,"cuddle, snuggle, nestle, nest, nuzzle, draw_close"
+Cuddling,cuddle.v.02,"hold (a person or thing) close, as for affection, comfort, or warmth",cuddle
+Lounge,sofa.n.01,an upholstered seat for more than one person,"sofa, couch"
+Lounge,lounge.n.02,a room (as in a hotel or airport) with seating where people can wait,"waiting_room, waiting_area"
+Evening,evening.n.01,the latter part of the day (the period of decreasing daylight from late afternoon until nightfall),"eve, even, eventide"
+Weekend,weekend.n.01,a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday,N/A
