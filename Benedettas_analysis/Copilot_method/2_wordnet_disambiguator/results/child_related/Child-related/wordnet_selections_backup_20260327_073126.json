@@ -1,0 +1,61 @@
+{
+  "Child": [
+    "child.n.01"
+  ],
+  "Attention": [
+    "attention.n.01"
+  ],
+  "Play": [
+    "play.v.05"
+  ],
+  "Son": [
+    "son.n.01"
+  ],
+  "Nephew": [
+    "nephew.n.01"
+  ],
+  "Kid": [
+    "child.n.01"
+  ],
+  "Ask": [
+    "ask.v.01"
+  ],
+  "Daughter": [
+    "daughter.n.01"
+  ],
+  "Show": [
+    "display.n.01",
+    "show.n.03"
+  ],
+  "Poke": [
+    "poke.v.03"
+  ],
+  "Tap": [
+    "tap.v.03",
+    "tap.v.07"
+  ],
+  "Call": [
+    "call.n.01"
+  ],
+  "Niece": [
+    "niece.n.01"
+  ],
+  "Baby": [
+    "baby.n.01"
+  ],
+  "Help": [
+    "aid.n.02"
+  ],
+  "Boy": [
+    "male_child.n.01"
+  ],
+  "Toddler": [
+    "toddler.n.01"
+  ],
+  "Toy": [
+    "plaything.n.01"
+  ],
+  "Girl": [
+    "girl.n.01"
+  ]
+}
