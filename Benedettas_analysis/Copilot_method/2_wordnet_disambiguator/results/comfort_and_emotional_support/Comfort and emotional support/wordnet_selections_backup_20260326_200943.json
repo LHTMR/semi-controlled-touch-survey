@@ -1,0 +1,67 @@
+{
+  "Comfort": [
+    "comfort.n.01"
+  ],
+  "Reassure": [
+    "reassure.v.01"
+  ],
+  "Calm": [
+    "composure.n.01"
+  ],
+  "Soothe": [
+    "comfort.v.01"
+  ],
+  "Support": [
+    "support.v.01"
+  ],
+  "Care": [
+    "care.n.01"
+  ],
+  "Affection": [
+    "affection.n.01"
+  ],
+  "Cuddle": [
+    "cuddle.n.01"
+  ],
+  "Hug": [
+    "hug.n.01"
+  ],
+  "Pat": [
+    "tap.n.08",
+    "chuck.v.03",
+    "dab.v.02"
+  ],
+  "Caress": [
+    "caress.n.01"
+  ],
+  "Stroke": [
+    "stroke.n.04",
+    "stroke.n.05"
+  ],
+  "Hold": [
+    "have.v.01"
+  ],
+  "Cheer": [
+    "cheer.n.01"
+  ],
+  "Encourage": [
+    "encourage.v.02"
+  ],
+  "Grounding": [
+    "ground.v.02"
+  ],
+  "Sad": [
+    "sad.a.01"
+  ],
+  "Upset": [
+    "disturbance.n.02",
+    "upset.n.02"
+  ],
+  "Cry": [
+    "cry.n.01"
+  ],
+  "Anxiety": [
+    "anxiety.n.01",
+    "anxiety.n.02"
+  ]
+}
