@@ -1,0 +1,18 @@
+{
+  "Work": [
+    "work.v.01"
+  ],
+  "Colleague": [
+    "colleague.n.01"
+  ],
+  "Class": [
+    "class.n.01",
+    "class.n.02"
+  ],
+  "Meeting": [
+    "meeting.n.01"
+  ],
+  "Exam": [
+    "examination.n.02"
+  ]
+}

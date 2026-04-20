@@ -1,0 +1,51 @@
+{
+  "Work": [
+    "work.v.01"
+  ],
+  "Colleague": [
+    "colleague.n.01"
+  ],
+  "Class": [
+    "class.n.01",
+    "class.n.02"
+  ],
+  "Meeting": [
+    "meeting.n.01"
+  ],
+  "Exam": [
+    "examination.n.02"
+  ],
+  "Call": [
+    "call.n.01"
+  ],
+  "Coworker": null,
+  "Project": [
+    "undertaking.n.01"
+  ],
+  "Classmate": [
+    "schoolmate.n.01"
+  ],
+  "Teacher": [
+    "teacher.n.01"
+  ],
+  "Office": [
+    "office.n.01"
+  ],
+  "Lecture": [
+    "lecture.n.01",
+    "lecture.n.03"
+  ],
+  "School": [
+    "school.n.01"
+  ],
+  "Study": [
+    "survey.n.01",
+    "study.n.02"
+  ],
+  "Boss": [
+    "foreman.n.01"
+  ],
+  "University": [
+    "university.n.01"
+  ]
+}

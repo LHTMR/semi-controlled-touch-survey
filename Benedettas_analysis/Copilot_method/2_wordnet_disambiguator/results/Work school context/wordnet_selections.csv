@@ -1,0 +1,29 @@
+word,synset,definition,synonyms
+Work,work.v.01,exert oneself by doing mental or physical work for a purpose or out of necessity,N/A
+Colleague,colleague.n.01,an associate that one works with,"co-worker, fellow_worker, workfellow"
+Class,class.n.01,a collection of things sharing a common attribute,"category, family"
+Class,class.n.02,a body of students who are taught together,"form, grade, course"
+Meeting,meeting.n.01,a formally arranged gathering,group_meeting
+Exam,examination.n.02,a set of questions or exercises evaluating skill or knowledge,"examination, test"
+Call,call.n.01,a telephone connection,"phone_call, telephone_call"
+Coworker,N/A,N/A,N/A
+Project,undertaking.n.01,any piece of work that is undertaken or attempted,"undertaking, task, labor"
+Classmate,schoolmate.n.01,an acquaintance that you go to school with,"schoolmate, schoolfellow, class_fellow"
+Teacher,teacher.n.01,a person whose occupation is teaching,instructor
+Office,office.n.01,place of business where professional or clerical duties are performed,business_office
+Lecture,lecture.n.01,a speech that is open to the public,"public_lecture, talk"
+Lecture,lecture.n.03,teaching by giving a discourse on some subject (typically to a class),lecturing
+School,school.n.01,an educational institution,N/A
+Study,survey.n.01,a detailed critical inspection,survey
+Study,study.n.02,applying the mind to learning and understanding a subject (especially by reading),work
+Boss,foreman.n.01,a person who exercises control over workers,"foreman, chief, gaffer, honcho"
+University,university.n.01,the body of faculty and students at a university,N/A
+Lesson,lesson.n.01,a unit of instruction,N/A
+Client,customer.n.01,someone who pays for goods or services,customer
+Team,team.n.01,a cooperative unit (especially in sports),squad
+Professor,professor.n.01,someone who is a member of the faculty at a college or university,prof
+Library,library.n.01,a room where books are kept,N/A
+Grade,grade.v.03,"assign a grade or rank to, according to one's evaluation","score, mark"
+Deadline,deadline.n.01,the point in time at which something must be completed,N/A
+Report,report.n.01,a written document describing the findings of some individual or group,"study, written_report"
+Presentation,presentation.n.01,the activity of formally presenting something (as a prize or reward),N/A

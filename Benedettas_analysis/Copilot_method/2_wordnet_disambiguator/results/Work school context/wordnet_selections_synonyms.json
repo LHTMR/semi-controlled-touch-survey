@@ -1,0 +1,3591 @@
+{
+  "Work": [
+    {
+      "synset": "work.v.01",
+      "definition": "exert oneself by doing mental or physical work for a purpose or out of necessity",
+      "synonyms": [],
+      "closest_words": [
+        "work through",
+        "putter",
+        "carpenter",
+        "clerk",
+        "page",
+        "wait",
+        "pull one's weight",
+        "electioneer",
+        "assist",
+        "beaver",
+        "work at",
+        "plug away",
+        "busy",
+        "collaborate",
+        "volunteer",
+        "specialize",
+        "minister",
+        "intern",
+        "skipper",
+        "boondoggle"
+      ],
+      "closest_words_info": [
+        {
+          "word": "work through",
+          "distance": 0.33333333333333337,
+          "synset": "work_through.v.01"
+        },
+        {
+          "word": "putter",
+          "distance": 0.33333333333333337,
+          "synset": "putter.v.02"
+        },
+        {
+          "word": "carpenter",
+          "distance": 0.33333333333333337,
+          "synset": "carpenter.v.01"
+        },
+        {
+          "word": "clerk",
+          "distance": 0.33333333333333337,
+          "synset": "clerk.v.01"
+        },
+        {
+          "word": "page",
+          "distance": 0.33333333333333337,
+          "synset": "page.v.02"
+        },
+        {
+          "word": "wait",
+          "distance": 0.33333333333333337,
+          "synset": "wait.v.04"
+        },
+        {
+          "word": "pull one's weight",
+          "distance": 0.33333333333333337,
+          "synset": "pull_one's_weight.v.01"
+        },
+        {
+          "word": "electioneer",
+          "distance": 0.33333333333333337,
+          "synset": "electioneer.v.01"
+        },
+        {
+          "word": "assist",
+          "distance": 0.33333333333333337,
+          "synset": "assist.v.02"
+        },
+        {
+          "word": "beaver",
+          "distance": 0.33333333333333337,
+          "synset": "beaver.v.01"
+        },
+        {
+          "word": "work at",
+          "distance": 0.33333333333333337,
+          "synset": "work_at.v.01"
+        },
+        {
+          "word": "plug away",
+          "distance": 0.33333333333333337,
+          "synset": "plug_away.v.01"
+        },
+        {
+          "word": "busy",
+          "distance": 0.33333333333333337,
+          "synset": "busy.v.01"
+        },
+        {
+          "word": "collaborate",
+          "distance": 0.33333333333333337,
+          "synset": "collaborate.v.01"
+        },
+        {
+          "word": "volunteer",
+          "distance": 0.33333333333333337,
+          "synset": "volunteer.v.03"
+        },
+        {
+          "word": "specialize",
+          "distance": 0.33333333333333337,
+          "synset": "specialize.v.04"
+        },
+        {
+          "word": "minister",
+          "distance": 0.33333333333333337,
+          "synset": "minister.v.02"
+        },
+        {
+          "word": "intern",
+          "distance": 0.33333333333333337,
+          "synset": "intern.v.02"
+        },
+        {
+          "word": "skipper",
+          "distance": 0.33333333333333337,
+          "synset": "skipper.v.01"
+        },
+        {
+          "word": "boondoggle",
+          "distance": 0.33333333333333337,
+          "synset": "boondoggle.v.01"
+        }
+      ]
+    }
+  ],
+  "Colleague": [
+    {
+      "synset": "colleague.n.01",
+      "definition": "an associate that one works with",
+      "synonyms": [
+        "co-worker",
+        "fellow_worker",
+        "workfellow"
+      ],
+      "closest_words": [
+        "associate",
+        "adjunct",
+        "affiliate",
+        "ally",
+        "bedfellow",
+        "collaborator",
+        "colleague",
+        "member",
+        "participant",
+        "shipmate",
+        "teammate",
+        "attendant",
+        "discussant",
+        "Areopagite",
+        "blood brother",
+        "bride",
+        "bridge partner",
+        "brother",
+        "cabalist",
+        "charter member"
+      ],
+      "closest_words_info": [
+        {
+          "word": "associate",
+          "distance": 0.052631578947368474,
+          "synset": "associate.n.01"
+        },
+        {
+          "word": "adjunct",
+          "distance": 0.09999999999999998,
+          "synset": "adjunct.n.02"
+        },
+        {
+          "word": "affiliate",
+          "distance": 0.09999999999999998,
+          "synset": "affiliate.n.01"
+        },
+        {
+          "word": "ally",
+          "distance": 0.09999999999999998,
+          "synset": "ally.n.02"
+        },
+        {
+          "word": "bedfellow",
+          "distance": 0.09999999999999998,
+          "synset": "bedfellow.n.01"
+        },
+        {
+          "word": "collaborator",
+          "distance": 0.09999999999999998,
+          "synset": "collaborator.n.03"
+        },
+        {
+          "word": "colleague",
+          "distance": 0.09999999999999998,
+          "synset": "colleague.n.02"
+        },
+        {
+          "word": "member",
+          "distance": 0.09999999999999998,
+          "synset": "member.n.01"
+        },
+        {
+          "word": "participant",
+          "distance": 0.09999999999999998,
+          "synset": "participant.n.01"
+        },
+        {
+          "word": "shipmate",
+          "distance": 0.09999999999999998,
+          "synset": "shipmate.n.01"
+        },
+        {
+          "word": "teammate",
+          "distance": 0.09999999999999998,
+          "synset": "teammate.n.01"
+        },
+        {
+          "word": "attendant",
+          "distance": 0.1428571428571429,
+          "synset": "attendant.n.02"
+        },
+        {
+          "word": "discussant",
+          "distance": 0.1428571428571429,
+          "synset": "discussant.n.01"
+        },
+        {
+          "word": "Areopagite",
+          "distance": 0.1428571428571429,
+          "synset": "areopagite.n.01"
+        },
+        {
+          "word": "blood brother",
+          "distance": 0.1428571428571429,
+          "synset": "blood_brother.n.02"
+        },
+        {
+          "word": "bride",
+          "distance": 0.1428571428571429,
+          "synset": "bride.n.03"
+        },
+        {
+          "word": "bridge partner",
+          "distance": 0.1428571428571429,
+          "synset": "bridge_partner.n.01"
+        },
+        {
+          "word": "brother",
+          "distance": 0.1428571428571429,
+          "synset": "brother.n.02"
+        },
+        {
+          "word": "cabalist",
+          "distance": 0.1428571428571429,
+          "synset": "cabalist.n.01"
+        },
+        {
+          "word": "charter member",
+          "distance": 0.1428571428571429,
+          "synset": "charter_member.n.01"
+        }
+      ]
+    }
+  ],
+  "Class": [
+    {
+      "synset": "class.n.01",
+      "definition": "a collection of things sharing a common attribute",
+      "synonyms": [
+        "category",
+        "family"
+      ],
+      "closest_words": [
+        "grammatical category",
+        "substitution class",
+        "brass family",
+        "violin family",
+        "woodwind family",
+        "stamp",
+        "sex",
+        "declension",
+        "conjugation",
+        "denomination",
+        "histocompatibility complex",
+        "collection",
+        "case",
+        "part of speech",
+        "number",
+        "person",
+        "gender",
+        "tense",
+        "semantic role",
+        "procession"
+      ],
+      "closest_words_info": [
+        {
+          "word": "grammatical category",
+          "distance": 0.09090909090909094,
+          "synset": "grammatical_category.n.01"
+        },
+        {
+          "word": "substitution class",
+          "distance": 0.09090909090909094,
+          "synset": "substitution_class.n.01"
+        },
+        {
+          "word": "brass family",
+          "distance": 0.09090909090909094,
+          "synset": "brass_family.n.01"
+        },
+        {
+          "word": "violin family",
+          "distance": 0.09090909090909094,
+          "synset": "violin_family.n.01"
+        },
+        {
+          "word": "woodwind family",
+          "distance": 0.09090909090909094,
+          "synset": "woodwind_family.n.01"
+        },
+        {
+          "word": "stamp",
+          "distance": 0.09090909090909094,
+          "synset": "stamp.n.02"
+        },
+        {
+          "word": "sex",
+          "distance": 0.09090909090909094,
+          "synset": "sex.n.02"
+        },
+        {
+          "word": "declension",
+          "distance": 0.09090909090909094,
+          "synset": "declension.n.04"
+        },
+        {
+          "word": "conjugation",
+          "distance": 0.09090909090909094,
+          "synset": "conjugation.n.04"
+        },
+        {
+          "word": "denomination",
+          "distance": 0.09090909090909094,
+          "synset": "denomination.n.02"
+        },
+        {
+          "word": "histocompatibility complex",
+          "distance": 0.09090909090909094,
+          "synset": "histocompatibility_complex.n.01"
+        },
+        {
+          "word": "collection",
+          "distance": 0.11111111111111116,
+          "synset": "collection.n.01"
+        },
+        {
+          "word": "case",
+          "distance": 0.16666666666666663,
+          "synset": "case.n.11"
+        },
+        {
+          "word": "part of speech",
+          "distance": 0.16666666666666663,
+          "synset": "part_of_speech.n.01"
+        },
+        {
+          "word": "number",
+          "distance": 0.16666666666666663,
+          "synset": "number.n.10"
+        },
+        {
+          "word": "person",
+          "distance": 0.16666666666666663,
+          "synset": "person.n.03"
+        },
+        {
+          "word": "gender",
+          "distance": 0.16666666666666663,
+          "synset": "gender.n.01"
+        },
+        {
+          "word": "tense",
+          "distance": 0.16666666666666663,
+          "synset": "tense.n.01"
+        },
+        {
+          "word": "semantic role",
+          "distance": 0.16666666666666663,
+          "synset": "semantic_role.n.01"
+        },
+        {
+          "word": "procession",
+          "distance": 0.19999999999999996,
+          "synset": "procession.n.02"
+        }
+      ]
+    },
+    {
+      "synset": "class.n.02",
+      "definition": "a body of students who are taught together",
+      "synonyms": [
+        "form",
+        "grade",
+        "course"
+      ],
+      "closest_words": [
+        "master class",
+        "section",
+        "gathering",
+        "building",
+        "carload",
+        "contingent",
+        "floor",
+        "pair",
+        "room",
+        "trio",
+        "turnout",
+        "quartet",
+        "quintet",
+        "sextet",
+        "septet",
+        "octet",
+        "assembly",
+        "crowd",
+        "multitude",
+        "audience"
+      ],
+      "closest_words_info": [
+        {
+          "word": "master class",
+          "distance": 0.07692307692307687,
+          "synset": "master_class.n.01"
+        },
+        {
+          "word": "section",
+          "distance": 0.07692307692307687,
+          "synset": "section.n.09"
+        },
+        {
+          "word": "gathering",
+          "distance": 0.09090909090909094,
+          "synset": "gathering.n.01"
+        },
+        {
+          "word": "building",
+          "distance": 0.16666666666666663,
+          "synset": "building.n.04"
+        },
+        {
+          "word": "carload",
+          "distance": 0.16666666666666663,
+          "synset": "carload.n.01"
+        },
+        {
+          "word": "contingent",
+          "distance": 0.16666666666666663,
+          "synset": "contingent.n.01"
+        },
+        {
+          "word": "floor",
+          "distance": 0.16666666666666663,
+          "synset": "floor.n.07"
+        },
+        {
+          "word": "pair",
+          "distance": 0.16666666666666663,
+          "synset": "pair.n.03"
+        },
+        {
+          "word": "room",
+          "distance": 0.16666666666666663,
+          "synset": "room.n.04"
+        },
+        {
+          "word": "trio",
+          "distance": 0.16666666666666663,
+          "synset": "trio.n.05"
+        },
+        {
+          "word": "turnout",
+          "distance": 0.16666666666666663,
+          "synset": "turnout.n.01"
+        },
+        {
+          "word": "quartet",
+          "distance": 0.16666666666666663,
+          "synset": "quartet.n.04"
+        },
+        {
+          "word": "quintet",
+          "distance": 0.16666666666666663,
+          "synset": "quintet.n.05"
+        },
+        {
+          "word": "sextet",
+          "distance": 0.16666666666666663,
+          "synset": "sextet.n.05"
+        },
+        {
+          "word": "septet",
+          "distance": 0.16666666666666663,
+          "synset": "septet.n.04"
+        },
+        {
+          "word": "octet",
+          "distance": 0.16666666666666663,
+          "synset": "octet.n.04"
+        },
+        {
+          "word": "assembly",
+          "distance": 0.16666666666666663,
+          "synset": "assembly.n.04"
+        },
+        {
+          "word": "crowd",
+          "distance": 0.16666666666666663,
+          "synset": "crowd.n.01"
+        },
+        {
+          "word": "multitude",
+          "distance": 0.16666666666666663,
+          "synset": "multitude.n.02"
+        },
+        {
+          "word": "audience",
+          "distance": 0.16666666666666663,
+          "synset": "audience.n.01"
+        }
+      ]
+    }
+  ],
+  "Meeting": [
+    {
+      "synset": "meeting.n.01",
+      "definition": "a formally arranged gathering",
+      "synonyms": [
+        "group_meeting"
+      ],
+      "closest_words": [
+        "board meeting",
+        "camp meeting",
+        "caucus",
+        "conclave",
+        "conference",
+        "congress",
+        "convention",
+        "council",
+        "forum",
+        "plenum",
+        "psychotherapy group",
+        "stockholders meeting",
+        "summit",
+        "town meeting",
+        "gathering",
+        "Constitutional Convention",
+        "encounter group",
+        "Continental Congress",
+        "indaba",
+        "Jirga"
+      ],
+      "closest_words_info": [
+        {
+          "word": "board meeting",
+          "distance": 0.07692307692307687,
+          "synset": "board_meeting.n.01"
+        },
+        {
+          "word": "camp meeting",
+          "distance": 0.07692307692307687,
+          "synset": "camp_meeting.n.01"
+        },
+        {
+          "word": "caucus",
+          "distance": 0.07692307692307687,
+          "synset": "caucus.n.01"
+        },
+        {
+          "word": "conclave",
+          "distance": 0.07692307692307687,
+          "synset": "conclave.n.01"
+        },
+        {
+          "word": "conference",
+          "distance": 0.07692307692307687,
+          "synset": "conference.n.01"
+        },
+        {
+          "word": "congress",
+          "distance": 0.07692307692307687,
+          "synset": "congress.n.02"
+        },
+        {
+          "word": "convention",
+          "distance": 0.07692307692307687,
+          "synset": "convention.n.01"
+        },
+        {
+          "word": "council",
+          "distance": 0.07692307692307687,
+          "synset": "council.n.03"
+        },
+        {
+          "word": "forum",
+          "distance": 0.07692307692307687,
+          "synset": "forum.n.01"
+        },
+        {
+          "word": "plenum",
+          "distance": 0.07692307692307687,
+          "synset": "plenum.n.01"
+        },
+        {
+          "word": "psychotherapy group",
+          "distance": 0.07692307692307687,
+          "synset": "psychotherapy_group.n.01"
+        },
+        {
+          "word": "stockholders meeting",
+          "distance": 0.07692307692307687,
+          "synset": "stockholders_meeting.n.01"
+        },
+        {
+          "word": "summit",
+          "distance": 0.07692307692307687,
+          "synset": "summit.n.03"
+        },
+        {
+          "word": "town meeting",
+          "distance": 0.07692307692307687,
+          "synset": "town_meeting.n.02"
+        },
+        {
+          "word": "gathering",
+          "distance": 0.09090909090909094,
+          "synset": "gathering.n.01"
+        },
+        {
+          "word": "Constitutional Convention",
+          "distance": 0.1428571428571429,
+          "synset": "constitutional_convention.n.01"
+        },
+        {
+          "word": "encounter group",
+          "distance": 0.1428571428571429,
+          "synset": "encounter_group.n.01"
+        },
+        {
+          "word": "Continental Congress",
+          "distance": 0.1428571428571429,
+          "synset": "continental_congress.n.01"
+        },
+        {
+          "word": "indaba",
+          "distance": 0.1428571428571429,
+          "synset": "indaba.n.01"
+        },
+        {
+          "word": "Jirga",
+          "distance": 0.1428571428571429,
+          "synset": "jirga.n.01"
+        }
+      ]
+    }
+  ],
+  "Exam": [
+    {
+      "synset": "examination.n.02",
+      "definition": "a set of questions or exercises evaluating skill or knowledge",
+      "synonyms": [
+        "examination",
+        "test"
+      ],
+      "closest_words": [
+        "bar examination",
+        "comprehensive examination",
+        "entrance examination",
+        "final examination",
+        "litmus test",
+        "midterm examination",
+        "oral",
+        "preliminary examination",
+        "quiz",
+        "test paper",
+        "tripos",
+        "communication",
+        "pop quiz",
+        "transmission",
+        "intercommunication",
+        "medium",
+        "channel",
+        "mail",
+        "dramaturgy",
+        "discussion"
+      ],
+      "closest_words_info": [
+        {
+          "word": "bar examination",
+          "distance": 0.06666666666666665,
+          "synset": "bar_examination.n.01"
+        },
+        {
+          "word": "comprehensive examination",
+          "distance": 0.06666666666666665,
+          "synset": "comprehensive_examination.n.01"
+        },
+        {
+          "word": "entrance examination",
+          "distance": 0.06666666666666665,
+          "synset": "entrance_examination.n.01"
+        },
+        {
+          "word": "final examination",
+          "distance": 0.06666666666666665,
+          "synset": "final_examination.n.01"
+        },
+        {
+          "word": "litmus test",
+          "distance": 0.06666666666666665,
+          "synset": "litmus_test.n.02"
+        },
+        {
+          "word": "midterm examination",
+          "distance": 0.06666666666666665,
+          "synset": "midterm_examination.n.01"
+        },
+        {
+          "word": "oral",
+          "distance": 0.06666666666666665,
+          "synset": "oral.n.01"
+        },
+        {
+          "word": "preliminary examination",
+          "distance": 0.06666666666666665,
+          "synset": "preliminary_examination.n.01"
+        },
+        {
+          "word": "quiz",
+          "distance": 0.06666666666666665,
+          "synset": "quiz.n.01"
+        },
+        {
+          "word": "test paper",
+          "distance": 0.06666666666666665,
+          "synset": "test_paper.n.01"
+        },
+        {
+          "word": "tripos",
+          "distance": 0.06666666666666665,
+          "synset": "tripos.n.01"
+        },
+        {
+          "word": "communication",
+          "distance": 0.07692307692307687,
+          "synset": "communication.n.01"
+        },
+        {
+          "word": "pop quiz",
+          "distance": 0.125,
+          "synset": "pop_quiz.n.01"
+        },
+        {
+          "word": "transmission",
+          "distance": 0.1428571428571429,
+          "synset": "transmission.n.02"
+        },
+        {
+          "word": "intercommunication",
+          "distance": 0.1428571428571429,
+          "synset": "intercommunication.n.01"
+        },
+        {
+          "word": "medium",
+          "distance": 0.1428571428571429,
+          "synset": "medium.n.03"
+        },
+        {
+          "word": "channel",
+          "distance": 0.1428571428571429,
+          "synset": "channel.n.05"
+        },
+        {
+          "word": "mail",
+          "distance": 0.1428571428571429,
+          "synset": "mail.n.02"
+        },
+        {
+          "word": "dramaturgy",
+          "distance": 0.1428571428571429,
+          "synset": "dramaturgy.n.01"
+        },
+        {
+          "word": "discussion",
+          "distance": 0.1428571428571429,
+          "synset": "discussion.n.01"
+        }
+      ]
+    }
+  ],
+  "Call": [
+    {
+      "synset": "call.n.01",
+      "definition": "a telephone connection",
+      "synonyms": [
+        "phone_call",
+        "telephone_call"
+      ],
+      "closest_words": [
+        "call-back",
+        "collect call",
+        "call-in",
+        "crank call",
+        "local call",
+        "long distance",
+        "conference call",
+        "wake-up call",
+        "telephone",
+        "toll call",
+        "three-way calling",
+        "voice mail",
+        "call forwarding",
+        "call waiting",
+        "telecommunication",
+        "telegraphy",
+        "wireless",
+        "broadcasting",
+        "multiplex",
+        "medium"
+      ],
+      "closest_words_info": [
+        {
+          "word": "call-back",
+          "distance": 0.04761904761904767,
+          "synset": "call-back.n.01"
+        },
+        {
+          "word": "collect call",
+          "distance": 0.04761904761904767,
+          "synset": "collect_call.n.01"
+        },
+        {
+          "word": "call-in",
+          "distance": 0.04761904761904767,
+          "synset": "call-in.n.01"
+        },
+        {
+          "word": "crank call",
+          "distance": 0.04761904761904767,
+          "synset": "crank_call.n.01"
+        },
+        {
+          "word": "local call",
+          "distance": 0.04761904761904767,
+          "synset": "local_call.n.01"
+        },
+        {
+          "word": "long distance",
+          "distance": 0.04761904761904767,
+          "synset": "long_distance.n.01"
+        },
+        {
+          "word": "conference call",
+          "distance": 0.04761904761904767,
+          "synset": "conference_call.n.01"
+        },
+        {
+          "word": "wake-up call",
+          "distance": 0.04761904761904767,
+          "synset": "wake-up_call.n.02"
+        },
+        {
+          "word": "telephone",
+          "distance": 0.052631578947368474,
+          "synset": "telephone.n.02"
+        },
+        {
+          "word": "toll call",
+          "distance": 0.09090909090909094,
+          "synset": "toll_call.n.01"
+        },
+        {
+          "word": "three-way calling",
+          "distance": 0.09090909090909094,
+          "synset": "three-way_calling.n.01"
+        },
+        {
+          "word": "voice mail",
+          "distance": 0.09999999999999998,
+          "synset": "voice_mail.n.01"
+        },
+        {
+          "word": "call forwarding",
+          "distance": 0.09999999999999998,
+          "synset": "call_forwarding.n.01"
+        },
+        {
+          "word": "call waiting",
+          "distance": 0.09999999999999998,
+          "synset": "call_waiting.n.01"
+        },
+        {
+          "word": "telecommunication",
+          "distance": 0.11111111111111116,
+          "synset": "telecommunication.n.01"
+        },
+        {
+          "word": "telegraphy",
+          "distance": 0.1578947368421053,
+          "synset": "telegraphy.n.01"
+        },
+        {
+          "word": "wireless",
+          "distance": 0.1578947368421053,
+          "synset": "wireless.n.02"
+        },
+        {
+          "word": "broadcasting",
+          "distance": 0.1578947368421053,
+          "synset": "broadcasting.n.02"
+        },
+        {
+          "word": "multiplex",
+          "distance": 0.1578947368421053,
+          "synset": "multiplex.n.01"
+        },
+        {
+          "word": "medium",
+          "distance": 0.17647058823529416,
+          "synset": "medium.n.01"
+        }
+      ]
+    }
+  ],
+  "Coworker": [],
+  "Project": [
+    {
+      "synset": "undertaking.n.01",
+      "definition": "any piece of work that is undertaken or attempted",
+      "synonyms": [
+        "undertaking",
+        "task",
+        "labor"
+      ],
+      "closest_words": [
+        "cinch",
+        "adventure",
+        "assignment",
+        "baby",
+        "enterprise",
+        "labor of love",
+        "marathon",
+        "no-brainer",
+        "proposition",
+        "tall order",
+        "venture",
+        "Manhattan Project",
+        "work",
+        "doddle",
+        "school assignment",
+        "racket",
+        "joint venture",
+        "experiment",
+        "forlorn hope",
+        "written assignment"
+      ],
+      "closest_words_info": [
+        {
+          "word": "cinch",
+          "distance": 0.05882352941176472,
+          "synset": "cinch.n.01"
+        },
+        {
+          "word": "adventure",
+          "distance": 0.05882352941176472,
+          "synset": "adventure.n.01"
+        },
+        {
+          "word": "assignment",
+          "distance": 0.05882352941176472,
+          "synset": "assignment.n.05"
+        },
+        {
+          "word": "baby",
+          "distance": 0.05882352941176472,
+          "synset": "baby.n.07"
+        },
+        {
+          "word": "enterprise",
+          "distance": 0.05882352941176472,
+          "synset": "enterprise.n.01"
+        },
+        {
+          "word": "labor of love",
+          "distance": 0.05882352941176472,
+          "synset": "labor_of_love.n.01"
+        },
+        {
+          "word": "marathon",
+          "distance": 0.05882352941176472,
+          "synset": "marathon.n.01"
+        },
+        {
+          "word": "no-brainer",
+          "distance": 0.05882352941176472,
+          "synset": "no-brainer.n.01"
+        },
+        {
+          "word": "proposition",
+          "distance": 0.05882352941176472,
+          "synset": "proposition.n.05"
+        },
+        {
+          "word": "tall order",
+          "distance": 0.05882352941176472,
+          "synset": "tall_order.n.01"
+        },
+        {
+          "word": "venture",
+          "distance": 0.05882352941176472,
+          "synset": "venture.n.01"
+        },
+        {
+          "word": "Manhattan Project",
+          "distance": 0.05882352941176472,
+          "synset": "manhattan_project.n.02"
+        },
+        {
+          "word": "work",
+          "distance": 0.06666666666666665,
+          "synset": "work.n.01"
+        },
+        {
+          "word": "doddle",
+          "distance": 0.11111111111111116,
+          "synset": "doddle.n.01"
+        },
+        {
+          "word": "school assignment",
+          "distance": 0.11111111111111116,
+          "synset": "school_assignment.n.01"
+        },
+        {
+          "word": "racket",
+          "distance": 0.11111111111111116,
+          "synset": "racket.n.02"
+        },
+        {
+          "word": "joint venture",
+          "distance": 0.11111111111111116,
+          "synset": "joint_venture.n.01"
+        },
+        {
+          "word": "experiment",
+          "distance": 0.11111111111111116,
+          "synset": "experiment.n.03"
+        },
+        {
+          "word": "forlorn hope",
+          "distance": 0.11111111111111116,
+          "synset": "forlorn_hope.n.01"
+        },
+        {
+          "word": "written assignment",
+          "distance": 0.11111111111111116,
+          "synset": "written_assignment.n.01"
+        }
+      ]
+    }
+  ],
+  "Classmate": [
+    {
+      "synset": "schoolmate.n.01",
+      "definition": "an acquaintance that you go to school with",
+      "synonyms": [
+        "schoolmate",
+        "schoolfellow",
+        "class_fellow"
+      ],
+      "closest_words": [
+        "organism",
+        "benthos",
+        "dwarf",
+        "heterotroph",
+        "parent",
+        "person",
+        "animal",
+        "plant",
+        "native",
+        "recombinant",
+        "conspecific",
+        "carrier",
+        "denizen",
+        "amphidiploid",
+        "diploid",
+        "haploid",
+        "heteroploid",
+        "polyploid",
+        "animalcule",
+        "microorganism"
+      ],
+      "closest_words_info": [
+        {
+          "word": "organism",
+          "distance": 0.19999999999999996,
+          "synset": "organism.n.01"
+        },
+        {
+          "word": "benthos",
+          "distance": 0.25,
+          "synset": "benthos.n.02"
+        },
+        {
+          "word": "dwarf",
+          "distance": 0.25,
+          "synset": "dwarf.n.03"
+        },
+        {
+          "word": "heterotroph",
+          "distance": 0.25,
+          "synset": "heterotroph.n.01"
+        },
+        {
+          "word": "parent",
+          "distance": 0.25,
+          "synset": "parent.n.02"
+        },
+        {
+          "word": "person",
+          "distance": 0.25,
+          "synset": "person.n.01"
+        },
+        {
+          "word": "animal",
+          "distance": 0.25,
+          "synset": "animal.n.01"
+        },
+        {
+          "word": "plant",
+          "distance": 0.25,
+          "synset": "plant.n.02"
+        },
+        {
+          "word": "native",
+          "distance": 0.25,
+          "synset": "native.n.03"
+        },
+        {
+          "word": "recombinant",
+          "distance": 0.25,
+          "synset": "recombinant.n.01"
+        },
+        {
+          "word": "conspecific",
+          "distance": 0.25,
+          "synset": "conspecific.n.01"
+        },
+        {
+          "word": "carrier",
+          "distance": 0.25,
+          "synset": "carrier.n.11"
+        },
+        {
+          "word": "denizen",
+          "distance": 0.25,
+          "synset": "denizen.n.02"
+        },
+        {
+          "word": "amphidiploid",
+          "distance": 0.25,
+          "synset": "amphidiploid.n.01"
+        },
+        {
+          "word": "diploid",
+          "distance": 0.25,
+          "synset": "diploid.n.01"
+        },
+        {
+          "word": "haploid",
+          "distance": 0.25,
+          "synset": "haploid.n.01"
+        },
+        {
+          "word": "heteroploid",
+          "distance": 0.25,
+          "synset": "heteroploid.n.01"
+        },
+        {
+          "word": "polyploid",
+          "distance": 0.25,
+          "synset": "polyploid.n.01"
+        },
+        {
+          "word": "animalcule",
+          "distance": 0.25,
+          "synset": "animalcule.n.01"
+        },
+        {
+          "word": "microorganism",
+          "distance": 0.25,
+          "synset": "microorganism.n.01"
+        }
+      ]
+    }
+  ],
+  "Teacher": [
+    {
+      "synset": "teacher.n.01",
+      "definition": "a person whose occupation is teaching",
+      "synonyms": [
+        "instructor"
+      ],
+      "closest_words": [
+        "art teacher",
+        "Bahai",
+        "catechist",
+        "coach",
+        "dancing-master",
+        "demonstrator",
+        "docent",
+        "English teacher",
+        "French teacher",
+        "governess",
+        "instructress",
+        "math teacher",
+        "missionary",
+        "music teacher",
+        "preceptor",
+        "reading teacher",
+        "riding master",
+        "schoolteacher",
+        "science teacher",
+        "section man"
+      ],
+      "closest_words_info": [
+        {
+          "word": "art teacher",
+          "distance": 0.04347826086956519,
+          "synset": "art_teacher.n.01"
+        },
+        {
+          "word": "Bahai",
+          "distance": 0.04347826086956519,
+          "synset": "bahai.n.01"
+        },
+        {
+          "word": "catechist",
+          "distance": 0.04347826086956519,
+          "synset": "catechist.n.01"
+        },
+        {
+          "word": "coach",
+          "distance": 0.04347826086956519,
+          "synset": "coach.n.02"
+        },
+        {
+          "word": "dancing-master",
+          "distance": 0.04347826086956519,
+          "synset": "dancing-master.n.01"
+        },
+        {
+          "word": "demonstrator",
+          "distance": 0.04347826086956519,
+          "synset": "demonstrator.n.01"
+        },
+        {
+          "word": "docent",
+          "distance": 0.04347826086956519,
+          "synset": "docent.n.01"
+        },
+        {
+          "word": "English teacher",
+          "distance": 0.04347826086956519,
+          "synset": "english_teacher.n.01"
+        },
+        {
+          "word": "French teacher",
+          "distance": 0.04347826086956519,
+          "synset": "french_teacher.n.01"
+        },
+        {
+          "word": "governess",
+          "distance": 0.04347826086956519,
+          "synset": "governess.n.01"
+        },
+        {
+          "word": "instructress",
+          "distance": 0.04347826086956519,
+          "synset": "instructress.n.01"
+        },
+        {
+          "word": "math teacher",
+          "distance": 0.04347826086956519,
+          "synset": "math_teacher.n.01"
+        },
+        {
+          "word": "missionary",
+          "distance": 0.04347826086956519,
+          "synset": "missionary.n.01"
+        },
+        {
+          "word": "music teacher",
+          "distance": 0.04347826086956519,
+          "synset": "music_teacher.n.01"
+        },
+        {
+          "word": "preceptor",
+          "distance": 0.04347826086956519,
+          "synset": "preceptor.n.01"
+        },
+        {
+          "word": "reading teacher",
+          "distance": 0.04347826086956519,
+          "synset": "reading_teacher.n.01"
+        },
+        {
+          "word": "riding master",
+          "distance": 0.04347826086956519,
+          "synset": "riding_master.n.01"
+        },
+        {
+          "word": "schoolteacher",
+          "distance": 0.04347826086956519,
+          "synset": "schoolteacher.n.01"
+        },
+        {
+          "word": "science teacher",
+          "distance": 0.04347826086956519,
+          "synset": "science_teacher.n.01"
+        },
+        {
+          "word": "section man",
+          "distance": 0.04347826086956519,
+          "synset": "section_man.n.01"
+        }
+      ]
+    }
+  ],
+  "Office": [
+    {
+      "synset": "office.n.01",
+      "definition": "place of business where professional or clerical duties are performed",
+      "synonyms": [
+        "business_office"
+      ],
+      "closest_words": [
+        "box office",
+        "countinghouse",
+        "government office",
+        "headquarters",
+        "life office",
+        "loan office",
+        "newsroom",
+        "shipping office",
+        "place of business",
+        "jobcentre",
+        "land office",
+        "mukataa",
+        "Oval Office",
+        "gambling house",
+        "health spa",
+        "hotel-casino",
+        "massage parlor",
+        "mercantile establishment",
+        "spot",
+        "establishment"
+      ],
+      "closest_words_info": [
+        {
+          "word": "box office",
+          "distance": 0.052631578947368474,
+          "synset": "box_office.n.02"
+        },
+        {
+          "word": "countinghouse",
+          "distance": 0.052631578947368474,
+          "synset": "countinghouse.n.01"
+        },
+        {
+          "word": "government office",
+          "distance": 0.052631578947368474,
+          "synset": "government_office.n.01"
+        },
+        {
+          "word": "headquarters",
+          "distance": 0.052631578947368474,
+          "synset": "headquarters.n.01"
+        },
+        {
+          "word": "life office",
+          "distance": 0.052631578947368474,
+          "synset": "life_office.n.01"
+        },
+        {
+          "word": "loan office",
+          "distance": 0.052631578947368474,
+          "synset": "loan_office.n.02"
+        },
+        {
+          "word": "newsroom",
+          "distance": 0.052631578947368474,
+          "synset": "newsroom.n.02"
+        },
+        {
+          "word": "shipping office",
+          "distance": 0.052631578947368474,
+          "synset": "shipping_office.n.01"
+        },
+        {
+          "word": "place of business",
+          "distance": 0.05882352941176472,
+          "synset": "place_of_business.n.01"
+        },
+        {
+          "word": "jobcentre",
+          "distance": 0.09999999999999998,
+          "synset": "jobcentre.n.01"
+        },
+        {
+          "word": "land office",
+          "distance": 0.09999999999999998,
+          "synset": "land_office.n.01"
+        },
+        {
+          "word": "mukataa",
+          "distance": 0.09999999999999998,
+          "synset": "mukataa.n.01"
+        },
+        {
+          "word": "Oval Office",
+          "distance": 0.09999999999999998,
+          "synset": "oval_office.n.01"
+        },
+        {
+          "word": "gambling house",
+          "distance": 0.11111111111111116,
+          "synset": "gambling_house.n.01"
+        },
+        {
+          "word": "health spa",
+          "distance": 0.11111111111111116,
+          "synset": "health_spa.n.01"
+        },
+        {
+          "word": "hotel-casino",
+          "distance": 0.11111111111111116,
+          "synset": "hotel-casino.n.01"
+        },
+        {
+          "word": "massage parlor",
+          "distance": 0.11111111111111116,
+          "synset": "massage_parlor.n.02"
+        },
+        {
+          "word": "mercantile establishment",
+          "distance": 0.11111111111111116,
+          "synset": "mercantile_establishment.n.01"
+        },
+        {
+          "word": "spot",
+          "distance": 0.11111111111111116,
+          "synset": "spot.n.07"
+        },
+        {
+          "word": "establishment",
+          "distance": 0.125,
+          "synset": "establishment.n.04"
+        }
+      ]
+    }
+  ],
+  "Lecture": [
+    {
+      "synset": "lecture.n.01",
+      "definition": "a speech that is open to the public",
+      "synonyms": [
+        "public_lecture",
+        "talk"
+      ],
+      "closest_words": [
+        "address",
+        "allocution",
+        "colloquium",
+        "dithyramb",
+        "Gettysburg Address",
+        "impromptu",
+        "inaugural address",
+        "litany",
+        "oratory",
+        "public speaking",
+        "sermon",
+        "speech act",
+        "recitation",
+        "keynote speech",
+        "nominating speech",
+        "oration",
+        "debate",
+        "declamation",
+        "epideictic oratory",
+        "stump speech"
+      ],
+      "closest_words_info": [
+        {
+          "word": "address",
+          "distance": 0.06666666666666665,
+          "synset": "address.n.03"
+        },
+        {
+          "word": "allocution",
+          "distance": 0.125,
+          "synset": "allocution.n.01"
+        },
+        {
+          "word": "colloquium",
+          "distance": 0.125,
+          "synset": "colloquium.n.02"
+        },
+        {
+          "word": "dithyramb",
+          "distance": 0.125,
+          "synset": "dithyramb.n.01"
+        },
+        {
+          "word": "Gettysburg Address",
+          "distance": 0.125,
+          "synset": "gettysburg_address.n.01"
+        },
+        {
+          "word": "impromptu",
+          "distance": 0.125,
+          "synset": "impromptu.n.01"
+        },
+        {
+          "word": "inaugural address",
+          "distance": 0.125,
+          "synset": "inaugural_address.n.01"
+        },
+        {
+          "word": "litany",
+          "distance": 0.125,
+          "synset": "litany.n.01"
+        },
+        {
+          "word": "oratory",
+          "distance": 0.125,
+          "synset": "oratory.n.01"
+        },
+        {
+          "word": "public speaking",
+          "distance": 0.125,
+          "synset": "public_speaking.n.01"
+        },
+        {
+          "word": "sermon",
+          "distance": 0.125,
+          "synset": "sermon.n.01"
+        },
+        {
+          "word": "speech act",
+          "distance": 0.1428571428571429,
+          "synset": "speech_act.n.01"
+        },
+        {
+          "word": "recitation",
+          "distance": 0.17647058823529416,
+          "synset": "recitation.n.02"
+        },
+        {
+          "word": "keynote speech",
+          "distance": 0.17647058823529416,
+          "synset": "keynote_speech.n.01"
+        },
+        {
+          "word": "nominating speech",
+          "distance": 0.17647058823529416,
+          "synset": "nominating_speech.n.01"
+        },
+        {
+          "word": "oration",
+          "distance": 0.17647058823529416,
+          "synset": "oration.n.01"
+        },
+        {
+          "word": "debate",
+          "distance": 0.17647058823529416,
+          "synset": "debate.n.02"
+        },
+        {
+          "word": "declamation",
+          "distance": 0.17647058823529416,
+          "synset": "declamation.n.01"
+        },
+        {
+          "word": "epideictic oratory",
+          "distance": 0.17647058823529416,
+          "synset": "epideictic_oratory.n.01"
+        },
+        {
+          "word": "stump speech",
+          "distance": 0.17647058823529416,
+          "synset": "stump_speech.n.01"
+        }
+      ]
+    },
+    {
+      "synset": "lecture.n.03",
+      "definition": "teaching by giving a discourse on some subject (typically to a class)",
+      "synonyms": [
+        "lecturing"
+      ],
+      "closest_words": [
+        "talk",
+        "teaching",
+        "chalk talk",
+        "catechesis",
+        "catechetical instruction",
+        "language teaching",
+        "teaching reading",
+        "schooling",
+        "indoctrination",
+        "tutelage",
+        "lesson",
+        "sleep-learning",
+        "spoonfeeding",
+        "education",
+        "language lesson",
+        "phonics",
+        "whole-word method",
+        "brainwashing",
+        "inculcation",
+        "dance lesson"
+      ],
+      "closest_words_info": [
+        {
+          "word": "talk",
+          "distance": 0.04347826086956519,
+          "synset": "talk.n.03"
+        },
+        {
+          "word": "teaching",
+          "distance": 0.04761904761904767,
+          "synset": "teaching.n.01"
+        },
+        {
+          "word": "chalk talk",
+          "distance": 0.08333333333333337,
+          "synset": "chalk_talk.n.01"
+        },
+        {
+          "word": "catechesis",
+          "distance": 0.09090909090909094,
+          "synset": "catechesis.n.01"
+        },
+        {
+          "word": "catechetical instruction",
+          "distance": 0.09090909090909094,
+          "synset": "catechetical_instruction.n.01"
+        },
+        {
+          "word": "language teaching",
+          "distance": 0.09090909090909094,
+          "synset": "language_teaching.n.01"
+        },
+        {
+          "word": "teaching reading",
+          "distance": 0.09090909090909094,
+          "synset": "teaching_reading.n.01"
+        },
+        {
+          "word": "schooling",
+          "distance": 0.09090909090909094,
+          "synset": "schooling.n.01"
+        },
+        {
+          "word": "indoctrination",
+          "distance": 0.09090909090909094,
+          "synset": "indoctrination.n.01"
+        },
+        {
+          "word": "tutelage",
+          "distance": 0.09090909090909094,
+          "synset": "tutelage.n.01"
+        },
+        {
+          "word": "lesson",
+          "distance": 0.09090909090909094,
+          "synset": "lesson.n.01"
+        },
+        {
+          "word": "sleep-learning",
+          "distance": 0.09090909090909094,
+          "synset": "sleep-learning.n.01"
+        },
+        {
+          "word": "spoonfeeding",
+          "distance": 0.09090909090909094,
+          "synset": "spoonfeeding.n.02"
+        },
+        {
+          "word": "education",
+          "distance": 0.09999999999999998,
+          "synset": "education.n.04"
+        },
+        {
+          "word": "language lesson",
+          "distance": 0.13043478260869568,
+          "synset": "language_lesson.n.01"
+        },
+        {
+          "word": "phonics",
+          "distance": 0.13043478260869568,
+          "synset": "phonics.n.01"
+        },
+        {
+          "word": "whole-word method",
+          "distance": 0.13043478260869568,
+          "synset": "whole-word_method.n.01"
+        },
+        {
+          "word": "brainwashing",
+          "distance": 0.13043478260869568,
+          "synset": "brainwashing.n.01"
+        },
+        {
+          "word": "inculcation",
+          "distance": 0.13043478260869568,
+          "synset": "inculcation.n.01"
+        },
+        {
+          "word": "dance lesson",
+          "distance": 0.13043478260869568,
+          "synset": "dance_lesson.n.01"
+        }
+      ]
+    }
+  ],
+  "School": [
+    {
+      "synset": "school.n.01",
+      "definition": "an educational institution",
+      "synonyms": [],
+      "closest_words": [
+        "academy",
+        "correspondence school",
+        "crammer",
+        "dancing school",
+        "direct-grant school",
+        "driving school",
+        "finishing school",
+        "flying school",
+        "graduate school",
+        "language school",
+        "nursing school",
+        "religious school",
+        "riding school",
+        "secondary school",
+        "secretarial school",
+        "technical school",
+        "training school",
+        "veterinary school",
+        "conservatory",
+        "alma mater"
+      ],
+      "closest_words_info": [
+        {
+          "word": "academy",
+          "distance": 0.05882352941176472,
+          "synset": "academy.n.03"
+        },
+        {
+          "word": "correspondence school",
+          "distance": 0.05882352941176472,
+          "synset": "correspondence_school.n.01"
+        },
+        {
+          "word": "crammer",
+          "distance": 0.05882352941176472,
+          "synset": "crammer.n.03"
+        },
+        {
+          "word": "dancing school",
+          "distance": 0.05882352941176472,
+          "synset": "dancing_school.n.01"
+        },
+        {
+          "word": "direct-grant school",
+          "distance": 0.05882352941176472,
+          "synset": "direct-grant_school.n.01"
+        },
+        {
+          "word": "driving school",
+          "distance": 0.05882352941176472,
+          "synset": "driving_school.n.01"
+        },
+        {
+          "word": "finishing school",
+          "distance": 0.05882352941176472,
+          "synset": "finishing_school.n.01"
+        },
+        {
+          "word": "flying school",
+          "distance": 0.05882352941176472,
+          "synset": "flying_school.n.01"
+        },
+        {
+          "word": "graduate school",
+          "distance": 0.05882352941176472,
+          "synset": "graduate_school.n.01"
+        },
+        {
+          "word": "language school",
+          "distance": 0.05882352941176472,
+          "synset": "language_school.n.01"
+        },
+        {
+          "word": "nursing school",
+          "distance": 0.05882352941176472,
+          "synset": "nursing_school.n.01"
+        },
+        {
+          "word": "religious school",
+          "distance": 0.05882352941176472,
+          "synset": "religious_school.n.01"
+        },
+        {
+          "word": "riding school",
+          "distance": 0.05882352941176472,
+          "synset": "riding_school.n.01"
+        },
+        {
+          "word": "secondary school",
+          "distance": 0.05882352941176472,
+          "synset": "secondary_school.n.01"
+        },
+        {
+          "word": "secretarial school",
+          "distance": 0.05882352941176472,
+          "synset": "secretarial_school.n.01"
+        },
+        {
+          "word": "technical school",
+          "distance": 0.05882352941176472,
+          "synset": "technical_school.n.01"
+        },
+        {
+          "word": "training school",
+          "distance": 0.05882352941176472,
+          "synset": "training_school.n.01"
+        },
+        {
+          "word": "veterinary school",
+          "distance": 0.05882352941176472,
+          "synset": "veterinary_school.n.01"
+        },
+        {
+          "word": "conservatory",
+          "distance": 0.05882352941176472,
+          "synset": "conservatory.n.01"
+        },
+        {
+          "word": "alma mater",
+          "distance": 0.05882352941176472,
+          "synset": "alma_mater.n.01"
+        }
+      ]
+    }
+  ],
+  "Study": [
+    {
+      "synset": "survey.n.01",
+      "definition": "a detailed critical inspection",
+      "synonyms": [
+        "survey"
+      ],
+      "closest_words": [
+        "resurvey",
+        "examination",
+        "audit",
+        "autopsy",
+        "checkup",
+        "comparison",
+        "fine-tooth comb",
+        "follow-up",
+        "going-over",
+        "once-over",
+        "ophthalmoscopy",
+        "palpation",
+        "endoscopy",
+        "gonioscopy",
+        "keratoscopy",
+        "rhinoscopy",
+        "scan",
+        "search",
+        "testing",
+        "time and motion study"
+      ],
+      "closest_words_info": [
+        {
+          "word": "resurvey",
+          "distance": 0.04761904761904767,
+          "synset": "resurvey.n.01"
+        },
+        {
+          "word": "examination",
+          "distance": 0.052631578947368474,
+          "synset": "examination.n.01"
+        },
+        {
+          "word": "audit",
+          "distance": 0.09999999999999998,
+          "synset": "audit.n.02"
+        },
+        {
+          "word": "autopsy",
+          "distance": 0.09999999999999998,
+          "synset": "autopsy.n.01"
+        },
+        {
+          "word": "checkup",
+          "distance": 0.09999999999999998,
+          "synset": "checkup.n.01"
+        },
+        {
+          "word": "comparison",
+          "distance": 0.09999999999999998,
+          "synset": "comparison.n.01"
+        },
+        {
+          "word": "fine-tooth comb",
+          "distance": 0.09999999999999998,
+          "synset": "fine-tooth_comb.n.02"
+        },
+        {
+          "word": "follow-up",
+          "distance": 0.09999999999999998,
+          "synset": "follow-up.n.03"
+        },
+        {
+          "word": "going-over",
+          "distance": 0.09999999999999998,
+          "synset": "going-over.n.01"
+        },
+        {
+          "word": "once-over",
+          "distance": 0.09999999999999998,
+          "synset": "once-over.n.01"
+        },
+        {
+          "word": "ophthalmoscopy",
+          "distance": 0.09999999999999998,
+          "synset": "ophthalmoscopy.n.01"
+        },
+        {
+          "word": "palpation",
+          "distance": 0.09999999999999998,
+          "synset": "palpation.n.01"
+        },
+        {
+          "word": "endoscopy",
+          "distance": 0.09999999999999998,
+          "synset": "endoscopy.n.01"
+        },
+        {
+          "word": "gonioscopy",
+          "distance": 0.09999999999999998,
+          "synset": "gonioscopy.n.01"
+        },
+        {
+          "word": "keratoscopy",
+          "distance": 0.09999999999999998,
+          "synset": "keratoscopy.n.01"
+        },
+        {
+          "word": "rhinoscopy",
+          "distance": 0.09999999999999998,
+          "synset": "rhinoscopy.n.01"
+        },
+        {
+          "word": "scan",
+          "distance": 0.09999999999999998,
+          "synset": "scan.n.01"
+        },
+        {
+          "word": "search",
+          "distance": 0.09999999999999998,
+          "synset": "search.n.05"
+        },
+        {
+          "word": "testing",
+          "distance": 0.09999999999999998,
+          "synset": "testing.n.02"
+        },
+        {
+          "word": "time and motion study",
+          "distance": 0.09999999999999998,
+          "synset": "time_and_motion_study.n.01"
+        }
+      ]
+    },
+    {
+      "synset": "study.n.02",
+      "definition": "applying the mind to learning and understanding a subject (especially by reading)",
+      "synonyms": [
+        "work"
+      ],
+      "closest_words": [
+        "learning",
+        "conditioning",
+        "developmental learning",
+        "digestion",
+        "education",
+        "internalization",
+        "imprinting",
+        "language learning",
+        "memorization",
+        "transfer",
+        "basic cognitive process",
+        "introjection",
+        "introjection",
+        "audio lingual acquisition",
+        "rote",
+        "accommodation",
+        "assimilation",
+        "generalization",
+        "acculturation",
+        "mastering"
+      ],
+      "closest_words_info": [
+        {
+          "word": "learning",
+          "distance": 0.06666666666666665,
+          "synset": "learning.n.01"
+        },
+        {
+          "word": "conditioning",
+          "distance": 0.125,
+          "synset": "conditioning.n.01"
+        },
+        {
+          "word": "developmental learning",
+          "distance": 0.125,
+          "synset": "developmental_learning.n.01"
+        },
+        {
+          "word": "digestion",
+          "distance": 0.125,
+          "synset": "digestion.n.03"
+        },
+        {
+          "word": "education",
+          "distance": 0.125,
+          "synset": "education.n.03"
+        },
+        {
+          "word": "internalization",
+          "distance": 0.125,
+          "synset": "internalization.n.01"
+        },
+        {
+          "word": "imprinting",
+          "distance": 0.125,
+          "synset": "imprinting.n.01"
+        },
+        {
+          "word": "language learning",
+          "distance": 0.125,
+          "synset": "language_learning.n.01"
+        },
+        {
+          "word": "memorization",
+          "distance": 0.125,
+          "synset": "memorization.n.01"
+        },
+        {
+          "word": "transfer",
+          "distance": 0.125,
+          "synset": "transfer.n.05"
+        },
+        {
+          "word": "basic cognitive process",
+          "distance": 0.1428571428571429,
+          "synset": "basic_cognitive_process.n.01"
+        },
+        {
+          "word": "introjection",
+          "distance": 0.17647058823529416,
+          "synset": "introjection.n.02"
+        },
+        {
+          "word": "introjection",
+          "distance": 0.17647058823529416,
+          "synset": "introjection.n.01"
+        },
+        {
+          "word": "audio lingual acquisition",
+          "distance": 0.17647058823529416,
+          "synset": "audio_lingual_acquisition.n.01"
+        },
+        {
+          "word": "rote",
+          "distance": 0.17647058823529416,
+          "synset": "rote.n.01"
+        },
+        {
+          "word": "accommodation",
+          "distance": 0.17647058823529416,
+          "synset": "accommodation.n.03"
+        },
+        {
+          "word": "assimilation",
+          "distance": 0.17647058823529416,
+          "synset": "assimilation.n.06"
+        },
+        {
+          "word": "generalization",
+          "distance": 0.17647058823529416,
+          "synset": "generalization.n.04"
+        },
+        {
+          "word": "acculturation",
+          "distance": 0.17647058823529416,
+          "synset": "acculturation.n.03"
+        },
+        {
+          "word": "mastering",
+          "distance": 0.17647058823529416,
+          "synset": "mastering.n.01"
+        }
+      ]
+    }
+  ],
+  "Boss": [
+    {
+      "synset": "foreman.n.01",
+      "definition": "a person who exercises control over workers",
+      "synonyms": [
+        "foreman",
+        "chief",
+        "gaffer",
+        "honcho"
+      ],
+      "closest_words": [
+        "baas",
+        "ganger",
+        "straw boss",
+        "supervisor",
+        "bell captain",
+        "counselor",
+        "den mother",
+        "director",
+        "forewoman",
+        "overseer",
+        "oyabun",
+        "proctor",
+        "research director",
+        "stage manager",
+        "system administrator",
+        "taskmaster",
+        "trail boss",
+        "invigilator",
+        "ramrod",
+        "school superintendent"
+      ],
+      "closest_words_info": [
+        {
+          "word": "baas",
+          "distance": 0.04347826086956519,
+          "synset": "baas.n.01"
+        },
+        {
+          "word": "ganger",
+          "distance": 0.04347826086956519,
+          "synset": "ganger.n.01"
+        },
+        {
+          "word": "straw boss",
+          "distance": 0.04347826086956519,
+          "synset": "straw_boss.n.01"
+        },
+        {
+          "word": "supervisor",
+          "distance": 0.04761904761904767,
+          "synset": "supervisor.n.01"
+        },
+        {
+          "word": "bell captain",
+          "distance": 0.09090909090909094,
+          "synset": "bell_captain.n.01"
+        },
+        {
+          "word": "counselor",
+          "distance": 0.09090909090909094,
+          "synset": "counselor.n.02"
+        },
+        {
+          "word": "den mother",
+          "distance": 0.09090909090909094,
+          "synset": "den_mother.n.01"
+        },
+        {
+          "word": "director",
+          "distance": 0.09090909090909094,
+          "synset": "director.n.03"
+        },
+        {
+          "word": "forewoman",
+          "distance": 0.09090909090909094,
+          "synset": "forewoman.n.02"
+        },
+        {
+          "word": "overseer",
+          "distance": 0.09090909090909094,
+          "synset": "overseer.n.01"
+        },
+        {
+          "word": "oyabun",
+          "distance": 0.09090909090909094,
+          "synset": "oyabun.n.01"
+        },
+        {
+          "word": "proctor",
+          "distance": 0.09090909090909094,
+          "synset": "proctor.n.01"
+        },
+        {
+          "word": "research director",
+          "distance": 0.09090909090909094,
+          "synset": "research_director.n.01"
+        },
+        {
+          "word": "stage manager",
+          "distance": 0.09090909090909094,
+          "synset": "stage_manager.n.01"
+        },
+        {
+          "word": "system administrator",
+          "distance": 0.09090909090909094,
+          "synset": "system_administrator.n.01"
+        },
+        {
+          "word": "taskmaster",
+          "distance": 0.09090909090909094,
+          "synset": "taskmaster.n.01"
+        },
+        {
+          "word": "trail boss",
+          "distance": 0.09090909090909094,
+          "synset": "trail_boss.n.01"
+        },
+        {
+          "word": "invigilator",
+          "distance": 0.13043478260869568,
+          "synset": "invigilator.n.01"
+        },
+        {
+          "word": "ramrod",
+          "distance": 0.13043478260869568,
+          "synset": "ramrod.n.02"
+        },
+        {
+          "word": "school superintendent",
+          "distance": 0.13043478260869568,
+          "synset": "school_superintendent.n.01"
+        }
+      ]
+    }
+  ],
+  "University": [
+    {
+      "synset": "university.n.01",
+      "definition": "the body of faculty and students at a university",
+      "synonyms": [],
+      "closest_words": [
+        "gown",
+        "varsity",
+        "body",
+        "public",
+        "Christendom",
+        "church",
+        "Sacred College",
+        "administration",
+        "corps",
+        "constituency",
+        "electoral college",
+        "school",
+        "college",
+        "staff",
+        "representation",
+        "colony",
+        "ulema",
+        "leadership",
+        "militia",
+        "membership"
+      ],
+      "closest_words_info": [
+        {
+          "word": "gown",
+          "distance": 0.07692307692307687,
+          "synset": "gown.n.02"
+        },
+        {
+          "word": "varsity",
+          "distance": 0.07692307692307687,
+          "synset": "varsity.n.01"
+        },
+        {
+          "word": "body",
+          "distance": 0.09090909090909094,
+          "synset": "body.n.02"
+        },
+        {
+          "word": "public",
+          "distance": 0.16666666666666663,
+          "synset": "public.n.02"
+        },
+        {
+          "word": "Christendom",
+          "distance": 0.16666666666666663,
+          "synset": "christendom.n.01"
+        },
+        {
+          "word": "church",
+          "distance": 0.16666666666666663,
+          "synset": "church.n.04"
+        },
+        {
+          "word": "Sacred College",
+          "distance": 0.16666666666666663,
+          "synset": "sacred_college.n.01"
+        },
+        {
+          "word": "administration",
+          "distance": 0.16666666666666663,
+          "synset": "administration.n.02"
+        },
+        {
+          "word": "corps",
+          "distance": 0.16666666666666663,
+          "synset": "corps.n.02"
+        },
+        {
+          "word": "constituency",
+          "distance": 0.16666666666666663,
+          "synset": "constituency.n.01"
+        },
+        {
+          "word": "electoral college",
+          "distance": 0.16666666666666663,
+          "synset": "electoral_college.n.01"
+        },
+        {
+          "word": "school",
+          "distance": 0.16666666666666663,
+          "synset": "school.n.04"
+        },
+        {
+          "word": "college",
+          "distance": 0.16666666666666663,
+          "synset": "college.n.01"
+        },
+        {
+          "word": "staff",
+          "distance": 0.16666666666666663,
+          "synset": "staff.n.03"
+        },
+        {
+          "word": "representation",
+          "distance": 0.16666666666666663,
+          "synset": "representation.n.05"
+        },
+        {
+          "word": "colony",
+          "distance": 0.16666666666666663,
+          "synset": "colony.n.01"
+        },
+        {
+          "word": "ulema",
+          "distance": 0.16666666666666663,
+          "synset": "ulema.n.01"
+        },
+        {
+          "word": "leadership",
+          "distance": 0.16666666666666663,
+          "synset": "leadership.n.02"
+        },
+        {
+          "word": "militia",
+          "distance": 0.16666666666666663,
+          "synset": "militia.n.02"
+        },
+        {
+          "word": "membership",
+          "distance": 0.16666666666666663,
+          "synset": "membership.n.01"
+        }
+      ]
+    }
+  ],
+  "Lesson": [
+    {
+      "synset": "lesson.n.01",
+      "definition": "a unit of instruction",
+      "synonyms": [],
+      "closest_words": [
+        "language lesson",
+        "dance lesson",
+        "music lesson",
+        "tennis lesson",
+        "golf lesson",
+        "teaching",
+        "French lesson",
+        "German lesson",
+        "Hebrew lesson",
+        "piano lesson",
+        "violin lesson",
+        "catechesis",
+        "catechetical instruction",
+        "language teaching",
+        "teaching reading",
+        "schooling",
+        "indoctrination",
+        "tutelage",
+        "sleep-learning",
+        "spoonfeeding"
+      ],
+      "closest_words_info": [
+        {
+          "word": "language lesson",
+          "distance": 0.04347826086956519,
+          "synset": "language_lesson.n.01"
+        },
+        {
+          "word": "dance lesson",
+          "distance": 0.04347826086956519,
+          "synset": "dance_lesson.n.01"
+        },
+        {
+          "word": "music lesson",
+          "distance": 0.04347826086956519,
+          "synset": "music_lesson.n.01"
+        },
+        {
+          "word": "tennis lesson",
+          "distance": 0.04347826086956519,
+          "synset": "tennis_lesson.n.01"
+        },
+        {
+          "word": "golf lesson",
+          "distance": 0.04347826086956519,
+          "synset": "golf_lesson.n.01"
+        },
+        {
+          "word": "teaching",
+          "distance": 0.04761904761904767,
+          "synset": "teaching.n.01"
+        },
+        {
+          "word": "French lesson",
+          "distance": 0.08333333333333337,
+          "synset": "french_lesson.n.01"
+        },
+        {
+          "word": "German lesson",
+          "distance": 0.08333333333333337,
+          "synset": "german_lesson.n.01"
+        },
+        {
+          "word": "Hebrew lesson",
+          "distance": 0.08333333333333337,
+          "synset": "hebrew_lesson.n.01"
+        },
+        {
+          "word": "piano lesson",
+          "distance": 0.08333333333333337,
+          "synset": "piano_lesson.n.01"
+        },
+        {
+          "word": "violin lesson",
+          "distance": 0.08333333333333337,
+          "synset": "violin_lesson.n.01"
+        },
+        {
+          "word": "catechesis",
+          "distance": 0.09090909090909094,
+          "synset": "catechesis.n.01"
+        },
+        {
+          "word": "catechetical instruction",
+          "distance": 0.09090909090909094,
+          "synset": "catechetical_instruction.n.01"
+        },
+        {
+          "word": "language teaching",
+          "distance": 0.09090909090909094,
+          "synset": "language_teaching.n.01"
+        },
+        {
+          "word": "teaching reading",
+          "distance": 0.09090909090909094,
+          "synset": "teaching_reading.n.01"
+        },
+        {
+          "word": "schooling",
+          "distance": 0.09090909090909094,
+          "synset": "schooling.n.01"
+        },
+        {
+          "word": "indoctrination",
+          "distance": 0.09090909090909094,
+          "synset": "indoctrination.n.01"
+        },
+        {
+          "word": "tutelage",
+          "distance": 0.09090909090909094,
+          "synset": "tutelage.n.01"
+        },
+        {
+          "word": "sleep-learning",
+          "distance": 0.09090909090909094,
+          "synset": "sleep-learning.n.01"
+        },
+        {
+          "word": "spoonfeeding",
+          "distance": 0.09090909090909094,
+          "synset": "spoonfeeding.n.02"
+        }
+      ]
+    }
+  ],
+  "Client": [
+    {
+      "synset": "customer.n.01",
+      "definition": "someone who pays for goods or services",
+      "synonyms": [
+        "customer"
+      ],
+      "closest_words": [
+        "buyer",
+        "guest",
+        "patron",
+        "policyholder",
+        "shopper",
+        "spender",
+        "subscriber",
+        "taker",
+        "warrantee",
+        "whoremaster",
+        "consumer",
+        "bargain hunter",
+        "customer agent",
+        "home buyer",
+        "no-show",
+        "operagoer",
+        "orderer",
+        "overnighter",
+        "regular",
+        "shopaholic"
+      ],
+      "closest_words_info": [
+        {
+          "word": "buyer",
+          "distance": 0.04761904761904767,
+          "synset": "buyer.n.01"
+        },
+        {
+          "word": "guest",
+          "distance": 0.04761904761904767,
+          "synset": "guest.n.03"
+        },
+        {
+          "word": "patron",
+          "distance": 0.04761904761904767,
+          "synset": "patron.n.01"
+        },
+        {
+          "word": "policyholder",
+          "distance": 0.04761904761904767,
+          "synset": "policyholder.n.01"
+        },
+        {
+          "word": "shopper",
+          "distance": 0.04761904761904767,
+          "synset": "shopper.n.01"
+        },
+        {
+          "word": "spender",
+          "distance": 0.04761904761904767,
+          "synset": "spender.n.03"
+        },
+        {
+          "word": "subscriber",
+          "distance": 0.04761904761904767,
+          "synset": "subscriber.n.02"
+        },
+        {
+          "word": "taker",
+          "distance": 0.04761904761904767,
+          "synset": "taker.n.01"
+        },
+        {
+          "word": "warrantee",
+          "distance": 0.04761904761904767,
+          "synset": "warrantee.n.02"
+        },
+        {
+          "word": "whoremaster",
+          "distance": 0.04761904761904767,
+          "synset": "whoremaster.n.01"
+        },
+        {
+          "word": "consumer",
+          "distance": 0.052631578947368474,
+          "synset": "consumer.n.01"
+        },
+        {
+          "word": "bargain hunter",
+          "distance": 0.09090909090909094,
+          "synset": "bargain_hunter.n.01"
+        },
+        {
+          "word": "customer agent",
+          "distance": 0.09090909090909094,
+          "synset": "customer_agent.n.01"
+        },
+        {
+          "word": "home buyer",
+          "distance": 0.09090909090909094,
+          "synset": "home_buyer.n.01"
+        },
+        {
+          "word": "no-show",
+          "distance": 0.09090909090909094,
+          "synset": "no-show.n.01"
+        },
+        {
+          "word": "operagoer",
+          "distance": 0.09090909090909094,
+          "synset": "operagoer.n.01"
+        },
+        {
+          "word": "orderer",
+          "distance": 0.09090909090909094,
+          "synset": "orderer.n.01"
+        },
+        {
+          "word": "overnighter",
+          "distance": 0.09090909090909094,
+          "synset": "overnighter.n.01"
+        },
+        {
+          "word": "regular",
+          "distance": 0.09090909090909094,
+          "synset": "regular.n.01"
+        },
+        {
+          "word": "shopaholic",
+          "distance": 0.09090909090909094,
+          "synset": "shopaholic.n.01"
+        }
+      ]
+    }
+  ],
+  "Team": [
+    {
+      "synset": "team.n.01",
+      "definition": "a cooperative unit (especially in sports)",
+      "synonyms": [
+        "squad"
+      ],
+      "closest_words": [
+        "A-team",
+        "battery",
+        "flying squad",
+        "major-league team",
+        "minor-league team",
+        "baseball team",
+        "basketball team",
+        "football team",
+        "hockey team",
+        "junior varsity",
+        "varsity",
+        "second string",
+        "police squad",
+        "powerhouse",
+        "offense",
+        "defense",
+        "hit squad",
+        "section",
+        "little-league team",
+        "crew"
+      ],
+      "closest_words_info": [
+        {
+          "word": "A-team",
+          "distance": 0.06666666666666665,
+          "synset": "a-team.n.01"
+        },
+        {
+          "word": "battery",
+          "distance": 0.06666666666666665,
+          "synset": "battery.n.04"
+        },
+        {
+          "word": "flying squad",
+          "distance": 0.06666666666666665,
+          "synset": "flying_squad.n.01"
+        },
+        {
+          "word": "major-league team",
+          "distance": 0.06666666666666665,
+          "synset": "major-league_team.n.01"
+        },
+        {
+          "word": "minor-league team",
+          "distance": 0.06666666666666665,
+          "synset": "minor-league_team.n.01"
+        },
+        {
+          "word": "baseball team",
+          "distance": 0.06666666666666665,
+          "synset": "baseball_team.n.01"
+        },
+        {
+          "word": "basketball team",
+          "distance": 0.06666666666666665,
+          "synset": "basketball_team.n.01"
+        },
+        {
+          "word": "football team",
+          "distance": 0.06666666666666665,
+          "synset": "football_team.n.01"
+        },
+        {
+          "word": "hockey team",
+          "distance": 0.06666666666666665,
+          "synset": "hockey_team.n.01"
+        },
+        {
+          "word": "junior varsity",
+          "distance": 0.06666666666666665,
+          "synset": "junior_varsity.n.01"
+        },
+        {
+          "word": "varsity",
+          "distance": 0.06666666666666665,
+          "synset": "varsity.n.02"
+        },
+        {
+          "word": "second string",
+          "distance": 0.06666666666666665,
+          "synset": "second_string.n.01"
+        },
+        {
+          "word": "police squad",
+          "distance": 0.06666666666666665,
+          "synset": "police_squad.n.01"
+        },
+        {
+          "word": "powerhouse",
+          "distance": 0.06666666666666665,
+          "synset": "powerhouse.n.02"
+        },
+        {
+          "word": "offense",
+          "distance": 0.06666666666666665,
+          "synset": "offense.n.04"
+        },
+        {
+          "word": "defense",
+          "distance": 0.06666666666666665,
+          "synset": "defense.n.03"
+        },
+        {
+          "word": "hit squad",
+          "distance": 0.06666666666666665,
+          "synset": "hit_squad.n.01"
+        },
+        {
+          "word": "section",
+          "distance": 0.06666666666666665,
+          "synset": "section.n.05"
+        },
+        {
+          "word": "little-league team",
+          "distance": 0.06666666666666665,
+          "synset": "little-league_team.n.01"
+        },
+        {
+          "word": "crew",
+          "distance": 0.06666666666666665,
+          "synset": "crew.n.04"
+        }
+      ]
+    }
+  ],
+  "Professor": [
+    {
+      "synset": "professor.n.01",
+      "definition": "someone who is a member of the faculty at a college or university",
+      "synonyms": [
+        "prof"
+      ],
+      "closest_words": [
+        "assistant professor",
+        "associate professor",
+        "full professor",
+        "Regius professor",
+        "visiting professor",
+        "academician",
+        "educator",
+        "lector",
+        "principal",
+        "schoolmaster",
+        "teacher",
+        "Bethune",
+        "Braille",
+        "Carnegie",
+        "Comenius",
+        "Dewey",
+        "Froebel",
+        "Gallaudet",
+        "Hopkins",
+        "Hutchins"
+      ],
+      "closest_words_info": [
+        {
+          "word": "assistant professor",
+          "distance": 0.040000000000000036,
+          "synset": "assistant_professor.n.01"
+        },
+        {
+          "word": "associate professor",
+          "distance": 0.040000000000000036,
+          "synset": "associate_professor.n.01"
+        },
+        {
+          "word": "full professor",
+          "distance": 0.040000000000000036,
+          "synset": "full_professor.n.01"
+        },
+        {
+          "word": "Regius professor",
+          "distance": 0.040000000000000036,
+          "synset": "regius_professor.n.01"
+        },
+        {
+          "word": "visiting professor",
+          "distance": 0.040000000000000036,
+          "synset": "visiting_professor.n.01"
+        },
+        {
+          "word": "academician",
+          "distance": 0.04347826086956519,
+          "synset": "academician.n.03"
+        },
+        {
+          "word": "educator",
+          "distance": 0.09090909090909094,
+          "synset": "educator.n.01"
+        },
+        {
+          "word": "lector",
+          "distance": 0.13043478260869568,
+          "synset": "lector.n.02"
+        },
+        {
+          "word": "principal",
+          "distance": 0.13043478260869568,
+          "synset": "principal.n.02"
+        },
+        {
+          "word": "schoolmaster",
+          "distance": 0.13043478260869568,
+          "synset": "schoolmaster.n.02"
+        },
+        {
+          "word": "teacher",
+          "distance": 0.13043478260869568,
+          "synset": "teacher.n.01"
+        },
+        {
+          "word": "Bethune",
+          "distance": 0.13043478260869568,
+          "synset": "bethune.n.01"
+        },
+        {
+          "word": "Braille",
+          "distance": 0.13043478260869568,
+          "synset": "braille.n.01"
+        },
+        {
+          "word": "Carnegie",
+          "distance": 0.13043478260869568,
+          "synset": "carnegie.n.01"
+        },
+        {
+          "word": "Comenius",
+          "distance": 0.13043478260869568,
+          "synset": "comenius.n.01"
+        },
+        {
+          "word": "Dewey",
+          "distance": 0.13043478260869568,
+          "synset": "dewey.n.03"
+        },
+        {
+          "word": "Froebel",
+          "distance": 0.13043478260869568,
+          "synset": "froebel.n.01"
+        },
+        {
+          "word": "Gallaudet",
+          "distance": 0.13043478260869568,
+          "synset": "gallaudet.n.01"
+        },
+        {
+          "word": "Hopkins",
+          "distance": 0.13043478260869568,
+          "synset": "hopkins.n.01"
+        },
+        {
+          "word": "Hutchins",
+          "distance": 0.13043478260869568,
+          "synset": "hutchins.n.01"
+        }
+      ]
+    }
+  ],
+  "Library": [
+    {
+      "synset": "library.n.01",
+      "definition": "a room where books are kept",
+      "synonyms": [],
+      "closest_words": [
+        "room",
+        "anechoic chamber",
+        "anteroom",
+        "back room",
+        "ballroom",
+        "barroom",
+        "bathroom",
+        "bedroom",
+        "belfry",
+        "billiard room",
+        "boardroom",
+        "cardroom",
+        "cell",
+        "cell",
+        "chamber",
+        "checkroom",
+        "classroom",
+        "clean room",
+        "cloakroom",
+        "closet"
+      ],
+      "closest_words_info": [
+        {
+          "word": "room",
+          "distance": 0.05882352941176472,
+          "synset": "room.n.01"
+        },
+        {
+          "word": "anechoic chamber",
+          "distance": 0.11111111111111116,
+          "synset": "anechoic_chamber.n.01"
+        },
+        {
+          "word": "anteroom",
+          "distance": 0.11111111111111116,
+          "synset": "anteroom.n.01"
+        },
+        {
+          "word": "back room",
+          "distance": 0.11111111111111116,
+          "synset": "back_room.n.01"
+        },
+        {
+          "word": "ballroom",
+          "distance": 0.11111111111111116,
+          "synset": "ballroom.n.01"
+        },
+        {
+          "word": "barroom",
+          "distance": 0.11111111111111116,
+          "synset": "barroom.n.01"
+        },
+        {
+          "word": "bathroom",
+          "distance": 0.11111111111111116,
+          "synset": "bathroom.n.01"
+        },
+        {
+          "word": "bedroom",
+          "distance": 0.11111111111111116,
+          "synset": "bedroom.n.01"
+        },
+        {
+          "word": "belfry",
+          "distance": 0.11111111111111116,
+          "synset": "belfry.n.02"
+        },
+        {
+          "word": "billiard room",
+          "distance": 0.11111111111111116,
+          "synset": "billiard_room.n.01"
+        },
+        {
+          "word": "boardroom",
+          "distance": 0.11111111111111116,
+          "synset": "boardroom.n.01"
+        },
+        {
+          "word": "cardroom",
+          "distance": 0.11111111111111116,
+          "synset": "cardroom.n.01"
+        },
+        {
+          "word": "cell",
+          "distance": 0.11111111111111116,
+          "synset": "cell.n.07"
+        },
+        {
+          "word": "cell",
+          "distance": 0.11111111111111116,
+          "synset": "cell.n.06"
+        },
+        {
+          "word": "chamber",
+          "distance": 0.11111111111111116,
+          "synset": "chamber.n.03"
+        },
+        {
+          "word": "checkroom",
+          "distance": 0.11111111111111116,
+          "synset": "checkroom.n.01"
+        },
+        {
+          "word": "classroom",
+          "distance": 0.11111111111111116,
+          "synset": "classroom.n.01"
+        },
+        {
+          "word": "clean room",
+          "distance": 0.11111111111111116,
+          "synset": "clean_room.n.01"
+        },
+        {
+          "word": "cloakroom",
+          "distance": 0.11111111111111116,
+          "synset": "cloakroom.n.02"
+        },
+        {
+          "word": "closet",
+          "distance": 0.11111111111111116,
+          "synset": "closet.n.04"
+        }
+      ]
+    }
+  ],
+  "Grade": [
+    {
+      "synset": "grade.v.03",
+      "definition": "assign a grade or rank to, according to one's evaluation",
+      "synonyms": [
+        "score",
+        "mark"
+      ],
+      "closest_words": [
+        "measure",
+        "rate",
+        "standardize",
+        "reassess",
+        "censor",
+        "praise",
+        "edit",
+        "revalue",
+        "evaluate",
+        "troll",
+        "salute",
+        "applaud",
+        "laud",
+        "flatter",
+        "eulogize",
+        "compliment",
+        "rave",
+        "commend",
+        "commend",
+        "advertise"
+      ],
+      "closest_words_info": [
+        {
+          "word": "measure",
+          "distance": 0.1428571428571429,
+          "synset": "measure.v.04"
+        },
+        {
+          "word": "rate",
+          "distance": 0.25,
+          "synset": "rate.v.03"
+        },
+        {
+          "word": "standardize",
+          "distance": 0.25,
+          "synset": "standardize.v.02"
+        },
+        {
+          "word": "reassess",
+          "distance": 0.25,
+          "synset": "reassess.v.01"
+        },
+        {
+          "word": "censor",
+          "distance": 0.25,
+          "synset": "censor.v.02"
+        },
+        {
+          "word": "praise",
+          "distance": 0.25,
+          "synset": "praise.v.01"
+        },
+        {
+          "word": "edit",
+          "distance": 0.33333333333333337,
+          "synset": "edit.v.04"
+        },
+        {
+          "word": "revalue",
+          "distance": 0.33333333333333337,
+          "synset": "revalue.v.02"
+        },
+        {
+          "word": "evaluate",
+          "distance": 0.33333333333333337,
+          "synset": "evaluate.v.02"
+        },
+        {
+          "word": "troll",
+          "distance": 0.33333333333333337,
+          "synset": "troll.v.06"
+        },
+        {
+          "word": "salute",
+          "distance": 0.33333333333333337,
+          "synset": "salute.v.03"
+        },
+        {
+          "word": "applaud",
+          "distance": 0.33333333333333337,
+          "synset": "applaud.v.02"
+        },
+        {
+          "word": "laud",
+          "distance": 0.33333333333333337,
+          "synset": "laud.v.01"
+        },
+        {
+          "word": "flatter",
+          "distance": 0.33333333333333337,
+          "synset": "flatter.v.01"
+        },
+        {
+          "word": "eulogize",
+          "distance": 0.33333333333333337,
+          "synset": "eulogize.v.01"
+        },
+        {
+          "word": "compliment",
+          "distance": 0.33333333333333337,
+          "synset": "compliment.v.01"
+        },
+        {
+          "word": "rave",
+          "distance": 0.33333333333333337,
+          "synset": "rave.v.03"
+        },
+        {
+          "word": "commend",
+          "distance": 0.33333333333333337,
+          "synset": "commend.v.01"
+        },
+        {
+          "word": "commend",
+          "distance": 0.33333333333333337,
+          "synset": "commend.v.04"
+        },
+        {
+          "word": "advertise",
+          "distance": 0.33333333333333337,
+          "synset": "advertise.v.02"
+        }
+      ]
+    }
+  ],
+  "Deadline": [
+    {
+      "synset": "deadline.n.01",
+      "definition": "the point in time at which something must be completed",
+      "synonyms": [],
+      "closest_words": [
+        "curfew",
+        "point",
+        "distance",
+        "date",
+        "arrival time",
+        "departure time",
+        "midterm",
+        "term",
+        "midterm",
+        "moment",
+        "run-time",
+        "beginning",
+        "middle",
+        "end",
+        "phase",
+        "show time",
+        "then",
+        "measure",
+        "climax",
+        "birth"
+      ],
+      "closest_words_info": [
+        {
+          "word": "curfew",
+          "distance": 0.09090909090909094,
+          "synset": "curfew.n.01"
+        },
+        {
+          "word": "point",
+          "distance": 0.11111111111111116,
+          "synset": "point.n.06"
+        },
+        {
+          "word": "distance",
+          "distance": 0.19999999999999996,
+          "synset": "distance.n.06"
+        },
+        {
+          "word": "date",
+          "distance": 0.19999999999999996,
+          "synset": "date.n.04"
+        },
+        {
+          "word": "arrival time",
+          "distance": 0.19999999999999996,
+          "synset": "arrival_time.n.01"
+        },
+        {
+          "word": "departure time",
+          "distance": 0.19999999999999996,
+          "synset": "departure_time.n.01"
+        },
+        {
+          "word": "midterm",
+          "distance": 0.19999999999999996,
+          "synset": "midterm.n.02"
+        },
+        {
+          "word": "term",
+          "distance": 0.19999999999999996,
+          "synset": "term.n.06"
+        },
+        {
+          "word": "midterm",
+          "distance": 0.19999999999999996,
+          "synset": "midterm.n.01"
+        },
+        {
+          "word": "moment",
+          "distance": 0.19999999999999996,
+          "synset": "moment.n.01"
+        },
+        {
+          "word": "run-time",
+          "distance": 0.19999999999999996,
+          "synset": "run-time.n.01"
+        },
+        {
+          "word": "beginning",
+          "distance": 0.19999999999999996,
+          "synset": "beginning.n.02"
+        },
+        {
+          "word": "middle",
+          "distance": 0.19999999999999996,
+          "synset": "middle.n.04"
+        },
+        {
+          "word": "end",
+          "distance": 0.19999999999999996,
+          "synset": "end.n.02"
+        },
+        {
+          "word": "phase",
+          "distance": 0.19999999999999996,
+          "synset": "phase.n.03"
+        },
+        {
+          "word": "show time",
+          "distance": 0.19999999999999996,
+          "synset": "show_time.n.01"
+        },
+        {
+          "word": "then",
+          "distance": 0.19999999999999996,
+          "synset": "then.n.01"
+        },
+        {
+          "word": "measure",
+          "distance": 0.25,
+          "synset": "measure.n.02"
+        },
+        {
+          "word": "climax",
+          "distance": 0.2727272727272727,
+          "synset": "climax.n.02"
+        },
+        {
+          "word": "birth",
+          "distance": 0.2727272727272727,
+          "synset": "birth.n.01"
+        }
+      ]
+    }
+  ],
+  "Report": [
+    {
+      "synset": "report.n.01",
+      "definition": "a written document describing the findings of some individual or group",
+      "synonyms": [
+        "study",
+        "written_report"
+      ],
+      "closest_words": [
+        "assay",
+        "case study",
+        "white book",
+        "blue book",
+        "green paper",
+        "progress report",
+        "position paper",
+        "medical report",
+        "document",
+        "ballot",
+        "brevet",
+        "capitulation",
+        "certificate",
+        "charter",
+        "commercial document",
+        "confession",
+        "copyright",
+        "enclosure",
+        "form",
+        "legal document"
+      ],
+      "closest_words_info": [
+        {
+          "word": "assay",
+          "distance": 0.06666666666666665,
+          "synset": "assay.n.03"
+        },
+        {
+          "word": "case study",
+          "distance": 0.06666666666666665,
+          "synset": "case_study.n.01"
+        },
+        {
+          "word": "white book",
+          "distance": 0.06666666666666665,
+          "synset": "white_book.n.01"
+        },
+        {
+          "word": "blue book",
+          "distance": 0.06666666666666665,
+          "synset": "blue_book.n.01"
+        },
+        {
+          "word": "green paper",
+          "distance": 0.06666666666666665,
+          "synset": "green_paper.n.01"
+        },
+        {
+          "word": "progress report",
+          "distance": 0.06666666666666665,
+          "synset": "progress_report.n.01"
+        },
+        {
+          "word": "position paper",
+          "distance": 0.06666666666666665,
+          "synset": "position_paper.n.01"
+        },
+        {
+          "word": "medical report",
+          "distance": 0.06666666666666665,
+          "synset": "medical_report.n.01"
+        },
+        {
+          "word": "document",
+          "distance": 0.07692307692307687,
+          "synset": "document.n.01"
+        },
+        {
+          "word": "ballot",
+          "distance": 0.1428571428571429,
+          "synset": "ballot.n.01"
+        },
+        {
+          "word": "brevet",
+          "distance": 0.1428571428571429,
+          "synset": "brevet.n.01"
+        },
+        {
+          "word": "capitulation",
+          "distance": 0.1428571428571429,
+          "synset": "capitulation.n.01"
+        },
+        {
+          "word": "certificate",
+          "distance": 0.1428571428571429,
+          "synset": "certificate.n.01"
+        },
+        {
+          "word": "charter",
+          "distance": 0.1428571428571429,
+          "synset": "charter.n.01"
+        },
+        {
+          "word": "commercial document",
+          "distance": 0.1428571428571429,
+          "synset": "commercial_document.n.01"
+        },
+        {
+          "word": "confession",
+          "distance": 0.1428571428571429,
+          "synset": "confession.n.02"
+        },
+        {
+          "word": "copyright",
+          "distance": 0.1428571428571429,
+          "synset": "copyright.n.01"
+        },
+        {
+          "word": "enclosure",
+          "distance": 0.1428571428571429,
+          "synset": "enclosure.n.04"
+        },
+        {
+          "word": "form",
+          "distance": 0.1428571428571429,
+          "synset": "form.n.08"
+        },
+        {
+          "word": "legal document",
+          "distance": 0.1428571428571429,
+          "synset": "legal_document.n.01"
+        }
+      ]
+    }
+  ],
+  "Presentation": [
+    {
+      "synset": "presentation.n.01",
+      "definition": "the activity of formally presenting something (as a prize or reward)",
+      "synonyms": [],
+      "closest_words": [
+        "ceremony",
+        "groundbreaking",
+        "purification",
+        "lustrum",
+        "religious ceremony",
+        "military ceremony",
+        "activity",
+        "agape",
+        "rite",
+        "service",
+        "sacrament",
+        "confirmation",
+        "sanctification",
+        "Oblation",
+        "unction",
+        "libation",
+        "Mass",
+        "variation",
+        "space walk",
+        "domesticity"
+      ],
+      "closest_words_info": [
+        {
+          "word": "ceremony",
+          "distance": 0.06666666666666665,
+          "synset": "ceremony.n.03"
+        },
+        {
+          "word": "groundbreaking",
+          "distance": 0.125,
+          "synset": "groundbreaking.n.01"
+        },
+        {
+          "word": "purification",
+          "distance": 0.125,
+          "synset": "purification.n.03"
+        },
+        {
+          "word": "lustrum",
+          "distance": 0.125,
+          "synset": "lustrum.n.02"
+        },
+        {
+          "word": "religious ceremony",
+          "distance": 0.125,
+          "synset": "religious_ceremony.n.01"
+        },
+        {
+          "word": "military ceremony",
+          "distance": 0.125,
+          "synset": "military_ceremony.n.02"
+        },
+        {
+          "word": "activity",
+          "distance": 0.1428571428571429,
+          "synset": "activity.n.01"
+        },
+        {
+          "word": "agape",
+          "distance": 0.17647058823529416,
+          "synset": "agape.n.03"
+        },
+        {
+          "word": "rite",
+          "distance": 0.17647058823529416,
+          "synset": "rite.n.01"
+        },
+        {
+          "word": "service",
+          "distance": 0.17647058823529416,
+          "synset": "service.n.03"
+        },
+        {
+          "word": "sacrament",
+          "distance": 0.17647058823529416,
+          "synset": "sacrament.n.01"
+        },
+        {
+          "word": "confirmation",
+          "distance": 0.17647058823529416,
+          "synset": "confirmation.n.04"
+        },
+        {
+          "word": "sanctification",
+          "distance": 0.17647058823529416,
+          "synset": "sanctification.n.01"
+        },
+        {
+          "word": "Oblation",
+          "distance": 0.17647058823529416,
+          "synset": "oblation.n.02"
+        },
+        {
+          "word": "unction",
+          "distance": 0.17647058823529416,
+          "synset": "unction.n.04"
+        },
+        {
+          "word": "libation",
+          "distance": 0.17647058823529416,
+          "synset": "libation.n.03"
+        },
+        {
+          "word": "Mass",
+          "distance": 0.17647058823529416,
+          "synset": "mass.n.04"
+        },
+        {
+          "word": "variation",
+          "distance": 0.19999999999999996,
+          "synset": "variation.n.02"
+        },
+        {
+          "word": "space walk",
+          "distance": 0.19999999999999996,
+          "synset": "space_walk.n.01"
+        },
+        {
+          "word": "domesticity",
+          "distance": 0.19999999999999996,
+          "synset": "domesticity.n.02"
+        }
+      ]
+    }
+  ]
+}
