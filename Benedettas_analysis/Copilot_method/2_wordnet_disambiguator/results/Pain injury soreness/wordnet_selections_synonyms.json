@@ -1,0 +1,3474 @@
+{
+  "Pain": [
+    {
+      "synset": "pain.n.01",
+      "definition": "a symptom of some physical hurt or disorder",
+      "synonyms": [
+        "hurting"
+      ],
+      "closest_words": [
+        "ache",
+        "agony",
+        "arthralgia",
+        "burn",
+        "causalgia",
+        "colic",
+        "chest pain",
+        "chiralgia",
+        "distress",
+        "dysmenorrhea",
+        "glossalgia",
+        "growing pains",
+        "hemorrhoid",
+        "keratalgia",
+        "labor pain",
+        "mastalgia",
+        "melagra",
+        "meralgia",
+        "metralgia",
+        "myalgia"
+      ],
+      "closest_words_info": [
+        {
+          "word": "ache",
+          "distance": 0.05882352941176472,
+          "synset": "ache.n.01"
+        },
+        {
+          "word": "agony",
+          "distance": 0.05882352941176472,
+          "synset": "agony.n.02"
+        },
+        {
+          "word": "arthralgia",
+          "distance": 0.05882352941176472,
+          "synset": "arthralgia.n.01"
+        },
+        {
+          "word": "burn",
+          "distance": 0.05882352941176472,
+          "synset": "burn.n.01"
+        },
+        {
+          "word": "causalgia",
+          "distance": 0.05882352941176472,
+          "synset": "causalgia.n.01"
+        },
+        {
+          "word": "colic",
+          "distance": 0.05882352941176472,
+          "synset": "colic.n.01"
+        },
+        {
+          "word": "chest pain",
+          "distance": 0.05882352941176472,
+          "synset": "chest_pain.n.01"
+        },
+        {
+          "word": "chiralgia",
+          "distance": 0.05882352941176472,
+          "synset": "chiralgia.n.01"
+        },
+        {
+          "word": "distress",
+          "distance": 0.05882352941176472,
+          "synset": "distress.n.03"
+        },
+        {
+          "word": "dysmenorrhea",
+          "distance": 0.05882352941176472,
+          "synset": "dysmenorrhea.n.01"
+        },
+        {
+          "word": "glossalgia",
+          "distance": 0.05882352941176472,
+          "synset": "glossalgia.n.01"
+        },
+        {
+          "word": "growing pains",
+          "distance": 0.05882352941176472,
+          "synset": "growing_pains.n.01"
+        },
+        {
+          "word": "hemorrhoid",
+          "distance": 0.05882352941176472,
+          "synset": "hemorrhoid.n.01"
+        },
+        {
+          "word": "keratalgia",
+          "distance": 0.05882352941176472,
+          "synset": "keratalgia.n.01"
+        },
+        {
+          "word": "labor pain",
+          "distance": 0.05882352941176472,
+          "synset": "labor_pain.n.01"
+        },
+        {
+          "word": "mastalgia",
+          "distance": 0.05882352941176472,
+          "synset": "mastalgia.n.01"
+        },
+        {
+          "word": "melagra",
+          "distance": 0.05882352941176472,
+          "synset": "melagra.n.01"
+        },
+        {
+          "word": "meralgia",
+          "distance": 0.05882352941176472,
+          "synset": "meralgia.n.01"
+        },
+        {
+          "word": "metralgia",
+          "distance": 0.05882352941176472,
+          "synset": "metralgia.n.01"
+        },
+        {
+          "word": "myalgia",
+          "distance": 0.05882352941176472,
+          "synset": "myalgia.n.01"
+        }
+      ]
+    }
+  ],
+  "Hurt": [
+    {
+      "synset": "injury.n.01",
+      "definition": "any physical damage to the body caused by violence or accident or fracture etc.",
+      "synonyms": [
+        "injury",
+        "harm",
+        "trauma"
+      ],
+      "closest_words": [
+        "brain damage",
+        "birth trauma",
+        "blast trauma",
+        "bleeding",
+        "blunt trauma",
+        "bruise",
+        "bump",
+        "burn",
+        "dislocation",
+        "electric shock",
+        "fracture",
+        "frostbite",
+        "intravasation",
+        "penetrating trauma",
+        "pinch",
+        "rupture",
+        "sting",
+        "strain",
+        "whiplash",
+        "wale"
+      ],
+      "closest_words_info": [
+        {
+          "word": "brain damage",
+          "distance": 0.052631578947368474,
+          "synset": "brain_damage.n.01"
+        },
+        {
+          "word": "birth trauma",
+          "distance": 0.052631578947368474,
+          "synset": "birth_trauma.n.01"
+        },
+        {
+          "word": "blast trauma",
+          "distance": 0.052631578947368474,
+          "synset": "blast_trauma.n.01"
+        },
+        {
+          "word": "bleeding",
+          "distance": 0.052631578947368474,
+          "synset": "bleeding.n.01"
+        },
+        {
+          "word": "blunt trauma",
+          "distance": 0.052631578947368474,
+          "synset": "blunt_trauma.n.01"
+        },
+        {
+          "word": "bruise",
+          "distance": 0.052631578947368474,
+          "synset": "bruise.n.01"
+        },
+        {
+          "word": "bump",
+          "distance": 0.052631578947368474,
+          "synset": "bump.n.01"
+        },
+        {
+          "word": "burn",
+          "distance": 0.052631578947368474,
+          "synset": "burn.n.03"
+        },
+        {
+          "word": "dislocation",
+          "distance": 0.052631578947368474,
+          "synset": "dislocation.n.03"
+        },
+        {
+          "word": "electric shock",
+          "distance": 0.052631578947368474,
+          "synset": "electric_shock.n.02"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.052631578947368474,
+          "synset": "fracture.n.01"
+        },
+        {
+          "word": "frostbite",
+          "distance": 0.052631578947368474,
+          "synset": "frostbite.n.01"
+        },
+        {
+          "word": "intravasation",
+          "distance": 0.052631578947368474,
+          "synset": "intravasation.n.01"
+        },
+        {
+          "word": "penetrating trauma",
+          "distance": 0.052631578947368474,
+          "synset": "penetrating_trauma.n.01"
+        },
+        {
+          "word": "pinch",
+          "distance": 0.052631578947368474,
+          "synset": "pinch.n.02"
+        },
+        {
+          "word": "rupture",
+          "distance": 0.052631578947368474,
+          "synset": "rupture.n.01"
+        },
+        {
+          "word": "sting",
+          "distance": 0.052631578947368474,
+          "synset": "sting.n.03"
+        },
+        {
+          "word": "strain",
+          "distance": 0.052631578947368474,
+          "synset": "strain.n.07"
+        },
+        {
+          "word": "whiplash",
+          "distance": 0.052631578947368474,
+          "synset": "whiplash.n.01"
+        },
+        {
+          "word": "wale",
+          "distance": 0.052631578947368474,
+          "synset": "wale.n.01"
+        }
+      ]
+    }
+  ],
+  "Fall": [],
+  "Broken": [
+    {
+      "synset": "fracture.v.06",
+      "definition": "fracture a bone of",
+      "synonyms": [
+        "fracture",
+        "break"
+      ],
+      "closest_words": [
+        "injure",
+        "trample",
+        "concuss",
+        "calk",
+        "torture",
+        "pull",
+        "traumatize",
+        "maim",
+        "twist",
+        "subluxate",
+        "disable",
+        "harm",
+        "run down",
+        "shoot",
+        "knife",
+        "skin",
+        "bruise",
+        "graze",
+        "hurt",
+        "rack"
+      ],
+      "closest_words_info": [
+        {
+          "word": "injure",
+          "distance": 0.11111111111111116,
+          "synset": "injure.v.01"
+        },
+        {
+          "word": "trample",
+          "distance": 0.19999999999999996,
+          "synset": "trample.v.02"
+        },
+        {
+          "word": "concuss",
+          "distance": 0.19999999999999996,
+          "synset": "concuss.v.02"
+        },
+        {
+          "word": "calk",
+          "distance": 0.19999999999999996,
+          "synset": "calk.v.03"
+        },
+        {
+          "word": "torture",
+          "distance": 0.19999999999999996,
+          "synset": "torture.v.02"
+        },
+        {
+          "word": "pull",
+          "distance": 0.19999999999999996,
+          "synset": "pull.v.08"
+        },
+        {
+          "word": "traumatize",
+          "distance": 0.19999999999999996,
+          "synset": "traumatize.v.01"
+        },
+        {
+          "word": "maim",
+          "distance": 0.19999999999999996,
+          "synset": "maim.v.01"
+        },
+        {
+          "word": "twist",
+          "distance": 0.19999999999999996,
+          "synset": "twist.v.10"
+        },
+        {
+          "word": "subluxate",
+          "distance": 0.19999999999999996,
+          "synset": "subluxate.v.01"
+        },
+        {
+          "word": "disable",
+          "distance": 0.19999999999999996,
+          "synset": "disable.v.02"
+        },
+        {
+          "word": "harm",
+          "distance": 0.19999999999999996,
+          "synset": "harm.v.01"
+        },
+        {
+          "word": "run down",
+          "distance": 0.19999999999999996,
+          "synset": "run_down.v.03"
+        },
+        {
+          "word": "shoot",
+          "distance": 0.19999999999999996,
+          "synset": "shoot.v.01"
+        },
+        {
+          "word": "knife",
+          "distance": 0.19999999999999996,
+          "synset": "knife.v.01"
+        },
+        {
+          "word": "skin",
+          "distance": 0.19999999999999996,
+          "synset": "skin.v.02"
+        },
+        {
+          "word": "bruise",
+          "distance": 0.19999999999999996,
+          "synset": "bruise.v.01"
+        },
+        {
+          "word": "graze",
+          "distance": 0.19999999999999996,
+          "synset": "graze.v.02"
+        },
+        {
+          "word": "hurt",
+          "distance": 0.25,
+          "synset": "hurt.v.02"
+        },
+        {
+          "word": "rack",
+          "distance": 0.2727272727272727,
+          "synset": "rack.v.11"
+        }
+      ]
+    }
+  ],
+  "Injury": [
+    {
+      "synset": "injury.n.01",
+      "definition": "any physical damage to the body caused by violence or accident or fracture etc.",
+      "synonyms": [
+        "hurt",
+        "harm",
+        "trauma"
+      ],
+      "closest_words": [
+        "brain damage",
+        "birth trauma",
+        "blast trauma",
+        "bleeding",
+        "blunt trauma",
+        "bruise",
+        "bump",
+        "burn",
+        "dislocation",
+        "electric shock",
+        "fracture",
+        "frostbite",
+        "intravasation",
+        "penetrating trauma",
+        "pinch",
+        "rupture",
+        "sting",
+        "strain",
+        "whiplash",
+        "wale"
+      ],
+      "closest_words_info": [
+        {
+          "word": "brain damage",
+          "distance": 0.052631578947368474,
+          "synset": "brain_damage.n.01"
+        },
+        {
+          "word": "birth trauma",
+          "distance": 0.052631578947368474,
+          "synset": "birth_trauma.n.01"
+        },
+        {
+          "word": "blast trauma",
+          "distance": 0.052631578947368474,
+          "synset": "blast_trauma.n.01"
+        },
+        {
+          "word": "bleeding",
+          "distance": 0.052631578947368474,
+          "synset": "bleeding.n.01"
+        },
+        {
+          "word": "blunt trauma",
+          "distance": 0.052631578947368474,
+          "synset": "blunt_trauma.n.01"
+        },
+        {
+          "word": "bruise",
+          "distance": 0.052631578947368474,
+          "synset": "bruise.n.01"
+        },
+        {
+          "word": "bump",
+          "distance": 0.052631578947368474,
+          "synset": "bump.n.01"
+        },
+        {
+          "word": "burn",
+          "distance": 0.052631578947368474,
+          "synset": "burn.n.03"
+        },
+        {
+          "word": "dislocation",
+          "distance": 0.052631578947368474,
+          "synset": "dislocation.n.03"
+        },
+        {
+          "word": "electric shock",
+          "distance": 0.052631578947368474,
+          "synset": "electric_shock.n.02"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.052631578947368474,
+          "synset": "fracture.n.01"
+        },
+        {
+          "word": "frostbite",
+          "distance": 0.052631578947368474,
+          "synset": "frostbite.n.01"
+        },
+        {
+          "word": "intravasation",
+          "distance": 0.052631578947368474,
+          "synset": "intravasation.n.01"
+        },
+        {
+          "word": "penetrating trauma",
+          "distance": 0.052631578947368474,
+          "synset": "penetrating_trauma.n.01"
+        },
+        {
+          "word": "pinch",
+          "distance": 0.052631578947368474,
+          "synset": "pinch.n.02"
+        },
+        {
+          "word": "rupture",
+          "distance": 0.052631578947368474,
+          "synset": "rupture.n.01"
+        },
+        {
+          "word": "sting",
+          "distance": 0.052631578947368474,
+          "synset": "sting.n.03"
+        },
+        {
+          "word": "strain",
+          "distance": 0.052631578947368474,
+          "synset": "strain.n.07"
+        },
+        {
+          "word": "whiplash",
+          "distance": 0.052631578947368474,
+          "synset": "whiplash.n.01"
+        },
+        {
+          "word": "wale",
+          "distance": 0.052631578947368474,
+          "synset": "wale.n.01"
+        }
+      ]
+    }
+  ],
+  "Tingle": [
+    {
+      "synset": "frisson.n.01",
+      "definition": "an almost pleasurable sensation of fright",
+      "synonyms": [
+        "frisson",
+        "shiver",
+        "chill",
+        "quiver",
+        "shudder",
+        "thrill"
+      ],
+      "closest_words": [
+        "fear",
+        "alarm",
+        "creeps",
+        "horror",
+        "hysteria",
+        "panic",
+        "scare",
+        "stage fright",
+        "apprehension",
+        "timidity",
+        "intimidation",
+        "emotion",
+        "swivet",
+        "trepidation",
+        "foreboding",
+        "suspense",
+        "cold feet",
+        "shyness",
+        "diffidence",
+        "gloom"
+      ],
+      "closest_words_info": [
+        {
+          "word": "fear",
+          "distance": 0.06666666666666665,
+          "synset": "fear.n.01"
+        },
+        {
+          "word": "alarm",
+          "distance": 0.125,
+          "synset": "alarm.n.01"
+        },
+        {
+          "word": "creeps",
+          "distance": 0.125,
+          "synset": "creeps.n.02"
+        },
+        {
+          "word": "horror",
+          "distance": 0.125,
+          "synset": "horror.n.01"
+        },
+        {
+          "word": "hysteria",
+          "distance": 0.125,
+          "synset": "hysteria.n.02"
+        },
+        {
+          "word": "panic",
+          "distance": 0.125,
+          "synset": "panic.n.01"
+        },
+        {
+          "word": "scare",
+          "distance": 0.125,
+          "synset": "scare.n.02"
+        },
+        {
+          "word": "stage fright",
+          "distance": 0.125,
+          "synset": "stage_fright.n.01"
+        },
+        {
+          "word": "apprehension",
+          "distance": 0.125,
+          "synset": "apprehension.n.01"
+        },
+        {
+          "word": "timidity",
+          "distance": 0.125,
+          "synset": "timidity.n.01"
+        },
+        {
+          "word": "intimidation",
+          "distance": 0.125,
+          "synset": "intimidation.n.03"
+        },
+        {
+          "word": "emotion",
+          "distance": 0.1428571428571429,
+          "synset": "emotion.n.01"
+        },
+        {
+          "word": "swivet",
+          "distance": 0.17647058823529416,
+          "synset": "swivet.n.01"
+        },
+        {
+          "word": "trepidation",
+          "distance": 0.17647058823529416,
+          "synset": "trepidation.n.01"
+        },
+        {
+          "word": "foreboding",
+          "distance": 0.17647058823529416,
+          "synset": "foreboding.n.01"
+        },
+        {
+          "word": "suspense",
+          "distance": 0.17647058823529416,
+          "synset": "suspense.n.01"
+        },
+        {
+          "word": "cold feet",
+          "distance": 0.17647058823529416,
+          "synset": "cold_feet.n.01"
+        },
+        {
+          "word": "shyness",
+          "distance": 0.17647058823529416,
+          "synset": "shyness.n.01"
+        },
+        {
+          "word": "diffidence",
+          "distance": 0.17647058823529416,
+          "synset": "diffidence.n.01"
+        },
+        {
+          "word": "gloom",
+          "distance": 0.17647058823529416,
+          "synset": "gloom.n.02"
+        }
+      ]
+    }
+  ],
+  "Sore": [
+    {
+      "synset": "sensitive.s.01",
+      "definition": "hurting",
+      "synonyms": [
+        "sensitive",
+        "raw",
+        "tender"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "Tender": [
+    {
+      "synset": "tender.a.06",
+      "definition": "physically untoughened",
+      "synonyms": [
+        "untoughened"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "Itch": [
+    {
+      "synset": "itch.n.03",
+      "definition": "an irritating cutaneous sensation that produces a desire to scratch",
+      "synonyms": [
+        "itchiness",
+        "itching"
+      ],
+      "closest_words": [
+        "pruritus",
+        "cutaneous sensation",
+        "pruritus ani",
+        "pruritus vulvae",
+        "tickle",
+        "topognosia",
+        "urtication",
+        "touch",
+        "creepiness",
+        "perception",
+        "constancy",
+        "detection",
+        "visual perception",
+        "auditory perception",
+        "sensation",
+        "somesthesia",
+        "basic cognitive process",
+        "brightness constancy",
+        "color constancy",
+        "shape constancy"
+      ],
+      "closest_words_info": [
+        {
+          "word": "pruritus",
+          "distance": 0.04761904761904767,
+          "synset": "pruritus.n.01"
+        },
+        {
+          "word": "cutaneous sensation",
+          "distance": 0.052631578947368474,
+          "synset": "cutaneous_sensation.n.01"
+        },
+        {
+          "word": "pruritus ani",
+          "distance": 0.09090909090909094,
+          "synset": "pruritus_ani.n.01"
+        },
+        {
+          "word": "pruritus vulvae",
+          "distance": 0.09090909090909094,
+          "synset": "pruritus_vulvae.n.01"
+        },
+        {
+          "word": "tickle",
+          "distance": 0.09999999999999998,
+          "synset": "tickle.n.01"
+        },
+        {
+          "word": "topognosia",
+          "distance": 0.09999999999999998,
+          "synset": "topognosia.n.01"
+        },
+        {
+          "word": "urtication",
+          "distance": 0.09999999999999998,
+          "synset": "urtication.n.02"
+        },
+        {
+          "word": "touch",
+          "distance": 0.11111111111111116,
+          "synset": "touch.n.10"
+        },
+        {
+          "word": "creepiness",
+          "distance": 0.1578947368421053,
+          "synset": "creepiness.n.01"
+        },
+        {
+          "word": "perception",
+          "distance": 0.17647058823529416,
+          "synset": "perception.n.03"
+        },
+        {
+          "word": "constancy",
+          "distance": 0.2222222222222222,
+          "synset": "constancy.n.02"
+        },
+        {
+          "word": "detection",
+          "distance": 0.2222222222222222,
+          "synset": "detection.n.01"
+        },
+        {
+          "word": "visual perception",
+          "distance": 0.2222222222222222,
+          "synset": "visual_perception.n.01"
+        },
+        {
+          "word": "auditory perception",
+          "distance": 0.2222222222222222,
+          "synset": "auditory_perception.n.01"
+        },
+        {
+          "word": "sensation",
+          "distance": 0.2222222222222222,
+          "synset": "sensation.n.01"
+        },
+        {
+          "word": "somesthesia",
+          "distance": 0.2222222222222222,
+          "synset": "somesthesia.n.01"
+        },
+        {
+          "word": "basic cognitive process",
+          "distance": 0.25,
+          "synset": "basic_cognitive_process.n.01"
+        },
+        {
+          "word": "brightness constancy",
+          "distance": 0.26315789473684215,
+          "synset": "brightness_constancy.n.01"
+        },
+        {
+          "word": "color constancy",
+          "distance": 0.26315789473684215,
+          "synset": "color_constancy.n.01"
+        },
+        {
+          "word": "shape constancy",
+          "distance": 0.26315789473684215,
+          "synset": "shape_constancy.n.01"
+        }
+      ]
+    }
+  ],
+  "Stiff": [
+    {
+      "synset": "stiff.s.01",
+      "definition": "not moving or operating freely",
+      "synonyms": [],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "Bite": [
+    {
+      "synset": "bite.n.08",
+      "definition": "the act of gripping or chewing off with the teeth and jaws",
+      "synonyms": [
+        "chomp"
+      ],
+      "closest_words": [
+        "munch",
+        "nibble",
+        "nip",
+        "eating",
+        "mycophagy",
+        "browse",
+        "coprophagy",
+        "dining",
+        "engorgement",
+        "feasting",
+        "graze",
+        "lunching",
+        "repletion",
+        "supping",
+        "tasting",
+        "necrophagia",
+        "omophagia",
+        "scatophagy",
+        "consumption",
+        "Dutch treat"
+      ],
+      "closest_words_info": [
+        {
+          "word": "munch",
+          "distance": 0.05882352941176472,
+          "synset": "munch.n.02"
+        },
+        {
+          "word": "nibble",
+          "distance": 0.05882352941176472,
+          "synset": "nibble.n.02"
+        },
+        {
+          "word": "nip",
+          "distance": 0.05882352941176472,
+          "synset": "nip.n.06"
+        },
+        {
+          "word": "eating",
+          "distance": 0.06666666666666665,
+          "synset": "eating.n.01"
+        },
+        {
+          "word": "mycophagy",
+          "distance": 0.125,
+          "synset": "mycophagy.n.01"
+        },
+        {
+          "word": "browse",
+          "distance": 0.125,
+          "synset": "browse.n.03"
+        },
+        {
+          "word": "coprophagy",
+          "distance": 0.125,
+          "synset": "coprophagy.n.01"
+        },
+        {
+          "word": "dining",
+          "distance": 0.125,
+          "synset": "dining.n.01"
+        },
+        {
+          "word": "engorgement",
+          "distance": 0.125,
+          "synset": "engorgement.n.02"
+        },
+        {
+          "word": "feasting",
+          "distance": 0.125,
+          "synset": "feasting.n.01"
+        },
+        {
+          "word": "graze",
+          "distance": 0.125,
+          "synset": "graze.n.02"
+        },
+        {
+          "word": "lunching",
+          "distance": 0.125,
+          "synset": "lunching.n.01"
+        },
+        {
+          "word": "repletion",
+          "distance": 0.125,
+          "synset": "repletion.n.02"
+        },
+        {
+          "word": "supping",
+          "distance": 0.125,
+          "synset": "supping.n.01"
+        },
+        {
+          "word": "tasting",
+          "distance": 0.125,
+          "synset": "tasting.n.03"
+        },
+        {
+          "word": "necrophagia",
+          "distance": 0.125,
+          "synset": "necrophagia.n.01"
+        },
+        {
+          "word": "omophagia",
+          "distance": 0.125,
+          "synset": "omophagia.n.01"
+        },
+        {
+          "word": "scatophagy",
+          "distance": 0.125,
+          "synset": "scatophagy.n.01"
+        },
+        {
+          "word": "consumption",
+          "distance": 0.1428571428571429,
+          "synset": "consumption.n.01"
+        },
+        {
+          "word": "Dutch treat",
+          "distance": 0.17647058823529416,
+          "synset": "dutch_treat.n.01"
+        }
+      ]
+    }
+  ],
+  "Cramp": [
+    {
+      "synset": "spasm.n.01",
+      "definition": "a painful and involuntary muscular contraction",
+      "synonyms": [
+        "spasm",
+        "muscle_spasm"
+      ],
+      "closest_words": [
+        "charley horse",
+        "writer's cramp",
+        "blepharospasm",
+        "crick",
+        "myoclonus",
+        "opisthotonos",
+        "twitch",
+        "tenesmus",
+        "trismus",
+        "symptom",
+        "tic",
+        "blepharism",
+        "fibrillation",
+        "fasciculation",
+        "crepitation rale",
+        "menorrhagia",
+        "alkalinuria",
+        "eosinopenia",
+        "hemoglobinemia",
+        "hemoptysis"
+      ],
+      "closest_words_info": [
+        {
+          "word": "charley horse",
+          "distance": 0.05882352941176472,
+          "synset": "charley_horse.n.01"
+        },
+        {
+          "word": "writer's cramp",
+          "distance": 0.05882352941176472,
+          "synset": "writer's_cramp.n.01"
+        },
+        {
+          "word": "blepharospasm",
+          "distance": 0.05882352941176472,
+          "synset": "blepharospasm.n.01"
+        },
+        {
+          "word": "crick",
+          "distance": 0.05882352941176472,
+          "synset": "crick.n.01"
+        },
+        {
+          "word": "myoclonus",
+          "distance": 0.05882352941176472,
+          "synset": "myoclonus.n.01"
+        },
+        {
+          "word": "opisthotonos",
+          "distance": 0.05882352941176472,
+          "synset": "opisthotonos.n.01"
+        },
+        {
+          "word": "twitch",
+          "distance": 0.05882352941176472,
+          "synset": "twitch.n.01"
+        },
+        {
+          "word": "tenesmus",
+          "distance": 0.05882352941176472,
+          "synset": "tenesmus.n.01"
+        },
+        {
+          "word": "trismus",
+          "distance": 0.05882352941176472,
+          "synset": "trismus.n.01"
+        },
+        {
+          "word": "symptom",
+          "distance": 0.06666666666666665,
+          "synset": "symptom.n.01"
+        },
+        {
+          "word": "tic",
+          "distance": 0.11111111111111116,
+          "synset": "tic.n.01"
+        },
+        {
+          "word": "blepharism",
+          "distance": 0.11111111111111116,
+          "synset": "blepharism.n.01"
+        },
+        {
+          "word": "fibrillation",
+          "distance": 0.11111111111111116,
+          "synset": "fibrillation.n.01"
+        },
+        {
+          "word": "fasciculation",
+          "distance": 0.11111111111111116,
+          "synset": "fasciculation.n.01"
+        },
+        {
+          "word": "crepitation rale",
+          "distance": 0.125,
+          "synset": "crepitation_rale.n.01"
+        },
+        {
+          "word": "menorrhagia",
+          "distance": 0.125,
+          "synset": "menorrhagia.n.01"
+        },
+        {
+          "word": "alkalinuria",
+          "distance": 0.125,
+          "synset": "alkalinuria.n.01"
+        },
+        {
+          "word": "eosinopenia",
+          "distance": 0.125,
+          "synset": "eosinopenia.n.01"
+        },
+        {
+          "word": "hemoglobinemia",
+          "distance": 0.125,
+          "synset": "hemoglobinemia.n.01"
+        },
+        {
+          "word": "hemoptysis",
+          "distance": 0.125,
+          "synset": "hemoptysis.n.01"
+        }
+      ]
+    }
+  ],
+  "Swollen": [
+    {
+      "synset": "swell.v.01",
+      "definition": "increase in size, magnitude, number, or intensity",
+      "synonyms": [
+        "swell"
+      ],
+      "closest_words": [
+        "increase",
+        "accrue",
+        "spike",
+        "add to",
+        "gain",
+        "explode",
+        "pyramid",
+        "snowball",
+        "accumulate",
+        "add",
+        "intensify",
+        "intensify",
+        "grow",
+        "pullulate",
+        "widen",
+        "appreciate",
+        "broaden",
+        "shoot up",
+        "wax",
+        "wax"
+      ],
+      "closest_words_info": [
+        {
+          "word": "increase",
+          "distance": 0.1428571428571429,
+          "synset": "increase.v.01"
+        },
+        {
+          "word": "accrue",
+          "distance": 0.25,
+          "synset": "accrue.v.01"
+        },
+        {
+          "word": "spike",
+          "distance": 0.25,
+          "synset": "spike.v.06"
+        },
+        {
+          "word": "add to",
+          "distance": 0.25,
+          "synset": "add_to.v.01"
+        },
+        {
+          "word": "gain",
+          "distance": 0.25,
+          "synset": "gain.v.07"
+        },
+        {
+          "word": "explode",
+          "distance": 0.25,
+          "synset": "explode.v.10"
+        },
+        {
+          "word": "pyramid",
+          "distance": 0.25,
+          "synset": "pyramid.v.04"
+        },
+        {
+          "word": "snowball",
+          "distance": 0.25,
+          "synset": "snowball.v.01"
+        },
+        {
+          "word": "accumulate",
+          "distance": 0.25,
+          "synset": "accumulate.v.02"
+        },
+        {
+          "word": "add",
+          "distance": 0.25,
+          "synset": "add.v.01"
+        },
+        {
+          "word": "intensify",
+          "distance": 0.25,
+          "synset": "intensify.v.03"
+        },
+        {
+          "word": "intensify",
+          "distance": 0.25,
+          "synset": "intensify.v.02"
+        },
+        {
+          "word": "grow",
+          "distance": 0.25,
+          "synset": "grow.v.02"
+        },
+        {
+          "word": "pullulate",
+          "distance": 0.25,
+          "synset": "pullulate.v.04"
+        },
+        {
+          "word": "widen",
+          "distance": 0.25,
+          "synset": "widen.v.01"
+        },
+        {
+          "word": "appreciate",
+          "distance": 0.25,
+          "synset": "appreciate.v.04"
+        },
+        {
+          "word": "broaden",
+          "distance": 0.25,
+          "synset": "broaden.v.04"
+        },
+        {
+          "word": "shoot up",
+          "distance": 0.25,
+          "synset": "shoot_up.v.01"
+        },
+        {
+          "word": "wax",
+          "distance": 0.25,
+          "synset": "wax.v.02"
+        },
+        {
+          "word": "wax",
+          "distance": 0.25,
+          "synset": "wax.v.03"
+        }
+      ]
+    }
+  ],
+  "Numb": [
+    {
+      "synset": "numb.v.01",
+      "definition": "make numb or insensitive",
+      "synonyms": [
+        "benumb",
+        "blunt",
+        "dull"
+      ],
+      "closest_words": [
+        "desensitize",
+        "stun",
+        "besot",
+        "deafen",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag"
+      ],
+      "closest_words_info": [
+        {
+          "word": "desensitize",
+          "distance": 0.19999999999999996,
+          "synset": "desensitize.v.01"
+        },
+        {
+          "word": "stun",
+          "distance": 0.33333333333333337,
+          "synset": "stun.v.03"
+        },
+        {
+          "word": "besot",
+          "distance": 0.33333333333333337,
+          "synset": "besot.v.01"
+        },
+        {
+          "word": "deafen",
+          "distance": 0.33333333333333337,
+          "synset": "deafen.v.02"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6666666666666667,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6666666666666667,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6666666666666667,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6666666666666667,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6666666666666667,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6666666666666667,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6666666666666667,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6666666666666667,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6666666666666667,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6666666666666667,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6666666666666667,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6666666666666667,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6666666666666667,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6666666666666667,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6666666666666667,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.6666666666666667,
+          "synset": "gag.v.07"
+        }
+      ]
+    }
+  ],
+  "Sprain": [
+    {
+      "synset": "sprain.n.01",
+      "definition": "a painful injury to a joint caused by a sudden wrenching of its ligaments",
+      "synonyms": [],
+      "closest_words": [
+        "wrench",
+        "injury",
+        "brain damage",
+        "birth trauma",
+        "blast trauma",
+        "bleeding",
+        "blunt trauma",
+        "bruise",
+        "bump",
+        "burn",
+        "dislocation",
+        "electric shock",
+        "fracture",
+        "frostbite",
+        "intravasation",
+        "penetrating trauma",
+        "pinch",
+        "rupture",
+        "sting",
+        "strain"
+      ],
+      "closest_words_info": [
+        {
+          "word": "wrench",
+          "distance": 0.04761904761904767,
+          "synset": "wrench.n.01"
+        },
+        {
+          "word": "injury",
+          "distance": 0.09999999999999998,
+          "synset": "injury.n.01"
+        },
+        {
+          "word": "brain damage",
+          "distance": 0.1428571428571429,
+          "synset": "brain_damage.n.01"
+        },
+        {
+          "word": "birth trauma",
+          "distance": 0.1428571428571429,
+          "synset": "birth_trauma.n.01"
+        },
+        {
+          "word": "blast trauma",
+          "distance": 0.1428571428571429,
+          "synset": "blast_trauma.n.01"
+        },
+        {
+          "word": "bleeding",
+          "distance": 0.1428571428571429,
+          "synset": "bleeding.n.01"
+        },
+        {
+          "word": "blunt trauma",
+          "distance": 0.1428571428571429,
+          "synset": "blunt_trauma.n.01"
+        },
+        {
+          "word": "bruise",
+          "distance": 0.1428571428571429,
+          "synset": "bruise.n.01"
+        },
+        {
+          "word": "bump",
+          "distance": 0.1428571428571429,
+          "synset": "bump.n.01"
+        },
+        {
+          "word": "burn",
+          "distance": 0.1428571428571429,
+          "synset": "burn.n.03"
+        },
+        {
+          "word": "dislocation",
+          "distance": 0.1428571428571429,
+          "synset": "dislocation.n.03"
+        },
+        {
+          "word": "electric shock",
+          "distance": 0.1428571428571429,
+          "synset": "electric_shock.n.02"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.1428571428571429,
+          "synset": "fracture.n.01"
+        },
+        {
+          "word": "frostbite",
+          "distance": 0.1428571428571429,
+          "synset": "frostbite.n.01"
+        },
+        {
+          "word": "intravasation",
+          "distance": 0.1428571428571429,
+          "synset": "intravasation.n.01"
+        },
+        {
+          "word": "penetrating trauma",
+          "distance": 0.1428571428571429,
+          "synset": "penetrating_trauma.n.01"
+        },
+        {
+          "word": "pinch",
+          "distance": 0.1428571428571429,
+          "synset": "pinch.n.02"
+        },
+        {
+          "word": "rupture",
+          "distance": 0.1428571428571429,
+          "synset": "rupture.n.01"
+        },
+        {
+          "word": "sting",
+          "distance": 0.1428571428571429,
+          "synset": "sting.n.03"
+        },
+        {
+          "word": "strain",
+          "distance": 0.1428571428571429,
+          "synset": "strain.n.07"
+        }
+      ]
+    }
+  ],
+  "Trip": [
+    {
+      "synset": "trip.n.01",
+      "definition": "a journey for some purpose (usually including the return)",
+      "synonyms": [],
+      "closest_words": [
+        "flight",
+        "junket",
+        "round trip",
+        "run",
+        "run",
+        "trek",
+        "errand",
+        "service call",
+        "journey",
+        "connecting flight",
+        "direct flight",
+        "domestic flight",
+        "international flight",
+        "nonstop flight",
+        "redeye",
+        "commute",
+        "drive",
+        "long haul",
+        "mush",
+        "odyssey"
+      ],
+      "closest_words_info": [
+        {
+          "word": "flight",
+          "distance": 0.04347826086956519,
+          "synset": "flight.n.09"
+        },
+        {
+          "word": "junket",
+          "distance": 0.04347826086956519,
+          "synset": "junket.n.03"
+        },
+        {
+          "word": "round trip",
+          "distance": 0.04347826086956519,
+          "synset": "round_trip.n.01"
+        },
+        {
+          "word": "run",
+          "distance": 0.04347826086956519,
+          "synset": "run.n.06"
+        },
+        {
+          "word": "run",
+          "distance": 0.04347826086956519,
+          "synset": "run.n.16"
+        },
+        {
+          "word": "trek",
+          "distance": 0.04347826086956519,
+          "synset": "trek.n.02"
+        },
+        {
+          "word": "errand",
+          "distance": 0.04347826086956519,
+          "synset": "errand.n.01"
+        },
+        {
+          "word": "service call",
+          "distance": 0.04347826086956519,
+          "synset": "service_call.n.01"
+        },
+        {
+          "word": "journey",
+          "distance": 0.04761904761904767,
+          "synset": "journey.n.01"
+        },
+        {
+          "word": "connecting flight",
+          "distance": 0.08333333333333337,
+          "synset": "connecting_flight.n.01"
+        },
+        {
+          "word": "direct flight",
+          "distance": 0.08333333333333337,
+          "synset": "direct_flight.n.01"
+        },
+        {
+          "word": "domestic flight",
+          "distance": 0.08333333333333337,
+          "synset": "domestic_flight.n.01"
+        },
+        {
+          "word": "international flight",
+          "distance": 0.08333333333333337,
+          "synset": "international_flight.n.01"
+        },
+        {
+          "word": "nonstop flight",
+          "distance": 0.08333333333333337,
+          "synset": "nonstop_flight.n.01"
+        },
+        {
+          "word": "redeye",
+          "distance": 0.08333333333333337,
+          "synset": "redeye.n.01"
+        },
+        {
+          "word": "commute",
+          "distance": 0.09090909090909094,
+          "synset": "commute.n.01"
+        },
+        {
+          "word": "drive",
+          "distance": 0.09090909090909094,
+          "synset": "drive.n.08"
+        },
+        {
+          "word": "long haul",
+          "distance": 0.09090909090909094,
+          "synset": "long_haul.n.01"
+        },
+        {
+          "word": "mush",
+          "distance": 0.09090909090909094,
+          "synset": "mush.n.04"
+        },
+        {
+          "word": "odyssey",
+          "distance": 0.09090909090909094,
+          "synset": "odyssey.n.01"
+        }
+      ]
+    }
+  ],
+  "Fracture": [
+    {
+      "synset": "fracture.n.01",
+      "definition": "breaking of hard tissue such as bone",
+      "synonyms": [
+        "break"
+      ],
+      "closest_words": [
+        "comminuted fracture",
+        "complete fracture",
+        "compound fracture",
+        "compression fracture",
+        "depressed fracture",
+        "displaced fracture",
+        "fatigue fracture",
+        "hairline fracture",
+        "incomplete fracture",
+        "impacted fracture",
+        "simple fracture",
+        "injury",
+        "greenstick fracture",
+        "brain damage",
+        "birth trauma",
+        "blast trauma",
+        "bleeding",
+        "blunt trauma",
+        "bruise",
+        "bump"
+      ],
+      "closest_words_info": [
+        {
+          "word": "comminuted fracture",
+          "distance": 0.04761904761904767,
+          "synset": "comminuted_fracture.n.01"
+        },
+        {
+          "word": "complete fracture",
+          "distance": 0.04761904761904767,
+          "synset": "complete_fracture.n.01"
+        },
+        {
+          "word": "compound fracture",
+          "distance": 0.04761904761904767,
+          "synset": "compound_fracture.n.01"
+        },
+        {
+          "word": "compression fracture",
+          "distance": 0.04761904761904767,
+          "synset": "compression_fracture.n.01"
+        },
+        {
+          "word": "depressed fracture",
+          "distance": 0.04761904761904767,
+          "synset": "depressed_fracture.n.01"
+        },
+        {
+          "word": "displaced fracture",
+          "distance": 0.04761904761904767,
+          "synset": "displaced_fracture.n.01"
+        },
+        {
+          "word": "fatigue fracture",
+          "distance": 0.04761904761904767,
+          "synset": "fatigue_fracture.n.01"
+        },
+        {
+          "word": "hairline fracture",
+          "distance": 0.04761904761904767,
+          "synset": "hairline_fracture.n.01"
+        },
+        {
+          "word": "incomplete fracture",
+          "distance": 0.04761904761904767,
+          "synset": "incomplete_fracture.n.01"
+        },
+        {
+          "word": "impacted fracture",
+          "distance": 0.04761904761904767,
+          "synset": "impacted_fracture.n.01"
+        },
+        {
+          "word": "simple fracture",
+          "distance": 0.04761904761904767,
+          "synset": "simple_fracture.n.01"
+        },
+        {
+          "word": "injury",
+          "distance": 0.052631578947368474,
+          "synset": "injury.n.01"
+        },
+        {
+          "word": "greenstick fracture",
+          "distance": 0.09090909090909094,
+          "synset": "greenstick_fracture.n.01"
+        },
+        {
+          "word": "brain damage",
+          "distance": 0.09999999999999998,
+          "synset": "brain_damage.n.01"
+        },
+        {
+          "word": "birth trauma",
+          "distance": 0.09999999999999998,
+          "synset": "birth_trauma.n.01"
+        },
+        {
+          "word": "blast trauma",
+          "distance": 0.09999999999999998,
+          "synset": "blast_trauma.n.01"
+        },
+        {
+          "word": "bleeding",
+          "distance": 0.09999999999999998,
+          "synset": "bleeding.n.01"
+        },
+        {
+          "word": "blunt trauma",
+          "distance": 0.09999999999999998,
+          "synset": "blunt_trauma.n.01"
+        },
+        {
+          "word": "bruise",
+          "distance": 0.09999999999999998,
+          "synset": "bruise.n.01"
+        },
+        {
+          "word": "bump",
+          "distance": 0.09999999999999998,
+          "synset": "bump.n.01"
+        }
+      ]
+    }
+  ],
+  "Accident": [
+    {
+      "synset": "accident.n.01",
+      "definition": "an unfortunate mishap; especially one causing damage or injury",
+      "synonyms": [],
+      "closest_words": [
+        "collision",
+        "crash",
+        "injury",
+        "shipwreck",
+        "fatal accident",
+        "mishap",
+        "prang",
+        "fender-bender",
+        "pileup",
+        "smash",
+        "capsizing",
+        "collateral damage",
+        "concussion",
+        "mutilation",
+        "near miss",
+        "derailment",
+        "ground loop",
+        "puncture",
+        "slip",
+        "crash"
+      ],
+      "closest_words_info": [
+        {
+          "word": "collision",
+          "distance": 0.052631578947368474,
+          "synset": "collision.n.02"
+        },
+        {
+          "word": "crash",
+          "distance": 0.052631578947368474,
+          "synset": "crash.n.02"
+        },
+        {
+          "word": "injury",
+          "distance": 0.052631578947368474,
+          "synset": "injury.n.02"
+        },
+        {
+          "word": "shipwreck",
+          "distance": 0.052631578947368474,
+          "synset": "shipwreck.n.03"
+        },
+        {
+          "word": "fatal accident",
+          "distance": 0.052631578947368474,
+          "synset": "fatal_accident.n.01"
+        },
+        {
+          "word": "mishap",
+          "distance": 0.05882352941176472,
+          "synset": "mishap.n.02"
+        },
+        {
+          "word": "prang",
+          "distance": 0.09999999999999998,
+          "synset": "prang.n.01"
+        },
+        {
+          "word": "fender-bender",
+          "distance": 0.09999999999999998,
+          "synset": "fender-bender.n.01"
+        },
+        {
+          "word": "pileup",
+          "distance": 0.09999999999999998,
+          "synset": "pileup.n.01"
+        },
+        {
+          "word": "smash",
+          "distance": 0.09999999999999998,
+          "synset": "smash.n.02"
+        },
+        {
+          "word": "capsizing",
+          "distance": 0.09999999999999998,
+          "synset": "capsizing.n.01"
+        },
+        {
+          "word": "collateral damage",
+          "distance": 0.09999999999999998,
+          "synset": "collateral_damage.n.01"
+        },
+        {
+          "word": "concussion",
+          "distance": 0.09999999999999998,
+          "synset": "concussion.n.01"
+        },
+        {
+          "word": "mutilation",
+          "distance": 0.09999999999999998,
+          "synset": "mutilation.n.01"
+        },
+        {
+          "word": "near miss",
+          "distance": 0.11111111111111116,
+          "synset": "near_miss.n.01"
+        },
+        {
+          "word": "derailment",
+          "distance": 0.11111111111111116,
+          "synset": "derailment.n.01"
+        },
+        {
+          "word": "ground loop",
+          "distance": 0.11111111111111116,
+          "synset": "ground_loop.n.01"
+        },
+        {
+          "word": "puncture",
+          "distance": 0.11111111111111116,
+          "synset": "puncture.n.01"
+        },
+        {
+          "word": "slip",
+          "distance": 0.11111111111111116,
+          "synset": "slip.n.07"
+        },
+        {
+          "word": "crash",
+          "distance": 0.11111111111111116,
+          "synset": "crash.n.05"
+        }
+      ]
+    }
+  ],
+  "Burn": [
+    {
+      "synset": "burn.n.01",
+      "definition": "pain that feels hot as if it were on fire",
+      "synonyms": [
+        "burning"
+      ],
+      "closest_words": [
+        "pain",
+        "ache",
+        "agony",
+        "arthralgia",
+        "causalgia",
+        "colic",
+        "chest pain",
+        "chiralgia",
+        "distress",
+        "dysmenorrhea",
+        "glossalgia",
+        "growing pains",
+        "hemorrhoid",
+        "keratalgia",
+        "labor pain",
+        "mastalgia",
+        "melagra",
+        "meralgia",
+        "metralgia",
+        "myalgia"
+      ],
+      "closest_words_info": [
+        {
+          "word": "pain",
+          "distance": 0.05882352941176472,
+          "synset": "pain.n.01"
+        },
+        {
+          "word": "ache",
+          "distance": 0.11111111111111116,
+          "synset": "ache.n.01"
+        },
+        {
+          "word": "agony",
+          "distance": 0.11111111111111116,
+          "synset": "agony.n.02"
+        },
+        {
+          "word": "arthralgia",
+          "distance": 0.11111111111111116,
+          "synset": "arthralgia.n.01"
+        },
+        {
+          "word": "causalgia",
+          "distance": 0.11111111111111116,
+          "synset": "causalgia.n.01"
+        },
+        {
+          "word": "colic",
+          "distance": 0.11111111111111116,
+          "synset": "colic.n.01"
+        },
+        {
+          "word": "chest pain",
+          "distance": 0.11111111111111116,
+          "synset": "chest_pain.n.01"
+        },
+        {
+          "word": "chiralgia",
+          "distance": 0.11111111111111116,
+          "synset": "chiralgia.n.01"
+        },
+        {
+          "word": "distress",
+          "distance": 0.11111111111111116,
+          "synset": "distress.n.03"
+        },
+        {
+          "word": "dysmenorrhea",
+          "distance": 0.11111111111111116,
+          "synset": "dysmenorrhea.n.01"
+        },
+        {
+          "word": "glossalgia",
+          "distance": 0.11111111111111116,
+          "synset": "glossalgia.n.01"
+        },
+        {
+          "word": "growing pains",
+          "distance": 0.11111111111111116,
+          "synset": "growing_pains.n.01"
+        },
+        {
+          "word": "hemorrhoid",
+          "distance": 0.11111111111111116,
+          "synset": "hemorrhoid.n.01"
+        },
+        {
+          "word": "keratalgia",
+          "distance": 0.11111111111111116,
+          "synset": "keratalgia.n.01"
+        },
+        {
+          "word": "labor pain",
+          "distance": 0.11111111111111116,
+          "synset": "labor_pain.n.01"
+        },
+        {
+          "word": "mastalgia",
+          "distance": 0.11111111111111116,
+          "synset": "mastalgia.n.01"
+        },
+        {
+          "word": "melagra",
+          "distance": 0.11111111111111116,
+          "synset": "melagra.n.01"
+        },
+        {
+          "word": "meralgia",
+          "distance": 0.11111111111111116,
+          "synset": "meralgia.n.01"
+        },
+        {
+          "word": "metralgia",
+          "distance": 0.11111111111111116,
+          "synset": "metralgia.n.01"
+        },
+        {
+          "word": "myalgia",
+          "distance": 0.11111111111111116,
+          "synset": "myalgia.n.01"
+        }
+      ]
+    }
+  ],
+  "Sting": [
+    {
+      "synset": "sting.n.01",
+      "definition": "a kind of pain; something as sudden and painful as being stung",
+      "synonyms": [
+        "stinging"
+      ],
+      "closest_words": [
+        "pain",
+        "ache",
+        "agony",
+        "arthralgia",
+        "burn",
+        "causalgia",
+        "colic",
+        "chest pain",
+        "chiralgia",
+        "distress",
+        "dysmenorrhea",
+        "glossalgia",
+        "growing pains",
+        "hemorrhoid",
+        "keratalgia",
+        "labor pain",
+        "mastalgia",
+        "melagra",
+        "meralgia",
+        "metralgia"
+      ],
+      "closest_words_info": [
+        {
+          "word": "pain",
+          "distance": 0.05882352941176472,
+          "synset": "pain.n.01"
+        },
+        {
+          "word": "ache",
+          "distance": 0.11111111111111116,
+          "synset": "ache.n.01"
+        },
+        {
+          "word": "agony",
+          "distance": 0.11111111111111116,
+          "synset": "agony.n.02"
+        },
+        {
+          "word": "arthralgia",
+          "distance": 0.11111111111111116,
+          "synset": "arthralgia.n.01"
+        },
+        {
+          "word": "burn",
+          "distance": 0.11111111111111116,
+          "synset": "burn.n.01"
+        },
+        {
+          "word": "causalgia",
+          "distance": 0.11111111111111116,
+          "synset": "causalgia.n.01"
+        },
+        {
+          "word": "colic",
+          "distance": 0.11111111111111116,
+          "synset": "colic.n.01"
+        },
+        {
+          "word": "chest pain",
+          "distance": 0.11111111111111116,
+          "synset": "chest_pain.n.01"
+        },
+        {
+          "word": "chiralgia",
+          "distance": 0.11111111111111116,
+          "synset": "chiralgia.n.01"
+        },
+        {
+          "word": "distress",
+          "distance": 0.11111111111111116,
+          "synset": "distress.n.03"
+        },
+        {
+          "word": "dysmenorrhea",
+          "distance": 0.11111111111111116,
+          "synset": "dysmenorrhea.n.01"
+        },
+        {
+          "word": "glossalgia",
+          "distance": 0.11111111111111116,
+          "synset": "glossalgia.n.01"
+        },
+        {
+          "word": "growing pains",
+          "distance": 0.11111111111111116,
+          "synset": "growing_pains.n.01"
+        },
+        {
+          "word": "hemorrhoid",
+          "distance": 0.11111111111111116,
+          "synset": "hemorrhoid.n.01"
+        },
+        {
+          "word": "keratalgia",
+          "distance": 0.11111111111111116,
+          "synset": "keratalgia.n.01"
+        },
+        {
+          "word": "labor pain",
+          "distance": 0.11111111111111116,
+          "synset": "labor_pain.n.01"
+        },
+        {
+          "word": "mastalgia",
+          "distance": 0.11111111111111116,
+          "synset": "mastalgia.n.01"
+        },
+        {
+          "word": "melagra",
+          "distance": 0.11111111111111116,
+          "synset": "melagra.n.01"
+        },
+        {
+          "word": "meralgia",
+          "distance": 0.11111111111111116,
+          "synset": "meralgia.n.01"
+        },
+        {
+          "word": "metralgia",
+          "distance": 0.11111111111111116,
+          "synset": "metralgia.n.01"
+        }
+      ]
+    }
+  ],
+  "Ache": [
+    {
+      "synset": "ache.n.01",
+      "definition": "a dull persistent (usually moderately intense) pain",
+      "synonyms": [
+        "aching"
+      ],
+      "closest_words": [
+        "toothache",
+        "backache",
+        "headache",
+        "stomachache",
+        "earache",
+        "pain",
+        "aerodontalgia",
+        "histamine headache",
+        "migraine",
+        "sick headache",
+        "sinus headache",
+        "tension headache",
+        "lumbago",
+        "agony",
+        "arthralgia",
+        "burn",
+        "causalgia",
+        "colic",
+        "chest pain",
+        "chiralgia"
+      ],
+      "closest_words_info": [
+        {
+          "word": "toothache",
+          "distance": 0.052631578947368474,
+          "synset": "toothache.n.01"
+        },
+        {
+          "word": "backache",
+          "distance": 0.052631578947368474,
+          "synset": "backache.n.01"
+        },
+        {
+          "word": "headache",
+          "distance": 0.052631578947368474,
+          "synset": "headache.n.02"
+        },
+        {
+          "word": "stomachache",
+          "distance": 0.052631578947368474,
+          "synset": "stomachache.n.01"
+        },
+        {
+          "word": "earache",
+          "distance": 0.052631578947368474,
+          "synset": "earache.n.01"
+        },
+        {
+          "word": "pain",
+          "distance": 0.05882352941176472,
+          "synset": "pain.n.01"
+        },
+        {
+          "word": "aerodontalgia",
+          "distance": 0.09999999999999998,
+          "synset": "aerodontalgia.n.01"
+        },
+        {
+          "word": "histamine headache",
+          "distance": 0.09999999999999998,
+          "synset": "histamine_headache.n.01"
+        },
+        {
+          "word": "migraine",
+          "distance": 0.09999999999999998,
+          "synset": "migraine.n.01"
+        },
+        {
+          "word": "sick headache",
+          "distance": 0.09999999999999998,
+          "synset": "sick_headache.n.01"
+        },
+        {
+          "word": "sinus headache",
+          "distance": 0.09999999999999998,
+          "synset": "sinus_headache.n.01"
+        },
+        {
+          "word": "tension headache",
+          "distance": 0.09999999999999998,
+          "synset": "tension_headache.n.01"
+        },
+        {
+          "word": "lumbago",
+          "distance": 0.09999999999999998,
+          "synset": "lumbago.n.01"
+        },
+        {
+          "word": "agony",
+          "distance": 0.11111111111111116,
+          "synset": "agony.n.02"
+        },
+        {
+          "word": "arthralgia",
+          "distance": 0.11111111111111116,
+          "synset": "arthralgia.n.01"
+        },
+        {
+          "word": "burn",
+          "distance": 0.11111111111111116,
+          "synset": "burn.n.01"
+        },
+        {
+          "word": "causalgia",
+          "distance": 0.11111111111111116,
+          "synset": "causalgia.n.01"
+        },
+        {
+          "word": "colic",
+          "distance": 0.11111111111111116,
+          "synset": "colic.n.01"
+        },
+        {
+          "word": "chest pain",
+          "distance": 0.11111111111111116,
+          "synset": "chest_pain.n.01"
+        },
+        {
+          "word": "chiralgia",
+          "distance": 0.11111111111111116,
+          "synset": "chiralgia.n.01"
+        }
+      ]
+    },
+    {
+      "synset": "hurt.v.06",
+      "definition": "feel physical pain",
+      "synonyms": [
+        "hurt",
+        "suffer"
+      ],
+      "closest_words": [
+        "catch",
+        "twinge",
+        "prick",
+        "kill",
+        "prickle",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down"
+      ],
+      "closest_words_info": [
+        {
+          "word": "catch",
+          "distance": 0.19999999999999996,
+          "synset": "catch.v.22"
+        },
+        {
+          "word": "twinge",
+          "distance": 0.19999999999999996,
+          "synset": "twinge.v.02"
+        },
+        {
+          "word": "prick",
+          "distance": 0.19999999999999996,
+          "synset": "prick.v.02"
+        },
+        {
+          "word": "kill",
+          "distance": 0.19999999999999996,
+          "synset": "kill.v.05"
+        },
+        {
+          "word": "prickle",
+          "distance": 0.33333333333333337,
+          "synset": "prickle.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6,
+          "synset": "keep_down.v.03"
+        }
+      ]
+    }
+  ],
+  "Headache": [
+    {
+      "synset": "concern.n.04",
+      "definition": "something or someone that causes anxiety; a source of unhappiness",
+      "synonyms": [
+        "concern",
+        "worry",
+        "vexation"
+      ],
+      "closest_words": [
+        "bugaboo",
+        "burden",
+        "business",
+        "negative stimulus",
+        "dead weight",
+        "fardel",
+        "imposition",
+        "pill",
+        "annoyance",
+        "aversive stimulus",
+        "grief",
+        "stimulation",
+        "nuisance",
+        "irritant",
+        "plague",
+        "evocation",
+        "kick",
+        "turn-on",
+        "turnoff",
+        "conditioned stimulus"
+      ],
+      "closest_words_info": [
+        {
+          "word": "bugaboo",
+          "distance": 0.05882352941176472,
+          "synset": "bugaboo.n.02"
+        },
+        {
+          "word": "burden",
+          "distance": 0.05882352941176472,
+          "synset": "burden.n.01"
+        },
+        {
+          "word": "business",
+          "distance": 0.05882352941176472,
+          "synset": "business.n.04"
+        },
+        {
+          "word": "negative stimulus",
+          "distance": 0.06666666666666665,
+          "synset": "negative_stimulus.n.01"
+        },
+        {
+          "word": "dead weight",
+          "distance": 0.11111111111111116,
+          "synset": "dead_weight.n.01"
+        },
+        {
+          "word": "fardel",
+          "distance": 0.11111111111111116,
+          "synset": "fardel.n.01"
+        },
+        {
+          "word": "imposition",
+          "distance": 0.11111111111111116,
+          "synset": "imposition.n.02"
+        },
+        {
+          "word": "pill",
+          "distance": 0.11111111111111116,
+          "synset": "pill.n.04"
+        },
+        {
+          "word": "annoyance",
+          "distance": 0.125,
+          "synset": "annoyance.n.04"
+        },
+        {
+          "word": "aversive stimulus",
+          "distance": 0.125,
+          "synset": "aversive_stimulus.n.01"
+        },
+        {
+          "word": "grief",
+          "distance": 0.125,
+          "synset": "grief.n.02"
+        },
+        {
+          "word": "stimulation",
+          "distance": 0.1428571428571429,
+          "synset": "stimulation.n.02"
+        },
+        {
+          "word": "nuisance",
+          "distance": 0.17647058823529416,
+          "synset": "nuisance.n.01"
+        },
+        {
+          "word": "irritant",
+          "distance": 0.17647058823529416,
+          "synset": "irritant.n.01"
+        },
+        {
+          "word": "plague",
+          "distance": 0.17647058823529416,
+          "synset": "plague.n.05"
+        },
+        {
+          "word": "evocation",
+          "distance": 0.19999999999999996,
+          "synset": "evocation.n.03"
+        },
+        {
+          "word": "kick",
+          "distance": 0.19999999999999996,
+          "synset": "kick.n.05"
+        },
+        {
+          "word": "turn-on",
+          "distance": 0.19999999999999996,
+          "synset": "turn-on.n.01"
+        },
+        {
+          "word": "turnoff",
+          "distance": 0.19999999999999996,
+          "synset": "turnoff.n.01"
+        },
+        {
+          "word": "conditioned stimulus",
+          "distance": 0.19999999999999996,
+          "synset": "conditioned_stimulus.n.01"
+        }
+      ]
+    },
+    {
+      "synset": "headache.n.02",
+      "definition": "pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs",
+      "synonyms": [
+        "head_ache",
+        "cephalalgia"
+      ],
+      "closest_words": [
+        "histamine headache",
+        "migraine",
+        "sick headache",
+        "sinus headache",
+        "tension headache",
+        "ache",
+        "toothache",
+        "backache",
+        "stomachache",
+        "earache",
+        "pain",
+        "aerodontalgia",
+        "lumbago",
+        "agony",
+        "arthralgia",
+        "burn",
+        "causalgia",
+        "colic",
+        "chest pain",
+        "chiralgia"
+      ],
+      "closest_words_info": [
+        {
+          "word": "histamine headache",
+          "distance": 0.04761904761904767,
+          "synset": "histamine_headache.n.01"
+        },
+        {
+          "word": "migraine",
+          "distance": 0.04761904761904767,
+          "synset": "migraine.n.01"
+        },
+        {
+          "word": "sick headache",
+          "distance": 0.04761904761904767,
+          "synset": "sick_headache.n.01"
+        },
+        {
+          "word": "sinus headache",
+          "distance": 0.04761904761904767,
+          "synset": "sinus_headache.n.01"
+        },
+        {
+          "word": "tension headache",
+          "distance": 0.04761904761904767,
+          "synset": "tension_headache.n.01"
+        },
+        {
+          "word": "ache",
+          "distance": 0.052631578947368474,
+          "synset": "ache.n.01"
+        },
+        {
+          "word": "toothache",
+          "distance": 0.09999999999999998,
+          "synset": "toothache.n.01"
+        },
+        {
+          "word": "backache",
+          "distance": 0.09999999999999998,
+          "synset": "backache.n.01"
+        },
+        {
+          "word": "stomachache",
+          "distance": 0.09999999999999998,
+          "synset": "stomachache.n.01"
+        },
+        {
+          "word": "earache",
+          "distance": 0.09999999999999998,
+          "synset": "earache.n.01"
+        },
+        {
+          "word": "pain",
+          "distance": 0.11111111111111116,
+          "synset": "pain.n.01"
+        },
+        {
+          "word": "aerodontalgia",
+          "distance": 0.1428571428571429,
+          "synset": "aerodontalgia.n.01"
+        },
+        {
+          "word": "lumbago",
+          "distance": 0.1428571428571429,
+          "synset": "lumbago.n.01"
+        },
+        {
+          "word": "agony",
+          "distance": 0.1578947368421053,
+          "synset": "agony.n.02"
+        },
+        {
+          "word": "arthralgia",
+          "distance": 0.1578947368421053,
+          "synset": "arthralgia.n.01"
+        },
+        {
+          "word": "burn",
+          "distance": 0.1578947368421053,
+          "synset": "burn.n.01"
+        },
+        {
+          "word": "causalgia",
+          "distance": 0.1578947368421053,
+          "synset": "causalgia.n.01"
+        },
+        {
+          "word": "colic",
+          "distance": 0.1578947368421053,
+          "synset": "colic.n.01"
+        },
+        {
+          "word": "chest pain",
+          "distance": 0.1578947368421053,
+          "synset": "chest_pain.n.01"
+        },
+        {
+          "word": "chiralgia",
+          "distance": 0.1578947368421053,
+          "synset": "chiralgia.n.01"
+        }
+      ]
+    }
+  ],
+  "Cut": [
+    {
+      "synset": "cut.n.05",
+      "definition": "a wound made by cutting",
+      "synonyms": [
+        "gash",
+        "slash",
+        "slice"
+      ],
+      "closest_words": [
+        "wound",
+        "raw wound",
+        "stigmata",
+        "abrasion",
+        "laceration",
+        "bite",
+        "injury",
+        "graze",
+        "rope burn",
+        "dog bite",
+        "snakebite",
+        "brain damage",
+        "birth trauma",
+        "blast trauma",
+        "bleeding",
+        "blunt trauma",
+        "bruise",
+        "bump",
+        "burn",
+        "dislocation"
+      ],
+      "closest_words_info": [
+        {
+          "word": "wound",
+          "distance": 0.04761904761904767,
+          "synset": "wound.n.01"
+        },
+        {
+          "word": "raw wound",
+          "distance": 0.09090909090909094,
+          "synset": "raw_wound.n.01"
+        },
+        {
+          "word": "stigmata",
+          "distance": 0.09090909090909094,
+          "synset": "stigmata.n.01"
+        },
+        {
+          "word": "abrasion",
+          "distance": 0.09090909090909094,
+          "synset": "abrasion.n.01"
+        },
+        {
+          "word": "laceration",
+          "distance": 0.09090909090909094,
+          "synset": "laceration.n.01"
+        },
+        {
+          "word": "bite",
+          "distance": 0.09090909090909094,
+          "synset": "bite.n.01"
+        },
+        {
+          "word": "injury",
+          "distance": 0.09999999999999998,
+          "synset": "injury.n.01"
+        },
+        {
+          "word": "graze",
+          "distance": 0.13043478260869568,
+          "synset": "graze.n.01"
+        },
+        {
+          "word": "rope burn",
+          "distance": 0.13043478260869568,
+          "synset": "rope_burn.n.01"
+        },
+        {
+          "word": "dog bite",
+          "distance": 0.13043478260869568,
+          "synset": "dog_bite.n.01"
+        },
+        {
+          "word": "snakebite",
+          "distance": 0.13043478260869568,
+          "synset": "snakebite.n.01"
+        },
+        {
+          "word": "brain damage",
+          "distance": 0.1428571428571429,
+          "synset": "brain_damage.n.01"
+        },
+        {
+          "word": "birth trauma",
+          "distance": 0.1428571428571429,
+          "synset": "birth_trauma.n.01"
+        },
+        {
+          "word": "blast trauma",
+          "distance": 0.1428571428571429,
+          "synset": "blast_trauma.n.01"
+        },
+        {
+          "word": "bleeding",
+          "distance": 0.1428571428571429,
+          "synset": "bleeding.n.01"
+        },
+        {
+          "word": "blunt trauma",
+          "distance": 0.1428571428571429,
+          "synset": "blunt_trauma.n.01"
+        },
+        {
+          "word": "bruise",
+          "distance": 0.1428571428571429,
+          "synset": "bruise.n.01"
+        },
+        {
+          "word": "bump",
+          "distance": 0.1428571428571429,
+          "synset": "bump.n.01"
+        },
+        {
+          "word": "burn",
+          "distance": 0.1428571428571429,
+          "synset": "burn.n.03"
+        },
+        {
+          "word": "dislocation",
+          "distance": 0.1428571428571429,
+          "synset": "dislocation.n.03"
+        }
+      ]
+    }
+  ],
+  "Wound": [
+    {
+      "synset": "wound.n.01",
+      "definition": "an injury to living tissue (especially an injury involving a cut or break in the skin)",
+      "synonyms": [
+        "lesion"
+      ],
+      "closest_words": [
+        "raw wound",
+        "stigmata",
+        "abrasion",
+        "cut",
+        "laceration",
+        "bite",
+        "injury",
+        "graze",
+        "rope burn",
+        "dog bite",
+        "snakebite",
+        "brain damage",
+        "birth trauma",
+        "blast trauma",
+        "bleeding",
+        "blunt trauma",
+        "bruise",
+        "bump",
+        "burn",
+        "dislocation"
+      ],
+      "closest_words_info": [
+        {
+          "word": "raw wound",
+          "distance": 0.04761904761904767,
+          "synset": "raw_wound.n.01"
+        },
+        {
+          "word": "stigmata",
+          "distance": 0.04761904761904767,
+          "synset": "stigmata.n.01"
+        },
+        {
+          "word": "abrasion",
+          "distance": 0.04761904761904767,
+          "synset": "abrasion.n.01"
+        },
+        {
+          "word": "cut",
+          "distance": 0.04761904761904767,
+          "synset": "cut.n.05"
+        },
+        {
+          "word": "laceration",
+          "distance": 0.04761904761904767,
+          "synset": "laceration.n.01"
+        },
+        {
+          "word": "bite",
+          "distance": 0.04761904761904767,
+          "synset": "bite.n.01"
+        },
+        {
+          "word": "injury",
+          "distance": 0.052631578947368474,
+          "synset": "injury.n.01"
+        },
+        {
+          "word": "graze",
+          "distance": 0.09090909090909094,
+          "synset": "graze.n.01"
+        },
+        {
+          "word": "rope burn",
+          "distance": 0.09090909090909094,
+          "synset": "rope_burn.n.01"
+        },
+        {
+          "word": "dog bite",
+          "distance": 0.09090909090909094,
+          "synset": "dog_bite.n.01"
+        },
+        {
+          "word": "snakebite",
+          "distance": 0.09090909090909094,
+          "synset": "snakebite.n.01"
+        },
+        {
+          "word": "brain damage",
+          "distance": 0.09999999999999998,
+          "synset": "brain_damage.n.01"
+        },
+        {
+          "word": "birth trauma",
+          "distance": 0.09999999999999998,
+          "synset": "birth_trauma.n.01"
+        },
+        {
+          "word": "blast trauma",
+          "distance": 0.09999999999999998,
+          "synset": "blast_trauma.n.01"
+        },
+        {
+          "word": "bleeding",
+          "distance": 0.09999999999999998,
+          "synset": "bleeding.n.01"
+        },
+        {
+          "word": "blunt trauma",
+          "distance": 0.09999999999999998,
+          "synset": "blunt_trauma.n.01"
+        },
+        {
+          "word": "bruise",
+          "distance": 0.09999999999999998,
+          "synset": "bruise.n.01"
+        },
+        {
+          "word": "bump",
+          "distance": 0.09999999999999998,
+          "synset": "bump.n.01"
+        },
+        {
+          "word": "burn",
+          "distance": 0.09999999999999998,
+          "synset": "burn.n.03"
+        },
+        {
+          "word": "dislocation",
+          "distance": 0.09999999999999998,
+          "synset": "dislocation.n.03"
+        }
+      ]
+    }
+  ],
+  "Fever": [
+    {
+      "synset": "fever.n.01",
+      "definition": "a rise in the temperature of the body; frequently a symptom of infection",
+      "synonyms": [
+        "febrility",
+        "febricity",
+        "pyrexia",
+        "feverishness"
+      ],
+      "closest_words": [
+        "hyperpyrexia",
+        "symptom",
+        "crepitation rale",
+        "menorrhagia",
+        "alkalinuria",
+        "eosinopenia",
+        "hemoglobinemia",
+        "hemoptysis",
+        "lipemia",
+        "albuminuria",
+        "aminoaciduria",
+        "ammoniuria",
+        "Jacquemier's sign",
+        "Kayser-Fleischer ring",
+        "keratomalacia",
+        "Kernig's sign",
+        "ketonemia",
+        "Koplik's spots",
+        "glycosuria",
+        "lymphuria"
+      ],
+      "closest_words_info": [
+        {
+          "word": "hyperpyrexia",
+          "distance": 0.05882352941176472,
+          "synset": "hyperpyrexia.n.01"
+        },
+        {
+          "word": "symptom",
+          "distance": 0.06666666666666665,
+          "synset": "symptom.n.01"
+        },
+        {
+          "word": "crepitation rale",
+          "distance": 0.125,
+          "synset": "crepitation_rale.n.01"
+        },
+        {
+          "word": "menorrhagia",
+          "distance": 0.125,
+          "synset": "menorrhagia.n.01"
+        },
+        {
+          "word": "alkalinuria",
+          "distance": 0.125,
+          "synset": "alkalinuria.n.01"
+        },
+        {
+          "word": "eosinopenia",
+          "distance": 0.125,
+          "synset": "eosinopenia.n.01"
+        },
+        {
+          "word": "hemoglobinemia",
+          "distance": 0.125,
+          "synset": "hemoglobinemia.n.01"
+        },
+        {
+          "word": "hemoptysis",
+          "distance": 0.125,
+          "synset": "hemoptysis.n.01"
+        },
+        {
+          "word": "lipemia",
+          "distance": 0.125,
+          "synset": "lipemia.n.01"
+        },
+        {
+          "word": "albuminuria",
+          "distance": 0.125,
+          "synset": "albuminuria.n.01"
+        },
+        {
+          "word": "aminoaciduria",
+          "distance": 0.125,
+          "synset": "aminoaciduria.n.01"
+        },
+        {
+          "word": "ammoniuria",
+          "distance": 0.125,
+          "synset": "ammoniuria.n.01"
+        },
+        {
+          "word": "Jacquemier's sign",
+          "distance": 0.125,
+          "synset": "jacquemier's_sign.n.01"
+        },
+        {
+          "word": "Kayser-Fleischer ring",
+          "distance": 0.125,
+          "synset": "kayser-fleischer_ring.n.01"
+        },
+        {
+          "word": "keratomalacia",
+          "distance": 0.125,
+          "synset": "keratomalacia.n.01"
+        },
+        {
+          "word": "Kernig's sign",
+          "distance": 0.125,
+          "synset": "kernig's_sign.n.01"
+        },
+        {
+          "word": "ketonemia",
+          "distance": 0.125,
+          "synset": "ketonemia.n.01"
+        },
+        {
+          "word": "Koplik's spots",
+          "distance": 0.125,
+          "synset": "koplik's_spots.n.01"
+        },
+        {
+          "word": "glycosuria",
+          "distance": 0.125,
+          "synset": "glycosuria.n.01"
+        },
+        {
+          "word": "lymphuria",
+          "distance": 0.125,
+          "synset": "lymphuria.n.01"
+        }
+      ]
+    }
+  ]
+}

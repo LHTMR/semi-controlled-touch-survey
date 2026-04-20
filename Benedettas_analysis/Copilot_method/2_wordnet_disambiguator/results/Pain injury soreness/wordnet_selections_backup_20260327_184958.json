@@ -1,0 +1,71 @@
+{
+  "Pain": [
+    "pain.n.01"
+  ],
+  "Hurt": [
+    "injury.n.01"
+  ],
+  "Fall": null,
+  "Broken": [
+    "fracture.v.06"
+  ],
+  "Injury": [
+    "injury.n.01"
+  ],
+  "Tingle": [
+    "frisson.n.01"
+  ],
+  "Sore": [
+    "sensitive.s.01"
+  ],
+  "Tender": [
+    "tender.a.06"
+  ],
+  "Itch": [
+    "itch.n.03"
+  ],
+  "Stiff": [
+    "stiff.s.01"
+  ],
+  "Bite": [
+    "bite.n.08"
+  ],
+  "Cramp": [
+    "spasm.n.01"
+  ],
+  "Swollen": [
+    "swell.v.01"
+  ],
+  "Numb": [
+    "numb.v.01"
+  ],
+  "Sprain": [
+    "sprain.n.01"
+  ],
+  "Trip": [
+    "trip.n.01"
+  ],
+  "Fracture": [
+    "fracture.n.01"
+  ],
+  "Accident": [
+    "accident.n.01"
+  ],
+  "Burn": [
+    "burn.n.01"
+  ],
+  "Sting": [
+    "sting.n.01"
+  ],
+  "Ache": [
+    "ache.n.01",
+    "hurt.v.06"
+  ],
+  "Headache": [
+    "concern.n.04",
+    "headache.n.02"
+  ],
+  "Cut": [
+    "cut.n.05"
+  ]
+}

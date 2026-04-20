@@ -1,0 +1,28 @@
+word,synset,definition,synonyms
+Pain,pain.n.01,a symptom of some physical hurt or disorder,hurting
+Hurt,injury.n.01,any physical damage to the body caused by violence or accident or fracture etc.,"injury, harm, trauma"
+Fall,N/A,N/A,N/A
+Broken,fracture.v.06,fracture a bone of,"fracture, break"
+Injury,injury.n.01,any physical damage to the body caused by violence or accident or fracture etc.,"hurt, harm, trauma"
+Tingle,frisson.n.01,an almost pleasurable sensation of fright,"frisson, shiver, chill, quiver, shudder, thrill"
+Sore,sensitive.s.01,hurting,"sensitive, raw, tender"
+Tender,tender.a.06,physically untoughened,untoughened
+Itch,itch.n.03,an irritating cutaneous sensation that produces a desire to scratch,"itchiness, itching"
+Stiff,stiff.s.01,not moving or operating freely,N/A
+Bite,bite.n.08,the act of gripping or chewing off with the teeth and jaws,chomp
+Cramp,spasm.n.01,a painful and involuntary muscular contraction,"spasm, muscle_spasm"
+Swollen,swell.v.01,"increase in size, magnitude, number, or intensity",swell
+Numb,numb.v.01,make numb or insensitive,"benumb, blunt, dull"
+Sprain,sprain.n.01,a painful injury to a joint caused by a sudden wrenching of its ligaments,N/A
+Trip,trip.n.01,a journey for some purpose (usually including the return),N/A
+Fracture,fracture.n.01,breaking of hard tissue such as bone,break
+Accident,accident.n.01,an unfortunate mishap; especially one causing damage or injury,N/A
+Burn,burn.n.01,pain that feels hot as if it were on fire,burning
+Sting,sting.n.01,a kind of pain; something as sudden and painful as being stung,stinging
+Ache,ache.n.01,a dull persistent (usually moderately intense) pain,aching
+Ache,hurt.v.06,feel physical pain,"hurt, suffer"
+Headache,concern.n.04,something or someone that causes anxiety; a source of unhappiness,"concern, worry, vexation"
+Headache,headache.n.02,pain in the head caused by dilation of cerebral arteries or muscle contractions or a reaction to drugs,"head_ache, cephalalgia"
+Cut,cut.n.05,a wound made by cutting,"gash, slash, slice"
+Wound,wound.n.01,an injury to living tissue (especially an injury involving a cut or break in the skin),lesion
+Fever,fever.n.01,a rise in the temperature of the body; frequently a symptom of infection,"febrility, febricity, pyrexia, feverishness"

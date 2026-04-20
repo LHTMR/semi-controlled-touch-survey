@@ -1,0 +1,18 @@
+{
+  "Pain": [
+    "pain.n.01"
+  ],
+  "Hurt": [
+    "injury.n.01"
+  ],
+  "Fall": null,
+  "Broken": [
+    "fracture.v.06"
+  ],
+  "Injury": [
+    "injury.n.01"
+  ],
+  "Tingle": [
+    "frisson.n.01"
+  ]
+}
