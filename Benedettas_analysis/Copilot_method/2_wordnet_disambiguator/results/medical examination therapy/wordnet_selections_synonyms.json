@@ -1,0 +1,4419 @@
+{
+  "Doctor": [
+    {
+      "synset": "doctor.n.01",
+      "definition": "a licensed medical practitioner",
+      "synonyms": [
+        "doc",
+        "physician",
+        "MD",
+        "Dr.",
+        "medico"
+      ],
+      "closest_words": [
+        "abortionist",
+        "allergist",
+        "angiologist",
+        "extern",
+        "gastroenterologist",
+        "general practitioner",
+        "hakim",
+        "house physician",
+        "intern",
+        "primary care physician",
+        "quack",
+        "specialist",
+        "surgeon",
+        "veterinarian",
+        "Averroes",
+        "Avicenna",
+        "Barany",
+        "Bartholin",
+        "Bruce",
+        "Crohn"
+      ],
+      "closest_words_info": [
+        {
+          "word": "abortionist",
+          "distance": 0.040000000000000036,
+          "synset": "abortionist.n.01"
+        },
+        {
+          "word": "allergist",
+          "distance": 0.040000000000000036,
+          "synset": "allergist.n.01"
+        },
+        {
+          "word": "angiologist",
+          "distance": 0.040000000000000036,
+          "synset": "angiologist.n.01"
+        },
+        {
+          "word": "extern",
+          "distance": 0.040000000000000036,
+          "synset": "extern.n.01"
+        },
+        {
+          "word": "gastroenterologist",
+          "distance": 0.040000000000000036,
+          "synset": "gastroenterologist.n.01"
+        },
+        {
+          "word": "general practitioner",
+          "distance": 0.040000000000000036,
+          "synset": "general_practitioner.n.01"
+        },
+        {
+          "word": "hakim",
+          "distance": 0.040000000000000036,
+          "synset": "hakim.n.02"
+        },
+        {
+          "word": "house physician",
+          "distance": 0.040000000000000036,
+          "synset": "house_physician.n.01"
+        },
+        {
+          "word": "intern",
+          "distance": 0.040000000000000036,
+          "synset": "intern.n.01"
+        },
+        {
+          "word": "primary care physician",
+          "distance": 0.040000000000000036,
+          "synset": "primary_care_physician.n.01"
+        },
+        {
+          "word": "quack",
+          "distance": 0.040000000000000036,
+          "synset": "quack.n.01"
+        },
+        {
+          "word": "specialist",
+          "distance": 0.040000000000000036,
+          "synset": "specialist.n.02"
+        },
+        {
+          "word": "surgeon",
+          "distance": 0.040000000000000036,
+          "synset": "surgeon.n.01"
+        },
+        {
+          "word": "veterinarian",
+          "distance": 0.040000000000000036,
+          "synset": "veterinarian.n.01"
+        },
+        {
+          "word": "Averroes",
+          "distance": 0.040000000000000036,
+          "synset": "averroes.n.01"
+        },
+        {
+          "word": "Avicenna",
+          "distance": 0.040000000000000036,
+          "synset": "avicenna.n.01"
+        },
+        {
+          "word": "Barany",
+          "distance": 0.040000000000000036,
+          "synset": "barany.n.01"
+        },
+        {
+          "word": "Bartholin",
+          "distance": 0.040000000000000036,
+          "synset": "bartholin.n.01"
+        },
+        {
+          "word": "Bruce",
+          "distance": 0.040000000000000036,
+          "synset": "bruce.n.01"
+        },
+        {
+          "word": "Crohn",
+          "distance": 0.040000000000000036,
+          "synset": "crohn.n.01"
+        }
+      ]
+    }
+  ],
+  "Check": [
+    {
+      "synset": "check.n.01",
+      "definition": "a written order directing a bank to pay money",
+      "synonyms": [
+        "bank_check",
+        "cheque"
+      ],
+      "closest_words": [
+        "bad check",
+        "kite",
+        "kite",
+        "counter check",
+        "giro",
+        "paycheck",
+        "certified check",
+        "personal check",
+        "cashier's check",
+        "blank check",
+        "medicare check",
+        "draft",
+        "overdraft",
+        "foreign bill",
+        "inland bill",
+        "redraft",
+        "trade acceptance",
+        "bank draft",
+        "dividend warrant",
+        "money order"
+      ],
+      "closest_words_info": [
+        {
+          "word": "bad check",
+          "distance": 0.04761904761904767,
+          "synset": "bad_check.n.01"
+        },
+        {
+          "word": "kite",
+          "distance": 0.04761904761904767,
+          "synset": "kite.n.02"
+        },
+        {
+          "word": "kite",
+          "distance": 0.04761904761904767,
+          "synset": "kite.n.01"
+        },
+        {
+          "word": "counter check",
+          "distance": 0.04761904761904767,
+          "synset": "counter_check.n.01"
+        },
+        {
+          "word": "giro",
+          "distance": 0.04761904761904767,
+          "synset": "giro.n.01"
+        },
+        {
+          "word": "paycheck",
+          "distance": 0.04761904761904767,
+          "synset": "paycheck.n.01"
+        },
+        {
+          "word": "certified check",
+          "distance": 0.04761904761904767,
+          "synset": "certified_check.n.01"
+        },
+        {
+          "word": "personal check",
+          "distance": 0.04761904761904767,
+          "synset": "personal_check.n.01"
+        },
+        {
+          "word": "cashier's check",
+          "distance": 0.04761904761904767,
+          "synset": "cashier's_check.n.01"
+        },
+        {
+          "word": "blank check",
+          "distance": 0.04761904761904767,
+          "synset": "blank_check.n.02"
+        },
+        {
+          "word": "medicare check",
+          "distance": 0.04761904761904767,
+          "synset": "medicare_check.n.01"
+        },
+        {
+          "word": "draft",
+          "distance": 0.052631578947368474,
+          "synset": "draft.n.01"
+        },
+        {
+          "word": "overdraft",
+          "distance": 0.09999999999999998,
+          "synset": "overdraft.n.01"
+        },
+        {
+          "word": "foreign bill",
+          "distance": 0.09999999999999998,
+          "synset": "foreign_bill.n.01"
+        },
+        {
+          "word": "inland bill",
+          "distance": 0.09999999999999998,
+          "synset": "inland_bill.n.01"
+        },
+        {
+          "word": "redraft",
+          "distance": 0.09999999999999998,
+          "synset": "redraft.n.01"
+        },
+        {
+          "word": "trade acceptance",
+          "distance": 0.09999999999999998,
+          "synset": "trade_acceptance.n.01"
+        },
+        {
+          "word": "bank draft",
+          "distance": 0.09999999999999998,
+          "synset": "bank_draft.n.01"
+        },
+        {
+          "word": "dividend warrant",
+          "distance": 0.09999999999999998,
+          "synset": "dividend_warrant.n.01"
+        },
+        {
+          "word": "money order",
+          "distance": 0.09999999999999998,
+          "synset": "money_order.n.01"
+        }
+      ]
+    }
+  ],
+  "Chekup": [],
+  "Therapist": [
+    {
+      "synset": "therapist.n.01",
+      "definition": "a person skilled in a particular type of therapy",
+      "synonyms": [
+        "healer"
+      ],
+      "closest_words": [
+        "naprapath",
+        "alleviator",
+        "chiropractor",
+        "curandera",
+        "curandero",
+        "electrotherapist",
+        "herbalist",
+        "naturopath",
+        "osteopath",
+        "physical therapist",
+        "psychotherapist",
+        "sangoma",
+        "speech therapist",
+        "massager",
+        "Coue",
+        "masseur",
+        "masseuse",
+        "organism",
+        "benthos",
+        "dwarf"
+      ],
+      "closest_words_info": [
+        {
+          "word": "naprapath",
+          "distance": 0.052631578947368474,
+          "synset": "naprapath.n.01"
+        },
+        {
+          "word": "alleviator",
+          "distance": 0.052631578947368474,
+          "synset": "alleviator.n.01"
+        },
+        {
+          "word": "chiropractor",
+          "distance": 0.052631578947368474,
+          "synset": "chiropractor.n.01"
+        },
+        {
+          "word": "curandera",
+          "distance": 0.052631578947368474,
+          "synset": "curandera.n.01"
+        },
+        {
+          "word": "curandero",
+          "distance": 0.052631578947368474,
+          "synset": "curandero.n.01"
+        },
+        {
+          "word": "electrotherapist",
+          "distance": 0.052631578947368474,
+          "synset": "electrotherapist.n.01"
+        },
+        {
+          "word": "herbalist",
+          "distance": 0.052631578947368474,
+          "synset": "herbalist.n.01"
+        },
+        {
+          "word": "naturopath",
+          "distance": 0.052631578947368474,
+          "synset": "naturopath.n.01"
+        },
+        {
+          "word": "osteopath",
+          "distance": 0.052631578947368474,
+          "synset": "osteopath.n.01"
+        },
+        {
+          "word": "physical therapist",
+          "distance": 0.052631578947368474,
+          "synset": "physical_therapist.n.01"
+        },
+        {
+          "word": "psychotherapist",
+          "distance": 0.052631578947368474,
+          "synset": "psychotherapist.n.01"
+        },
+        {
+          "word": "sangoma",
+          "distance": 0.052631578947368474,
+          "synset": "sangoma.n.01"
+        },
+        {
+          "word": "speech therapist",
+          "distance": 0.052631578947368474,
+          "synset": "speech_therapist.n.01"
+        },
+        {
+          "word": "massager",
+          "distance": 0.09999999999999998,
+          "synset": "massager.n.01"
+        },
+        {
+          "word": "Coue",
+          "distance": 0.09999999999999998,
+          "synset": "coue.n.01"
+        },
+        {
+          "word": "masseur",
+          "distance": 0.1428571428571429,
+          "synset": "masseur.n.01"
+        },
+        {
+          "word": "masseuse",
+          "distance": 0.1428571428571429,
+          "synset": "masseuse.n.01"
+        },
+        {
+          "word": "organism",
+          "distance": 0.19999999999999996,
+          "synset": "organism.n.01"
+        },
+        {
+          "word": "benthos",
+          "distance": 0.25,
+          "synset": "benthos.n.02"
+        },
+        {
+          "word": "dwarf",
+          "distance": 0.25,
+          "synset": "dwarf.n.03"
+        }
+      ]
+    }
+  ],
+  "Massage": [
+    {
+      "synset": "massage.n.01",
+      "definition": "kneading and rubbing parts of the body to increase circulation and promote relaxation",
+      "synonyms": [],
+      "closest_words": [
+        "rubdown",
+        "cardiac massage",
+        "effleurage",
+        "petrissage",
+        "reflexology",
+        "Swedish massage",
+        "tapotement",
+        "treatment",
+        "medical care",
+        "modality",
+        "detoxification",
+        "chiropractic",
+        "fomentation",
+        "naturopathy",
+        "naprapathy",
+        "orthodontic treatment",
+        "orthoptics",
+        "osteopathy",
+        "osteoclasis",
+        "acupuncture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "rubdown",
+          "distance": 0.04761904761904767,
+          "synset": "rubdown.n.01"
+        },
+        {
+          "word": "cardiac massage",
+          "distance": 0.04761904761904767,
+          "synset": "cardiac_massage.n.01"
+        },
+        {
+          "word": "effleurage",
+          "distance": 0.04761904761904767,
+          "synset": "effleurage.n.01"
+        },
+        {
+          "word": "petrissage",
+          "distance": 0.04761904761904767,
+          "synset": "petrissage.n.01"
+        },
+        {
+          "word": "reflexology",
+          "distance": 0.04761904761904767,
+          "synset": "reflexology.n.02"
+        },
+        {
+          "word": "Swedish massage",
+          "distance": 0.04761904761904767,
+          "synset": "swedish_massage.n.01"
+        },
+        {
+          "word": "tapotement",
+          "distance": 0.04761904761904767,
+          "synset": "tapotement.n.01"
+        },
+        {
+          "word": "treatment",
+          "distance": 0.052631578947368474,
+          "synset": "treatment.n.01"
+        },
+        {
+          "word": "medical care",
+          "distance": 0.09999999999999998,
+          "synset": "medical_care.n.01"
+        },
+        {
+          "word": "modality",
+          "distance": 0.09999999999999998,
+          "synset": "modality.n.04"
+        },
+        {
+          "word": "detoxification",
+          "distance": 0.09999999999999998,
+          "synset": "detoxification.n.01"
+        },
+        {
+          "word": "chiropractic",
+          "distance": 0.09999999999999998,
+          "synset": "chiropractic.n.01"
+        },
+        {
+          "word": "fomentation",
+          "distance": 0.09999999999999998,
+          "synset": "fomentation.n.02"
+        },
+        {
+          "word": "naturopathy",
+          "distance": 0.09999999999999998,
+          "synset": "naturopathy.n.01"
+        },
+        {
+          "word": "naprapathy",
+          "distance": 0.09999999999999998,
+          "synset": "naprapathy.n.01"
+        },
+        {
+          "word": "orthodontic treatment",
+          "distance": 0.09999999999999998,
+          "synset": "orthodontic_treatment.n.01"
+        },
+        {
+          "word": "orthoptics",
+          "distance": 0.09999999999999998,
+          "synset": "orthoptics.n.01"
+        },
+        {
+          "word": "osteopathy",
+          "distance": 0.09999999999999998,
+          "synset": "osteopathy.n.01"
+        },
+        {
+          "word": "osteoclasis",
+          "distance": 0.09999999999999998,
+          "synset": "osteoclasis.n.01"
+        },
+        {
+          "word": "acupuncture",
+          "distance": 0.09999999999999998,
+          "synset": "acupuncture.n.01"
+        }
+      ]
+    }
+  ],
+  "Pressure": [
+    {
+      "synset": "pressure.n.01",
+      "definition": "the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit)",
+      "synonyms": [
+        "pressure_level",
+        "force_per_unit_area"
+      ],
+      "closest_words": [
+        "blood pressure",
+        "gas pressure",
+        "head",
+        "hydrostatic head",
+        "intraocular pressure",
+        "oil pressure",
+        "osmotic pressure",
+        "radiation pressure",
+        "sound pressure",
+        "suction",
+        "vapor pressure",
+        "physical phenomenon",
+        "acoustic radiation pressure",
+        "atmospheric pressure",
+        "systolic pressure",
+        "diastolic pressure",
+        "arterial pressure",
+        "venous pressure",
+        "hypertonicity",
+        "hypotonicity"
+      ],
+      "closest_words_info": [
+        {
+          "word": "blood pressure",
+          "distance": 0.06666666666666665,
+          "synset": "blood_pressure.n.01"
+        },
+        {
+          "word": "gas pressure",
+          "distance": 0.06666666666666665,
+          "synset": "gas_pressure.n.01"
+        },
+        {
+          "word": "head",
+          "distance": 0.06666666666666665,
+          "synset": "head.n.06"
+        },
+        {
+          "word": "hydrostatic head",
+          "distance": 0.06666666666666665,
+          "synset": "hydrostatic_head.n.01"
+        },
+        {
+          "word": "intraocular pressure",
+          "distance": 0.06666666666666665,
+          "synset": "intraocular_pressure.n.01"
+        },
+        {
+          "word": "oil pressure",
+          "distance": 0.06666666666666665,
+          "synset": "oil_pressure.n.01"
+        },
+        {
+          "word": "osmotic pressure",
+          "distance": 0.06666666666666665,
+          "synset": "osmotic_pressure.n.01"
+        },
+        {
+          "word": "radiation pressure",
+          "distance": 0.06666666666666665,
+          "synset": "radiation_pressure.n.01"
+        },
+        {
+          "word": "sound pressure",
+          "distance": 0.06666666666666665,
+          "synset": "sound_pressure.n.01"
+        },
+        {
+          "word": "suction",
+          "distance": 0.06666666666666665,
+          "synset": "suction.n.01"
+        },
+        {
+          "word": "vapor pressure",
+          "distance": 0.06666666666666665,
+          "synset": "vapor_pressure.n.01"
+        },
+        {
+          "word": "physical phenomenon",
+          "distance": 0.07692307692307687,
+          "synset": "physical_phenomenon.n.01"
+        },
+        {
+          "word": "acoustic radiation pressure",
+          "distance": 0.125,
+          "synset": "acoustic_radiation_pressure.n.01"
+        },
+        {
+          "word": "atmospheric pressure",
+          "distance": 0.125,
+          "synset": "atmospheric_pressure.n.01"
+        },
+        {
+          "word": "systolic pressure",
+          "distance": 0.125,
+          "synset": "systolic_pressure.n.01"
+        },
+        {
+          "word": "diastolic pressure",
+          "distance": 0.125,
+          "synset": "diastolic_pressure.n.01"
+        },
+        {
+          "word": "arterial pressure",
+          "distance": 0.125,
+          "synset": "arterial_pressure.n.01"
+        },
+        {
+          "word": "venous pressure",
+          "distance": 0.125,
+          "synset": "venous_pressure.n.01"
+        },
+        {
+          "word": "hypertonicity",
+          "distance": 0.125,
+          "synset": "hypertonicity.n.01"
+        },
+        {
+          "word": "hypotonicity",
+          "distance": 0.125,
+          "synset": "hypotonicity.n.01"
+        }
+      ]
+    }
+  ],
+  "Examination": [
+    {
+      "synset": "examination.n.01",
+      "definition": "the act of examining something closely (as for mistakes)",
+      "synonyms": [
+        "scrutiny"
+      ],
+      "closest_words": [
+        "audit",
+        "autopsy",
+        "checkup",
+        "comparison",
+        "fine-tooth comb",
+        "follow-up",
+        "going-over",
+        "once-over",
+        "ophthalmoscopy",
+        "palpation",
+        "endoscopy",
+        "gonioscopy",
+        "keratoscopy",
+        "rhinoscopy",
+        "scan",
+        "search",
+        "survey",
+        "testing",
+        "time and motion study",
+        "inspection"
+      ],
+      "closest_words_info": [
+        {
+          "word": "audit",
+          "distance": 0.052631578947368474,
+          "synset": "audit.n.02"
+        },
+        {
+          "word": "autopsy",
+          "distance": 0.052631578947368474,
+          "synset": "autopsy.n.01"
+        },
+        {
+          "word": "checkup",
+          "distance": 0.052631578947368474,
+          "synset": "checkup.n.01"
+        },
+        {
+          "word": "comparison",
+          "distance": 0.052631578947368474,
+          "synset": "comparison.n.01"
+        },
+        {
+          "word": "fine-tooth comb",
+          "distance": 0.052631578947368474,
+          "synset": "fine-tooth_comb.n.02"
+        },
+        {
+          "word": "follow-up",
+          "distance": 0.052631578947368474,
+          "synset": "follow-up.n.03"
+        },
+        {
+          "word": "going-over",
+          "distance": 0.052631578947368474,
+          "synset": "going-over.n.01"
+        },
+        {
+          "word": "once-over",
+          "distance": 0.052631578947368474,
+          "synset": "once-over.n.01"
+        },
+        {
+          "word": "ophthalmoscopy",
+          "distance": 0.052631578947368474,
+          "synset": "ophthalmoscopy.n.01"
+        },
+        {
+          "word": "palpation",
+          "distance": 0.052631578947368474,
+          "synset": "palpation.n.01"
+        },
+        {
+          "word": "endoscopy",
+          "distance": 0.052631578947368474,
+          "synset": "endoscopy.n.01"
+        },
+        {
+          "word": "gonioscopy",
+          "distance": 0.052631578947368474,
+          "synset": "gonioscopy.n.01"
+        },
+        {
+          "word": "keratoscopy",
+          "distance": 0.052631578947368474,
+          "synset": "keratoscopy.n.01"
+        },
+        {
+          "word": "rhinoscopy",
+          "distance": 0.052631578947368474,
+          "synset": "rhinoscopy.n.01"
+        },
+        {
+          "word": "scan",
+          "distance": 0.052631578947368474,
+          "synset": "scan.n.01"
+        },
+        {
+          "word": "search",
+          "distance": 0.052631578947368474,
+          "synset": "search.n.05"
+        },
+        {
+          "word": "survey",
+          "distance": 0.052631578947368474,
+          "synset": "survey.n.01"
+        },
+        {
+          "word": "testing",
+          "distance": 0.052631578947368474,
+          "synset": "testing.n.02"
+        },
+        {
+          "word": "time and motion study",
+          "distance": 0.052631578947368474,
+          "synset": "time_and_motion_study.n.01"
+        },
+        {
+          "word": "inspection",
+          "distance": 0.052631578947368474,
+          "synset": "inspection.n.01"
+        }
+      ]
+    }
+  ],
+  "Exam": [
+    {
+      "synset": "examination.n.02",
+      "definition": "a set of questions or exercises evaluating skill or knowledge",
+      "synonyms": [
+        "examination",
+        "test"
+      ],
+      "closest_words": [
+        "bar examination",
+        "comprehensive examination",
+        "entrance examination",
+        "final examination",
+        "litmus test",
+        "midterm examination",
+        "oral",
+        "preliminary examination",
+        "quiz",
+        "test paper",
+        "tripos",
+        "communication",
+        "pop quiz",
+        "transmission",
+        "intercommunication",
+        "medium",
+        "channel",
+        "mail",
+        "dramaturgy",
+        "discussion"
+      ],
+      "closest_words_info": [
+        {
+          "word": "bar examination",
+          "distance": 0.06666666666666665,
+          "synset": "bar_examination.n.01"
+        },
+        {
+          "word": "comprehensive examination",
+          "distance": 0.06666666666666665,
+          "synset": "comprehensive_examination.n.01"
+        },
+        {
+          "word": "entrance examination",
+          "distance": 0.06666666666666665,
+          "synset": "entrance_examination.n.01"
+        },
+        {
+          "word": "final examination",
+          "distance": 0.06666666666666665,
+          "synset": "final_examination.n.01"
+        },
+        {
+          "word": "litmus test",
+          "distance": 0.06666666666666665,
+          "synset": "litmus_test.n.02"
+        },
+        {
+          "word": "midterm examination",
+          "distance": 0.06666666666666665,
+          "synset": "midterm_examination.n.01"
+        },
+        {
+          "word": "oral",
+          "distance": 0.06666666666666665,
+          "synset": "oral.n.01"
+        },
+        {
+          "word": "preliminary examination",
+          "distance": 0.06666666666666665,
+          "synset": "preliminary_examination.n.01"
+        },
+        {
+          "word": "quiz",
+          "distance": 0.06666666666666665,
+          "synset": "quiz.n.01"
+        },
+        {
+          "word": "test paper",
+          "distance": 0.06666666666666665,
+          "synset": "test_paper.n.01"
+        },
+        {
+          "word": "tripos",
+          "distance": 0.06666666666666665,
+          "synset": "tripos.n.01"
+        },
+        {
+          "word": "communication",
+          "distance": 0.07692307692307687,
+          "synset": "communication.n.01"
+        },
+        {
+          "word": "pop quiz",
+          "distance": 0.125,
+          "synset": "pop_quiz.n.01"
+        },
+        {
+          "word": "transmission",
+          "distance": 0.1428571428571429,
+          "synset": "transmission.n.02"
+        },
+        {
+          "word": "intercommunication",
+          "distance": 0.1428571428571429,
+          "synset": "intercommunication.n.01"
+        },
+        {
+          "word": "medium",
+          "distance": 0.1428571428571429,
+          "synset": "medium.n.03"
+        },
+        {
+          "word": "channel",
+          "distance": 0.1428571428571429,
+          "synset": "channel.n.05"
+        },
+        {
+          "word": "mail",
+          "distance": 0.1428571428571429,
+          "synset": "mail.n.02"
+        },
+        {
+          "word": "dramaturgy",
+          "distance": 0.1428571428571429,
+          "synset": "dramaturgy.n.01"
+        },
+        {
+          "word": "discussion",
+          "distance": 0.1428571428571429,
+          "synset": "discussion.n.01"
+        }
+      ]
+    }
+  ],
+  "Press": [
+    {
+      "synset": "press.n.09",
+      "definition": "the act of pressing; the exertion of pressure",
+      "synonyms": [
+        "pressure",
+        "pressing"
+      ],
+      "closest_words": [
+        "impression",
+        "compression",
+        "push",
+        "squeeze",
+        "condensing",
+        "crush",
+        "constriction",
+        "depression",
+        "nudge",
+        "shove",
+        "boost",
+        "propulsion",
+        "spasm",
+        "squeeze",
+        "strangulation",
+        "pinch",
+        "thickening",
+        "grind",
+        "expression",
+        "extrusion"
+      ],
+      "closest_words_info": [
+        {
+          "word": "impression",
+          "distance": 0.05882352941176472,
+          "synset": "impression.n.09"
+        },
+        {
+          "word": "compression",
+          "distance": 0.05882352941176472,
+          "synset": "compression.n.04"
+        },
+        {
+          "word": "push",
+          "distance": 0.06666666666666665,
+          "synset": "push.n.01"
+        },
+        {
+          "word": "squeeze",
+          "distance": 0.11111111111111116,
+          "synset": "squeeze.n.01"
+        },
+        {
+          "word": "condensing",
+          "distance": 0.11111111111111116,
+          "synset": "condensing.n.01"
+        },
+        {
+          "word": "crush",
+          "distance": 0.11111111111111116,
+          "synset": "crush.n.04"
+        },
+        {
+          "word": "constriction",
+          "distance": 0.11111111111111116,
+          "synset": "constriction.n.04"
+        },
+        {
+          "word": "depression",
+          "distance": 0.125,
+          "synset": "depression.n.10"
+        },
+        {
+          "word": "nudge",
+          "distance": 0.125,
+          "synset": "nudge.n.01"
+        },
+        {
+          "word": "shove",
+          "distance": 0.125,
+          "synset": "shove.n.01"
+        },
+        {
+          "word": "boost",
+          "distance": 0.125,
+          "synset": "boost.n.03"
+        },
+        {
+          "word": "propulsion",
+          "distance": 0.1428571428571429,
+          "synset": "propulsion.n.02"
+        },
+        {
+          "word": "spasm",
+          "distance": 0.1578947368421053,
+          "synset": "spasm.n.02"
+        },
+        {
+          "word": "squeeze",
+          "distance": 0.1578947368421053,
+          "synset": "squeeze.n.08"
+        },
+        {
+          "word": "strangulation",
+          "distance": 0.1578947368421053,
+          "synset": "strangulation.n.03"
+        },
+        {
+          "word": "pinch",
+          "distance": 0.1578947368421053,
+          "synset": "pinch.n.06"
+        },
+        {
+          "word": "thickening",
+          "distance": 0.1578947368421053,
+          "synset": "thickening.n.03"
+        },
+        {
+          "word": "grind",
+          "distance": 0.1578947368421053,
+          "synset": "grind.n.04"
+        },
+        {
+          "word": "expression",
+          "distance": 0.1578947368421053,
+          "synset": "expression.n.09"
+        },
+        {
+          "word": "extrusion",
+          "distance": 0.1578947368421053,
+          "synset": "extrusion.n.02"
+        }
+      ]
+    },
+    {
+      "synset": "press.v.01",
+      "definition": "exert pressure or force to or upon",
+      "synonyms": [],
+      "closest_words": [
+        "squeeze",
+        "squash",
+        "crunch",
+        "drag down",
+        "knuckle",
+        "push",
+        "wring",
+        "clench",
+        "stamp",
+        "steamroller",
+        "tread",
+        "telescope",
+        "grit",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep"
+      ],
+      "closest_words_info": [
+        {
+          "word": "squeeze",
+          "distance": 0.19999999999999996,
+          "synset": "squeeze.v.02"
+        },
+        {
+          "word": "squash",
+          "distance": 0.19999999999999996,
+          "synset": "squash.v.01"
+        },
+        {
+          "word": "crunch",
+          "distance": 0.19999999999999996,
+          "synset": "crunch.v.02"
+        },
+        {
+          "word": "drag down",
+          "distance": 0.19999999999999996,
+          "synset": "drag_down.v.01"
+        },
+        {
+          "word": "knuckle",
+          "distance": 0.19999999999999996,
+          "synset": "knuckle.v.01"
+        },
+        {
+          "word": "push",
+          "distance": 0.19999999999999996,
+          "synset": "push.v.05"
+        },
+        {
+          "word": "wring",
+          "distance": 0.33333333333333337,
+          "synset": "wring.v.04"
+        },
+        {
+          "word": "clench",
+          "distance": 0.33333333333333337,
+          "synset": "clench.v.02"
+        },
+        {
+          "word": "stamp",
+          "distance": 0.33333333333333337,
+          "synset": "stamp.v.08"
+        },
+        {
+          "word": "steamroller",
+          "distance": 0.33333333333333337,
+          "synset": "steamroller.v.03"
+        },
+        {
+          "word": "tread",
+          "distance": 0.33333333333333337,
+          "synset": "tread.v.03"
+        },
+        {
+          "word": "telescope",
+          "distance": 0.33333333333333337,
+          "synset": "telescope.v.01"
+        },
+        {
+          "word": "grit",
+          "distance": 0.4285714285714286,
+          "synset": "grit.v.02"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6,
+          "synset": "fall_asleep.v.01"
+        }
+      ]
+    }
+  ],
+  "Therapy": [
+    {
+      "synset": "therapy.n.01",
+      "definition": "(medicine) the act of caring for someone (as by medication or remedial training etc.)",
+      "synonyms": [],
+      "closest_words": [
+        "aromatherapy",
+        "chemotherapy",
+        "correction",
+        "electrotherapy",
+        "heliotherapy",
+        "hormone replacement therapy",
+        "immunotherapy",
+        "infrared therapy",
+        "inflation therapy",
+        "iontophoresis",
+        "medication",
+        "megavitamin therapy",
+        "occupational therapy",
+        "physical therapy",
+        "phytotherapy",
+        "psychotherapy",
+        "radiotherapy",
+        "shock therapy",
+        "speech therapy",
+        "refrigeration"
+      ],
+      "closest_words_info": [
+        {
+          "word": "aromatherapy",
+          "distance": 0.04347826086956519,
+          "synset": "aromatherapy.n.01"
+        },
+        {
+          "word": "chemotherapy",
+          "distance": 0.04347826086956519,
+          "synset": "chemotherapy.n.01"
+        },
+        {
+          "word": "correction",
+          "distance": 0.04347826086956519,
+          "synset": "correction.n.07"
+        },
+        {
+          "word": "electrotherapy",
+          "distance": 0.04347826086956519,
+          "synset": "electrotherapy.n.01"
+        },
+        {
+          "word": "heliotherapy",
+          "distance": 0.04347826086956519,
+          "synset": "heliotherapy.n.01"
+        },
+        {
+          "word": "hormone replacement therapy",
+          "distance": 0.04347826086956519,
+          "synset": "hormone_replacement_therapy.n.01"
+        },
+        {
+          "word": "immunotherapy",
+          "distance": 0.04347826086956519,
+          "synset": "immunotherapy.n.01"
+        },
+        {
+          "word": "infrared therapy",
+          "distance": 0.04347826086956519,
+          "synset": "infrared_therapy.n.01"
+        },
+        {
+          "word": "inflation therapy",
+          "distance": 0.04347826086956519,
+          "synset": "inflation_therapy.n.01"
+        },
+        {
+          "word": "iontophoresis",
+          "distance": 0.04347826086956519,
+          "synset": "iontophoresis.n.01"
+        },
+        {
+          "word": "medication",
+          "distance": 0.04347826086956519,
+          "synset": "medication.n.02"
+        },
+        {
+          "word": "megavitamin therapy",
+          "distance": 0.04347826086956519,
+          "synset": "megavitamin_therapy.n.01"
+        },
+        {
+          "word": "occupational therapy",
+          "distance": 0.04347826086956519,
+          "synset": "occupational_therapy.n.01"
+        },
+        {
+          "word": "physical therapy",
+          "distance": 0.04347826086956519,
+          "synset": "physical_therapy.n.01"
+        },
+        {
+          "word": "phytotherapy",
+          "distance": 0.04347826086956519,
+          "synset": "phytotherapy.n.01"
+        },
+        {
+          "word": "psychotherapy",
+          "distance": 0.04347826086956519,
+          "synset": "psychotherapy.n.02"
+        },
+        {
+          "word": "radiotherapy",
+          "distance": 0.04347826086956519,
+          "synset": "radiotherapy.n.01"
+        },
+        {
+          "word": "shock therapy",
+          "distance": 0.04347826086956519,
+          "synset": "shock_therapy.n.01"
+        },
+        {
+          "word": "speech therapy",
+          "distance": 0.04347826086956519,
+          "synset": "speech_therapy.n.01"
+        },
+        {
+          "word": "refrigeration",
+          "distance": 0.04347826086956519,
+          "synset": "refrigeration.n.02"
+        }
+      ]
+    }
+  ],
+  "Nurse": [
+    {
+      "synset": "nurse.n.01",
+      "definition": "one skilled in caring for young children or the sick (usually under the supervision of a physician)",
+      "synonyms": [],
+      "closest_words": [
+        "foster-nurse",
+        "graduate nurse",
+        "head nurse",
+        "licensed practical nurse",
+        "matron",
+        "midwife",
+        "probationer",
+        "registered nurse",
+        "scrub nurse",
+        "visiting nurse",
+        "Cavell",
+        "Nightingale",
+        "Sanger",
+        "health professional",
+        "nurse-midwife",
+        "nurse practitioner",
+        "bonesetter",
+        "electrologist",
+        "medical assistant",
+        "medical practitioner"
+      ],
+      "closest_words_info": [
+        {
+          "word": "foster-nurse",
+          "distance": 0.04347826086956519,
+          "synset": "foster-nurse.n.01"
+        },
+        {
+          "word": "graduate nurse",
+          "distance": 0.04347826086956519,
+          "synset": "graduate_nurse.n.01"
+        },
+        {
+          "word": "head nurse",
+          "distance": 0.04347826086956519,
+          "synset": "head_nurse.n.01"
+        },
+        {
+          "word": "licensed practical nurse",
+          "distance": 0.04347826086956519,
+          "synset": "licensed_practical_nurse.n.01"
+        },
+        {
+          "word": "matron",
+          "distance": 0.04347826086956519,
+          "synset": "matron.n.03"
+        },
+        {
+          "word": "midwife",
+          "distance": 0.04347826086956519,
+          "synset": "midwife.n.01"
+        },
+        {
+          "word": "probationer",
+          "distance": 0.04347826086956519,
+          "synset": "probationer.n.01"
+        },
+        {
+          "word": "registered nurse",
+          "distance": 0.04347826086956519,
+          "synset": "registered_nurse.n.01"
+        },
+        {
+          "word": "scrub nurse",
+          "distance": 0.04347826086956519,
+          "synset": "scrub_nurse.n.01"
+        },
+        {
+          "word": "visiting nurse",
+          "distance": 0.04347826086956519,
+          "synset": "visiting_nurse.n.01"
+        },
+        {
+          "word": "Cavell",
+          "distance": 0.04347826086956519,
+          "synset": "cavell.n.01"
+        },
+        {
+          "word": "Nightingale",
+          "distance": 0.04347826086956519,
+          "synset": "nightingale.n.02"
+        },
+        {
+          "word": "Sanger",
+          "distance": 0.04347826086956519,
+          "synset": "sanger.n.02"
+        },
+        {
+          "word": "health professional",
+          "distance": 0.04761904761904767,
+          "synset": "health_professional.n.01"
+        },
+        {
+          "word": "nurse-midwife",
+          "distance": 0.08333333333333337,
+          "synset": "nurse-midwife.n.01"
+        },
+        {
+          "word": "nurse practitioner",
+          "distance": 0.08333333333333337,
+          "synset": "nurse_practitioner.n.01"
+        },
+        {
+          "word": "bonesetter",
+          "distance": 0.09090909090909094,
+          "synset": "bonesetter.n.01"
+        },
+        {
+          "word": "electrologist",
+          "distance": 0.09090909090909094,
+          "synset": "electrologist.n.01"
+        },
+        {
+          "word": "medical assistant",
+          "distance": 0.09090909090909094,
+          "synset": "medical_assistant.n.01"
+        },
+        {
+          "word": "medical practitioner",
+          "distance": 0.09090909090909094,
+          "synset": "medical_practitioner.n.01"
+        }
+      ]
+    }
+  ],
+  "Test": [
+    {
+      "synset": "trial.n.02",
+      "definition": "trying something to find out about it",
+      "synonyms": [
+        "trial",
+        "trial_run",
+        "tryout"
+      ],
+      "closest_words": [
+        "field trial",
+        "alpha test",
+        "beta test",
+        "road test",
+        "trial balloon",
+        "experiment",
+        "test drive",
+        "pilot experiment",
+        "inquiry",
+        "nature study",
+        "empirical research",
+        "probe",
+        "poll",
+        "heraldry",
+        "problem solving",
+        "fishing expedition",
+        "exit poll",
+        "straw vote",
+        "calculation",
+        "thinking"
+      ],
+      "closest_words_info": [
+        {
+          "word": "field trial",
+          "distance": 0.04347826086956519,
+          "synset": "field_trial.n.01"
+        },
+        {
+          "word": "alpha test",
+          "distance": 0.04347826086956519,
+          "synset": "alpha_test.n.01"
+        },
+        {
+          "word": "beta test",
+          "distance": 0.04347826086956519,
+          "synset": "beta_test.n.01"
+        },
+        {
+          "word": "road test",
+          "distance": 0.04347826086956519,
+          "synset": "road_test.n.01"
+        },
+        {
+          "word": "trial balloon",
+          "distance": 0.04347826086956519,
+          "synset": "trial_balloon.n.01"
+        },
+        {
+          "word": "experiment",
+          "distance": 0.04761904761904767,
+          "synset": "experiment.n.02"
+        },
+        {
+          "word": "test drive",
+          "distance": 0.08333333333333337,
+          "synset": "test_drive.n.01"
+        },
+        {
+          "word": "pilot experiment",
+          "distance": 0.09090909090909094,
+          "synset": "pilot_experiment.n.01"
+        },
+        {
+          "word": "inquiry",
+          "distance": 0.09999999999999998,
+          "synset": "inquiry.n.01"
+        },
+        {
+          "word": "nature study",
+          "distance": 0.1428571428571429,
+          "synset": "nature_study.n.01"
+        },
+        {
+          "word": "empirical research",
+          "distance": 0.1428571428571429,
+          "synset": "empirical_research.n.01"
+        },
+        {
+          "word": "probe",
+          "distance": 0.1428571428571429,
+          "synset": "probe.n.01"
+        },
+        {
+          "word": "poll",
+          "distance": 0.1428571428571429,
+          "synset": "poll.n.01"
+        },
+        {
+          "word": "heraldry",
+          "distance": 0.1428571428571429,
+          "synset": "heraldry.n.01"
+        },
+        {
+          "word": "problem solving",
+          "distance": 0.1578947368421053,
+          "synset": "problem_solving.n.02"
+        },
+        {
+          "word": "fishing expedition",
+          "distance": 0.18181818181818177,
+          "synset": "fishing_expedition.n.01"
+        },
+        {
+          "word": "exit poll",
+          "distance": 0.18181818181818177,
+          "synset": "exit_poll.n.01"
+        },
+        {
+          "word": "straw vote",
+          "distance": 0.18181818181818177,
+          "synset": "straw_vote.n.01"
+        },
+        {
+          "word": "calculation",
+          "distance": 0.19999999999999996,
+          "synset": "calculation.n.02"
+        },
+        {
+          "word": "thinking",
+          "distance": 0.2222222222222222,
+          "synset": "thinking.n.01"
+        }
+      ]
+    },
+    {
+      "synset": "examination.n.02",
+      "definition": "a set of questions or exercises evaluating skill or knowledge",
+      "synonyms": [
+        "examination",
+        "exam"
+      ],
+      "closest_words": [
+        "bar examination",
+        "comprehensive examination",
+        "entrance examination",
+        "final examination",
+        "litmus test",
+        "midterm examination",
+        "oral",
+        "preliminary examination",
+        "quiz",
+        "test paper",
+        "tripos",
+        "communication",
+        "pop quiz",
+        "transmission",
+        "intercommunication",
+        "medium",
+        "channel",
+        "mail",
+        "dramaturgy",
+        "discussion"
+      ],
+      "closest_words_info": [
+        {
+          "word": "bar examination",
+          "distance": 0.06666666666666665,
+          "synset": "bar_examination.n.01"
+        },
+        {
+          "word": "comprehensive examination",
+          "distance": 0.06666666666666665,
+          "synset": "comprehensive_examination.n.01"
+        },
+        {
+          "word": "entrance examination",
+          "distance": 0.06666666666666665,
+          "synset": "entrance_examination.n.01"
+        },
+        {
+          "word": "final examination",
+          "distance": 0.06666666666666665,
+          "synset": "final_examination.n.01"
+        },
+        {
+          "word": "litmus test",
+          "distance": 0.06666666666666665,
+          "synset": "litmus_test.n.02"
+        },
+        {
+          "word": "midterm examination",
+          "distance": 0.06666666666666665,
+          "synset": "midterm_examination.n.01"
+        },
+        {
+          "word": "oral",
+          "distance": 0.06666666666666665,
+          "synset": "oral.n.01"
+        },
+        {
+          "word": "preliminary examination",
+          "distance": 0.06666666666666665,
+          "synset": "preliminary_examination.n.01"
+        },
+        {
+          "word": "quiz",
+          "distance": 0.06666666666666665,
+          "synset": "quiz.n.01"
+        },
+        {
+          "word": "test paper",
+          "distance": 0.06666666666666665,
+          "synset": "test_paper.n.01"
+        },
+        {
+          "word": "tripos",
+          "distance": 0.06666666666666665,
+          "synset": "tripos.n.01"
+        },
+        {
+          "word": "communication",
+          "distance": 0.07692307692307687,
+          "synset": "communication.n.01"
+        },
+        {
+          "word": "pop quiz",
+          "distance": 0.125,
+          "synset": "pop_quiz.n.01"
+        },
+        {
+          "word": "transmission",
+          "distance": 0.1428571428571429,
+          "synset": "transmission.n.02"
+        },
+        {
+          "word": "intercommunication",
+          "distance": 0.1428571428571429,
+          "synset": "intercommunication.n.01"
+        },
+        {
+          "word": "medium",
+          "distance": 0.1428571428571429,
+          "synset": "medium.n.03"
+        },
+        {
+          "word": "channel",
+          "distance": 0.1428571428571429,
+          "synset": "channel.n.05"
+        },
+        {
+          "word": "mail",
+          "distance": 0.1428571428571429,
+          "synset": "mail.n.02"
+        },
+        {
+          "word": "dramaturgy",
+          "distance": 0.1428571428571429,
+          "synset": "dramaturgy.n.01"
+        },
+        {
+          "word": "discussion",
+          "distance": 0.1428571428571429,
+          "synset": "discussion.n.01"
+        }
+      ]
+    }
+  ],
+  "Appointment": [
+    {
+      "synset": "date.n.03",
+      "definition": "a meeting arranged in advance",
+      "synonyms": [
+        "date",
+        "engagement"
+      ],
+      "closest_words": [
+        "blind date",
+        "double date",
+        "tryst",
+        "meeting",
+        "conventicle",
+        "visit",
+        "luncheon meeting",
+        "power breakfast",
+        "seance",
+        "social gathering",
+        "bee",
+        "love feast",
+        "company",
+        "function",
+        "party",
+        "supper",
+        "gathering",
+        "quilting bee",
+        "attendance",
+        "husking bee"
+      ],
+      "closest_words_info": [
+        {
+          "word": "blind date",
+          "distance": 0.05882352941176472,
+          "synset": "blind_date.n.02"
+        },
+        {
+          "word": "double date",
+          "distance": 0.05882352941176472,
+          "synset": "double_date.n.01"
+        },
+        {
+          "word": "tryst",
+          "distance": 0.05882352941176472,
+          "synset": "tryst.n.01"
+        },
+        {
+          "word": "meeting",
+          "distance": 0.06666666666666665,
+          "synset": "meeting.n.02"
+        },
+        {
+          "word": "conventicle",
+          "distance": 0.125,
+          "synset": "conventicle.n.01"
+        },
+        {
+          "word": "visit",
+          "distance": 0.125,
+          "synset": "visit.n.02"
+        },
+        {
+          "word": "luncheon meeting",
+          "distance": 0.125,
+          "synset": "luncheon_meeting.n.01"
+        },
+        {
+          "word": "power breakfast",
+          "distance": 0.125,
+          "synset": "power_breakfast.n.01"
+        },
+        {
+          "word": "seance",
+          "distance": 0.125,
+          "synset": "seance.n.01"
+        },
+        {
+          "word": "social gathering",
+          "distance": 0.1428571428571429,
+          "synset": "social_gathering.n.01"
+        },
+        {
+          "word": "bee",
+          "distance": 0.19999999999999996,
+          "synset": "bee.n.02"
+        },
+        {
+          "word": "love feast",
+          "distance": 0.19999999999999996,
+          "synset": "love_feast.n.01"
+        },
+        {
+          "word": "company",
+          "distance": 0.19999999999999996,
+          "synset": "company.n.06"
+        },
+        {
+          "word": "function",
+          "distance": 0.19999999999999996,
+          "synset": "function.n.05"
+        },
+        {
+          "word": "party",
+          "distance": 0.19999999999999996,
+          "synset": "party.n.02"
+        },
+        {
+          "word": "supper",
+          "distance": 0.19999999999999996,
+          "synset": "supper.n.02"
+        },
+        {
+          "word": "gathering",
+          "distance": 0.23076923076923073,
+          "synset": "gathering.n.01"
+        },
+        {
+          "word": "quilting bee",
+          "distance": 0.25,
+          "synset": "quilting_bee.n.01"
+        },
+        {
+          "word": "attendance",
+          "distance": 0.25,
+          "synset": "attendance.n.03"
+        },
+        {
+          "word": "husking bee",
+          "distance": 0.25,
+          "synset": "husking_bee.n.01"
+        }
+      ]
+    }
+  ],
+  "Treat": [
+    {
+      "synset": "process.v.01",
+      "definition": "subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition",
+      "synonyms": [
+        "process"
+      ],
+      "closest_words": [
+        "propagate",
+        "iodize",
+        "nitrate",
+        "tank",
+        "oxygenate",
+        "mercerize",
+        "malt",
+        "fluoridate",
+        "creosote",
+        "chlorinate",
+        "carbonate",
+        "camphorate",
+        "bromate",
+        "ammoniate",
+        "irradiate",
+        "scald",
+        "refine",
+        "nitrify",
+        "reverberate",
+        "curry"
+      ],
+      "closest_words_info": [
+        {
+          "word": "propagate",
+          "distance": 0.1428571428571429,
+          "synset": "propagate.v.07"
+        },
+        {
+          "word": "iodize",
+          "distance": 0.1428571428571429,
+          "synset": "iodize.v.01"
+        },
+        {
+          "word": "nitrate",
+          "distance": 0.1428571428571429,
+          "synset": "nitrate.v.01"
+        },
+        {
+          "word": "tank",
+          "distance": 0.1428571428571429,
+          "synset": "tank.v.03"
+        },
+        {
+          "word": "oxygenate",
+          "distance": 0.1428571428571429,
+          "synset": "oxygenate.v.01"
+        },
+        {
+          "word": "mercerize",
+          "distance": 0.1428571428571429,
+          "synset": "mercerize.v.01"
+        },
+        {
+          "word": "malt",
+          "distance": 0.1428571428571429,
+          "synset": "malt.v.01"
+        },
+        {
+          "word": "fluoridate",
+          "distance": 0.1428571428571429,
+          "synset": "fluoridate.v.01"
+        },
+        {
+          "word": "creosote",
+          "distance": 0.1428571428571429,
+          "synset": "creosote.v.01"
+        },
+        {
+          "word": "chlorinate",
+          "distance": 0.1428571428571429,
+          "synset": "chlorinate.v.01"
+        },
+        {
+          "word": "carbonate",
+          "distance": 0.1428571428571429,
+          "synset": "carbonate.v.02"
+        },
+        {
+          "word": "camphorate",
+          "distance": 0.1428571428571429,
+          "synset": "camphorate.v.01"
+        },
+        {
+          "word": "bromate",
+          "distance": 0.1428571428571429,
+          "synset": "bromate.v.02"
+        },
+        {
+          "word": "ammoniate",
+          "distance": 0.1428571428571429,
+          "synset": "ammoniate.v.01"
+        },
+        {
+          "word": "irradiate",
+          "distance": 0.1428571428571429,
+          "synset": "irradiate.v.03"
+        },
+        {
+          "word": "scald",
+          "distance": 0.1428571428571429,
+          "synset": "scald.v.02"
+        },
+        {
+          "word": "refine",
+          "distance": 0.1428571428571429,
+          "synset": "refine.v.03"
+        },
+        {
+          "word": "nitrify",
+          "distance": 0.1428571428571429,
+          "synset": "nitrify.v.02"
+        },
+        {
+          "word": "reverberate",
+          "distance": 0.1428571428571429,
+          "synset": "reverberate.v.06"
+        },
+        {
+          "word": "curry",
+          "distance": 0.1428571428571429,
+          "synset": "curry.v.02"
+        }
+      ]
+    },
+    {
+      "synset": "treat.v.03",
+      "definition": "provide treatment for",
+      "synonyms": [
+        "care_for"
+      ],
+      "closest_words": [
+        "hyperventilate",
+        "massage",
+        "purge",
+        "correct",
+        "insufflate",
+        "detox",
+        "irrigate",
+        "iodize",
+        "doctor",
+        "vet",
+        "nurse",
+        "manipulate",
+        "administer",
+        "remedy",
+        "dress",
+        "splint",
+        "operate on",
+        "medicate",
+        "bleed",
+        "cup"
+      ],
+      "closest_words_info": [
+        {
+          "word": "hyperventilate",
+          "distance": 0.33333333333333337,
+          "synset": "hyperventilate.v.01"
+        },
+        {
+          "word": "massage",
+          "distance": 0.33333333333333337,
+          "synset": "massage.v.02"
+        },
+        {
+          "word": "purge",
+          "distance": 0.33333333333333337,
+          "synset": "purge.v.07"
+        },
+        {
+          "word": "correct",
+          "distance": 0.33333333333333337,
+          "synset": "correct.v.08"
+        },
+        {
+          "word": "insufflate",
+          "distance": 0.33333333333333337,
+          "synset": "insufflate.v.02"
+        },
+        {
+          "word": "detox",
+          "distance": 0.33333333333333337,
+          "synset": "detox.v.01"
+        },
+        {
+          "word": "irrigate",
+          "distance": 0.33333333333333337,
+          "synset": "irrigate.v.02"
+        },
+        {
+          "word": "iodize",
+          "distance": 0.33333333333333337,
+          "synset": "iodize.v.02"
+        },
+        {
+          "word": "doctor",
+          "distance": 0.33333333333333337,
+          "synset": "doctor.v.02"
+        },
+        {
+          "word": "vet",
+          "distance": 0.33333333333333337,
+          "synset": "vet.v.03"
+        },
+        {
+          "word": "nurse",
+          "distance": 0.33333333333333337,
+          "synset": "nurse.v.01"
+        },
+        {
+          "word": "manipulate",
+          "distance": 0.33333333333333337,
+          "synset": "manipulate.v.06"
+        },
+        {
+          "word": "administer",
+          "distance": 0.33333333333333337,
+          "synset": "administer.v.04"
+        },
+        {
+          "word": "remedy",
+          "distance": 0.33333333333333337,
+          "synset": "remedy.v.02"
+        },
+        {
+          "word": "dress",
+          "distance": 0.33333333333333337,
+          "synset": "dress.v.14"
+        },
+        {
+          "word": "splint",
+          "distance": 0.33333333333333337,
+          "synset": "splint.v.01"
+        },
+        {
+          "word": "operate on",
+          "distance": 0.33333333333333337,
+          "synset": "operate_on.v.01"
+        },
+        {
+          "word": "medicate",
+          "distance": 0.33333333333333337,
+          "synset": "medicate.v.02"
+        },
+        {
+          "word": "bleed",
+          "distance": 0.33333333333333337,
+          "synset": "bleed.v.02"
+        },
+        {
+          "word": "cup",
+          "distance": 0.33333333333333337,
+          "synset": "cup.v.03"
+        }
+      ]
+    }
+  ],
+  "Treatment": [
+    {
+      "synset": "treatment.n.01",
+      "definition": "care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)",
+      "synonyms": [
+        "intervention"
+      ],
+      "closest_words": [
+        "medical care",
+        "massage",
+        "modality",
+        "detoxification",
+        "chiropractic",
+        "fomentation",
+        "naturopathy",
+        "naprapathy",
+        "orthodontic treatment",
+        "orthoptics",
+        "osteopathy",
+        "osteoclasis",
+        "acupuncture",
+        "acupressure",
+        "autogenic therapy",
+        "hydropathy",
+        "rest-cure",
+        "care",
+        "rubdown",
+        "primary care"
+      ],
+      "closest_words_info": [
+        {
+          "word": "medical care",
+          "distance": 0.052631578947368474,
+          "synset": "medical_care.n.01"
+        },
+        {
+          "word": "massage",
+          "distance": 0.052631578947368474,
+          "synset": "massage.n.01"
+        },
+        {
+          "word": "modality",
+          "distance": 0.052631578947368474,
+          "synset": "modality.n.04"
+        },
+        {
+          "word": "detoxification",
+          "distance": 0.052631578947368474,
+          "synset": "detoxification.n.01"
+        },
+        {
+          "word": "chiropractic",
+          "distance": 0.052631578947368474,
+          "synset": "chiropractic.n.01"
+        },
+        {
+          "word": "fomentation",
+          "distance": 0.052631578947368474,
+          "synset": "fomentation.n.02"
+        },
+        {
+          "word": "naturopathy",
+          "distance": 0.052631578947368474,
+          "synset": "naturopathy.n.01"
+        },
+        {
+          "word": "naprapathy",
+          "distance": 0.052631578947368474,
+          "synset": "naprapathy.n.01"
+        },
+        {
+          "word": "orthodontic treatment",
+          "distance": 0.052631578947368474,
+          "synset": "orthodontic_treatment.n.01"
+        },
+        {
+          "word": "orthoptics",
+          "distance": 0.052631578947368474,
+          "synset": "orthoptics.n.01"
+        },
+        {
+          "word": "osteopathy",
+          "distance": 0.052631578947368474,
+          "synset": "osteopathy.n.01"
+        },
+        {
+          "word": "osteoclasis",
+          "distance": 0.052631578947368474,
+          "synset": "osteoclasis.n.01"
+        },
+        {
+          "word": "acupuncture",
+          "distance": 0.052631578947368474,
+          "synset": "acupuncture.n.01"
+        },
+        {
+          "word": "acupressure",
+          "distance": 0.052631578947368474,
+          "synset": "acupressure.n.01"
+        },
+        {
+          "word": "autogenic therapy",
+          "distance": 0.052631578947368474,
+          "synset": "autogenic_therapy.n.01"
+        },
+        {
+          "word": "hydropathy",
+          "distance": 0.052631578947368474,
+          "synset": "hydropathy.n.01"
+        },
+        {
+          "word": "rest-cure",
+          "distance": 0.052631578947368474,
+          "synset": "rest-cure.n.01"
+        },
+        {
+          "word": "care",
+          "distance": 0.05882352941176472,
+          "synset": "care.n.01"
+        },
+        {
+          "word": "rubdown",
+          "distance": 0.09999999999999998,
+          "synset": "rubdown.n.01"
+        },
+        {
+          "word": "primary care",
+          "distance": 0.09999999999999998,
+          "synset": "primary_care.n.01"
+        }
+      ]
+    }
+  ],
+  "Hospital": [
+    {
+      "synset": "hospital.n.01",
+      "definition": "a health facility where patients receive treatment",
+      "synonyms": [
+        "infirmary"
+      ],
+      "closest_words": [
+        "creche",
+        "lazaretto",
+        "maternity hospital",
+        "mental hospital",
+        "military hospital",
+        "sanatorium",
+        "medical building",
+        "Bedlam",
+        "field hospital",
+        "clinic",
+        "building",
+        "dispensary",
+        "abattoir",
+        "apartment building",
+        "architecture",
+        "aviary",
+        "bathhouse",
+        "bowling alley",
+        "center",
+        "chapterhouse"
+      ],
+      "closest_words_info": [
+        {
+          "word": "creche",
+          "distance": 0.052631578947368474,
+          "synset": "creche.n.01"
+        },
+        {
+          "word": "lazaretto",
+          "distance": 0.052631578947368474,
+          "synset": "lazaretto.n.01"
+        },
+        {
+          "word": "maternity hospital",
+          "distance": 0.052631578947368474,
+          "synset": "maternity_hospital.n.01"
+        },
+        {
+          "word": "mental hospital",
+          "distance": 0.052631578947368474,
+          "synset": "mental_hospital.n.01"
+        },
+        {
+          "word": "military hospital",
+          "distance": 0.052631578947368474,
+          "synset": "military_hospital.n.01"
+        },
+        {
+          "word": "sanatorium",
+          "distance": 0.052631578947368474,
+          "synset": "sanatorium.n.01"
+        },
+        {
+          "word": "medical building",
+          "distance": 0.05882352941176472,
+          "synset": "medical_building.n.01"
+        },
+        {
+          "word": "Bedlam",
+          "distance": 0.09999999999999998,
+          "synset": "bedlam.n.02"
+        },
+        {
+          "word": "field hospital",
+          "distance": 0.09999999999999998,
+          "synset": "field_hospital.n.01"
+        },
+        {
+          "word": "clinic",
+          "distance": 0.11111111111111116,
+          "synset": "clinic.n.03"
+        },
+        {
+          "word": "building",
+          "distance": 0.125,
+          "synset": "building.n.01"
+        },
+        {
+          "word": "dispensary",
+          "distance": 0.1578947368421053,
+          "synset": "dispensary.n.01"
+        },
+        {
+          "word": "abattoir",
+          "distance": 0.17647058823529416,
+          "synset": "abattoir.n.01"
+        },
+        {
+          "word": "apartment building",
+          "distance": 0.17647058823529416,
+          "synset": "apartment_building.n.01"
+        },
+        {
+          "word": "architecture",
+          "distance": 0.17647058823529416,
+          "synset": "architecture.n.01"
+        },
+        {
+          "word": "aviary",
+          "distance": 0.17647058823529416,
+          "synset": "aviary.n.01"
+        },
+        {
+          "word": "bathhouse",
+          "distance": 0.17647058823529416,
+          "synset": "bathhouse.n.01"
+        },
+        {
+          "word": "bowling alley",
+          "distance": 0.17647058823529416,
+          "synset": "bowling_alley.n.01"
+        },
+        {
+          "word": "center",
+          "distance": 0.17647058823529416,
+          "synset": "center.n.03"
+        },
+        {
+          "word": "chapterhouse",
+          "distance": 0.17647058823529416,
+          "synset": "chapterhouse.n.01"
+        }
+      ]
+    }
+  ],
+  "Medical": [
+    {
+      "synset": "checkup.n.01",
+      "definition": "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person",
+      "synonyms": [
+        "checkup",
+        "medical_checkup",
+        "medical_examination",
+        "medical_exam",
+        "health_check"
+      ],
+      "closest_words": [
+        "examination",
+        "audit",
+        "autopsy",
+        "comparison",
+        "fine-tooth comb",
+        "follow-up",
+        "going-over",
+        "once-over",
+        "ophthalmoscopy",
+        "palpation",
+        "endoscopy",
+        "gonioscopy",
+        "keratoscopy",
+        "rhinoscopy",
+        "scan",
+        "search",
+        "survey",
+        "testing",
+        "time and motion study",
+        "inspection"
+      ],
+      "closest_words_info": [
+        {
+          "word": "examination",
+          "distance": 0.052631578947368474,
+          "synset": "examination.n.01"
+        },
+        {
+          "word": "audit",
+          "distance": 0.09999999999999998,
+          "synset": "audit.n.02"
+        },
+        {
+          "word": "autopsy",
+          "distance": 0.09999999999999998,
+          "synset": "autopsy.n.01"
+        },
+        {
+          "word": "comparison",
+          "distance": 0.09999999999999998,
+          "synset": "comparison.n.01"
+        },
+        {
+          "word": "fine-tooth comb",
+          "distance": 0.09999999999999998,
+          "synset": "fine-tooth_comb.n.02"
+        },
+        {
+          "word": "follow-up",
+          "distance": 0.09999999999999998,
+          "synset": "follow-up.n.03"
+        },
+        {
+          "word": "going-over",
+          "distance": 0.09999999999999998,
+          "synset": "going-over.n.01"
+        },
+        {
+          "word": "once-over",
+          "distance": 0.09999999999999998,
+          "synset": "once-over.n.01"
+        },
+        {
+          "word": "ophthalmoscopy",
+          "distance": 0.09999999999999998,
+          "synset": "ophthalmoscopy.n.01"
+        },
+        {
+          "word": "palpation",
+          "distance": 0.09999999999999998,
+          "synset": "palpation.n.01"
+        },
+        {
+          "word": "endoscopy",
+          "distance": 0.09999999999999998,
+          "synset": "endoscopy.n.01"
+        },
+        {
+          "word": "gonioscopy",
+          "distance": 0.09999999999999998,
+          "synset": "gonioscopy.n.01"
+        },
+        {
+          "word": "keratoscopy",
+          "distance": 0.09999999999999998,
+          "synset": "keratoscopy.n.01"
+        },
+        {
+          "word": "rhinoscopy",
+          "distance": 0.09999999999999998,
+          "synset": "rhinoscopy.n.01"
+        },
+        {
+          "word": "scan",
+          "distance": 0.09999999999999998,
+          "synset": "scan.n.01"
+        },
+        {
+          "word": "search",
+          "distance": 0.09999999999999998,
+          "synset": "search.n.05"
+        },
+        {
+          "word": "survey",
+          "distance": 0.09999999999999998,
+          "synset": "survey.n.01"
+        },
+        {
+          "word": "testing",
+          "distance": 0.09999999999999998,
+          "synset": "testing.n.02"
+        },
+        {
+          "word": "time and motion study",
+          "distance": 0.09999999999999998,
+          "synset": "time_and_motion_study.n.01"
+        },
+        {
+          "word": "inspection",
+          "distance": 0.09999999999999998,
+          "synset": "inspection.n.01"
+        }
+      ]
+    }
+  ],
+  "Physio": [],
+  "Injection": [
+    {
+      "synset": "injection.n.01",
+      "definition": "the forceful insertion of a substance under pressure",
+      "synonyms": [],
+      "closest_words": [
+        "epidural injection",
+        "insertion",
+        "cannulation",
+        "instillation",
+        "enclosure",
+        "transfusion",
+        "perfusion",
+        "movement",
+        "packing",
+        "encasement",
+        "infusion",
+        "exchange transfusion",
+        "displacement",
+        "transportation",
+        "lowering",
+        "transplant",
+        "troop movement",
+        "change",
+        "bundling",
+        "transshipment"
+      ],
+      "closest_words_info": [
+        {
+          "word": "epidural injection",
+          "distance": 0.04761904761904767,
+          "synset": "epidural_injection.n.01"
+        },
+        {
+          "word": "insertion",
+          "distance": 0.052631578947368474,
+          "synset": "insertion.n.02"
+        },
+        {
+          "word": "cannulation",
+          "distance": 0.09999999999999998,
+          "synset": "cannulation.n.01"
+        },
+        {
+          "word": "instillation",
+          "distance": 0.09999999999999998,
+          "synset": "instillation.n.01"
+        },
+        {
+          "word": "enclosure",
+          "distance": 0.09999999999999998,
+          "synset": "enclosure.n.02"
+        },
+        {
+          "word": "transfusion",
+          "distance": 0.09999999999999998,
+          "synset": "transfusion.n.01"
+        },
+        {
+          "word": "perfusion",
+          "distance": 0.09999999999999998,
+          "synset": "perfusion.n.01"
+        },
+        {
+          "word": "movement",
+          "distance": 0.11111111111111116,
+          "synset": "movement.n.11"
+        },
+        {
+          "word": "packing",
+          "distance": 0.1428571428571429,
+          "synset": "packing.n.02"
+        },
+        {
+          "word": "encasement",
+          "distance": 0.1428571428571429,
+          "synset": "encasement.n.01"
+        },
+        {
+          "word": "infusion",
+          "distance": 0.1428571428571429,
+          "synset": "infusion.n.03"
+        },
+        {
+          "word": "exchange transfusion",
+          "distance": 0.1428571428571429,
+          "synset": "exchange_transfusion.n.01"
+        },
+        {
+          "word": "displacement",
+          "distance": 0.1578947368421053,
+          "synset": "displacement.n.06"
+        },
+        {
+          "word": "transportation",
+          "distance": 0.1578947368421053,
+          "synset": "transportation.n.02"
+        },
+        {
+          "word": "lowering",
+          "distance": 0.1578947368421053,
+          "synset": "lowering.n.02"
+        },
+        {
+          "word": "transplant",
+          "distance": 0.1578947368421053,
+          "synset": "transplant.n.03"
+        },
+        {
+          "word": "troop movement",
+          "distance": 0.1578947368421053,
+          "synset": "troop_movement.n.01"
+        },
+        {
+          "word": "change",
+          "distance": 0.17647058823529416,
+          "synset": "change.n.03"
+        },
+        {
+          "word": "bundling",
+          "distance": 0.18181818181818177,
+          "synset": "bundling.n.02"
+        },
+        {
+          "word": "transshipment",
+          "distance": 0.19999999999999996,
+          "synset": "transshipment.n.01"
+        }
+      ]
+    },
+    {
+      "synset": "injection.n.03",
+      "definition": "the act of putting a liquid into the body by means of a syringe",
+      "synonyms": [
+        "shot"
+      ],
+      "closest_words": [
+        "intradermal injection",
+        "intramuscular injection",
+        "intravenous injection",
+        "subcutaneous injection",
+        "medical care",
+        "fix",
+        "primary care",
+        "aftercare",
+        "hospitalization",
+        "therapy",
+        "nursing care",
+        "irrigation",
+        "dressing",
+        "holistic medicine",
+        "hospice",
+        "bloodletting",
+        "defibrillation",
+        "detoxification",
+        "disinfection",
+        "digitalization"
+      ],
+      "closest_words_info": [
+        {
+          "word": "intradermal injection",
+          "distance": 0.04347826086956519,
+          "synset": "intradermal_injection.n.01"
+        },
+        {
+          "word": "intramuscular injection",
+          "distance": 0.04347826086956519,
+          "synset": "intramuscular_injection.n.01"
+        },
+        {
+          "word": "intravenous injection",
+          "distance": 0.04347826086956519,
+          "synset": "intravenous_injection.n.01"
+        },
+        {
+          "word": "subcutaneous injection",
+          "distance": 0.04347826086956519,
+          "synset": "subcutaneous_injection.n.01"
+        },
+        {
+          "word": "medical care",
+          "distance": 0.04761904761904767,
+          "synset": "medical_care.n.01"
+        },
+        {
+          "word": "fix",
+          "distance": 0.08333333333333337,
+          "synset": "fix.n.02"
+        },
+        {
+          "word": "primary care",
+          "distance": 0.09090909090909094,
+          "synset": "primary_care.n.01"
+        },
+        {
+          "word": "aftercare",
+          "distance": 0.09090909090909094,
+          "synset": "aftercare.n.01"
+        },
+        {
+          "word": "hospitalization",
+          "distance": 0.09090909090909094,
+          "synset": "hospitalization.n.04"
+        },
+        {
+          "word": "therapy",
+          "distance": 0.09090909090909094,
+          "synset": "therapy.n.01"
+        },
+        {
+          "word": "nursing care",
+          "distance": 0.09090909090909094,
+          "synset": "nursing_care.n.01"
+        },
+        {
+          "word": "irrigation",
+          "distance": 0.09090909090909094,
+          "synset": "irrigation.n.02"
+        },
+        {
+          "word": "dressing",
+          "distance": 0.09090909090909094,
+          "synset": "dressing.n.07"
+        },
+        {
+          "word": "holistic medicine",
+          "distance": 0.09090909090909094,
+          "synset": "holistic_medicine.n.01"
+        },
+        {
+          "word": "hospice",
+          "distance": 0.09090909090909094,
+          "synset": "hospice.n.02"
+        },
+        {
+          "word": "bloodletting",
+          "distance": 0.09090909090909094,
+          "synset": "bloodletting.n.01"
+        },
+        {
+          "word": "defibrillation",
+          "distance": 0.09090909090909094,
+          "synset": "defibrillation.n.01"
+        },
+        {
+          "word": "detoxification",
+          "distance": 0.09090909090909094,
+          "synset": "detoxification.n.02"
+        },
+        {
+          "word": "disinfection",
+          "distance": 0.09090909090909094,
+          "synset": "disinfection.n.01"
+        },
+        {
+          "word": "digitalization",
+          "distance": 0.09090909090909094,
+          "synset": "digitalization.n.01"
+        }
+      ]
+    }
+  ],
+  "Surgery": [
+    {
+      "synset": "surgery.n.01",
+      "definition": "the branch of medical science that treats disease or injury by operative procedures",
+      "synonyms": [],
+      "closest_words": [
+        "medical science",
+        "medicine",
+        "pathology",
+        "radiology",
+        "serology",
+        "orthopedics",
+        "neurology",
+        "life science",
+        "allergology",
+        "anesthesiology",
+        "angiology",
+        "bacteriology",
+        "biomedicine",
+        "biomedicine",
+        "cardiology",
+        "dentistry",
+        "prosthetics",
+        "dermatology",
+        "emergency medicine",
+        "endocrinology"
+      ],
+      "closest_words_info": [
+        {
+          "word": "medical science",
+          "distance": 0.04347826086956519,
+          "synset": "medical_science.n.01"
+        },
+        {
+          "word": "medicine",
+          "distance": 0.08333333333333337,
+          "synset": "medicine.n.01"
+        },
+        {
+          "word": "pathology",
+          "distance": 0.08333333333333337,
+          "synset": "pathology.n.01"
+        },
+        {
+          "word": "radiology",
+          "distance": 0.08333333333333337,
+          "synset": "radiology.n.01"
+        },
+        {
+          "word": "serology",
+          "distance": 0.08333333333333337,
+          "synset": "serology.n.01"
+        },
+        {
+          "word": "orthopedics",
+          "distance": 0.08333333333333337,
+          "synset": "orthopedics.n.01"
+        },
+        {
+          "word": "neurology",
+          "distance": 0.08333333333333337,
+          "synset": "neurology.n.01"
+        },
+        {
+          "word": "life science",
+          "distance": 0.09090909090909094,
+          "synset": "life_science.n.01"
+        },
+        {
+          "word": "allergology",
+          "distance": 0.12,
+          "synset": "allergology.n.01"
+        },
+        {
+          "word": "anesthesiology",
+          "distance": 0.12,
+          "synset": "anesthesiology.n.01"
+        },
+        {
+          "word": "angiology",
+          "distance": 0.12,
+          "synset": "angiology.n.01"
+        },
+        {
+          "word": "bacteriology",
+          "distance": 0.12,
+          "synset": "bacteriology.n.01"
+        },
+        {
+          "word": "biomedicine",
+          "distance": 0.12,
+          "synset": "biomedicine.n.02"
+        },
+        {
+          "word": "biomedicine",
+          "distance": 0.12,
+          "synset": "biomedicine.n.01"
+        },
+        {
+          "word": "cardiology",
+          "distance": 0.12,
+          "synset": "cardiology.n.01"
+        },
+        {
+          "word": "dentistry",
+          "distance": 0.12,
+          "synset": "dentistry.n.01"
+        },
+        {
+          "word": "prosthetics",
+          "distance": 0.12,
+          "synset": "prosthetics.n.01"
+        },
+        {
+          "word": "dermatology",
+          "distance": 0.12,
+          "synset": "dermatology.n.01"
+        },
+        {
+          "word": "emergency medicine",
+          "distance": 0.12,
+          "synset": "emergency_medicine.n.01"
+        },
+        {
+          "word": "endocrinology",
+          "distance": 0.12,
+          "synset": "endocrinology.n.01"
+        }
+      ]
+    }
+  ],
+  "Operation": [
+    {
+      "synset": "operation.n.06",
+      "definition": "a medical procedure involving an incision with instruments; performed to repair damage or arrest disease in a living body",
+      "synonyms": [
+        "surgery",
+        "surgical_operation",
+        "surgical_procedure",
+        "surgical_process"
+      ],
+      "closest_words": [
+        "catheterization",
+        "ablation",
+        "amputation",
+        "angioplasty",
+        "arthroplasty",
+        "arthroscopy",
+        "brain surgery",
+        "castration",
+        "cautery",
+        "chemosurgery",
+        "craniotomy",
+        "cryosurgery",
+        "curettage",
+        "debridement",
+        "decortication",
+        "dilation and curettage",
+        "electrosurgery",
+        "enterostomy",
+        "enucleation",
+        "wrong-site surgery"
+      ],
+      "closest_words_info": [
+        {
+          "word": "catheterization",
+          "distance": 0.052631578947368474,
+          "synset": "catheterization.n.01"
+        },
+        {
+          "word": "ablation",
+          "distance": 0.052631578947368474,
+          "synset": "ablation.n.01"
+        },
+        {
+          "word": "amputation",
+          "distance": 0.052631578947368474,
+          "synset": "amputation.n.02"
+        },
+        {
+          "word": "angioplasty",
+          "distance": 0.052631578947368474,
+          "synset": "angioplasty.n.01"
+        },
+        {
+          "word": "arthroplasty",
+          "distance": 0.052631578947368474,
+          "synset": "arthroplasty.n.01"
+        },
+        {
+          "word": "arthroscopy",
+          "distance": 0.052631578947368474,
+          "synset": "arthroscopy.n.01"
+        },
+        {
+          "word": "brain surgery",
+          "distance": 0.052631578947368474,
+          "synset": "brain_surgery.n.01"
+        },
+        {
+          "word": "castration",
+          "distance": 0.052631578947368474,
+          "synset": "castration.n.02"
+        },
+        {
+          "word": "cautery",
+          "distance": 0.052631578947368474,
+          "synset": "cautery.n.02"
+        },
+        {
+          "word": "chemosurgery",
+          "distance": 0.052631578947368474,
+          "synset": "chemosurgery.n.01"
+        },
+        {
+          "word": "craniotomy",
+          "distance": 0.052631578947368474,
+          "synset": "craniotomy.n.01"
+        },
+        {
+          "word": "cryosurgery",
+          "distance": 0.052631578947368474,
+          "synset": "cryosurgery.n.01"
+        },
+        {
+          "word": "curettage",
+          "distance": 0.052631578947368474,
+          "synset": "curettage.n.01"
+        },
+        {
+          "word": "debridement",
+          "distance": 0.052631578947368474,
+          "synset": "debridement.n.01"
+        },
+        {
+          "word": "decortication",
+          "distance": 0.052631578947368474,
+          "synset": "decortication.n.01"
+        },
+        {
+          "word": "dilation and curettage",
+          "distance": 0.052631578947368474,
+          "synset": "dilation_and_curettage.n.01"
+        },
+        {
+          "word": "electrosurgery",
+          "distance": 0.052631578947368474,
+          "synset": "electrosurgery.n.01"
+        },
+        {
+          "word": "enterostomy",
+          "distance": 0.052631578947368474,
+          "synset": "enterostomy.n.01"
+        },
+        {
+          "word": "enucleation",
+          "distance": 0.052631578947368474,
+          "synset": "enucleation.n.01"
+        },
+        {
+          "word": "wrong-site surgery",
+          "distance": 0.052631578947368474,
+          "synset": "wrong-site_surgery.n.01"
+        }
+      ]
+    }
+  ],
+  "Tender": [
+    {
+      "synset": "tender.v.04",
+      "definition": "make tender or more tender as by marinating, pounding, or applying a tenderizer",
+      "synonyms": [
+        "tenderize",
+        "tenderise"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.6,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.6,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.6,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.6,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.6,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.6,
+          "synset": "fracture.v.05"
+        }
+      ]
+    },
+    {
+      "synset": "tender.a.06",
+      "definition": "physically untoughened",
+      "synonyms": [
+        "untoughened"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "Medication": [
+    {
+      "synset": "medicine.n.02",
+      "definition": "(medicine) something that treats or prevents or alleviates the symptoms of disease",
+      "synonyms": [
+        "medicine",
+        "medicament",
+        "medicinal_drug"
+      ],
+      "closest_words": [
+        "acyclovir",
+        "alendronate",
+        "allopurinol",
+        "amrinone",
+        "analgesic",
+        "angiogenesis inhibitor",
+        "antiarrhythmic",
+        "antibacterial",
+        "anticholinergic",
+        "anticholinesterase",
+        "anticoagulant",
+        "anticonvulsant",
+        "antidepressant",
+        "antidiabetic",
+        "antidiarrheal",
+        "antidiuretic",
+        "antiemetic",
+        "antihistamine",
+        "antihypertensive",
+        "anti-inflammatory"
+      ],
+      "closest_words_info": [
+        {
+          "word": "acyclovir",
+          "distance": 0.06666666666666665,
+          "synset": "acyclovir.n.01"
+        },
+        {
+          "word": "alendronate",
+          "distance": 0.06666666666666665,
+          "synset": "alendronate.n.01"
+        },
+        {
+          "word": "allopurinol",
+          "distance": 0.06666666666666665,
+          "synset": "allopurinol.n.01"
+        },
+        {
+          "word": "amrinone",
+          "distance": 0.06666666666666665,
+          "synset": "amrinone.n.01"
+        },
+        {
+          "word": "analgesic",
+          "distance": 0.06666666666666665,
+          "synset": "analgesic.n.01"
+        },
+        {
+          "word": "angiogenesis inhibitor",
+          "distance": 0.06666666666666665,
+          "synset": "angiogenesis_inhibitor.n.01"
+        },
+        {
+          "word": "antiarrhythmic",
+          "distance": 0.06666666666666665,
+          "synset": "antiarrhythmic.n.01"
+        },
+        {
+          "word": "antibacterial",
+          "distance": 0.06666666666666665,
+          "synset": "antibacterial.n.01"
+        },
+        {
+          "word": "anticholinergic",
+          "distance": 0.06666666666666665,
+          "synset": "anticholinergic.n.01"
+        },
+        {
+          "word": "anticholinesterase",
+          "distance": 0.06666666666666665,
+          "synset": "anticholinesterase.n.01"
+        },
+        {
+          "word": "anticoagulant",
+          "distance": 0.06666666666666665,
+          "synset": "anticoagulant.n.01"
+        },
+        {
+          "word": "anticonvulsant",
+          "distance": 0.06666666666666665,
+          "synset": "anticonvulsant.n.01"
+        },
+        {
+          "word": "antidepressant",
+          "distance": 0.06666666666666665,
+          "synset": "antidepressant.n.01"
+        },
+        {
+          "word": "antidiabetic",
+          "distance": 0.06666666666666665,
+          "synset": "antidiabetic.n.01"
+        },
+        {
+          "word": "antidiarrheal",
+          "distance": 0.06666666666666665,
+          "synset": "antidiarrheal.n.01"
+        },
+        {
+          "word": "antidiuretic",
+          "distance": 0.06666666666666665,
+          "synset": "antidiuretic.n.01"
+        },
+        {
+          "word": "antiemetic",
+          "distance": 0.06666666666666665,
+          "synset": "antiemetic.n.01"
+        },
+        {
+          "word": "antihistamine",
+          "distance": 0.06666666666666665,
+          "synset": "antihistamine.n.01"
+        },
+        {
+          "word": "antihypertensive",
+          "distance": 0.06666666666666665,
+          "synset": "antihypertensive.n.01"
+        },
+        {
+          "word": "anti-inflammatory",
+          "distance": 0.06666666666666665,
+          "synset": "anti-inflammatory.n.01"
+        }
+      ]
+    }
+  ],
+  "Pills": [
+    {
+      "synset": "pill.n.01",
+      "definition": "something that resembles a tablet of medicine in shape or size",
+      "synonyms": [
+        "pill"
+      ],
+      "closest_words": [
+        "vitamin pill",
+        "thing",
+        "multivitamin",
+        "flagship",
+        "snorter",
+        "standby",
+        "variation",
+        "wobbler",
+        "artifact",
+        "bastard",
+        "article",
+        "facility",
+        "Americana",
+        "anachronism",
+        "antiquity",
+        "block",
+        "button",
+        "commodity",
+        "cone",
+        "covering"
+      ],
+      "closest_words_info": [
+        {
+          "word": "vitamin pill",
+          "distance": 0.06666666666666665,
+          "synset": "vitamin_pill.n.01"
+        },
+        {
+          "word": "thing",
+          "distance": 0.07692307692307687,
+          "synset": "thing.n.04"
+        },
+        {
+          "word": "multivitamin",
+          "distance": 0.125,
+          "synset": "multivitamin.n.01"
+        },
+        {
+          "word": "flagship",
+          "distance": 0.1428571428571429,
+          "synset": "flagship.n.01"
+        },
+        {
+          "word": "snorter",
+          "distance": 0.1428571428571429,
+          "synset": "snorter.n.03"
+        },
+        {
+          "word": "standby",
+          "distance": 0.1428571428571429,
+          "synset": "standby.n.01"
+        },
+        {
+          "word": "variation",
+          "distance": 0.1428571428571429,
+          "synset": "variation.n.05"
+        },
+        {
+          "word": "wobbler",
+          "distance": 0.1428571428571429,
+          "synset": "wobbler.n.01"
+        },
+        {
+          "word": "artifact",
+          "distance": 0.16666666666666663,
+          "synset": "artifact.n.01"
+        },
+        {
+          "word": "bastard",
+          "distance": 0.19999999999999996,
+          "synset": "bastard.n.03"
+        },
+        {
+          "word": "article",
+          "distance": 0.23076923076923073,
+          "synset": "article.n.02"
+        },
+        {
+          "word": "facility",
+          "distance": 0.23076923076923073,
+          "synset": "facility.n.04"
+        },
+        {
+          "word": "Americana",
+          "distance": 0.23076923076923073,
+          "synset": "americana.n.01"
+        },
+        {
+          "word": "anachronism",
+          "distance": 0.23076923076923073,
+          "synset": "anachronism.n.02"
+        },
+        {
+          "word": "antiquity",
+          "distance": 0.23076923076923073,
+          "synset": "antiquity.n.03"
+        },
+        {
+          "word": "block",
+          "distance": 0.23076923076923073,
+          "synset": "block.n.01"
+        },
+        {
+          "word": "button",
+          "distance": 0.23076923076923073,
+          "synset": "button.n.07"
+        },
+        {
+          "word": "commodity",
+          "distance": 0.23076923076923073,
+          "synset": "commodity.n.01"
+        },
+        {
+          "word": "cone",
+          "distance": 0.23076923076923073,
+          "synset": "cone.n.01"
+        },
+        {
+          "word": "covering",
+          "distance": 0.23076923076923073,
+          "synset": "covering.n.02"
+        }
+      ]
+    },
+    {
+      "synset": "pill.n.02",
+      "definition": "a dose of medicine in the form of a small pellet",
+      "synonyms": [
+        "pill",
+        "lozenge",
+        "tablet",
+        "tab"
+      ],
+      "closest_words": [
+        "bolus",
+        "capsule",
+        "dragee",
+        "sleeping pill",
+        "dose",
+        "booster",
+        "draft",
+        "hit",
+        "lethal dose",
+        "medicine",
+        "acyclovir",
+        "alendronate",
+        "allopurinol",
+        "amrinone",
+        "analgesic",
+        "angiogenesis inhibitor",
+        "antiarrhythmic",
+        "antibacterial",
+        "anticholinergic",
+        "anticholinesterase"
+      ],
+      "closest_words_info": [
+        {
+          "word": "bolus",
+          "distance": 0.052631578947368474,
+          "synset": "bolus.n.02"
+        },
+        {
+          "word": "capsule",
+          "distance": 0.052631578947368474,
+          "synset": "capsule.n.02"
+        },
+        {
+          "word": "dragee",
+          "distance": 0.052631578947368474,
+          "synset": "dragee.n.03"
+        },
+        {
+          "word": "sleeping pill",
+          "distance": 0.052631578947368474,
+          "synset": "sleeping_pill.n.01"
+        },
+        {
+          "word": "dose",
+          "distance": 0.05882352941176472,
+          "synset": "dose.n.01"
+        },
+        {
+          "word": "booster",
+          "distance": 0.11111111111111116,
+          "synset": "booster.n.06"
+        },
+        {
+          "word": "draft",
+          "distance": 0.11111111111111116,
+          "synset": "draft.n.08"
+        },
+        {
+          "word": "hit",
+          "distance": 0.11111111111111116,
+          "synset": "hit.n.05"
+        },
+        {
+          "word": "lethal dose",
+          "distance": 0.11111111111111116,
+          "synset": "lethal_dose.n.01"
+        },
+        {
+          "word": "medicine",
+          "distance": 0.125,
+          "synset": "medicine.n.02"
+        },
+        {
+          "word": "acyclovir",
+          "distance": 0.17647058823529416,
+          "synset": "acyclovir.n.01"
+        },
+        {
+          "word": "alendronate",
+          "distance": 0.17647058823529416,
+          "synset": "alendronate.n.01"
+        },
+        {
+          "word": "allopurinol",
+          "distance": 0.17647058823529416,
+          "synset": "allopurinol.n.01"
+        },
+        {
+          "word": "amrinone",
+          "distance": 0.17647058823529416,
+          "synset": "amrinone.n.01"
+        },
+        {
+          "word": "analgesic",
+          "distance": 0.17647058823529416,
+          "synset": "analgesic.n.01"
+        },
+        {
+          "word": "angiogenesis inhibitor",
+          "distance": 0.17647058823529416,
+          "synset": "angiogenesis_inhibitor.n.01"
+        },
+        {
+          "word": "antiarrhythmic",
+          "distance": 0.17647058823529416,
+          "synset": "antiarrhythmic.n.01"
+        },
+        {
+          "word": "antibacterial",
+          "distance": 0.17647058823529416,
+          "synset": "antibacterial.n.01"
+        },
+        {
+          "word": "anticholinergic",
+          "distance": 0.17647058823529416,
+          "synset": "anticholinergic.n.01"
+        },
+        {
+          "word": "anticholinesterase",
+          "distance": 0.17647058823529416,
+          "synset": "anticholinesterase.n.01"
+        }
+      ]
+    }
+  ],
+  "Blood_test": [
+    {
+      "synset": "blood_test.n.01",
+      "definition": "N/A",
+      "synonyms": [],
+      "closest_words": [],
+      "closest_words_info": []
+    }
+  ],
+  "Vein": [
+    {
+      "synset": "vein.n.01",
+      "definition": "N/A",
+      "synonyms": [],
+      "closest_words": [],
+      "closest_words_info": []
+    }
+  ],
+  "Numbing": [
+    {
+      "synset": "numb.v.01",
+      "definition": "make numb or insensitive",
+      "synonyms": [
+        "numb",
+        "benumb",
+        "blunt",
+        "dull"
+      ],
+      "closest_words": [
+        "desensitize",
+        "stun",
+        "besot",
+        "deafen",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag"
+      ],
+      "closest_words_info": [
+        {
+          "word": "desensitize",
+          "distance": 0.19999999999999996,
+          "synset": "desensitize.v.01"
+        },
+        {
+          "word": "stun",
+          "distance": 0.33333333333333337,
+          "synset": "stun.v.03"
+        },
+        {
+          "word": "besot",
+          "distance": 0.33333333333333337,
+          "synset": "besot.v.01"
+        },
+        {
+          "word": "deafen",
+          "distance": 0.33333333333333337,
+          "synset": "deafen.v.02"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6666666666666667,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6666666666666667,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6666666666666667,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6666666666666667,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6666666666666667,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6666666666666667,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6666666666666667,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6666666666666667,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6666666666666667,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6666666666666667,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6666666666666667,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6666666666666667,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6666666666666667,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6666666666666667,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6666666666666667,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.6666666666666667,
+          "synset": "gag.v.07"
+        }
+      ]
+    }
+  ],
+  "Consultation": [
+    {
+      "synset": "consultation.n.01",
+      "definition": "a conference (usually with someone important)",
+      "synonyms": [
+        "audience",
+        "interview"
+      ],
+      "closest_words": [
+        "conference",
+        "bull session",
+        "colloquy",
+        "consultation",
+        "huddle",
+        "press conference",
+        "pretrial",
+        "round table",
+        "session",
+        "teach-in",
+        "teleconference",
+        "discussion",
+        "sidebar",
+        "backgrounder",
+        "sitting",
+        "clinic",
+        "executive session",
+        "hearing",
+        "skull session",
+        "special session"
+      ],
+      "closest_words_info": [
+        {
+          "word": "conference",
+          "distance": 0.06666666666666665,
+          "synset": "conference.n.03"
+        },
+        {
+          "word": "bull session",
+          "distance": 0.125,
+          "synset": "bull_session.n.01"
+        },
+        {
+          "word": "colloquy",
+          "distance": 0.125,
+          "synset": "colloquy.n.01"
+        },
+        {
+          "word": "consultation",
+          "distance": 0.125,
+          "synset": "consultation.n.02"
+        },
+        {
+          "word": "huddle",
+          "distance": 0.125,
+          "synset": "huddle.n.01"
+        },
+        {
+          "word": "press conference",
+          "distance": 0.125,
+          "synset": "press_conference.n.01"
+        },
+        {
+          "word": "pretrial",
+          "distance": 0.125,
+          "synset": "pretrial.n.01"
+        },
+        {
+          "word": "round table",
+          "distance": 0.125,
+          "synset": "round_table.n.01"
+        },
+        {
+          "word": "session",
+          "distance": 0.125,
+          "synset": "session.n.01"
+        },
+        {
+          "word": "teach-in",
+          "distance": 0.125,
+          "synset": "teach-in.n.01"
+        },
+        {
+          "word": "teleconference",
+          "distance": 0.125,
+          "synset": "teleconference.n.01"
+        },
+        {
+          "word": "discussion",
+          "distance": 0.1428571428571429,
+          "synset": "discussion.n.02"
+        },
+        {
+          "word": "sidebar",
+          "distance": 0.17647058823529416,
+          "synset": "sidebar.n.01"
+        },
+        {
+          "word": "backgrounder",
+          "distance": 0.17647058823529416,
+          "synset": "backgrounder.n.01"
+        },
+        {
+          "word": "sitting",
+          "distance": 0.17647058823529416,
+          "synset": "sitting.n.04"
+        },
+        {
+          "word": "clinic",
+          "distance": 0.17647058823529416,
+          "synset": "clinic.n.02"
+        },
+        {
+          "word": "executive session",
+          "distance": 0.17647058823529416,
+          "synset": "executive_session.n.01"
+        },
+        {
+          "word": "hearing",
+          "distance": 0.17647058823529416,
+          "synset": "hearing.n.05"
+        },
+        {
+          "word": "skull session",
+          "distance": 0.17647058823529416,
+          "synset": "skull_session.n.01"
+        },
+        {
+          "word": "special session",
+          "distance": 0.17647058823529416,
+          "synset": "special_session.n.01"
+        }
+      ]
+    }
+  ],
+  "Consult": [
+    {
+      "synset": "consult.v.01",
+      "definition": "get or ask advice from",
+      "synonyms": [
+        "confer_with"
+      ],
+      "closest_words": [
+        "ask",
+        "pry",
+        "communicate",
+        "grimace",
+        "yak",
+        "fingerspell",
+        "aphorize",
+        "riddle",
+        "project",
+        "reach",
+        "inflict",
+        "commune",
+        "telecommunicate",
+        "inform",
+        "joke",
+        "blog",
+        "greet",
+        "address",
+        "nod",
+        "sign"
+      ],
+      "closest_words_info": [
+        {
+          "word": "ask",
+          "distance": 0.11111111111111116,
+          "synset": "ask.v.01"
+        },
+        {
+          "word": "pry",
+          "distance": 0.19999999999999996,
+          "synset": "pry.v.02"
+        },
+        {
+          "word": "communicate",
+          "distance": 0.25,
+          "synset": "communicate.v.02"
+        },
+        {
+          "word": "grimace",
+          "distance": 0.33333333333333337,
+          "synset": "grimace.v.01"
+        },
+        {
+          "word": "yak",
+          "distance": 0.33333333333333337,
+          "synset": "yak.v.01"
+        },
+        {
+          "word": "fingerspell",
+          "distance": 0.33333333333333337,
+          "synset": "fingerspell.v.01"
+        },
+        {
+          "word": "aphorize",
+          "distance": 0.33333333333333337,
+          "synset": "aphorize.v.01"
+        },
+        {
+          "word": "riddle",
+          "distance": 0.33333333333333337,
+          "synset": "riddle.v.05"
+        },
+        {
+          "word": "project",
+          "distance": 0.33333333333333337,
+          "synset": "project.v.01"
+        },
+        {
+          "word": "reach",
+          "distance": 0.33333333333333337,
+          "synset": "reach.v.04"
+        },
+        {
+          "word": "inflict",
+          "distance": 0.33333333333333337,
+          "synset": "inflict.v.01"
+        },
+        {
+          "word": "commune",
+          "distance": 0.33333333333333337,
+          "synset": "commune.v.01"
+        },
+        {
+          "word": "telecommunicate",
+          "distance": 0.33333333333333337,
+          "synset": "telecommunicate.v.01"
+        },
+        {
+          "word": "inform",
+          "distance": 0.33333333333333337,
+          "synset": "inform.v.01"
+        },
+        {
+          "word": "joke",
+          "distance": 0.33333333333333337,
+          "synset": "joke.v.01"
+        },
+        {
+          "word": "blog",
+          "distance": 0.33333333333333337,
+          "synset": "blog.v.01"
+        },
+        {
+          "word": "greet",
+          "distance": 0.33333333333333337,
+          "synset": "greet.v.02"
+        },
+        {
+          "word": "address",
+          "distance": 0.33333333333333337,
+          "synset": "address.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.33333333333333337,
+          "synset": "nod.v.02"
+        },
+        {
+          "word": "sign",
+          "distance": 0.33333333333333337,
+          "synset": "sign.v.07"
+        }
+      ]
+    }
+  ],
+  "Palpate": [
+    {
+      "synset": "palpate.v.01",
+      "definition": "examine (a body part) by palpation",
+      "synonyms": [
+        "feel"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.6,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.6,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.6,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.6,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.6,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.6,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "Ointment": [
+    {
+      "synset": "ointment.n.01",
+      "definition": "semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation",
+      "synonyms": [
+        "unction",
+        "unguent",
+        "balm",
+        "salve"
+      ],
+      "closest_words": [
+        "arnica",
+        "baby oil",
+        "balsam",
+        "carron oil",
+        "cerate",
+        "chrism",
+        "lip balm",
+        "mentholated salve",
+        "mercurial ointment",
+        "zinc ointment",
+        "remedy",
+        "camphor ice",
+        "acoustic",
+        "antidote",
+        "emetic",
+        "lenitive",
+        "lotion",
+        "magic bullet",
+        "palliative",
+        "panacea"
+      ],
+      "closest_words_info": [
+        {
+          "word": "arnica",
+          "distance": 0.052631578947368474,
+          "synset": "arnica.n.03"
+        },
+        {
+          "word": "baby oil",
+          "distance": 0.052631578947368474,
+          "synset": "baby_oil.n.01"
+        },
+        {
+          "word": "balsam",
+          "distance": 0.052631578947368474,
+          "synset": "balsam.n.03"
+        },
+        {
+          "word": "carron oil",
+          "distance": 0.052631578947368474,
+          "synset": "carron_oil.n.01"
+        },
+        {
+          "word": "cerate",
+          "distance": 0.052631578947368474,
+          "synset": "cerate.n.01"
+        },
+        {
+          "word": "chrism",
+          "distance": 0.052631578947368474,
+          "synset": "chrism.n.01"
+        },
+        {
+          "word": "lip balm",
+          "distance": 0.052631578947368474,
+          "synset": "lip_balm.n.01"
+        },
+        {
+          "word": "mentholated salve",
+          "distance": 0.052631578947368474,
+          "synset": "mentholated_salve.n.01"
+        },
+        {
+          "word": "mercurial ointment",
+          "distance": 0.052631578947368474,
+          "synset": "mercurial_ointment.n.01"
+        },
+        {
+          "word": "zinc ointment",
+          "distance": 0.052631578947368474,
+          "synset": "zinc_ointment.n.01"
+        },
+        {
+          "word": "remedy",
+          "distance": 0.05882352941176472,
+          "synset": "remedy.n.02"
+        },
+        {
+          "word": "camphor ice",
+          "distance": 0.09999999999999998,
+          "synset": "camphor_ice.n.01"
+        },
+        {
+          "word": "acoustic",
+          "distance": 0.11111111111111116,
+          "synset": "acoustic.n.01"
+        },
+        {
+          "word": "antidote",
+          "distance": 0.11111111111111116,
+          "synset": "antidote.n.01"
+        },
+        {
+          "word": "emetic",
+          "distance": 0.11111111111111116,
+          "synset": "emetic.n.01"
+        },
+        {
+          "word": "lenitive",
+          "distance": 0.11111111111111116,
+          "synset": "lenitive.n.01"
+        },
+        {
+          "word": "lotion",
+          "distance": 0.11111111111111116,
+          "synset": "lotion.n.02"
+        },
+        {
+          "word": "magic bullet",
+          "distance": 0.11111111111111116,
+          "synset": "magic_bullet.n.01"
+        },
+        {
+          "word": "palliative",
+          "distance": 0.11111111111111116,
+          "synset": "palliative.n.01"
+        },
+        {
+          "word": "panacea",
+          "distance": 0.11111111111111116,
+          "synset": "panacea.n.02"
+        }
+      ]
+    }
+  ]
+}

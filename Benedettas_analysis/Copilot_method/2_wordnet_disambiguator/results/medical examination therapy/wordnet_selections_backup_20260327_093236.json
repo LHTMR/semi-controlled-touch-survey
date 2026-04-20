@@ -1,0 +1,55 @@
+{
+  "Doctor": [
+    "doctor.n.01"
+  ],
+  "Check": [
+    "check.n.01"
+  ],
+  "Chekup": null,
+  "Therapist": [
+    "therapist.n.01"
+  ],
+  "Massage": [
+    "massage.n.01"
+  ],
+  "Pressure": [
+    "pressure.n.01"
+  ],
+  "Examination": [
+    "examination.n.01"
+  ],
+  "Exam": [
+    "examination.n.02"
+  ],
+  "Press": [
+    "press.n.09",
+    "press.v.01"
+  ],
+  "Therapy": [
+    "therapy.n.01"
+  ],
+  "Nurse": [
+    "nurse.n.01"
+  ],
+  "Test": [
+    "trial.n.02",
+    "examination.n.02"
+  ],
+  "Appointment": [
+    "date.n.03"
+  ],
+  "Treat": [
+    "process.v.01",
+    "treat.v.03"
+  ],
+  "Treatment": [
+    "treatment.n.01"
+  ],
+  "Hospital": [
+    "hospital.n.01"
+  ],
+  "Medical": [
+    "checkup.n.01"
+  ],
+  "Physio": null
+}

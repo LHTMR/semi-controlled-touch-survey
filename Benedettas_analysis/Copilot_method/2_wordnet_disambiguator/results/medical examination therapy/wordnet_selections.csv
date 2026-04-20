@@ -1,0 +1,38 @@
+word,synset,definition,synonyms
+Doctor,doctor.n.01,a licensed medical practitioner,"doc, physician, MD, Dr., medico"
+Check,check.n.01,a written order directing a bank to pay money,"bank_check, cheque"
+Chekup,N/A,N/A,N/A
+Therapist,therapist.n.01,a person skilled in a particular type of therapy,healer
+Massage,massage.n.01,kneading and rubbing parts of the body to increase circulation and promote relaxation,N/A
+Pressure,pressure.n.01,the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit),"pressure_level, force_per_unit_area"
+Examination,examination.n.01,the act of examining something closely (as for mistakes),scrutiny
+Exam,examination.n.02,a set of questions or exercises evaluating skill or knowledge,"examination, test"
+Press,press.n.09,the act of pressing; the exertion of pressure,"pressure, pressing"
+Press,press.v.01,exert pressure or force to or upon,N/A
+Therapy,therapy.n.01,(medicine) the act of caring for someone (as by medication or remedial training etc.),N/A
+Nurse,nurse.n.01,one skilled in caring for young children or the sick (usually under the supervision of a physician),N/A
+Test,trial.n.02,trying something to find out about it,"trial, trial_run, tryout"
+Test,examination.n.02,a set of questions or exercises evaluating skill or knowledge,"examination, exam"
+Appointment,date.n.03,a meeting arranged in advance,"date, engagement"
+Treat,process.v.01,"subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition",process
+Treat,treat.v.03,provide treatment for,care_for
+Treatment,treatment.n.01,care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury),intervention
+Hospital,hospital.n.01,a health facility where patients receive treatment,infirmary
+Medical,checkup.n.01,a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person,"checkup, medical_checkup, medical_examination, medical_exam, health_check"
+Physio,N/A,N/A,N/A
+Injection,injection.n.01,the forceful insertion of a substance under pressure,N/A
+Injection,injection.n.03,the act of putting a liquid into the body by means of a syringe,shot
+Surgery,surgery.n.01,the branch of medical science that treats disease or injury by operative procedures,N/A
+Operation,operation.n.06,a medical procedure involving an incision with instruments; performed to repair damage or arrest disease in a living body,"surgery, surgical_operation, surgical_procedure, surgical_process"
+Tender,tender.v.04,"make tender or more tender as by marinating, pounding, or applying a tenderizer","tenderize, tenderise"
+Tender,tender.a.06,physically untoughened,untoughened
+Medication,medicine.n.02,(medicine) something that treats or prevents or alleviates the symptoms of disease,"medicine, medicament, medicinal_drug"
+Pills,pill.n.01,something that resembles a tablet of medicine in shape or size,pill
+Pills,pill.n.02,a dose of medicine in the form of a small pellet,"pill, lozenge, tablet, tab"
+Blood_test,blood_test.n.01,N/A,N/A
+Vein,vein.n.01,N/A,N/A
+Numbing,numb.v.01,make numb or insensitive,"numb, benumb, blunt, dull"
+Consultation,consultation.n.01,a conference (usually with someone important),"audience, interview"
+Consult,consult.v.01,get or ask advice from,confer_with
+Palpate,palpate.v.01,examine (a body part) by palpation,feel
+Ointment,ointment.n.01,semisolid preparation (usually containing a medicine) applied externally as a remedy or for soothing an irritation,"unction, unguent, balm, salve"

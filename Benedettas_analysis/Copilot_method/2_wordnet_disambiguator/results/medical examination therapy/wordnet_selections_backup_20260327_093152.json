@@ -1,0 +1,34 @@
+{
+  "Doctor": [
+    "doctor.n.01"
+  ],
+  "Check": [
+    "check.n.01"
+  ],
+  "Chekup": null,
+  "Therapist": [
+    "therapist.n.01"
+  ],
+  "Massage": [
+    "massage.n.01"
+  ],
+  "Pressure": [
+    "pressure.n.01"
+  ],
+  "Examination": [
+    "examination.n.01"
+  ],
+  "Exam": [
+    "examination.n.02"
+  ],
+  "Press": [
+    "press.n.09",
+    "press.v.01"
+  ],
+  "Therapy": [
+    "therapy.n.01"
+  ],
+  "Nurse": [
+    "nurse.n.01"
+  ]
+}
