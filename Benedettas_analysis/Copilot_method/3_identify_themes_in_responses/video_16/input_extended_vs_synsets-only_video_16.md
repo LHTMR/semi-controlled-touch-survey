@@ -1,8 +1,7 @@
 # Step 3 video 16 
-Using the scripts "step3_one_video_extended" and "step3_one_video_synset_only" for extended and synset-only respectively, I gave the inputs reported below. 
-The input files were taken from the "results" folder, which contains the files genrated by running "wordnet_multiple_definiton.py". 
+The same scripts used for video 7 ("step3_one_video_extended.py" and "step3_one_video_synset_only.py", found in the "video_7" folder) were used for video 16, using the inputs reported below. 
+The input files were taken from the "results" folder in Step 2, which contains the files genrated by running "wordnet_multiple_definiton.py". 
 The extended script used synsets and closest words, while the synset-only script used synsets alone.
-
 
 # Extended input for themes 
 python step3_one_video_extended.py --results-root "Results" --excel-file "touch_data_video_16_social_context.xlsx" --only-themes "Affection closeness" --out-detailed "step3_detailed_affection.csv" --out-summary "step3_summary_affection.csv"
