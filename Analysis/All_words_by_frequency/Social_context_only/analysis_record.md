@@ -14,6 +14,12 @@ Executed from the root of the directory:
 python3 Analysis/Scripts/all_words_extractor.py 'Processed Data/touch_data_fixed.psv.txt' --count-participants --format csv --text-columns "Social_context"
 ```
 
+Second run after manually fixing the dictionary:
+
+```bash
+python3 Analysis/Scripts/all_words_extractor.py 'Processed Data/touch_data_fixed.psv.txt' --count-participants --format csv --text-columns "Social_context" --use-grouping-dict Analysis/All_words_by_frequency/word_grouping_dict_edited.json
+```
+
 
 ### Execution logs
 
@@ -158,3 +164,137 @@ Output files created:
 
 ```
 
+
+Second run:
+
+```text
+
+============================================================
+All Words Extractor
+============================================================
+Parsed text columns: ['Social_context']
+Using specified format: csv (bypassing automatic detection)
+Checking NLTK data availability...
+✓ punkt is available
+✓ punkt_tab is available
+✓ stopwords is available
+Downloading wordnet...
+[nltk_data] Downloading package wordnet to ${HOME}/nltk_data...
+[nltk_data]   Package wordnet is already up-to-date!
+✓ wordnet downloaded successfully
+Loading spaCy model for enhanced negation detection...
+✓ Loaded spaCy model: en_core_web_sm
+✓ spaCy model loaded and ready for enhanced negation detection
+
+Processing file 1/1: Processed Data/touch_data_fixed.psv.txt
+Loading file: Processed Data/touch_data_fixed.psv.txt
+  Using specified format: csv (bypassing detection)
+  Detected delimiter ''|'' with 23 columns
+  Detected format: csv with params: {'delimiter': '|'}
+  Loaded 2837 rows, 23 columns
+  Columns: ['ResponseID', 'Touch No.', 'Social_self', 'Social_body', 'Social_place', 'Social_context', 'Intention&Purpose', 'Appropriateness', 'Sensory', 'Valence&Arousal_x', 'Valence&Arousal_y', 'Emotional_self', 'Emotional_touch', 'Continue', 'Input', 'Valence', 'Arousal', 'Type', 'Contact', 'Direction', 'Speed (cm/s)', 'Force', 'Touch_desc']
+✓ All specified columns found: ['Social_context']
+
+  Final text columns to process: ['Social_context']
+  Total rows in dataframe: 2837
+
+  Analyzing text from column 1/1: 'Social_context'
+    Conversion method: primary (fillna + astype(str))
+    Non-empty values: 2828/2837 (0.3% empty)
+    Average text length: 49.2 characters
+
+  Extraction summary:
+    Successfully extracted from 1/1 columns
+    Total text entries: 2837
+      ✓ Social_context: 2828 non-empty, 9 empty (primary (fillna + astype(str)))
+
+  Removed 9 completely empty entries (0.3% of total)
+
+  Final text count: 2828 non-empty text entries
+  ✓ Extracted 2828 text entries from Processed Data/touch_data_fixed.psv.txt
+
+Total text entries: 2828
+
+Extracting words...
+  Processed 1000/2828 entries
+  Processed 2000/2828 entries
+    ⚠️  Text filtered to empty: 'N/a...' -> spaCy tokens: ['n']
+Extracted 25488 raw words (simple splitting)
+Extracted 2828 raw words after deduplication per document
+Extracted 13566 processed words (with spaCy if available)
+Extracted 2828 processed words after deduplication per document
+Unique raw words: 2596
+Unique processed words: 2419
+
+Calculating participant (document) frequencies...
+✓ Saved word counts to word_frequencies_raw.csv
+✓ Saved words to word_list_raw.txt
+  Statistics for 'raw':
+    Total unique words: 2,596
+    Total occurrences: 23,989
+    Average frequency: 9.24
+    Top 5 words: my, is, me, to, and
+
+Removing stopwords from processed words...
+  Removed 40 stopwords (including negative forms)
+  Remaining words: 2379
+Loading grouping dictionary from Analysis/All_words_by_frequency/word_grouping_dict_edited.json...
+  Loaded 3915 word groups
+Applying existing grouping dictionary...
+  Applied grouping to 2379 words, creating 1941 groups
+✓ Saved word counts to word_frequencies_filtered.csv
+✓ Saved words to word_list_filtered.txt
+  Statistics for 'filtered':
+    Total unique words: 1,941
+    Total occurrences: 10,980
+    Average frequency: 5.66
+    Top 5 words: watching, touching, trying, attention, arm
+Saved grouped word counts to word_frequencies_grouped.csv
+  Total groups: 1941
+  Total words: 2379
+Note: Not saving new grouping dictionary because using existing one from Analysis/All_words_by_frequency/word_grouping_dict_edited.json
+Creating tree visualization...
+
+Saved tree visualization to word_frequencies_tree.txt
+
+============================================================
+Tree Visualization Preview:
+============================================================
+Word Frequency Tree
+==================================================
+
+watching (227)
+    ├── watching (224, 98.7%)
+    ├── whatching (1, 0.4%)
+    ├── wathcing (1, 0.4%)
+    └── wathing (1, 0.4%)
+touching (225)
+    ├── touching (223, 99.1%)
+    ├── touuching (1, 0.4%)
+    └── tuching (1, 0.4%)
+trying (213)
+    ├── trying (210, 98.6%)
+    ├── triyng (1, 0.5%)
+    ├── tryng (1, 0.5%)
+    └── tying (1, 0.5%)
+attention (207)
+    ├── attention (206, 99.5%)
+    └── attencion (1, 0.5%)
+... (see full tree in output file)
+
+============================================================
+Analysis Complete!
+============================================================
+Processed 1 file(s)
+Total raw words (simple splitting): 25488
+Total processed words (with spaCy): 13566
+Unique raw words: 2596
+Unique processed words: 2419
+Words after stopword removal (before grouping): 2379
+Words after grouping and aggregation: 1941
+Total occurrences after aggregation: 10980
+Word groups loaded from: Analysis/All_words_by_frequency/word_grouping_dict_edited.json
+Word groups applied: 1941
+
+Output files created:
+```

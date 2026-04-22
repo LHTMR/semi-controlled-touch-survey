@@ -1,0 +1,13213 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-24T11:20:00.782997",
+    "total_groups": 3915,
+    "total_variants": 5361,
+    "grouping_configuration": {
+      "max_edit_distance": 2,
+      "similarity_threshold": 0.8,
+      "use_lemmatization": true,
+      "min_frequency_threshold": 0
+    },
+    "notes": [
+      "This dictionary maps main words to their detected variants (typos, spelling variations, etc.)",
+      "For human review: check if variants should really be grouped together",
+      "After review, this can be used as a custom transformation dictionary",
+      "Structure: {main_word: [variant1, variant2, ...]}",
+      "To use: replace all variants with their main_word in text processing"
+    ]
+  },
+  "transformation_dictionary": {
+    "arm": [
+      "arm",
+      "arms"
+    ],
+    "feel": [
+      "feel",
+      "feels"
+    ],
+    "home": [
+      "home",
+      "homey",
+      "homes"
+    ],
+    "touch": [
+      "touch",
+      "touches",
+      "touchy",
+      "touchs",
+      "toutch",
+      "tousch",
+      "toch",
+      "tuch",
+      "thouch"
+    ],
+    "friend": [
+      "friend",
+      "friends",
+      "frienfd",
+      "friennd",
+      "freinds",
+      "fried"
+    ],
+    "attention": [
+      "attention",
+      "atention",
+      "attento",
+      "attencion",
+      "atttention",
+      "attaention",
+      "attentipn",
+      "attentiont",
+      "attenzione",
+      "attnetion",
+      "attentions",
+      "atencion"
+    ],
+    "rubbing": [
+      "rubbing",
+      "rubing",
+      "rubbingn",
+      "arabbing",
+      "rubbinng"
+    ],
+    "gentle": [
+      "gentle",
+      "genlte",
+      "gnetle",
+      "gengle"
+    ],
+    "hand": [
+      "hand",
+      "hands"
+    ],
+    "warm": [
+      "warm",
+      "warms"
+    ],
+    "partner": [
+      "partner",
+      "partnerka",
+      "patner",
+      "partners",
+      "partener",
+      "parner",
+      "patrner",
+      "partnet",
+      "parter"
+    ],
+    "soft": [
+      "soft"
+    ],
+    "comforting": [
+      "comforting",
+      "conforting",
+      "comfortng",
+      "comforitng",
+      "cormfoting",
+      "comfirting",
+      "comfortnig"
+    ],
+    "comfortable": [
+      "comfortable",
+      "uncomfortable",
+      "confortable",
+      "comfortably",
+      "comftable",
+      "camfortable",
+      "confortabl"
+    ],
+    "trying": [
+      "trying",
+      "tyring",
+      "triyng",
+      "tryng",
+      "tying"
+    ],
+    "love": [
+      "love",
+      "loved",
+      "loves",
+      "lover"
+    ],
+    "tapping": [
+      "tapping",
+      "taping",
+      "tapiing",
+      "tapping9"
+    ],
+    "shoulder": [
+      "shoulder",
+      "shoulders",
+      "shouder",
+      "sholuder"
+    ],
+    "calming": [
+      "calming",
+      "calmimg",
+      "carming",
+      "claming"
+    ],
+    "comfort": [
+      "comfort",
+      "comforted",
+      "confort",
+      "comforts",
+      "comfore",
+      "uncomfort",
+      "conforts",
+      "cofort",
+      "comfored"
+    ],
+    "affection": [
+      "affection",
+      "affetion",
+      "affenction",
+      "affecrion"
+    ],
+    "romantic": [
+      "romantic",
+      "romatic",
+      "romntico",
+      "romanico",
+      "romanric",
+      "rimantic",
+      "romantuc",
+      "romanti"
+    ],
+    "wants": [
+      "wants",
+      "want",
+      "wanting"
+    ],
+    "touching": [
+      "touching",
+      "touuching",
+      "tuching"
+    ],
+    "person": [
+      "person",
+      "personal",
+      "persons",
+      "persona",
+      "peron",
+      "persoon",
+      "perso"
+    ],
+    "calm": [
+      "calm",
+      "calms",
+      "calmy",
+      "calmo",
+      "calmer",
+      "calmed"
+    ],
+    "stroking": [
+      "stroking",
+      "strocking",
+      "pstroking",
+      "stroling",
+      "srroking",
+      "troking",
+      "stoking"
+    ],
+    "annoying": [
+      "annoying",
+      "annoyingly",
+      "anooying"
+    ],
+    "pleasant": [
+      "pleasant",
+      "unpleasant",
+      "pleasent",
+      "plesent",
+      "pleasantly"
+    ],
+    "forearm": [
+      "forearm",
+      "forarm",
+      "forearms"
+    ],
+    "patting": [
+      "patting",
+      "petting",
+      "pattings"
+    ],
+    "watching": [
+      "watching",
+      "whatching",
+      "wathcing",
+      "wathing"
+    ],
+    "smooth": [
+      "smooth",
+      "smoothly",
+      "smoothing"
+    ],
+    "pressing": [
+      "pressing",
+      "presing"
+    ],
+    "family": [
+      "family",
+      "familly",
+      "faily",
+      "famili",
+      "familiy"
+    ],
+    "sitting": [
+      "sitting",
+      "sifting",
+      "siiting",
+      "siting",
+      "seeting"
+    ],
+    "settling": [
+      "settling"
+    ],
+    "light": [
+      "light"
+    ],
+    "like": [
+      "like",
+      "likes"
+    ],
+    "poking": [
+      "poking",
+      "pocking",
+      "pokking"
+    ],
+    "talking": [
+      "talking",
+      "talkin",
+      "taliking"
+    ],
+    "relaxing": [
+      "relaxing"
+    ],
+    "member": [
+      "member",
+      "members"
+    ],
+    "child": [
+      "child",
+      "children",
+      "chilld",
+      "chid"
+    ],
+    "room": [
+      "room",
+      "rooms"
+    ],
+    "calmness": [
+      "calmness",
+      "calmeness",
+      "colmness"
+    ],
+    "soothing": [
+      "soothing"
+    ],
+    "office": [
+      "office",
+      "offfice"
+    ],
+    "loving": [
+      "loving",
+      "lovingly"
+    ],
+    "work": [
+      "work",
+      "workk"
+    ],
+    "sofa": [
+      "sofa",
+      "soffa"
+    ],
+    "delicate": [
+      "delicate",
+      "delicato",
+      "delicated"
+    ],
+    "way": [
+      "way",
+      "ways"
+    ],
+    "empathy": [
+      "empathy",
+      "empathic",
+      "emapthy",
+      "emphaty"
+    ],
+    "leg": [
+      "leg",
+      "legs"
+    ],
+    "house": [
+      "house",
+      "houses"
+    ],
+    "doctor": [
+      "doctor",
+      "doctors",
+      "doctot"
+    ],
+    "fast": [
+      "fast"
+    ],
+    "would": [
+      "would"
+    ],
+    "intention": [
+      "intention",
+      "intentions",
+      "intentional",
+      "intentioned",
+      "intenion",
+      "intension",
+      "intetions"
+    ],
+    "intense": [
+      "intense",
+      "intensive",
+      "intenso",
+      "intensly",
+      "intente",
+      "intsense",
+      "intensely"
+    ],
+    "makes": [
+      "makes"
+    ],
+    "consistent": [
+      "consistent",
+      "consistency",
+      "consistently",
+      "consisten"
+    ],
+    "colleague": [
+      "colleague",
+      "colleagues",
+      "collegue",
+      "colleage",
+      "collegues",
+      "collgue",
+      "colleaue",
+      "colleaque",
+      "collugue"
+    ],
+    "college": [
+      "college"
+    ],
+    "annoyed": [
+      "annoyed",
+      "annoyted"
+    ],
+    "bonding": [
+      "bonding",
+      "bonging",
+      "bondding"
+    ],
+    "stranger": [
+      "stranger",
+      "strange",
+      "strangers",
+      "stragner",
+      "stramger"
+    ],
+    "rhythmic": [
+      "rhythmic",
+      "rhytmic",
+      "rythmic",
+      "rhythm",
+      "rhythimc",
+      "rythimic",
+      "rithmic"
+    ],
+    "bedroom": [
+      "bedroom",
+      "beedroom",
+      "bedrrom",
+      "bedrolm"
+    ],
+    "tender": [
+      "tender",
+      "tenderly"
+    ],
+    "connection": [
+      "connection",
+      "connecting",
+      "connective",
+      "connections"
+    ],
+    "feeling": [
+      "feeling",
+      "feelings"
+    ],
+    "persistent": [
+      "persistent",
+      "persistant",
+      "persistence",
+      "persistente",
+      "persisted",
+      "persitant",
+      "persisten",
+      "persistently"
+    ],
+    "care": [
+      "care",
+      "cared",
+      "cares"
+    ],
+    "slow": [
+      "slow",
+      "slowed"
+    ],
+    "chilled": [
+      "chilled"
+    ],
+    "upper": [
+      "upper",
+      "uper"
+    ],
+    "tense": [
+      "tense",
+      "tensed",
+      "tens"
+    ],
+    "firm": [
+      "firm",
+      "firme",
+      "firmy"
+    ],
+    "intimate": [
+      "intimate",
+      "initiate",
+      "intimately",
+      "itimate"
+    ],
+    "adoration": [
+      "adoration",
+      "_adoration"
+    ],
+    "cold": [
+      "cold"
+    ],
+    "bed": [
+      "bed"
+    ],
+    "happy": [
+      "happy"
+    ],
+    "safe": [
+      "safe",
+      "safer"
+    ],
+    "tv": [
+      "tv"
+    ],
+    "firing": [
+      "firing"
+    ],
+    "girlfriend": [
+      "girlfriend",
+      "girlfirend",
+      "girlfrient",
+      "girlfiriend"
+    ],
+    "enjoyable": [
+      "enjoyable",
+      "enjoyble",
+      "enjoiable",
+      "ejoyable",
+      "enjoyabke",
+      "enjoyabele"
+    ],
+    "irritating": [
+      "irritating",
+      "irritation",
+      "irritations",
+      "iritating",
+      "irritatting"
+    ],
+    "aggressive": [
+      "aggressive",
+      "aggresive",
+      "agressive",
+      "aggressively",
+      "aggression",
+      "argessive",
+      "aggressice"
+    ],
+    "trust": [
+      "trust",
+      "trustm"
+    ],
+    "tickling": [
+      "tickling",
+      "ticking",
+      "tickeling",
+      "tickiling"
+    ],
+    "sensual": [
+      "sensual",
+      "sansual",
+      "sensualm"
+    ],
+    "know": [
+      "know",
+      "knows",
+      "known"
+    ],
+    "curious": [
+      "curious",
+      "curios",
+      "causious",
+      "curiosa"
+    ],
+    "maybe": [
+      "maybe",
+      "mauybe",
+      "smaybe"
+    ],
+    "playing": [
+      "playing"
+    ],
+    "smack": [
+      "smack"
+    ],
+    "laying": [
+      "laying"
+    ],
+    "time": [
+      "time",
+      "times"
+    ],
+    "thigh": [
+      "thigh",
+      "thighs",
+      "tigh"
+    ],
+    "surprised": [
+      "surprised",
+      "suprised",
+      "surprise",
+      "suprise"
+    ],
+    "embracing": [
+      "embracing",
+      "embrasing",
+      "embrancing",
+      "enracing"
+    ],
+    "relaxed": [
+      "relaxed",
+      "relaxes"
+    ],
+    "making": [
+      "making"
+    ],
+    "good": [
+      "good"
+    ],
+    "head": [
+      "head",
+      "headz"
+    ],
+    "friction": [
+      "friction",
+      "friciton",
+      "frictio"
+    ],
+    "pressure": [
+      "pressure",
+      "presure",
+      "pressures",
+      "pressured"
+    ],
+    "couch": [
+      "couch"
+    ],
+    "husband": [
+      "husband",
+      "housband"
+    ],
+    "close": [
+      "close",
+      "closer",
+      "closed"
+    ],
+    "arousing": [
+      "arousing",
+      "rousing"
+    ],
+    "arguing":[
+      "arguing"
+    ],
+    "better": [
+      "better"
+    ],
+    "purposeful": [
+      "purposeful",
+      "purposefull",
+      "proposeful",
+      "puroposeful",
+      "unpurposeful",
+      "purposefulto"
+    ],
+    "showing": [
+      "showing"
+    ],
+    "face": [
+      "face"
+    ],
+    "mother": [
+      "mother",
+      "motherly",
+      "monther",
+      "mohter",
+      "mothers",
+      "mom"
+    ],
+    "bother": [
+      "bother",
+      "bothers"
+    ],
+    "alarming": [
+      "alarming",
+      "alerming"
+    ],
+    "finger": [
+      "finger",
+      "fingers",
+      "finnger",
+      "fingure"
+    ],
+    "movie": [
+      "movie",
+      "movies"
+    ],
+    "discomfort": [
+      "discomfort",
+      "discomforted",
+      "disconfort"
+    ],
+    "stress": [
+      "stress",
+      "stressed",
+      "stressing"
+    ],
+    "compassion": [
+      "compassion",
+      "compression",
+      "companion"
+    ],
+    "need": [
+      "need",
+      "needs",
+      "needy"
+    ],
+    "noticeable": [
+      "noticeable",
+      "noticable",
+      "noticebale",
+      "noticble"
+    ],
+    "support": [
+      "support",
+      "supported",
+      "supports",
+      "suport"
+    ],
+    "sweeping": [
+      "sweeping",
+      "sweeing"
+    ],
+    "seeping": [
+      "seeping"
+    ],
+    "swiping": [
+      "swiping"
+    ],
+    "sad": [
+      "sad"
+    ],
+    "seeing": [
+      "seeing"
+    ],
+    "public": [
+      "public",
+      "ppublic"
+    ],
+    "pubic": [
+      "pubic"
+    ],
+    "getting": [
+      "getting"
+    ],
+    "relief": [
+      "relief"
+    ],
+    "ask": [
+      "ask",
+      "asking"
+    ],
+    "nervous": [
+      "nervous",
+      "nervious",
+      "nervously",
+      "nerovus",
+      "nerveus",
+      "nerveous"
+    ],
+    "situation": [
+      "situation",
+      "situations",
+      "situational"
+    ],
+    "station": [
+      "station"
+    ],
+    "curiosity": [
+      "curiosity",
+      "curiousity",
+      "curosity"
+    ],
+    "kitchen": [
+      "kitchen"
+    ],
+    "boyfriend": [
+      "boyfriend",
+      "boyfiend",
+      "byofriend"
+    ],
+    "confident": [
+      "confident",
+      "confidence"
+    ],
+    "confidant": [
+      "confidant"
+    ],
+    "meaningful": [
+      "meaningful",
+      "meaningfull",
+      "meaniful",
+      "menaingful"
+    ],
+    "meaning": [
+      "meaning"
+    ],
+    "playful": [
+      "playful",
+      "playfully",
+      "playfull"
+    ],
+    "caring": [
+      "caring",
+      "carino",
+      "carring",
+      "uncaring"
+    ],
+    "curing": [
+      "curing"
+    ],
+    "skin": [
+      "skin"
+    ],
+    "happiness": [
+      "happiness",
+      "hapiness",
+      "happines"
+    ],
+    "therapist": [
+      "therapist",
+      "therapists"
+    ],
+    "nice": [
+      "nice"
+    ],
+    "rough": [
+      "rough",
+      "rought"
+    ],
+    "help": [
+      "help",
+      "helps"
+    ],
+    "hard": [
+      "hard"
+    ],
+    "belonging": [
+      "belonging",
+      "belongings"
+    ],
+    "longing": [
+      "longing"
+    ],
+    "street": [
+      "street",
+      "streets"
+    ],
+    "distracting": [
+      "distracting",
+      "distraction",
+      "disctracting"
+    ],
+    "repetitive": [
+      "repetitive",
+      "repetetive",
+      "repeatitive",
+      "repetative",
+      "repetition",
+      "repetitivie",
+      "repetitiva",
+      "repetitve",
+      "repetititve",
+      "repetitively"
+    ],
+    "pain": [
+      "pain"
+    ],
+    "paint": [
+      "paint"
+    ],
+    "outside": [
+      "outside"
+    ],
+    "affectionate": [
+      "affectionate",
+      "affectionately",
+      "affectionated"
+    ],
+    "localized": [
+      "localized",
+      "localised",
+      "lcalized"
+    ],
+    "irritable": [
+      "irritable",
+      "irritate"
+    ],
+    "sexy": [
+      "sexy"
+    ],
+    "caliente": [
+      "caliente"
+    ],
+    "annoy": [
+      "annoy"
+    ],
+    "conversation": [
+      "conversation",
+      "conversazione",
+      "conversacion"
+    ],
+    "professional": [
+      "professional",
+      "professionale",
+      "professionally",
+      "progessional",
+      "proffesional"
+    ],
+    "important": [
+      "important",
+      "importance",
+      "importante"
+    ],
+    "waiting": [
+      "waiting",
+      "wating"
+    ],
+    "waiter": [
+      "waiter"
+    ],
+    "video": [
+      "video",
+      "videos",
+      "vide"
+    ],
+    "neck": [
+      "neck"
+    ],
+    "try": [
+      "try",
+      "tries"
+    ],
+    "day": [
+      "day",
+      "days"
+    ],
+    "chilling": [
+      "chilling",
+      "chillung"
+    ],
+    "focused": [
+      "focused",
+      "focussed"
+    ],
+    "grab": [
+      "grab",
+      "grabs",
+      "grabb"
+    ],
+    "physical": [
+      "physical",
+      "physically",
+      "phisical",
+      "physicaly"
+    ],
+    "peacefulness": [
+      "peacefulness",
+      "peacefullness",
+      "peacufulness"
+    ],
+    "probably": [
+      "probably",
+      "propably",
+      "probablyt",
+      "probabl",
+      "probobly"
+    ],
+    "demanding": [
+      "demanding"
+    ],
+    "unsettling": [
+      "unsettling",
+      "unsetting"
+    ],
+    "setting": [
+      "setting"
+    ],
+    "pointy": [
+      "pointy",
+      "point",
+      "points",
+      "rpoint"
+    ],
+    "area": [
+      "area",
+      "areas"
+    ],
+    "place": [
+      "place",
+      "places",
+      "pace",
+      "placed"
+    ],
+    "emotional": [
+      "emotional",
+      "emotionally",
+      "emotions",
+      "emotion",
+      "unemotional"
+    ],
+    "sister": [
+      "sister",
+      "sisters"
+    ],
+    "creepy": [
+      "creepy",
+      "creeps",
+      "creapy",
+      "creppy",
+      "creekpy"
+    ],
+    "restaurant": [
+      "restaurant",
+      "resturant",
+      "restaurante",
+      "restaurar",
+      "reastaurant",
+      "restaurand",
+      "restuarant",
+      "restauran"
+    ],
+    "table": [
+      "table",
+      "tables"
+    ],
+    "able": [
+      "able"
+    ],
+    "bad": [
+      "bad"
+    ],
+    "going": [
+      "going"
+    ],
+    "physician": [
+      "physician"
+    ],
+    "erotic": [
+      "erotic",
+      "erotica"
+    ],
+    "irritated": [
+      "irritated",
+      "irritates",
+      "irriated"
+    ],
+    "pushing": [
+      "pushing"
+    ],
+    "connected": [
+      "connected",
+      "connect"
+    ],
+    "hugging": [
+      "hugging"
+    ],
+    "romance": [
+      "romance",
+      "romanced"
+    ],
+    "touched": [
+      "touched",
+      "toutches",
+      "touhches",
+      "toucher"
+    ],
+    "purpose": [
+      "purpose",
+      "purposes",
+      "purposely"
+    ],
+    "joy": [
+      "joy"
+    ],
+    "upset": [
+      "upset",
+      "upsetting"
+    ],
+    "clean": [
+      "clean"
+    ],
+    "acquaintance": [
+      "acquaintance",
+      "acquaintace",
+      "aquaintance",
+      "aquintance",
+      "acquintance",
+      "acqaintance"
+    ],
+    "tell": [
+      "tell",
+      "tells"
+    ],
+    "lower": [
+      "lower"
+    ],
+    "supper": [
+      "supper"
+    ],
+    "telling": [
+      "telling"
+    ],
+    "weird": [
+      "weird"
+    ],
+    "invasive": [
+      "invasive"
+    ],
+    "uninvasive": [
+      "uninvasive"
+    ],
+    "happened": [
+      "happened",
+      "happens",
+      "happen",
+      "happend"
+    ],
+    "caress": [
+      "caress",
+      "caresses",
+      "caressed",
+      "caressing",
+      "carecing",
+      "caresing"
+    ],
+    "careless": [
+      "careless"
+    ],
+    "class": [
+      "class",
+      "classes"
+    ],
+    "wrist": [
+      "wrist",
+      "wrists",
+      "wright"
+    ],
+    "talk": [
+      "talk",
+      "talks"
+    ],
+    "fluttering": [
+      "fluttering"
+    ],
+    "massage": [
+      "massage",
+      "massages",
+      "massaged",
+      "massager"
+    ],
+    "message": [
+      "message"
+    ],
+    "impatience": [
+      "impatience",
+      "impatient",
+      "unpatient"
+    ],
+    "patience": [
+      "patience"
+    ],
+    "left": [
+      "left"
+    ],
+    "vulnerable": [
+      "vulnerable",
+      "vulenerable"
+    ],
+    "wonder": [
+      "wonder",
+      "wondered",
+      "wondering"
+    ],
+    "cafe": [
+      "cafe",
+      "caffe"
+    ],
+    "melting": [
+      "melting",
+      "meltinh"
+    ],
+    "school": [
+      "school"
+    ],
+    "chest": [
+      "chest"
+    ],
+    "people": [
+      "people"
+    ],
+    "excitement": [
+      "excitement",
+      "excitment"
+    ],
+    "rub": [
+      "rub",
+      "rubs"
+    ],
+    "wanted": [
+      "wanted",
+      "waned"
+    ],
+    "unwanted": [
+      "unwanted"
+    ],
+    "check": [
+      "check",
+      "checks"
+    ],
+    "wake": [
+      "wake",
+      "awake",
+      "wakes",
+      "waking"
+    ],
+    "feathery": [
+      "feathery",
+      "faethery"
+    ],
+    "news": [
+      "news"
+    ],
+    "wife": [
+      "wife"
+    ],
+    "think": [
+      "think",
+      "thinks"
+    ],
+    "contact": [
+      "contact",
+      "contatto"
+    ],
+    "constant": [
+      "constant"
+    ],
+    "holding": [
+      "holding"
+    ],
+    "agitation": [
+      "agitation",
+      "agitacin",
+      "agitating"
+    ],
+    "compressing": [
+      "compressing",
+      "compressive",
+      "compressions",
+      "compessing"
+    ],
+    "starts": [
+      "starts",
+      "start"
+    ],
+    "uplifting": [
+      "uplifting",
+      "uplifiting",
+      "upplifting"
+    ],
+    "looks": [
+      "looks",
+      "look"
+    ],
+    "lifting": [
+      "lifting"
+    ],
+    "hair": [
+      "hair",
+      "hairs",
+      "hairy",
+      "vhair"
+    ],
+    "giving": [
+      "giving"
+    ],
+    "desire": [
+      "desire",
+      "desired"
+    ],
+    "parents": [
+      "parents",
+      "parent"
+    ],
+    "indifferent": [
+      "indifferent",
+      "indifference",
+      "different",
+      "indiferent"
+    ],
+    "exciting": [
+      "exciting"
+    ],
+    "park": [
+      "park"
+    ],
+    "provocative": [
+      "provocative",
+      "provocate"
+    ],
+    "horny": [
+      "horny",
+      "horney"
+    ],
+    "mechanical": [
+      "mechanical",
+      "mechannical",
+      "meccanical",
+      "mechanic"
+    ],
+    "moment": [
+      "moment",
+      "momment"
+    ],
+    "chair": [
+      "chair"
+    ],
+    "chance": [
+      "chance"
+    ],
+    "hospital": [
+      "hospital",
+      "hosptial"
+    ],
+    "distressing": [
+      "distressing",
+      "disstresing",
+      "distresssing"
+    ],
+    "amusement": [
+      "amusement",
+      "amusment",
+      "musement"
+    ],
+    "play": [
+      "play",
+      "plays"
+    ],
+    "aroused": [
+      "aroused",
+      "arouse"
+    ],
+    "relieve": [
+      "relieved",
+      "relieve",
+      "relived",
+      "relive",
+      "relieves",
+      "releave"
+    ],
+    "let": [
+      "let",
+      "lets",
+      "letting"
+    ],
+    "shop": [
+      "shop",
+      "shops",
+      "shopping"
+    ],
+    "understand": [
+      "understand",
+      "understood",
+      "understands",
+      "understanded"
+    ],
+    "body": [
+      "body"
+    ],
+    "caf": [
+      "caf"
+    ],
+    "worry": [
+      "worry",
+      "worries"
+    ],
+    "blissful": [
+      "blissful",
+      "blissfull",
+      "blisfull",
+      "blisssful"
+    ],
+    "irregular": [
+      "irregular",
+      "regular"
+    ],
+    "long": [
+      "long"
+    ],
+    "solid": [
+      "solid"
+    ],
+    "hot": [
+      "hot"
+    ],
+    "catch": [
+      "catch",
+      "catches",
+      "catching",
+      "cathing"
+    ],
+    "brother": [
+      "brother",
+      "brotherly",
+      "brothers"
+    ],
+    "reaction": [
+      "reaction",
+      "reactional",
+      "reactions",
+      "reacting"
+    ],
+    "angry": [
+      "angry",
+      "angery"
+    ],
+    "survey": [
+      "survey"
+    ],
+    "reassured": [
+      "reassured",
+      "assured",
+      "reassuring",
+      "assuring",
+      "re_assuring",
+      "reassurring",
+      "reassure",
+      "reasure"
+    ],
+    "sweet": [
+      "sweet",
+      "sweets",
+      "sweety"
+    ],
+    "sexual": [
+      "sexual",
+      "sexually"
+    ],
+    "dragging": [
+      "dragging"
+    ],
+    "drawing": [
+      "drawing"
+    ],
+    "comes": [
+      "comes",
+      "come"
+    ],
+    "ease": [
+      "ease",
+      "eased",
+      "eases"
+    ],
+    "problems": [
+      "problems",
+      "problem"
+    ],
+    "drinking": [
+      "drinking"
+    ],
+    "fun": [
+      "fun"
+    ],
+    "belly": [
+      "belly"
+    ],
+    "bell": [
+      "bell"
+    ],
+    "abrasive": [
+      "abrasive"
+    ],
+    "abuse": [
+      "abusing",
+      "abused",
+      "abusive"
+    ],
+    "life": [
+      "life",
+      "lives",
+      "lifes"
+    ],
+    "neutral": [
+      "neutral",
+      "neutralny",
+      "neutraly",
+      "neutrally",
+      "neautral",
+      "neutralne"
+    ],
+    "distracted": [
+      "distracted",
+      "distract",
+      "distractly",
+      "distracteed"
+    ],
+    "craving": [
+      "craving"
+    ],
+    "shaking": [
+      "shaking"
+    ],
+    "tough": [
+      "tough",
+      "tought"
+    ],
+    "working": [
+      "working"
+    ],
+    "worrying": [
+      "worrying"
+    ],
+    "dinner": [
+      "dinner"
+    ],
+    "inner": [
+      "inner"
+    ],
+    "frustration": [
+      "frustration",
+      "frustrating",
+      "frustation"
+    ],
+    "looking": [
+      "looking"
+    ],
+    "things": [
+      "things",
+      "thing"
+    ],
+    "content": [
+      "content",
+      "contento",
+      "contenta"
+    ],
+    "dry": [
+      "dry"
+    ],
+    "contempt": [
+      "contempt"
+    ],
+    "checking": [
+      "checking"
+    ],
+    "anger": [
+      "anger"
+    ],
+    "consent": [
+      "consent"
+    ],
+    "context": [
+      "context"
+    ],
+    "cuddling": [
+      "cuddling",
+      "coudling"
+    ],
+    "sense": [
+      "sense",
+      "senses"
+    ],
+    "frustrated": [
+      "frustrated",
+      "fustrated",
+      "freustated"
+    ],
+    "right": [
+      "right"
+    ],
+    "fright": [
+      "fright"
+    ],
+    "chilly": [
+      "chilly",
+      "chill"
+    ],
+    "console": [
+      "console",
+      "consoled",
+      "consol",
+      "consolar"
+    ],
+    "lively": [
+      "lively"
+    ],
+    "suspicious": [
+      "suspicious",
+      "suspicius"
+    ],
+    "confusion": [
+      "confusion",
+      "confusing"
+    ],
+    "scratching": [
+      "scratching",
+      "sctraching",
+      "scratcing",
+      "scraching"
+    ],
+    "bar": [
+      "bar"
+    ],
+    "okay": [
+      "okay"
+    ],
+    "bored": [
+      "bored"
+    ],
+    "borrow": [
+      "borrow"
+    ],
+    "confused": [
+      "confused"
+    ],
+    "softly": [
+      "softly",
+      "soflty"
+    ],
+    "needed": [
+      "needed"
+    ],
+    "needle": [
+      "needle"
+    ],
+    "question": [
+      "question",
+      "questions",
+      "wuestions"
+    ],
+    "repeatedly": [
+      "repeatedly",
+      "repeated"
+    ],
+    "pats": [
+      "pats",
+      "pat"
+    ],
+    "parts": [
+      "parts"
+    ],
+    "sleep": [
+      "sleep",
+      "asleep",
+      "sleepy",
+      "sleeps",
+      "spleed"
+    ],
+    "funny": [
+      "funny"
+    ],
+    "car": [
+      "car"
+    ],
+    "anxious": [
+      "anxious"
+    ],
+    "relax": [
+      "relax"
+    ],
+    "son": [
+      "son"
+    ],
+    "coffee": [
+      "coffee",
+      "coffe",
+      "cofee"
+    ],
+    "hurt": [
+      "hurt",
+      "hurts"
+    ],
+    "listening": [
+      "listening"
+    ],
+    "lightly": [
+      "lightly"
+    ],
+    "excited": [
+      "excited",
+      "excite",
+      "exited",
+      "excidted"
+    ],
+    "describe": [
+      "describe",
+      "described"
+    ],
+    "vibrating": [
+      "vibrating",
+      "vibration"
+    ],
+    "awkward": [
+      "awkward",
+      "awkwardly",
+      "awkard",
+      "ackward"
+    ],
+    "possibly": [
+      "possibly",
+      "possible"
+    ],
+    "lying": [
+      "lying"
+    ],
+    "nature": [
+      "nature"
+    ],
+    "painful": [
+      "painful",
+      "painfully"
+    ],
+    "unpainful": [
+      "unpainful"
+    ],
+    "gesture": [
+      "gesture",
+      "gestures"
+    ],
+    "grandmother": [
+      "grandmother",
+      "gradmother",
+      "grandmothers",
+      "grandma",
+      "grandmom",
+      "granma",
+      "grandmoms"
+    ],
+    "grandfather": [
+      "grandfather",
+      "grandpa",
+      "grandad"
+    ],
+    "father": [
+      "father",
+      "fathers"
+    ],
+    "reassurance": [
+      "reassurance",
+      "assurance",
+      "re_assurance",
+      "reassurence"
+    ],
+    "seen": [
+      "seen"
+    ],
+    "closeness": [
+      "closeness"
+    ],
+    "pay": [
+      "pay",
+      "paying"
+    ],
+    "gratitude": [
+      "gratitude",
+      "grattitude",
+      "gratidude"
+    ],
+    "delighted": [
+      "delighted",
+      "delight"
+    ],
+    "consoling": [
+      "consoling"
+    ],
+    "phone": [
+      "phone",
+      "phones",
+      "hone"
+    ],
+    "agitated": [
+      "agitated",
+      "aggitated",
+      "agidated"
+    ],
+    "amused": [
+      "amused",
+      "amuse",
+      "amusing"
+    ],
+    "unamused": [
+      "unamused"
+    ],
+    "normal": [
+      "normal",
+      "normally",
+      "normalny"
+    ],
+    "abnormal": [
+      "abnormal"
+    ],
+    "teasing": [
+      "teasing"
+    ],
+    "easing": [
+      "easing"
+    ],
+    "bus": [
+      "bus"
+    ],
+    "ok": [
+      "ok"
+    ],
+    "order": [
+      "order",
+      "orders"
+    ],
+    "stop": [
+      "stop",
+      "stops"
+    ],
+    "strokes": [
+      "strokes",
+      "stroke",
+      "stroked",
+      "stroker"
+    ],
+    "interested": [
+      "interested",
+      "interest",
+      "intrested"
+    ],
+    "best": [
+      "best"
+    ],
+    "cheer": [
+      "cheer",
+      "chee"
+    ],
+    "transportation": [
+      "transportation",
+      "trasportation",
+      "transporatation"
+    ],
+    "saying": [
+      "saying"
+    ],
+    "appreciated": [
+      "appreciated",
+      "appreciates",
+      "apreciated",
+      "appreciate"
+    ],
+    "motion": [
+      "motion",
+      "motions"
+    ],
+    "may": [
+      "may"
+    ],
+    "quick": [
+      "quick"
+    ],
+    "rigid": [
+      "rigid"
+    ],
+    "vivid": [
+      "vivid",
+      "vivido"
+    ],
+    "daughter": [
+      "daughter"
+    ],
+    "lounge": [
+      "lounge",
+      "longer"
+    ],
+    "bumpy": [
+      "bumpy",
+      "bump",
+      "bumbpy"
+    ],
+    "compliant": [
+      "compliant"
+    ],
+    "complaint": [
+      "complaint"
+    ],
+    "compliment": [
+      "compliment"
+    ],
+    "test": [
+      "test",
+      "tests"
+    ],
+    "taps": [
+      "taps",
+      "tap"
+    ],
+    "small": [
+      "small"
+    ],
+    "coworker": [
+      "coworker",
+      "co_worker",
+      "coworkers",
+      "worker"
+    ],
+    "concern": [
+      "concern",
+      "concerned",
+      "concert",
+      "concerns"
+    ],
+    "stinging": [
+      "stinging"
+    ],
+    "boredom": [
+      "boredom"
+    ],
+    "boring": [
+      "boring"
+    ],
+    "not_know": [
+      "not_know"
+    ],
+    "vague": [
+      "vague"
+    ],
+    "alert": [
+      "alert",
+      "alerta"
+    ],
+    "itchy": [
+      "itchy",
+      "itch"
+    ],
+    "difficult": [
+      "difficult",
+      "difficulty"
+    ],
+    "secure": [
+      "secure",
+      "secured"
+    ],
+    "insecure": [
+      "insecure"
+    ],
+    "insect": [
+      "insect"
+    ],
+    "cheek": [
+      "cheek",
+      "cheeks"
+    ],
+    "thrilled": [
+      "thrilled",
+      "thrill",
+      "trilled"
+    ],
+    "thrilling": [
+      "thrilling"
+    ],
+    "nostalgia": [
+      "nostalgia",
+      "nostalgic"
+    ],
+    "received": [
+      "received",
+      "receive"
+    ],
+    "focus": [
+      "focus"
+    ],
+    "contentment": [
+      "contentment"
+    ],
+    "squeezing": [
+      "squeezing",
+      "squezzing"
+    ],
+    "genital": [
+      "genital",
+      "genitals",
+      "gential"
+    ],
+    "manner": [
+      "manner",
+      "manera",
+      "mannered"
+    ],
+    "helping": [
+      "helping"
+    ],
+    "mall": [
+      "mall"
+    ],
+    "swinging": [
+      "swinging"
+    ],
+    "hear": [
+      "hear",
+      "hears",
+      "heard",
+      "hearing"
+    ],
+    "lose": [
+      "lose",
+      "losing",
+      "loosing"
+    ],
+    "disgust": [
+      "disgust",
+      "disgusted"
+    ],
+    "napping": [
+      "napping"
+    ],
+    "propped": [
+      "propped"
+    ],
+    "inappropriate": [
+      "inappropriate",
+      "innapropriate",
+      "unappropriate"
+    ],
+    "appropriate": [
+      "appropriate"
+    ],
+    "encourage": [
+      "encourage",
+      "encouraged",
+      "encourages"
+    ],
+    "courage": [
+      "courage"
+    ],
+    "intriguing": [
+      "intriguing"
+    ],
+    "sure": [
+      "sure"
+    ],
+    "violated": [
+      "violated"
+    ],
+    "medical": [
+      "medical"
+    ],
+    "unsafe": [
+      "unsafe"
+    ],
+    "desk": [
+      "desk",
+      "desks"
+    ],
+    "provide": [
+      "provide",
+      "provides"
+    ],
+    "massaging": [
+      "massaging"
+    ],
+    "managing": [
+      "managing"
+    ],
+    "nurse": [
+      "nurse",
+      "nurses"
+    ],
+    "draw": [
+      "draw",
+      "drawn"
+    ],
+    "sensation": [
+      "sensation",
+      "sensations",
+      "sensational"
+    ],
+    "express": [
+      "express",
+      "expresses",
+      "expressed",
+      "expressing"
+    ],
+    "find": [
+      "find",
+      "finds"
+    ],
+    "finder": [
+      "finder"
+    ],
+    "ticklish": [
+      "ticklish",
+      "tickles"
+    ],
+    "kid": [
+      "kid",
+      "kids"
+    ],
+    "scratchy": [
+      "scratchy",
+      "scratch",
+      "scatchy",
+      "scratches",
+      "scracthy",
+      "scratched"
+    ],
+    "university": [
+      "university"
+    ],
+    "distressed": [
+      "distressed",
+      "destressed",
+      "distress"
+    ],
+    "pleasure": [
+      "pleasure",
+      "pleasured"
+    ],
+    "pleasing": [
+      "pleasing"
+    ],
+    "cuddle": [
+      "cuddle",
+      "cuddles",
+      "cuddled",
+      "cuddly"
+    ],
+    "relative": [
+      "relative",
+      "relatively",
+      "relatives"
+    ],
+    "noticed": [
+      "noticed",
+      "notice",
+      "notices"
+    ],
+    "muscle": [
+      "muscle",
+      "muscles",
+      "muscules"
+    ],
+    "game": [
+      "game",
+      "games"
+    ],
+    "fiance": [
+      "fiance",
+      "fiancee",
+      "fianc"
+    ],
+    "lost": [
+      "lost"
+    ],
+    "icky": [
+      "icky"
+    ],
+    "heavenly": [
+      "heavenly"
+    ],
+    "watch": [
+      "watch",
+      "watches"
+    ],
+    "proud": [
+      "proud",
+      "roud"
+    ],
+    "heaving": [
+      "heaving"
+    ],
+    "desirable": [
+      "desirable",
+      "disirable"
+    ],
+    "happening": [
+      "happening",
+      "hapening"
+    ],
+    "velvety": [
+      "velvety",
+      "welvety"
+    ],
+    "fluid": [
+      "fluid",
+      "fluido"
+    ],
+    "peaceful": [
+      "peaceful",
+      "peacefull",
+      "pacefull"
+    ],
+    "attentive": [
+      "attentive",
+      "atentive",
+      "attentively"
+    ],
+    "inattentive": [
+      "inattentive"
+    ],
+    "store": [
+      "store",
+      "sore"
+    ],
+    "dine": [
+      "dining",
+      "dinning"
+    ],
+    "spending": [
+      "spending"
+    ],
+    "spend": [
+      "spend"
+    ],
+    "bring": [
+      "bring",
+      "brings"
+    ],
+    "shock": [
+      "shock",
+      "shocking"
+    ],
+    "fine": [
+      "fine"
+    ],
+    "television": [
+      "television"
+    ],
+    "palm": [
+      "palm"
+    ],
+    "sadness": [
+      "sadness"
+    ],
+    "lot": [
+      "lot",
+      "lots"
+    ],
+    "party": [
+      "party",
+      "partly",
+      "partying"
+    ],
+    "overwhelmed": [
+      "overwhelmed",
+      "overvhelmed"
+    ],
+    "significant": [
+      "significant"
+    ],
+    "insignificant": [
+      "insignificant"
+    ],
+    "cute": [
+      "cute"
+    ],
+    "acute_pain": [
+      "acute"
+    ],
+    "nephew": [
+      "nephew",
+      "nephews"
+    ],
+    "joke": [
+      "joke",
+      "jokes"
+    ],
+    "sweaty": [
+      "sweaty",
+      "sweat"
+    ],
+    "sweating": [
+      "sweating"
+    ],
+    "event": [
+      "event",
+      "events"
+    ],
+    "cause": [
+      "cause",
+      "causes"
+    ],
+    "case": [
+      "case",
+      "cases"
+    ],
+    "supportive": [
+      "supportive",
+      "supporting",
+      "suportive"
+    ],
+    "discussing": [
+      "discussing",
+      "discussion"
+    ],
+    "disgusting": [
+      "disgusting",
+      "discusting"
+    ],
+    "told": [
+      "told"
+    ],
+    "busy": [
+      "busy"
+    ],
+    "away": [
+      "away"
+    ],
+    "sit": [
+      "sit"
+    ],
+    "felt": [
+      "felt"
+    ],
+    "positive": [
+      "positive"
+    ],
+    "said": [
+      "said"
+    ],
+    "weak": [
+      "weak"
+    ],
+    "stomach": [
+      "stomach"
+    ],
+    "worried": [
+      "worried"
+    ],
+    "fragile": [
+      "fragile"
+    ],
+    "mood": [
+      "mood"
+    ],
+    "social": [
+      "social",
+      "socially"
+    ],
+    "defensiveness": [
+      "defensiveness",
+      "defensivness"
+    ],
+    "buzzing": [
+      "buzzing"
+    ],
+    "knee": [
+      "knee",
+      "knees"
+    ],
+    "currently": [
+      "currently",
+      "current"
+    ],
+    "presence": [
+      "presence"
+    ],
+    "presented": [
+      "presented"
+    ],
+    "present": [
+      "present"
+    ],
+    "cleaning": [
+      "cleaning"
+    ],
+    "lean": [
+      "lean",
+      "leaning"
+    ],
+    "impacting": [
+      "impacting"
+    ],
+    "submissive": [
+      "submissive"
+    ],
+    "bench": [
+      "bench"
+    ],
+    "came": [
+      "came",
+      "cames"
+    ],
+    "familiar": [
+      "familiar",
+      "familial",
+      "familliar"
+    ],
+    "unfamiliar": [
+      "unfamiliar"
+    ],
+    "particular": [
+      "particular",
+      "particularly"
+    ],
+    "tentative": [
+      "tentative",
+      "tentatively",
+      "tentaive"
+    ],
+    "hug": [
+      "hug",
+      "hugs"
+    ],
+    "hanging": [
+      "hanging"
+    ],
+    "unsure": [
+      "unsure"
+    ],
+    "ensure": [
+      "ensure"
+    ],
+    "necessary": [
+      "necessary",
+      "necessarily"
+    ],
+    "unnecessary": [
+      "unnecessary",
+      "unnecesseary",
+      "unneccessary"
+    ],
+    "started": [
+      "started"
+    ],
+    "startle": [
+      "startle",
+      "startled",
+      "startling"
+    ],
+    "old": [
+      "old"
+    ],
+    "dense": [
+      "dense"
+    ],
+    "private": [
+      "private"
+    ],
+    "tension": [
+      "tension"
+    ],
+    "therapy": [
+      "therapy"
+    ],
+    "got": [
+      "got"
+    ],
+    "shows": [
+      "shows",
+      "shos"
+    ],
+    "mum": [
+      "mum",
+      "mums"
+    ],
+    "fleshy": [
+      "fleshy"
+    ],
+    "flashy":[
+      "flashy"
+    ],
+    "date": [
+      "date",
+      "dates"
+    ],
+    "dominating": [
+      "dominating",
+      "dominatig"
+    ],
+    "dominion": [
+      "dominion"
+    ],
+    "sign": [
+      "sign",
+      "signs"
+    ],
+    "clinic": [
+      "clinic",
+      "clinical"
+    ],
+    "careful": [
+      "careful",
+      "carefully",
+      "carefull"
+    ],
+    "subtle": [
+      "subtle",
+      "subtly",
+      "sutle"
+    ],
+    "usually": [
+      "usually"
+    ],
+    "client": [
+      "client",
+      "clients",
+      "klient",
+      "clinet"
+    ],
+    "not_attention": [
+      "not_attention"
+    ],
+    "stabbing": [
+      "stabbing",
+      "stabing"
+    ],
+    "determined": [
+      "determined",
+      "determine",
+      "detemine",
+      "determinado"
+    ],
+    "suddenly": [
+      "suddenly",
+      "sudden"
+    ],
+    "grateful": [
+      "grateful"
+    ],
+    "rattling": [
+      "rattling"
+    ],
+    "teacher": [
+      "teacher"
+    ],
+    "teaching": [
+      "teaching"
+    ],
+    "conflicted": [
+      "conflicted"
+    ],
+    "pass": [
+      "pass",
+      "passing"
+    ],
+    "tenderness": [
+      "tenderness"
+    ],
+    "peace": [
+      "peace"
+    ],
+    "slowly": [
+      "slowly"
+    ],
+    "slower": [
+      "slower"
+    ],
+    "deep": [
+      "deep"
+    ],
+    "form": [
+      "form"
+    ],
+    "formal": [
+      "formal"
+    ],
+    "alright": [
+      "alright"
+    ],
+    "relationship": [
+      "relationship",
+      "relationships"
+    ],
+    "anxiety": [
+      "anxiety",
+      "enxiety"
+    ],
+    "flirting": [
+      "flirting"
+    ],
+    "sibling": [
+      "sibling",
+      "siblings"
+    ],
+    "language": [
+      "language",
+      "lanuages",
+      "languages"
+    ],
+    "computer": [
+      "computer",
+      "computers"
+    ],
+    "commuter": [
+      "commuter"
+    ],
+    "standing": [
+      "standing"
+    ],
+    "burning": [
+      "burning"
+    ],
+    "burned": [
+      "burned"
+    ],
+    "walk": [
+      "walk",
+      "walks",
+      "walking",
+      "walked"
+    ],
+    "textured": [
+      "textured",
+      "texture"
+    ],
+    "not_feel": [
+      "not_feel"
+    ],
+    "not_see": [
+      "not_see"
+    ],
+    "embarrass": [
+      "embarassing",
+      "embarrassed",
+      "embarassed"
+    ],
+    "listen": [
+      "listen",
+      "listened",
+      "listener"
+    ],
+    "intent": [
+      "intent",
+      "intently",
+      "intenta"
+    ],
+    "simply": [
+      "simply",
+      "simple"
+    ],
+    "poke": [
+      "poke",
+      "poked",
+      "pokes"
+    ],
+    "sensitive": [
+      "sensitive"
+    ],
+    "sensitivity": [
+      "sensitivity"
+    ],
+    "understanding": [
+      "understanding"
+    ],
+    "fell": [
+      "fell"
+    ],
+    "intimacy": [
+      "intimacy"
+    ],
+    "might": [
+      "might"
+    ],
+    "nasty": [
+      "nasty"
+    ],
+    "music": [
+      "music"
+    ],
+    "lunch": [
+      "lunch"
+    ],
+    "treatment": [
+      "treatment"
+    ],
+    "flat": [
+      "flat"
+    ],
+    "gives": [
+      "gives"
+    ],
+    "shown": [
+      "shown"
+    ],
+    "sharp": [
+      "sharp"
+    ],
+    "shocked": [
+      "shocked"
+    ],
+    "went": [
+      "went"
+    ],
+    "aware": [
+      "aware"
+    ],
+    "gathering": [
+      "gathering"
+    ],
+    "whilst": [
+      "whilst",
+      "whist"
+    ],
+    "imagine": [
+      "imagine",
+      "imagined"
+    ],
+    "not_alone": [
+      "not_alone"
+    ],
+    "classroom": [
+      "classroom",
+      "clasroom"
+    ],
+    "break": [
+      "break",
+      "brak"
+    ],
+    "guess": [
+      "guess",
+      "guests",
+      "gues"
+    ],
+    "insecurity": [
+      "insecurity"
+    ],
+    "security": [
+      "security"
+    ],
+    "tickle": [
+      "tickle",
+      "tickly"
+    ],
+    "ticket": [
+      "ticket"
+    ],
+    "food": [
+      "food"
+    ],
+    "short": [
+      "short"
+    ],
+    "baby": [
+      "baby"
+    ],
+    "enjoying": [
+      "enjoying"
+    ],
+    "job": [
+      "job"
+    ],
+    "somebody": [
+      "somebody"
+    ],
+    "warmth": [
+      "warmth"
+    ],
+    "examination": [
+      "examination"
+    ],
+    "cream": [
+      "cream"
+    ],
+    "numb": [
+      "numb"
+    ],
+    "intimidating": [
+      "intimidating"
+    ],
+    "cousin": [
+      "cousin",
+      "cousing"
+    ],
+    "fear": [
+      "fear"
+    ],
+    "female": [
+      "female"
+    ],
+    "trapped": [
+      "trapped"
+    ],
+    "transport": [
+      "transport",
+      "teansport"
+    ],
+    "similar": [
+      "similar",
+      "similarly"
+    ],
+    "encouraging": [
+      "encouraging",
+      "encouring"
+    ],
+    "examining": [
+      "examining",
+      "exammining",
+      "examing"
+    ],
+    "ready": [
+      "ready"
+    ],
+    "read": [
+      "read"
+    ],
+    "admired": [
+      "admired",
+      "admires"
+    ],
+    "meant": [
+      "meant",
+      "mean"
+    ],
+    "issues": [
+      "issues",
+      "issue"
+    ],
+    "exam": [
+      "exam",
+      "exams"
+    ],
+    "certain": [
+      "certain"
+    ],
+    "uncertain": [
+      "uncertain"
+    ],
+    "results": [
+      "results",
+      "result",
+      "resulta",
+      "resulted"
+    ],
+    "share": [
+      "share",
+      "shared",
+      "sharing"
+    ],
+    "spot": [
+      "spot"
+    ],
+    "pub": [
+      "pub"
+    ],
+    "apartment": [
+      "apartment"
+    ],
+    "turn": [
+      "turn"
+    ],
+    "offended": [
+      "offended"
+    ],
+    "blood": [
+      "blood"
+    ],
+    "near": [
+      "near"
+    ],
+    "thinking": [
+      "thinking"
+    ],
+    "thanking": [
+      "thanking",
+      "thaniking"
+    ],
+    "task": [
+      "task",
+      "tasks"
+    ],
+    "protected": [
+      "protected",
+      "protect"
+    ],
+    "space": [
+      "space",
+      "spaced"
+    ],
+    "special": [
+      "special",
+      "specially"
+    ],
+    "specialist": [
+      "specialist",
+      "specialst"
+    ],
+    "laugh": [
+      "laugh",
+      "laughs"
+    ],
+    "attract": [
+      "attract",
+      "attracts",
+      "attracted"
+    ],
+    "embarrassment": [
+      "embarrassment",
+      "embarassment",
+      "embarassement"
+    ],
+    "foot": [
+      "foot",
+      "feet"
+    ],
+    "grandparent": [
+      "grandparent",
+      "grandparents"
+    ],
+    "adjectives": [
+      "adjectives",
+      "adjective",
+      "adjerctive"
+    ],
+    "evening": [
+      "evening"
+    ],
+    "drinks": [
+      "drinks",
+      "drink"
+    ],
+    "verbs": [
+      "verbs",
+      "verb"
+    ],
+    "eating": [
+      "eating"
+    ],
+    "get": [
+      "get",
+      "gets"
+    ],
+    "cheering": [
+      "cheering"
+    ],
+    "providing": [
+      "providing"
+    ],
+    "change": [
+      "change",
+      "changes",
+      "changing"
+    ],
+    "exchange": [
+      "exchange"
+    ],
+    "welcome": [
+      "welcome",
+      "welcomed"
+    ],
+    "unwelcome": [
+      "unwelcome"
+    ],
+    "response": [
+      "response",
+      "respond",
+      "responds",
+      "responde",
+      "responsive"
+    ],
+    "reminds": [
+      "reminds",
+      "remind",
+      "reminder",
+      "reminded"
+    ],
+    "girl": [
+      "girl"
+    ],
+    "visiting": [
+      "visiting"
+    ],
+    "specific": [
+      "specific"
+    ],
+    "bothering": [
+      "bothering"
+    ],
+    "wrong": [
+      "wrong"
+    ],
+    "gain": [
+      "gain"
+    ],
+    "story": [
+      "story"
+    ],
+    "unexpected": [
+      "unexpected"
+    ],
+    "garden": [
+      "garden"
+    ],
+    "not_I": [
+      "not_I"
+    ],
+    "new": [
+      "new"
+    ],
+    "bond": [
+      "bond"
+    ],
+    "disturbing": [
+      "disturbing"
+    ],
+    "classmate": [
+      "classmate"
+    ],
+    "attention_grabbing": [
+      "attention_grabbing"
+    ],
+    "health": [
+      "health",
+      "healthy"
+    ],
+    "arousal": [
+      "arousal",
+      "harousal"
+    ],
+    "environment": [
+      "environment",
+      "enviroment"
+    ],
+    "spouse": [
+      "spouse",
+      "spouce"
+    ],
+    "end": [
+      "end",
+      "ends"
+    ],
+    "stressful": [
+      "stressful",
+      "stresful",
+      "stressfull"
+    ],
+    "bothered": [
+      "bothered"
+    ],
+    "unbothered": [
+      "unbothered"
+    ],
+    "condition": [
+      "condition",
+      "conditions"
+    ],
+    "headphones": [
+      "headphones"
+    ],
+    "earphones": [
+      "earphones"
+    ],
+    "project": [
+      "project",
+      "projects"
+    ],
+    "not_touch": [
+      "not_touch",
+      "not_touchy",
+      "no_touch"
+    ],
+    "nose": [
+      "nose"
+    ],
+    "diagnosis": [
+      "diagnosis",
+      "diagnose",
+      "dignoses"
+    ],
+    "depends": [
+      "depends",
+      "depend",
+      "depending"
+    ],
+    "finished": [
+      "finished",
+      "finish"
+    ],
+    "nerves": [
+      "nerves",
+      "nerve",
+      "nverves"
+    ],
+    "missed": [
+      "missed"
+    ],
+    "definitely": [
+      "definitely",
+      "definetely",
+      "definately",
+      "deffinetely"
+    ],
+    "embrace": [
+      "embrace",
+      "embraced",
+      "embrassed"
+    ],
+    "vein": [
+      "vein",
+      "veins"
+    ],
+    "empathetic": [
+      "empathetic",
+      "empathethic"
+    ],
+    "sympathy": [
+      "sympathetic",
+      "sympathy",
+      "sympathize",
+      "sympthy",
+      "symapthy"
+    ],
+    "distant": [
+      "distant",
+      "distance",
+      "distinct"
+    ],
+    "emphasize": [
+      "emphasize",
+      "emphasise",
+      "emphasis"
+    ],
+    "examine": [
+      "examine",
+      "examines",
+      "examined",
+      "examin"
+    ],
+    "hairdresser": [
+      "hairdresser"
+    ],
+    "sing": [
+      "sing",
+      "singing"
+    ],
+    "focusing": [
+      "focusing"
+    ],
+    "urgent": [
+      "urgent"
+    ],
+    "intrigued": [
+      "intrigued"
+    ],
+    "inside": [
+      "inside"
+    ],
+    "physiotherapist": [
+      "physiotherapist"
+    ],
+    "kinda": [
+      "kinda"
+    ],
+    "type": [
+      "type"
+    ],
+    "intrusive": [
+      "intrusive"
+    ],
+    "cool": [
+      "cool"
+    ],
+    "reason": [
+      "reason"
+    ],
+    "lukewarm": [
+      "lukewarm"
+    ],
+    "taken": [
+      "taken"
+    ],
+    "robust": [
+      "robust"
+    ],
+    "shy": [
+      "shy"
+    ],
+    "line": [
+      "line"
+    ],
+    "sex": [
+      "sex"
+    ],
+    "helpful": [
+      "helpful",
+      "helpfu"
+    ],
+    "rubbery": [
+      "rubbery"
+    ],
+    "encouragement": [
+      "encouragement",
+      "encougagement"
+    ],
+    "no_idea": [
+      "no_idea",
+      "not_idea"
+    ],
+    "pride": [
+      "pride"
+    ],
+    "ride": [
+      "ride"
+    ],
+    "coercive": [
+      "coercive",
+      "coercitive"
+    ],
+    "rest": [
+      "rest",
+      "rests"
+    ],
+    "scary": [
+      "scary"
+    ],
+    "scar": [
+      "scar"
+    ],
+    "session": [
+      "session",
+      "sessions"
+    ],
+    "morning": [
+      "morning",
+      "moring"
+    ],
+    "polite": [
+      "polite",
+      "police",
+      "politely"
+    ],
+    "study": [
+      "study",
+      "studies"
+    ],
+    "relieving": [
+      "relieving"
+    ],
+    "words": [
+      "words",
+      "word"
+    ],
+    "adored": [
+      "adored",
+      "adores",
+      "adore"
+    ],
+    "random": [
+      "random",
+      "randomly"
+    ],
+    "enjoy": [
+      "enjoy",
+      "enjoys"
+    ],
+    "thought": [
+      "thought",
+      "thoughts"
+    ],
+    "tingly": [
+      "tingly",
+      "tingle"
+    ],
+    "deliberately": [
+      "deliberately",
+      "deliberate"
+    ],
+    "year": [
+      "year",
+      "years",
+      "2year"
+    ],
+    "use": [
+      "use"
+    ],
+    "appointment": [
+      "appointment"
+    ],
+    "ointment": [
+      "ointment"
+    ],
+    "rapid": [
+      "rapid"
+    ],
+    "not_sure": [
+      "not_sure"
+    ],
+    "firmly": [
+      "firmly"
+    ],
+    "friendship": [
+      "friendship"
+    ],
+    "lecture": [
+      "lecture"
+    ],
+    "forehead": [
+      "forehead"
+    ],
+    "beach": [
+      "beach"
+    ],
+    "moist": [
+      "moist"
+    ],
+    "queue": [
+      "queue"
+    ],
+    "given": [
+      "given"
+    ],
+    "vending": [
+      "vending"
+    ],
+    "characteristics": [
+      "characteristics"
+    ],
+    "jestem": [
+      "jestem"
+    ],
+    "seated": [
+      "seated"
+    ],
+    "heated": [
+      "heated"
+    ],
+    "heater": [
+      "heater"
+    ],
+    "outdoors": [
+      "outdoors",
+      "outdoor"
+    ],
+    "asked": [
+      "asked",
+      "aske"
+    ],
+    "group": [
+      "group",
+      "groups"
+    ],
+    "book": [
+      "book",
+      "books"
+    ],
+    "forth": [
+      "forth",
+      "fort"
+    ],
+    "aunt": [
+      "aunt",
+      "aunty"
+    ],
+    "tired": [
+      "tired",
+      "tied",
+      "tiring"
+    ],
+    "younger": [
+      "younger",
+      "youngest"
+    ],
+    "supposed": [
+      "supposed",
+      "suppose"
+    ],
+    "flirt": [
+      "flirt",
+      "flirty"
+    ],
+    "create": [
+      "create",
+      "creates",
+      "creating"
+    ],
+    "hesitant": [
+      "hesitant",
+      "hesistant",
+      "hestitant"
+    ],
+    "depressed": [
+      "depressed",
+      "deppressed"
+    ],
+    "depression": [
+      "depression"
+    ],
+    "favorite": [
+      "favorite",
+      "favourite"
+    ],
+    "interesting": [
+      "interesting",
+      "interestingly"
+    ],
+    "interacting": [
+      "interacting"
+    ],
+    "period": [
+      "period",
+      "periodic",
+      "periods"
+    ],
+    "not_pleasant": [
+      "not_pleasant",
+      "not_unpleasant",
+      "not_pleasent"
+    ],
+    "not_hear": [
+      "not_hear"
+    ],
+    "woken": [
+      "woken",
+      "woke",
+      "awoken"
+    ],
+    "eye": [
+      "eye",
+      "eyes"
+    ],
+    "late": [
+      "late",
+      "later"
+    ],
+    "reduce": [
+      "reduce",
+      "reduces"
+    ],
+    "seduce": [
+      "seduce"
+    ],
+    "finding": [
+      "finding",
+      "findig",
+      "findiong"
+    ],
+    "affect": [
+      "affect",
+      "afecto",
+      "affected"
+    ],
+    "effect": [
+      "effect"
+    ],
+    "decide": [
+      "decide",
+      "decided",
+      "decides",
+      "decise"
+    ],
+    "alerting": [
+      "alerting"
+    ],
+    "level": [
+      "level"
+    ],
+    "tip": [
+      "tip",
+      "tipping"
+    ],
+    "explaining": [
+      "explaining"
+    ],
+    "surgery": [
+      "surgery"
+    ],
+    "sat": [
+      "sat"
+    ],
+    "exactly": [
+      "exactly"
+    ],
+    "negative": [
+      "negative"
+    ],
+    "means": [
+      "means"
+    ],
+    "interact": [
+      "interact"
+    ],
+    "male": [
+      "male"
+    ],
+    "silly": [
+      "silly"
+    ],
+    "man": [
+      "man"
+    ],
+    "train": [
+      "train"
+    ],
+    "laughing": [
+      "laughing"
+    ],
+    "disturbed": [
+      "disturbed"
+    ],
+    "young": [
+      "young"
+    ],
+    "que": [
+      "que"
+    ],
+    "buy": [
+      "buy"
+    ],
+    "answer": [
+      "answer"
+    ],
+    "swelling": [
+      "swelling"
+    ],
+    "casual": [
+      "casual"
+    ],
+    "casually": [
+      "casually"
+    ],
+    "rubbed": [
+      "rubbed"
+    ],
+    "energy": [
+      "energy"
+    ],
+    "doubt": [
+      "doubt"
+    ],
+    "seat": [
+      "seat"
+    ],
+    "humiliation": [
+      "humiliation"
+    ],
+    "intercourse": [
+      "intercourse"
+    ],
+    "cinema": [
+      "cinema"
+    ],
+    "speak": [
+      "speak",
+      "speaking"
+    ],
+    "surprising": [
+      "surprising",
+      "suprising"
+    ],
+    "information": [
+      "information"
+    ],
+    "formation": [
+      "formation"
+    ],
+    "mildly": [
+      "mildly"
+    ],
+    "engaging": [
+      "engaging"
+    ],
+    "dropped": [
+      "dropped"
+    ],
+    "actually": [
+      "actually",
+      "actual"
+    ],
+    "failed": [
+      "failed"
+    ],
+    "filled": [
+      "filled"
+    ],
+    "stimulating": [
+      "stimulating",
+      "stimulation"
+    ],
+    "remove": [
+      "remove",
+      "removed"
+    ],
+    "injury": [
+      "injury",
+      "injuries"
+    ],
+    "not_close": [
+      "not_close"
+    ],
+    "leave": [
+      "leave",
+      "leaves",
+      "leaving"
+    ],
+    "accepted": [
+      "accepted",
+      "accepts",
+      "accept"
+    ],
+    "instructor": [
+      "instructor",
+      "instruction",
+      "instruktor"
+    ],
+    "pet": [
+      "pet",
+      "pets"
+    ],
+    "encounter": [
+      "encounter",
+      "encounters"
+    ],
+    "counter": [
+      "counter"
+    ],
+    "unpleasent": [
+      "unpleasent",
+      "unplesant",
+      "unpleaseant"
+    ],
+    "force": [
+      "force",
+      "fore"
+    ],
+    "grabing": [
+      "grabing",
+      "grabbinga"
+    ],
+    "grazing": [
+      "grazing"
+    ],
+    "grating": [
+      "grating"
+    ],
+    "vigorous": [
+      "vigorous",
+      "vigorously",
+      "vigoroust"
+    ],
+    "general": [
+      "general",
+      "generally"
+    ],
+    "generate": [
+      "generate"
+    ],
+    "guilty": [
+      "guilty"
+    ],
+    "guilt": [
+      "guilt"
+    ],
+    "inviting": [
+      "inviting"
+    ],
+    "bones": [
+      "bones",
+      "bone"
+    ],
+    "one": [
+      "one",
+      "one_s",
+      "ones"
+    ],
+    "acknowledged": [
+      "acknowledged",
+      "acknowledge",
+      "aknowledge",
+      "acknowledges",
+      "aknowledged"
+    ],
+    "relaxation": [
+      "relaxation"
+    ],
+    "etc": [
+      "etc"
+    ],
+    "past": [
+      "past"
+    ],
+    "demonstrate": [
+      "demonstrate"
+    ],
+    "attempting": [
+      "attempting"
+    ],
+    "braccio": [
+      "braccio"
+    ],
+    "jokingly": [
+      "jokingly",
+      "joking"
+    ],
+    "sick": [
+      "sick"
+    ],
+    "compassionate": [
+      "compassionate"
+    ],
+    "no_intention": [
+      "no_intention"
+    ],
+    "older": [
+      "older"
+    ],
+    "tea": [
+      "tea"
+    ],
+    "goes": [
+      "goes"
+    ],
+    "mad": [
+      "mad"
+    ],
+    "chat": [
+      "chat",
+      "chatting"
+    ],
+    "applying": [
+      "applying"
+    ],
+    "boy": [
+      "boy"
+    ],
+    "free": [
+      "free"
+    ],
+    "harmless": [
+      "harmless"
+    ],
+    "sticky": [
+      "sticky"
+    ],
+    "without_I": [
+      "without_I"
+    ],
+    "thankful": [
+      "thankful"
+    ],
+    "applied": [
+      "applied"
+    ],
+    "keeps": [
+      "keeps"
+    ],
+    "keeping": [
+      "keeping"
+    ],
+    "shading": [
+      "shading"
+    ],
+    "playground": [
+      "playground"
+    ],
+    "consequential": [
+      "consequential"
+    ],
+    "open": [
+      "open",
+      "opening"
+    ],
+    "tortuous": [
+      "tortuous"
+    ],
+    "company": [
+      "company"
+    ],
+    "night": [
+      "night"
+    ],
+    "barely": [
+      "barely"
+    ],
+    "supermarket": [
+      "supermarket"
+    ],
+    "mobile": [
+      "mobile"
+    ],
+    "prickly": [
+      "prickly"
+    ],
+    "wiggly": [
+      "wiggly",
+      "wriggly"
+    ],
+    "required": [
+      "required",
+      "requires"
+    ],
+    "film": [
+      "film",
+      "filme"
+    ],
+    "lesson": [
+      "lesson",
+      "lesion"
+    ],
+    "assure": [
+      "assure",
+      "assures"
+    ],
+    "provoke": [
+      "provoke",
+      "provoked"
+    ],
+    "placid": [
+      "placid",
+      "plcido"
+    ],
+    "dirty": [
+      "dirty",
+      "dirt"
+    ],
+    "convince": [
+      "convince",
+      "convinced"
+    ],
+    "opinion": [
+      "opinion"
+    ],
+    "running": [
+      "running"
+    ],
+    "raining": [
+      "raining",
+      "rainning"
+    ],
+    "unconfortable": [
+      "unconfortable",
+      "uncomfrtable"
+    ],
+    "tree": [
+      "tree",
+      "trees"
+    ],
+    "experience": [
+      "experience",
+      "experiences"
+    ],
+    "immediately": [
+      "immediately",
+      "immediatly"
+    ],
+    "shift": [
+      "shift",
+      "shifts",
+      "shifting"
+    ],
+    "despair": [
+      "despair",
+      "despacio"
+    ],
+    "snacks": [
+      "snacks",
+      "snack"
+    ],
+    "pacing": [
+      "pacing"
+    ],
+    "experiencing": [
+      "experiencing",
+      "expereincing",
+      "experimenting"
+    ],
+    "innocent": [
+      "innocent",
+      "inocent",
+      "innocence"
+    ],
+    "grocery": [
+      "grocery",
+      "groceries"
+    ],
+    "smile": [
+      "smile",
+      "smiles",
+      "smiling"
+    ],
+    "coarse": [
+      "coarse"
+    ],
+    "course": [
+      "course"
+    ],
+    "consult": [
+      "consulting",
+      "consulted"
+    ],
+    "insistently": [
+      "insistently",
+      "insistantly"
+    ],
+    "appreciation": [
+      "appreciation",
+      "appreciative"
+    ],
+    "indicate": [
+      "indicate",
+      "indicates"
+    ],
+    "not_emotion": [
+      "not_emotion",
+      "not_emotional",
+      "no_emotion"
+    ],
+    "non_evasive": [
+      "non_evasive"
+    ],
+    "continuously": [
+      "continuously"
+    ],
+    "knowing": [
+      "knowing"
+    ],
+    "acceptable": [
+      "acceptable"
+    ],
+    "acceptance": [
+      "acceptance"
+    ],
+    "masseur": [
+      "masseur",
+      "masseuse"
+    ],
+    "pushy": [
+      "pushy"
+    ],
+    "push": [
+      "push"
+    ],
+    "interrupted": [
+      "interrupted",
+      "interrupt",
+      "interrupts"
+    ],
+    "protective": [
+      "protective",
+      "protection"
+    ],
+    "productive": [
+      "productive"
+    ],
+    "perform": [
+      "perform",
+      "performed"
+    ],
+    "therapeutic": [
+      "therapeutic",
+      "terapeutico",
+      "therapatic",
+      "theraputic"
+    ],
+    "consolation": [
+      "consolation"
+    ],
+    "consultation": [
+      "consultation"
+    ],
+    "dominant": [
+      "dominant",
+      "dominance"
+    ],
+    "drive": [
+      "drive",
+      "driver"
+    ],
+    "practice": [
+      "practice",
+      "practise"
+    ],
+    "practical": [
+      "practical"
+    ],
+    "breaking": [
+      "breaking"
+    ],
+    "tissue": [
+      "tissue"
+    ],
+    "consider": [
+      "consider",
+      "considered"
+    ],
+    "reconsider": [
+      "reconsider"
+    ],
+    "behavior": [
+      "behavior",
+      "behaviour",
+      "behavioral",
+      "behavour"
+    ],
+    "concentrated": [
+      "concentrated",
+      "concentrate",
+      "concerntrate"
+    ],
+    "entering": [
+      "entering",
+      "entring",
+      "enters"
+    ],
+    "entered": [
+      "entered"
+    ],
+    "continue": [
+      "continue",
+      "continued",
+      "continuare"
+    ],
+    "continuous": [
+      "continuous",
+      "continous",
+      "continuos"
+    ],
+    "alerted": [
+      "alerted"
+    ],
+    "cozy": [
+      "cozy"
+    ],
+    "pinching": [
+      "pinching"
+    ],
+    "communicate": [
+      "communicate"
+    ],
+    "casa": [
+      "casa"
+    ],
+    "una": [
+      "una"
+    ],
+    "fare": [
+      "fare"
+    ],
+    "stiff": [
+      "stiff"
+    ],
+    "assertive": [
+      "assertive"
+    ],
+    "quickly": [
+      "quickly"
+    ],
+    "salon": [
+      "salon"
+    ],
+    "mind": [
+      "mind",
+      "minding"
+    ],
+    "movements": [
+      "movements"
+    ],
+    "amazing": [
+      "amazing"
+    ],
+    "series": [
+      "series"
+    ],
+    "describing": [
+      "describing"
+    ],
+    "eat": [
+      "eat"
+    ],
+    "andor": [
+      "andor"
+    ],
+    "harsh": [
+      "harsh"
+    ],
+    "index": [
+      "index"
+    ],
+    "suave": [
+      "suave"
+    ],
+    "trembling": [
+      "trembling"
+    ],
+    "horror": [
+      "horror"
+    ],
+    "scare": [
+      "scare",
+      "scared",
+      "scaring"
+    ],
+    "uneven": [
+      "uneven"
+    ],
+    "receiving": [
+      "receiving",
+      "recieving"
+    ],
+    "luscious": [
+      "luscious"
+    ],
+    "found": [
+      "found"
+    ],
+    "hit": [
+      "hit",
+      "hitting"
+    ],
+    "great": [
+      "great"
+    ],
+    "validated": [
+      "validated"
+    ],
+    "pulse": [
+      "pulse"
+    ],
+    "wet": [
+      "wet"
+    ],
+    "mental": [
+      "mental"
+    ],
+    "livingroom": [
+      "livingroom"
+    ],
+    "calmly": [
+      "calmly"
+    ],
+    "cherished": [
+      "cherished"
+    ],
+    "woman": [
+      "woman"
+    ],
+    "shelf": [
+      "shelf"
+    ],
+    "flexible": [
+      "flexible"
+    ],
+    "preparing": [
+      "preparing"
+    ],
+    "forward": [
+      "forward"
+    ],
+    "visit": [
+      "visit",
+      "visita"
+    ],
+    "hurting": [
+      "hurting"
+    ],
+    "lovable": [
+      "lovable",
+      "loveable"
+    ],
+    "expect": [
+      "expect",
+      "expects"
+    ],
+    "technique": [
+      "technique",
+      "techniques"
+    ],
+    "supple": [
+      "supple"
+    ],
+    "supply": [
+      "supply"
+    ],
+    "ground": [
+      "ground",
+      "grounded"
+    ],
+    "stuff": [
+      "stuff",
+      "tuff"
+    ],
+    "discuss": [
+      "discuss",
+      "discussed"
+    ],
+    "facing": [
+      "facing"
+    ],
+    "shame": [
+      "shame",
+      "ashame"
+    ],
+    "not_comfortable": [
+      "not_comfortable"
+    ],
+    "not_uncomfortable": [
+      "not_uncomfortable"
+    ],
+    "convey": [
+      "convey",
+      "conveys"
+    ],
+    "mechaniczny": [
+      "mechaniczny",
+      "mechanicznie"
+    ],
+    "roommate": [
+      "roommate",
+      "roomate"
+    ],
+    "hopeful": [
+      "hopeful",
+      "hopefully",
+      "hopelful"
+    ],
+    "strenght": [
+      "strenght",
+      "strength"
+    ],
+    "entertained": [
+      "entertained",
+      "entertain"
+    ],
+    "unnatural": [
+      "unnatural"
+    ],
+    "natural": [
+      "natural"
+    ],
+    "travelling": [
+      "travelling",
+      "traveling"
+    ],
+    "talked": [
+      "talked"
+    ],
+    "matter": [
+      "matter",
+      "matters"
+    ],
+    "self": [
+      "self"
+    ],
+    "reaches": [
+      "reaches",
+      "reach"
+    ],
+    "attack": [
+      "attack",
+      "attacked"
+    ],
+    "tackling": [
+      "tackling"
+    ],
+    "dread": [
+      "dread"
+    ],
+    "sees": [
+      "sees"
+    ],
+    "direction": [
+      "direction",
+      "directions"
+    ],
+    "product": [
+      "product",
+      "products",
+      "produces"
+    ],
+    "valued": [
+      "valued",
+      "values",
+      "value"
+    ],
+    "not_okay": [
+      "not_okay",
+      "not_ok"
+    ],
+    "recent": [
+      "recent",
+      "recently"
+    ],
+    "no_feeling": [
+      "no_feeling",
+      "not_feeling"
+    ],
+    "not_face": [
+      "not_face"
+    ],
+    "expression": [
+      "expression",
+      "expressions"
+    ],
+    "sounds": [
+      "sounds",
+      "sound"
+    ],
+    "wait": [
+      "wait"
+    ],
+    "waist": [
+      "waist"
+    ],
+    "goodbye": [
+      "goodbye",
+      "goodybe",
+      "goodbyes"
+    ],
+    "good_boy": [
+      "good_boy",
+      "goodboy"
+    ],
+    "brazo": [
+      "brazo",
+      "brao",
+      "brazos"
+    ],
+    "crush": [
+      "crush"
+    ],
+    "engage": [
+      "engage",
+      "engaged"
+    ],
+    "initiating": [
+      "initiating",
+      "initiative",
+      "initiation"
+    ],
+    "fastidio": [
+      "fastidio",
+      "fastidioso"
+    ],
+    "socializing": [
+      "socializing",
+      "socialising",
+      "socialisng"
+    ],
+    "pobudzenie": [
+      "pobudzenie",
+      "obudzenie"
+    ],
+    "pocieszy": [
+      "pocieszy",
+      "pocieszany",
+      "pociesza"
+    ],
+    "loss": [
+      "loss"
+    ],
+    "half": [
+      "half"
+    ],
+    "checked": [
+      "checked"
+    ],
+    "alarmed": [
+      "alarmed"
+    ],
+    "mia": [
+      "mia"
+    ],
+    "overall": [
+      "overall"
+    ],
+    "steady": [
+      "steady"
+    ],
+    "awareness": [
+      "awareness"
+    ],
+    "hope": [
+      "hope"
+    ],
+    "defensive": [
+      "defensive"
+    ],
+    "uneasy": [
+      "uneasy"
+    ],
+    "clear": [
+      "clear"
+    ],
+    "pure": [
+      "pure"
+    ],
+    "no_purpose": [
+      "no_purpose"
+    ],
+    "happier": [
+      "happier"
+    ],
+    "weirded": [
+      "weirded"
+    ],
+    "floor": [
+      "floor"
+    ],
+    "looked": [
+      "looked"
+    ],
+    "alive": [
+      "alive"
+    ],
+    "nap": [
+      "nap"
+    ],
+    "silence": [
+      "silence"
+    ],
+    "il": [
+      "il"
+    ],
+    "goosebumps": [
+      "goosebumps"
+    ],
+    "odd": [
+      "odd"
+    ],
+    "presionar": [
+      "presionar"
+    ],
+    "not_want": [
+      "not_want"
+    ],
+    "exact": [
+      "exact"
+    ],
+    "control": [
+      "control"
+    ],
+    "safety": [
+      "safety"
+    ],
+    "warn": [
+      "warn"
+    ],
+    "field": [
+      "field"
+    ],
+    "resentment": [
+      "resentment"
+    ],
+    "spa": [
+      "spa"
+    ],
+    "picnic": [
+      "picnic"
+    ],
+    "heavy": [
+      "heavy"
+    ],
+    "workplace": [
+      "workplace"
+    ],
+    "library": [
+      "library"
+    ],
+    "studio": [
+      "studio"
+    ],
+    "annoyance": [
+      "annoyance"
+    ],
+    "ice": [
+      "ice"
+    ],
+    "lie": [
+      "lie"
+    ],
+    "irony": [
+      "irony"
+    ],
+    "boss": [
+      "boss"
+    ],
+    "afternoon": [
+      "afternoon"
+    ],
+    "future": [
+      "future"
+    ],
+    "admiring": [
+      "admiring"
+    ],
+    "quality": [
+      "quality"
+    ],
+    "quiet": [
+      "quiet"
+    ],
+    "especially": [
+      "especially"
+    ],
+    "suggestive": [
+      "suggestive"
+    ],
+    "reka": [
+      "reka"
+    ],
+    "occur": [
+      "occur",
+      "occurs",
+      "occours"
+    ],
+    "frightened": [
+      "frightened",
+      "frighten"
+    ],
+    "explain": [
+      "explain",
+      "explained"
+    ],
+    "sarcastic": [
+      "sarcastic",
+      "sarcastix"
+    ],
+    "belong": [
+      "belong",
+      "belongs"
+    ],
+    "inquisitive": [
+      "inquisitive",
+      "inquisitively"
+    ],
+    "affective": [
+      "affective"
+    ],
+    "passed": [
+      "passed",
+      "passes"
+    ],
+    "glad": [
+      "glad"
+    ],
+    "called": [
+      "called",
+      "calle"
+    ],
+    "confianza": [
+      "confianza",
+      "confiana"
+    ],
+    "awaken": [
+      "awaken",
+      "awakened"
+    ],
+    "accompanied": [
+      "accompanied",
+      "accompanies"
+    ],
+    "soothe": [
+      "soothe",
+      "sooth",
+      "soothed",
+      "soothes"
+    ],
+    "seconds": [
+      "seconds",
+      "second"
+    ],
+    "advice": [
+      "advice",
+      "advices"
+    ],
+    "advancing": [
+      "advancing"
+    ],
+    "healer": [
+      "healer"
+    ],
+    "dad": [
+      "dad",
+      "dads"
+    ],
+    "amor": [
+      "amor"
+    ],
+    "armor": [
+      "armor"
+    ],
+    "pointing": [
+      "pointing"
+    ],
+    "flirtatious": [
+      "flirtatious",
+      "flirtation"
+    ],
+    "scenario": [
+      "scenario",
+      "scenarios"
+    ],
+    "cosy": [
+      "cosy",
+      "coasy"
+    ],
+    "inform": [
+      "inform",
+      "informed"
+    ],
+    "hurry": [
+      "hurry",
+      "hurries",
+      "hurrying"
+    ],
+    "react": [
+      "react",
+      "reacts"
+    ],
+    "lack": [
+      "lack"
+    ],
+    "not_aware": [
+      "not_aware"
+    ],
+    "calf": [
+      "calf",
+      "calves"
+    ],
+    "activity": [
+      "activity",
+      "activities"
+    ],
+    "motivate": [
+      "motivate",
+      "motivated"
+    ],
+    "ordering": [
+      "ordering"
+    ],
+    "coming": [
+      "coming",
+      "upcoming",
+      "incoming"
+    ],
+    "topics": [
+      "topics",
+      "topic"
+    ],
+    "agree": [
+      "agree",
+      "agreed"
+    ],
+    "starting": [
+      "starting"
+    ],
+    "causing": [
+      "causing"
+    ],
+    "approaches": [
+      "approaches",
+      "approached",
+      "aprroaches"
+    ],
+    "warning": [
+      "warning"
+    ],
+    "experiment": [
+      "experiment"
+    ],
+    "experimentor": [
+      "experimentor",
+      "experimenter"
+    ],
+    "not_hurtful": [
+      "not_hurtful"
+    ],
+    "center": [
+      "center",
+      "centre"
+    ],
+    "isolation": [
+      "isolation",
+      "isolatiomn"
+    ],
+    "human": [
+      "human",
+      "humans"
+    ],
+    "humane": [
+      "humane"
+    ],
+    "cartoons": [
+      "cartoons",
+      "cartoon"
+    ],
+    "forceful": [
+      "forceful",
+      "forcefully"
+    ],
+    "broke": [
+      "broke"
+    ],
+    "broken": [
+      "broken"
+    ],
+    "greets": [
+      "greets",
+      "greet"
+    ],
+    "rytmiczne": [
+      "rytmiczne",
+      "rytmiczny"
+    ],
+    "stand": [
+      "stand",
+      "stands"
+    ],
+    "signal": [
+      "signal",
+      "signals"
+    ],
+    "prepared": [
+      "prepared",
+      "prepare",
+      "prepares"
+    ],
+    "burn": [
+      "burn",
+      "burnt",
+      "burns"
+    ],
+    "medico": [
+      "medico",
+      "mdico"
+    ],
+    "metodico": [
+      "metodico"
+    ],
+    "mexico": [
+      "mexico"
+    ],
+    "preste": [
+      "preste"
+    ],
+    "not_good": [
+      "not_good",
+      "not_go"
+    ],
+    "impersonal": [
+      "impersonal",
+      "unpersonal",
+      "inpersonal"
+    ],
+    "not_find": [
+      "not_find"
+    ],
+    "attraction": [
+      "attraction",
+      "attracting",
+      "attractive",
+      "attrition",
+      "atraction"
+    ],
+    "lady": [
+      "lady"
+    ],
+    "middle": [
+      "middle"
+    ],
+    "laptop": [
+      "laptop"
+    ],
+    "gone": [
+      "gone"
+    ],
+    "not_hurt": [
+      "not_hurt"
+    ],
+    "general_practitioner": [
+      "gp"
+    ],
+    "calmante": [
+      "calmante"
+    ],
+    "mio": [
+      "mio"
+    ],
+    "ex": [
+      "ex"
+    ],
+    "city": [
+      "city"
+    ],
+    "not_welcome": [
+      "not_welcome"
+    ],
+    "fact": [
+      "fact"
+    ],
+    "not_make": [
+      "not_make"
+    ],
+    "conforted": [
+      "conforted"
+    ],
+    "disappointed": [
+      "disappointed"
+    ],
+    "match": [
+      "match"
+    ],
+    "overly": [
+      "overly"
+    ],
+    "super": [
+      "super"
+    ],
+    "lap": [
+      "lap"
+    ],
+    "real": [
+      "real"
+    ],
+    "dealing": [
+      "dealing"
+    ],
+    "saw": [
+      "saw"
+    ],
+    "beer": [
+      "beer"
+    ],
+    "must": [
+      "must"
+    ],
+    "interaction": [
+      "interaction"
+    ],
+    "mark": [
+      "mark"
+    ],
+    "unusual": [
+      "unusual"
+    ],
+    "interlocking": [
+      "interlocking"
+    ],
+    "mild": [
+      "mild"
+    ],
+    "evoke": [
+      "evoke"
+    ],
+    "loud": [
+      "loud"
+    ],
+    "reconfortante": [
+      "reconfortante"
+    ],
+    "lonely": [
+      "lonely"
+    ],
+    "worse": [
+      "worse"
+    ],
+    "dark": [
+      "dark"
+    ],
+    "unfortunate": [
+      "unfortunate"
+    ],
+    "pen": [
+      "pen"
+    ],
+    "funeral": [
+      "funeral"
+    ],
+    "hate": [
+      "hate"
+    ],
+    "state": [
+      "state"
+    ],
+    "invaded": [
+      "invaded"
+    ],
+    "gon": [
+      "gon"
+    ],
+    "big": [
+      "big"
+    ],
+    "correct": [
+      "correct"
+    ],
+    "something_poking": [
+      "something_poking"
+    ],
+    "exit": [
+      "exit"
+    ],
+    "maintain": [
+      "maintain"
+    ],
+    "netflix": [
+      "netflix"
+    ],
+    "soon": [
+      "soon"
+    ],
+    "discouragement": [
+      "discouragement"
+    ],
+    "familiarity": [
+      "familiarity"
+    ],
+    "toddler": [
+      "toddler"
+    ],
+    "sun": [
+      "sun"
+    ],
+    "panic": [
+      "panic"
+    ],
+    "not_like": [
+      "not_like"
+    ],
+    "likely": [
+      "likely"
+    ],
+    "overwhelming": [
+      "overwhelming"
+    ],
+    "noisy": [
+      "noisy"
+    ],
+    "noise": [
+      "noise"
+    ],
+    "not_talk": [
+      "not_talk"
+    ],
+    "without_attention": [
+      "without_attention"
+    ],
+    "numbness": [
+      "numbness"
+    ],
+    "respect": [
+      "respect",
+      "respecting"
+    ],
+    "earlier": [
+      "earlier"
+    ],
+    "drag": [
+      "drag"
+    ],
+    "bothersome": [
+      "bothersome"
+    ],
+    "penis": [
+      "penis"
+    ],
+    "local": [
+      "local"
+    ],
+    "main": [
+      "main"
+    ],
+    "im": [
+      "im"
+    ],
+    "interrupting": [
+      "interrupting"
+    ],
+    "stay": [
+      "stay"
+    ],
+    "avoid": [
+      "avoid"
+    ],
+    "staying": [
+      "staying"
+    ],
+    "lotion": [
+      "lotion"
+    ],
+    "pick": [
+      "pick",
+      "picking"
+    ],
+    "pity": [
+      "pity"
+    ],
+    "para": [
+      "para"
+    ],
+    "wine": [
+      "wine"
+    ],
+    "gelatinous": [
+      "gelatinous"
+    ],
+    "dziecko": [
+      "dziecko"
+    ],
+    "gaskanie": [
+      "gaskanie"
+    ],
+    "lasts": [
+      "lasts"
+    ],
+    "de": [
+      "de"
+    ],
+    "verify": [
+      "verify"
+    ],
+    "fallen": [
+      "fallen"
+    ],
+    "apply": [
+      "apply"
+    ],
+    "afraid": [
+      "afraid"
+    ],
+    "welcoming": [
+      "welcoming"
+    ],
+    "beauty": [
+      "beauty"
+    ],
+    "taxi": [
+      "taxi"
+    ],
+    "romantyczny": [
+      "romantyczny"
+    ],
+    "budzony": [
+      "budzony"
+    ],
+    "hello": [
+      "hello",
+      "hell"
+    ],
+    "friendliness": [
+      "friendliness",
+      "friendlyness"
+    ],
+    "conscious": [
+      "conscious",
+      "consciously"
+    ],
+    "respectful": [
+      "respectful"
+    ],
+    "unrespectful": [
+      "unrespectful"
+    ],
+    "hurtful": [
+      "hurtful"
+    ],
+    "heartful": [
+      "heartful"
+    ],
+    "step": [
+      "step",
+      "steps",
+      "stepping"
+    ],
+    "conveying": [
+      "conveying"
+    ],
+    "conversing": [
+      "conversing"
+    ],
+    "kindness": [
+      "kindness",
+      "kindest"
+    ],
+    "kicking": [
+      "kicking"
+    ],
+    "patient": [
+      "patient",
+      "patients"
+    ],
+    "check_up": [
+      "check_up",
+      "checkup"
+    ],
+    "prolonged": [
+      "prolonged",
+      "prolongs"
+    ],
+    "meal": [
+      "meal",
+      "meals"
+    ],
+    "pimple": [
+      "pimple",
+      "pimples"
+    ],
+    "plans": [
+      "plans"
+    ],
+    "pan": [
+      "pan",
+      "pans"
+    ],
+    "planing": [
+      "planing"
+    ],
+    "hour": [
+      "hour",
+      "hours"
+    ],
+    "felicidad": [
+      "felicidad",
+      "felicidade"
+    ],
+    "accident": [
+      "accident"
+    ],
+    "ancient": [
+      "ancient"
+    ],
+    "friendly": [
+      "friendly",
+      "freindly",
+      "frindly",
+      "friendy"
+    ],
+    "passenger": [
+      "passenger",
+      "passengers"
+    ],
+    "ribs": [
+      "ribs",
+      "rib"
+    ],
+    "bringing": [
+      "bringing"
+    ],
+    "growing": [
+      "growing"
+    ],
+    "showed": [
+      "showed"
+    ],
+    "speed": [
+      "speed"
+    ],
+    "illness": [
+      "illness"
+    ],
+    "sports": [
+      "sports"
+    ],
+    "sorts": [
+      "sorts"
+    ],
+    "involved": [
+      "involved",
+      "involves"
+    ],
+    "hall": [
+      "hall"
+    ],
+    "adults": [
+      "adults",
+      "adult"
+    ],
+    "indoors": [
+      "indoors",
+      "indoor"
+    ],
+    "couple": [
+      "couple",
+      "couples"
+    ],
+    "comprimere": [
+      "comprimere",
+      "comprimir"
+    ],
+    "gentleness": [
+      "gentleness",
+      "gentlesness"
+    ],
+    "not_anything": [
+      "not_anything"
+    ],
+    "not_nothing": [
+      "not_nothing"
+    ],
+    "barriers": [
+      "barriers",
+      "barrier"
+    ],
+    "resmate": [
+      "resmate"
+    ],
+    "restante": [
+      "restante"
+    ],
+    "building": [
+      "building"
+    ],
+    "balding": [
+      "balding"
+    ],
+    "assist": [
+      "assist",
+      "assisted"
+    ],
+    "embarrassing": [
+      "embarrassing",
+      "embarrasing"
+    ],
+    "parlour": [
+      "parlour",
+      "parlor"
+    ],
+    "mentioned": [
+      "mentioned",
+      "mention"
+    ],
+    "spontaneous": [
+      "spontaneous",
+      "spontaneously"
+    ],
+    "injection": [
+      "injection"
+    ],
+    "delikatny": [
+      "delikatny",
+      "delikatnie"
+    ],
+    "offer": [
+      "offer",
+      "offers"
+    ],
+    "send": [
+      "send",
+      "sending"
+    ],
+    "consensual": [
+      "consensual"
+    ],
+    "unconsensual": [
+      "unconsensual"
+    ],
+    "spokj": [
+      "spokj",
+      "pokj"
+    ],
+    "not_soft": [
+      "not_soft"
+    ],
+    "not_lot": [
+      "not_lot"
+    ],
+    "motivation": [
+      "motivation",
+      "motivating"
+    ],
+    "honest": [
+      "honest",
+      "honestly"
+    ],
+    "machine": [
+      "machine",
+      "macchina"
+    ],
+    "patronising": [
+      "patronising",
+      "patronizing"
+    ],
+    "shake": [
+      "shake"
+    ],
+    "sake": [
+      "sake"
+    ],
+    "shaken": [
+      "shaken"
+    ],
+    "begin": [
+      "begin",
+      "begins"
+    ],
+    "run": [
+      "run",
+      "runs"
+    ],
+    "missing": [
+      "missing"
+    ],
+    "non_invasive": [
+      "non_invasive",
+      "not_invasive"
+    ],
+    "sliding": [
+      "sliding",
+      "slidding"
+    ],
+    "not_movie": [
+      "not_movie"
+    ],
+    "not_move": [
+      "not_move"
+    ],
+    "genuinely": [
+      "genuinely",
+      "genuine"
+    ],
+    "expecting": [
+      "expecting"
+    ],
+    "follow": [
+      "follow",
+      "followed",
+      "follows"
+    ],
+    "brushed": [
+      "brushed"
+    ],
+    "congratulate": [
+      "congratulate",
+      "congratulated",
+      "congratulative"
+    ],
+    "humorous": [
+      "humorous",
+      "humurous"
+    ],
+    "amorous": [
+      "amorous"
+    ],
+    "relevant": [
+      "relevant"
+    ],
+    "irrelevant": [
+      "irrelevant"
+    ],
+    "elegant": [
+      "elegant"
+    ],
+    "not_agressive": [
+      "not_agressive",
+      "not_aggressive"
+    ],
+    "stimulated": [
+      "stimulated",
+      "stimulates",
+      "simulates"
+    ],
+    "raises": [
+      "raises"
+    ],
+    "przyjemny": [
+      "przyjemny",
+      "przyjemno",
+      "przyjemne"
+    ],
+    "potentially": [
+      "potentially",
+      "potential"
+    ],
+    "deeper": [
+      "deeper",
+      "deepen"
+    ],
+    "arrive": [
+      "arrive",
+      "arrived",
+      "arrives"
+    ],
+    "silent": [
+      "silent",
+      "silently"
+    ],
+    "ball": [
+      "ball",
+      "bally"
+    ],
+    "position": [
+      "position",
+      "positions"
+    ],
+    "compressed": [
+      "compressed",
+      "compress"
+    ],
+    "inject": [
+      "inject",
+      "injected"
+    ],
+    "cat": [
+      "cat"
+    ],
+    "exert": [
+      "exert"
+    ],
+    "brief": [
+      "brief"
+    ],
+    "fix": [
+      "fix"
+    ],
+    "seriously": [
+      "seriously"
+    ],
+    "di": [
+      "di"
+    ],
+    "satisfy": [
+      "satisfy"
+    ],
+    "injured": [
+      "injured"
+    ],
+    "injuring": [
+      "injuring"
+    ],
+    "psychological": [
+      "psychological"
+    ],
+    "today": [
+      "today"
+    ],
+    "strong": [
+      "strong",
+      "stronger",
+      "strongly"
+    ],
+    "pleasurable": [
+      "pleasurable"
+    ],
+    "faster": [
+      "faster"
+    ],
+    "usual": [
+      "usual"
+    ],
+    "goofy": [
+      "goofy"
+    ],
+    "overstimulated": [
+      "overstimulated"
+    ],
+    "stopped": [
+      "stopped",
+      "stopping"
+    ],
+    "initially": [
+      "initially"
+    ],
+    "soccer": [
+      "soccer"
+    ],
+    "trusted": [
+      "trusted"
+    ],
+    "mushy": [
+      "mushy"
+    ],
+    "pleased": [
+      "pleased"
+    ],
+    "proximity": [
+      "proximity"
+    ],
+    "constantly": [
+      "constantly"
+    ],
+    "sorry": [
+      "sorry"
+    ],
+    "robotic": [
+      "robotic"
+    ],
+    "evasive": [
+      "evasive"
+    ],
+    "unique": [
+      "unique"
+    ],
+    "dentist": [
+      "dentist"
+    ],
+    "improve": [
+      "improve"
+    ],
+    "enquiring": [
+      "enquiring"
+    ],
+    "mocking": [
+      "mocking"
+    ],
+    "ironic": [
+      "ironic"
+    ],
+    "fat": [
+      "fat"
+    ],
+    "intensity": [
+      "intensity"
+    ],
+    "daily": [
+      "daily"
+    ],
+    "weekend": [
+      "weekend"
+    ],
+    "team": [
+      "team"
+    ],
+    "desperately": [
+      "desperately"
+    ],
+    "lattenzione": [
+      "lattenzione"
+    ],
+    "heat": [
+      "heat",
+      "heating"
+    ],
+    "satisfying": [
+      "satisfying"
+    ],
+    "tiny": [
+      "tiny"
+    ],
+    "money": [
+      "money"
+    ],
+    "atencin": [
+      "atencin"
+    ],
+    "agradable": [
+      "agradable"
+    ],
+    "delicado": [
+      "delicado"
+    ],
+    "world": [
+      "world"
+    ],
+    "church": [
+      "church"
+    ],
+    "country": [
+      "country"
+    ],
+    "wierd": [
+      "wierd"
+    ],
+    "unknown": [
+      "unknown"
+    ],
+    "deeply": [
+      "deeply"
+    ],
+    "stuck": [
+      "stuck"
+    ],
+    "move": [
+      "moves",
+      "moving"
+    ],
+    "movement": [
+      "movement"
+    ],
+    "static": [
+      "static"
+    ],
+    "take": [
+      "takes",
+      "taking"
+    ],
+    "easy": [
+      "easy"
+    ],
+    "red": [
+      "red"
+    ],
+    "nervousness": [
+      "nervousness"
+    ],
+    "grade": [
+      "grade"
+    ],
+    "mr": [
+      "mr"
+    ],
+    "hovering": [
+      "hovering"
+    ],
+    "scene": [
+      "scene"
+    ],
+    "hotel": [
+      "hotel"
+    ],
+    "offensive": [
+      "offensive"
+    ],
+    "higher": [
+      "higher"
+    ],
+    "willingness": [
+      "willingness"
+    ],
+    "truly": [
+      "truly"
+    ],
+    "window": [
+      "window"
+    ],
+    "comment": [
+      "comment"
+    ],
+    "alienation": [
+      "alienation"
+    ],
+    "hip": [
+      "hip"
+    ],
+    "laboratory": [
+      "laboratory"
+    ],
+    "asks": [
+      "asks"
+    ],
+    "mocked": [
+      "mocked"
+    ],
+    "healthcare": [
+      "healthcare"
+    ],
+    "unhappy": [
+      "unhappy"
+    ],
+    "nearby": [
+      "nearby"
+    ],
+    "kiss": [
+      "kiss",
+      "kissing"
+    ],
+    "sunny": [
+      "sunny"
+    ],
+    "warmly": [
+      "warmly"
+    ],
+    "establishing": [
+      "establishing"
+    ],
+    "death": [
+      "death"
+    ],
+    "quietly": [
+      "quietly"
+    ],
+    "elbow": [
+      "elbow"
+    ],
+    "not_matter": [
+      "not_matter"
+    ],
+    "medication": [
+      "medication"
+    ],
+    "swollen": [
+      "swollen"
+    ],
+    "temperature": [
+      "temperature"
+    ],
+    "regret": [
+      "regret"
+    ],
+    "boundaries": [
+      "boundaries"
+    ],
+    "functional": [
+      "functional"
+    ],
+    "attending": [
+      "attending"
+    ],
+    "itchiness": [
+      "itchiness"
+    ],
+    "ending": [
+      "ending"
+    ],
+    "itching": [
+      "itching"
+    ],
+    "example": [
+      "example"
+    ],
+    "professor": [
+      "professor"
+    ],
+    "awesome": [
+      "awesome"
+    ],
+    "attached": [
+      "attached"
+    ],
+    "ear": [
+      "ear"
+    ],
+    "club": [
+      "club"
+    ],
+    "oily": [
+      "oily"
+    ],
+    "foreplay": [
+      "foreplay"
+    ],
+    "ward": [
+      "ward"
+    ],
+    "hold": [
+      "hold"
+    ],
+    "fight": [
+      "fight"
+    ],
+    "endearment": [
+      "endearment"
+    ],
+    "scrolling": [
+      "scrolling"
+    ],
+    "elderly": [
+      "elderly"
+    ],
+    "studying": [
+      "studying"
+    ],
+    "trusting": [
+      "trusting"
+    ],
+    "online": [
+      "online"
+    ],
+    "tram": [
+      "tram"
+    ],
+    "impactful": [
+      "impactful"
+    ],
+    "est": [
+      "est"
+    ],
+    "parceiro": [
+      "parceiro"
+    ],
+    "tranquilizador": [
+      "tranquilizador"
+    ],
+    "nurturing": [
+      "nurturing"
+    ],
+    "town": [
+      "town"
+    ],
+    "turning": [
+      "turning"
+    ],
+    "inspiration": [
+      "inspiration"
+    ],
+    "numbing": [
+      "numbing"
+    ],
+    "ignoring": [
+      "ignoring"
+    ],
+    "binging": [
+      "binging"
+    ],
+    "cel": [
+      "cel"
+    ],
+    "jest": [
+      "jest"
+    ],
+    "zaufanie": [
+      "zaufanie"
+    ],
+    "ciepy": [
+      "ciepy"
+    ],
+    "not_malicious": [
+      "not_malicious"
+    ],
+    "crowded": [
+      "crowded"
+    ],
+    "gym": [
+      "gym"
+    ],
+    "beloved": [
+      "beloved"
+    ],
+    "bully": [
+      "bully"
+    ],
+    "grass": [
+      "grass"
+    ],
+    "outraged": [
+      "outraged"
+    ],
+    "wipe": [
+      "wipe"
+    ],
+    "spilled": [
+      "spilled"
+    ],
+    "eg": [
+      "eg"
+    ],
+    "previously": [
+      "previously"
+    ],
+    "reiki": [
+      "reiki"
+    ],
+    "rude": [
+      "rude"
+    ],
+    "shirt": [
+      "shirt"
+    ],
+    "needing": [
+      "needing"
+    ],
+    "cafeteria": [
+      "cafeteria"
+    ],
+    "hopeless": [
+      "hopeless"
+    ],
+    "twice": [
+      "twice"
+    ],
+    "remotely": [
+      "remotely"
+    ],
+    "greasy": [
+      "greasy"
+    ],
+    "disrespected": [
+      "disrespected"
+    ],
+    "crowd": [
+      "crowd"
+    ],
+    "artificial": [
+      "artificial"
+    ],
+    "moja": [
+      "moja"
+    ],
+    "jabbing": [
+      "jabbing"
+    ],
+    "obojetnosc": [
+      "obojetnosc"
+    ],
+    "lekarskim": [
+      "lekarskim"
+    ],
+    "profesjonalista": [
+      "profesjonalista"
+    ],
+    "gabinecie": [
+      "gabinecie"
+    ],
+    "insistant": [
+      "insistant"
+    ],
+    "insist": [
+      "insisting",
+      "insistent"
+    ],
+    "lab": [
+      "lab"
+    ],
+    "another_person": [
+      "aother"
+    ],
+    "modo": [
+      "modo",
+      "cmodo"
+    ],
+    "mano": [
+      "mano",
+      "manor"
+    ],
+    "knocks": [
+      "knocks",
+      "knock"
+    ],
+    "knocking": [
+      "knocking"
+    ],
+    "appealing": [
+      "appealing"
+    ],
+    "appeasing": [
+      "appeasing"
+    ],
+    "thorough": [
+      "thorough",
+      "thoroughly"
+    ],
+    "non_sexual": [
+      "non_sexual",
+      "not_sexual"
+    ],
+    "toy": [
+      "toy",
+      "toys"
+    ],
+    "judged": [
+      "judged",
+      "judge"
+    ],
+    "lips": [
+      "lips",
+      "lip"
+    ],
+    "proper": [
+      "proper",
+      "properly"
+    ],
+    "discreet": [
+      "discreet",
+      "discrete"
+    ],
+    "prove": [
+      "prove",
+      "proves"
+    ],
+    "argument": [
+      "argument",
+      "arguments"
+    ],
+    "emotionless": [
+      "emotionless"
+    ],
+    "motionless": [
+      "motionless"
+    ],
+    "winter": [
+      "winter"
+    ],
+    "surely": [
+      "surely"
+    ],
+    "complicity": [
+      "complicity",
+      "complicit"
+    ],
+    "process": [
+      "process",
+      "proceeds"
+    ],
+    "collega": [
+      "collega",
+      "collegata"
+    ],
+    "sensibility": [
+      "sensibility"
+    ],
+    "character": [
+      "character",
+      "charcter"
+    ],
+    "alegra": [
+      "alegra",
+      "alegre"
+    ],
+    "curiosidad": [
+      "curiosidad",
+      "curiosidade"
+    ],
+    "tested": [
+      "tested",
+      "teased"
+    ],
+    "zoned": [
+      "zoned",
+      "zone"
+    ],
+    "lumps": [
+      "lumps",
+      "lump"
+    ],
+    "pricking": [
+      "pricking",
+      "packing"
+    ],
+    "patronized": [
+      "patronized",
+      "patronised"
+    ],
+    "empathize": [
+      "empathize"
+    ],
+    "troubles": [
+      "troubles",
+      "trouble"
+    ],
+    "favor": [
+      "favor",
+      "favour"
+    ],
+    "confiding": [
+      "confiding"
+    ],
+    "exploring": [
+      "exploring",
+      "expploring"
+    ],
+    "reaching": [
+      "reaching",
+      "searching"
+    ],
+    "fall": [
+      "fall",
+      "falls"
+    ],
+    "well_being": [
+      "well_being",
+      "wellbeing"
+    ],
+    "whispering": [
+      "whispering",
+      "whispeing"
+    ],
+    "heading": [
+      "heading"
+    ],
+    "powdery": [
+      "powdery",
+      "powder"
+    ],
+    "me_comfort": [
+      "me_comfort",
+      "me_confort"
+    ],
+    "lead": [
+      "lead",
+      "leads"
+    ],
+    "tapped": [
+      "tapped"
+    ],
+    "attirare": [
+      "attirare"
+    ],
+    "strengthen": [
+      "strengthen",
+      "strangthen"
+    ],
+    "turned": [
+      "turned"
+    ],
+    "details": [
+      "details",
+      "detailed"
+    ],
+    "habit": [
+      "habit",
+      "abit"
+    ],
+    "dependent": [
+      "dependent",
+      "despondent"
+    ],
+    "decisive": [
+      "decisive",
+      "decisively"
+    ],
+    "chamar": [
+      "chamar",
+      "chama"
+    ],
+    "carinhoso": [
+      "carinhoso",
+      "carinho"
+    ],
+    "mostrar": [
+      "mostrar",
+      "mostrarme"
+    ],
+    "achievement": [
+      "achievement",
+      "achievements"
+    ],
+    "weight": [
+      "weight",
+      "weights"
+    ],
+    "dotykany": [
+      "dotykany",
+      "dotyka"
+    ],
+    "askotanie": [
+      "askotanie",
+      "askotany"
+    ],
+    "till": [
+      "till",
+      "tills"
+    ],
+    "demonstrating": [
+      "demonstrating",
+      "demonstration"
+    ],
+    "sprained": [
+      "sprained"
+    ],
+    "praying": [
+      "praying"
+    ],
+    "praise": [
+      "praise",
+      "praises"
+    ],
+    "achieve": [
+      "achieve",
+      "achieved"
+    ],
+    "not_delicate": [
+      "not_delicate"
+    ],
+    "not_indelicate": [
+      "not_indelicate"
+    ],
+    "timing": [
+      "timing"
+    ],
+    "joyful": [
+      "joyful",
+      "joyfull"
+    ],
+    "tone": [
+      "tone",
+      "tones"
+    ],
+    "week": [
+      "week",
+      "weeks"
+    ],
+    "harass": [
+      "harass",
+      "harassed"
+    ],
+    "rhythmically": [
+      "rhythmically",
+      "rhytmicaly"
+    ],
+    "concentration": [
+      "concentration",
+      "concentrating"
+    ],
+    "horrific": [
+      "horrific",
+      "horrified"
+    ],
+    "zamiar": [
+      "zamiar",
+      "zamiaru"
+    ],
+    "disappointment": [
+      "disappointment",
+      "disapointment"
+    ],
+    "accarezzare": [
+      "accarezzare",
+      "accarezza"
+    ],
+    "entrance": [
+      "entrance"
+    ],
+    "enhance": [
+      "enhance"
+    ],
+    "notes": [
+      "notes",
+      "note"
+    ],
+    "bank": [
+      "bank"
+    ],
+    "blank": [
+      "blank"
+    ],
+    "black": [
+      "black"
+    ],
+    "belittle": [
+      "belittle",
+      "belittled"
+    ],
+    "emphasising": [
+      "emphasising",
+      "emphasizing"
+    ],
+    "light_hearted": [
+      "light_hearted",
+      "lighthearted"
+    ],
+    "sorrow": [
+      "sorrow"
+    ],
+    "heart": [
+      "heart"
+    ],
+    "uwagi": [
+      "uwagi",
+      "uwag"
+    ],
+    "obudzic": [
+      "obudzic",
+      "obudzi"
+    ],
+    "suggests": [
+      "suggests",
+      "suggest"
+    ],
+    "pocieszenie": [
+      "pocieszenie",
+      "pocieszenia"
+    ],
+    "release": [
+      "release",
+      "releasing",
+      "released"
+    ],
+    "vinculo": [
+      "vinculo",
+      "vnculo"
+    ],
+    "leisure": [
+      "leisure"
+    ],
+    "maravilla": [
+      "maravilla",
+      "maravilha"
+    ],
+    "deadend": [
+      "deadend",
+      "deadened"
+    ],
+    "dead": [
+      "dead"
+    ],
+    "hear_warming": [
+      "hear_warming",
+      "heartwarming",
+      "heart_warming"
+    ],
+    "investigative": [
+      "investigative",
+      "investigating",
+      "investigate"
+    ],
+    "inquiring": [
+      "inquiring"
+    ],
+    "reveal": [
+      "reveal",
+      "revealed"
+    ],
+    "not_wok": [
+      "not_wok"
+    ],
+    "reverasl": [
+      "reversal"
+    ],
+    "request": [
+      "request",
+      "requests",
+      "requested"
+    ],
+    "congratualting": [
+      "congratualting",
+      "congratuling",
+      "congratulating"
+    ],
+    "someting": [
+      "someting",
+      "somethnig",
+      "somethig"
+    ],
+    "noticing": [
+      "noticing",
+      "noticia"
+    ],
+    "recognise": [
+      "recognise",
+      "recognises",
+      "recognized"
+    ],
+    "figure": [
+      "figure",
+      "figures"
+    ],
+    "successful": [
+      "successful",
+      "successfully"
+    ],
+    "unsuccessful": [
+      "unsuccessful"
+    ],
+    "cramp": [
+      "cramps",
+      "cramp",
+      "cramping"
+    ],
+    "played": [
+      "played"
+    ],
+    "player": [
+      "player"
+    ],
+    "acaricia": [
+      "acaricia",
+      "caricia",
+      "acariciar"
+    ],
+    "moisturiser": [
+      "moisturiser",
+      "moisturize",
+      "moisturised"
+    ],
+    "marked": [
+      "marked"
+    ],
+    "market": [
+      "market"
+    ],
+    "marker": [
+      "marker"
+    ],
+    "oldest": [
+      "oldest",
+      "eldest"
+    ],
+    "fridge": [
+      "fridge"
+    ],
+    "dear": [
+      "dear"
+    ],
+    "precise": [
+      "precise"
+    ],
+    "gracious": [
+      "gracious"
+    ],
+    "domestic": [
+      "domestic"
+    ],
+    "ate": [
+      "ate"
+    ],
+    "elder": [
+      "elder"
+    ],
+    "establish": [
+      "establish"
+    ],
+    "controlling": [
+      "controlling"
+    ],
+    "parte": [
+      "parte"
+    ],
+    "tocco": [
+      "tocco"
+    ],
+    "confortevole": [
+      "confortevole"
+    ],
+    "del": [
+      "del"
+    ],
+    "intimo": [
+      "intimo"
+    ],
+    "sul": [
+      "sul"
+    ],
+    "gesto": [
+      "gesto"
+    ],
+    "diffuse": [
+      "diffuse"
+    ],
+    "fire": [
+      "fire"
+    ],
+    "prefer": [
+      "prefer"
+    ],
+    "blue": [
+      "blue"
+    ],
+    "preoccupied": [
+      "preoccupied"
+    ],
+    "tolerable": [
+      "tolerable"
+    ],
+    "grumpy": [
+      "grumpy"
+    ],
+    "kindly": [
+      "kindly"
+    ],
+    "not_sense": [
+      "not_sense"
+    ],
+    "entertaining": [
+      "entertaining"
+    ],
+    "count": [
+      "count"
+    ],
+    "football": [
+      "football"
+    ],
+    "unsettled": [
+      "unsettled"
+    ],
+    "back_home": [
+      "back_home"
+    ],
+    "not_forearm": [
+      "not_forearm"
+    ],
+    "not_affect": [
+      "not_affect"
+    ],
+    "pulling": [
+      "pulling"
+    ],
+    "sincere": [
+      "sincere"
+    ],
+    "forest": [
+      "forest"
+    ],
+    "agreeing": [
+      "agreeing"
+    ],
+    "monotonous": [
+      "monotonous"
+    ],
+    "yes": [
+      "yes"
+    ],
+    "back_work": [
+      "back_work"
+    ],
+    "grounding": [
+      "grounding"
+    ],
+    "sunset": [
+      "sunset"
+    ],
+    "discover": [
+      "discover"
+    ],
+    "impatiently": [
+      "impatiently"
+    ],
+    "loose": [
+      "loose"
+    ],
+    "mock": [
+      "mock"
+    ],
+    "not_expect": [
+      "not_expect"
+    ],
+    "voice": [
+      "voice"
+    ],
+    "basic": [
+      "basic"
+    ],
+    "non": [
+      "non"
+    ],
+    "refusal": [
+      "refusal"
+    ],
+    "uncle": [
+      "uncle"
+    ],
+    "enticing": [
+      "enticing"
+    ],
+    "unintentional": [
+      "unintentional"
+    ],
+    "reservation": [
+      "reservation"
+    ],
+    "ashamed": [
+      "ashamed"
+    ],
+    "towels": [
+      "towels"
+    ],
+    "overstimulating": [
+      "overstimulating"
+    ],
+    "hi": [
+      "hi"
+    ],
+    "valuable": [
+      "valuable"
+    ],
+    "not_respond": [
+      "not_respond"
+    ],
+    "daydreaming": [
+      "daydreaming"
+    ],
+    "press": [
+      "press"
+    ],
+    "show_closeness": [
+      "show_closeness"
+    ],
+    "abrupt": [
+      "abrupt"
+    ],
+    "dog": [
+      "dog"
+    ],
+    "layed": [
+      "layed"
+    ],
+    "each_other": [
+      "eachother",
+      "eah"
+    ],
+    "fighting": [
+      "fighting"
+    ],
+    "dishes": [
+      "dishes"
+    ],
+    "youtube": [
+      "youtube"
+    ],
+    "lavoro": [
+      "lavoro"
+    ],
+    "spalla": [
+      "spalla"
+    ],
+    "covered": [
+      "covered"
+    ],
+    "vibes": [
+      "vibes"
+    ],
+    "display": [
+      "display"
+    ],
+    "bumps": [
+      "bumps"
+    ],
+    "fearful": [
+      "fearful"
+    ],
+    "roughly": [
+      "roughly"
+    ],
+    "goose": [
+      "goose"
+    ],
+    "performing": [
+      "performing"
+    ],
+    "procedure": [
+      "procedure"
+    ],
+    "water": [
+      "water"
+    ],
+    "mate": [
+      "mate"
+    ],
+    "corner": [
+      "corner"
+    ],
+    "engrossed": [
+      "engrossed"
+    ],
+    "nail": [
+      "nail"
+    ],
+    "estoy": [
+      "estoy"
+    ],
+    "enfocado": [
+      "enfocado"
+    ],
+    "atraer": [
+      "atraer"
+    ],
+    "amistoso": [
+      "amistoso"
+    ],
+    "conexin": [
+      "conexin"
+    ],
+    "relajante": [
+      "relajante"
+    ],
+    "tierno": [
+      "tierno"
+    ],
+    "tranquilidad": [
+      "tranquilidad"
+    ],
+    "alivio": [
+      "alivio"
+    ],
+    "apoyo": [
+      "apoyo"
+    ],
+    "clido": [
+      "clido"
+    ],
+    "golpear": [
+      "golpear"
+    ],
+    "venting": [
+      "venting",
+      "vent",
+      "vented"
+    ],
+    "no_reason": [
+      "no_reason"
+    ],
+    "tad": [
+      "tad"
+    ],
+    "passion": [
+      "passion"
+    ],
+    "heal": [
+      "heal",
+      "healing"
+    ],
+    "mistake": [
+      "mistake"
+    ],
+    "caught": [
+      "caught"
+    ],
+    "disrespectful": [
+      "disrespectful"
+    ],
+    "fuzzy": [
+      "fuzzy"
+    ],
+    "lately": [
+      "lately"
+    ],
+    "cut": [
+      "cut"
+    ],
+    "squeeze": [
+      "squeeze"
+    ],
+    "destination": [
+      "destination"
+    ],
+    "balance": [
+      "balance"
+    ],
+    "unwell": [
+      "unwell"
+    ],
+    "stove": [
+      "stove"
+    ],
+    "threatening": [
+      "threatening"
+    ],
+    "took": [
+      "took"
+    ],
+    "object": [
+      "object"
+    ],
+    "effects": [
+      "effects"
+    ],
+    "workmate": [
+      "workmate"
+    ],
+    "emotive": [
+      "emotive"
+    ],
+    "harassment": [
+      "harassment"
+    ],
+    "embolden": [
+      "embolden"
+    ],
+    "childish": [
+      "childish"
+    ],
+    "tedious": [
+      "tedious"
+    ],
+    "conducting": [
+      "conducting"
+    ],
+    "pool": [
+      "pool"
+    ],
+    "beginning": [
+      "beginning"
+    ],
+    "gaining": [
+      "gaining"
+    ],
+    "capture": [
+      "capture"
+    ],
+    "affirming": [
+      "affirming"
+    ],
+    "wallet": [
+      "wallet"
+    ],
+    "no_space": [
+      "no_space"
+    ],
+    "invoke": [
+      "invoke"
+    ],
+    "physiotherapy": [
+      "physiotherapy"
+    ],
+    "met": [
+      "met"
+    ],
+    "muscular": [
+      "muscular"
+    ],
+    "facility": [
+      "facility"
+    ],
+    "popcorn": [
+      "popcorn"
+    ],
+    "conference": [
+      "conference"
+    ],
+    "without_emotion": [
+      "without_emotion"
+    ],
+    "source": [
+      "source"
+    ],
+    "input": [
+      "input"
+    ],
+    "putting": [
+      "putting"
+    ],
+    "brought": [
+      "brought"
+    ],
+    "reality": [
+      "reality"
+    ],
+    "gave": [
+      "gave"
+    ],
+    "confirm": [
+      "confirm",
+      "confirming"
+    ],
+    "died": [
+      "died"
+    ],
+    "carresing": [
+      "carresing"
+    ],
+    "carrying": [
+      "carrying"
+    ],
+    "airbnb": [
+      "airbnb"
+    ],
+    "lumpy": [
+      "lumpy"
+    ],
+    "improvement": [
+      "improvement"
+    ],
+    "pretending": [
+      "pretending"
+    ],
+    "alarm": [
+      "alarm"
+    ],
+    "bc": [
+      "bc"
+    ],
+    "kept": [
+      "kept"
+    ],
+    "finally": [
+      "finally"
+    ],
+    "balcony": [
+      "balcony"
+    ],
+    "satisfied": [
+      "satisfied"
+    ],
+    "everytime": [
+      "everytime"
+    ],
+    "vitals": [
+      "vitals"
+    ],
+    "fee": [
+      "fee"
+    ],
+    "symphaty": [
+      "symphaty"
+    ],
+    "without_affection": [
+      "without_affection"
+    ],
+    "platonic": [
+      "platonic"
+    ],
+    "playfulness": [
+      "playfulness"
+    ],
+    "buying": [
+      "buying"
+    ],
+    "licks": [
+      "licks"
+    ],
+    "shoot": [
+      "shoot",
+      "shooting"
+    ],
+    "provoking": [
+      "provoking"
+    ],
+    "kitty": [
+      "kitty"
+    ],
+    "arn": [
+      "arn"
+    ],
+    "nieces": [
+      "nieces",
+      "niece"
+    ],
+    "grabbed": [
+      "grabbed"
+    ],
+    "degree": [
+      "degree"
+    ],
+    "ago": [
+      "ago"
+    ],
+    "me_partner": [
+      "me_partner"
+    ],
+    "prior": [
+      "prior"
+    ],
+    "perception": [
+      "perception"
+    ],
+    "straight": [
+      "straight"
+    ],
+    "minimal": [
+      "minimal"
+    ],
+    "bland": [
+      "bland"
+    ],
+    "mutual": [
+      "mutual"
+    ],
+    "privacy": [
+      "privacy"
+    ],
+    "trick": [
+      "trick"
+    ],
+    "expectant": [
+      "expectant"
+    ],
+    "harder": [
+      "harder"
+    ],
+    "root": [
+      "root"
+    ],
+    "literally": [
+      "literally"
+    ],
+    "mosquito": [
+      "mosquito"
+    ],
+    "back_bedroom": [
+      "back_bedroom"
+    ],
+    "idea": [
+      "idea"
+    ],
+    "bathroom": [
+      "bathroom"
+    ],
+    "months": [
+      "months"
+    ],
+    "throwing": [
+      "throwing"
+    ],
+    "warming": [
+      "warming"
+    ],
+    "harming": [
+      "harming"
+    ],
+    "winner": [
+      "winner"
+    ],
+    "physio": [
+      "physio"
+    ],
+    "failure": [
+      "failure"
+    ],
+    "slides": [
+      "slides"
+    ],
+    "unalarming": [
+      "unalarming"
+    ],
+    "banter": [
+      "banter"
+    ],
+    "slinding": [
+      "slinding"
+    ],
+    "beautiful": [
+      "beautiful"
+    ],
+    "surface": [
+      "surface"
+    ],
+    "says": [
+      "says"
+    ],
+    "song": [
+      "song"
+    ],
+    "assessing": [
+      "assessing"
+    ],
+    "miserably": [
+      "miserably"
+    ],
+    "paid": [
+      "paid"
+    ],
+    "reunion": [
+      "reunion"
+    ],
+    "spiritual": [
+      "spiritual"
+    ],
+    "breakdown": [
+      "breakdown"
+    ],
+    "padding": [
+      "padding"
+    ],
+    "add": [
+      "add"
+    ],
+    "common": [
+      "common"
+    ],
+    "not_able": [
+      "not_able"
+    ],
+    "reciprocate": [
+      "reciprocate"
+    ],
+    "consolidating": [
+      "consolidating"
+    ],
+    "despertador": [
+      "despertador"
+    ],
+    "algo": [
+      "algo"
+    ],
+    "ateno": [
+      "ateno"
+    ],
+    "num": [
+      "num"
+    ],
+    "amigo": [
+      "amigo"
+    ],
+    "estamos": [
+      "estamos"
+    ],
+    "quente": [
+      "quente"
+    ],
+    "macio": [
+      "macio"
+    ],
+    "comida": [
+      "comida"
+    ],
+    "fully": [
+      "fully"
+    ],
+    "not_understand": [
+      "not_understand"
+    ],
+    "criticizing": [
+      "criticizing"
+    ],
+    "challenges": [
+      "challenges"
+    ],
+    "grandson": [
+      "grandson"
+    ],
+    "rodrigo": [
+      "rodrigo"
+    ],
+    "basically": [
+      "basically"
+    ],
+    "hungry": [
+      "hungry"
+    ],
+    "dziwny": [
+      "dziwny"
+    ],
+    "dom": [
+      "dom"
+    ],
+    "si": [
+      "si"
+    ],
+    "przyjaciel": [
+      "przyjaciel"
+    ],
+    "duchu": [
+      "duchu"
+    ],
+    "podnoszcy": [
+      "podnoszcy"
+    ],
+    "kojcy": [
+      "kojcy"
+    ],
+    "chce": [
+      "chce"
+    ],
+    "przywizanie": [
+      "przywizanie"
+    ],
+    "tarcie": [
+      "tarcie"
+    ],
+    "spanish": [
+      "spanish"
+    ],
+    "partially": [
+      "partially"
+    ],
+    "served": [
+      "served"
+    ],
+    "assisting": [
+      "assisting"
+    ],
+    "stingy": [
+      "stingy"
+    ],
+    "babysitting": [
+      "babysitting"
+    ],
+    "intend": [
+      "intending",
+      "intend",
+      "intended",
+      "intends",
+      "intende"
+    ],
+    "passionate": [
+      "passionate"
+    ],
+    "guy": [
+      "guy"
+    ],
+    "el": [
+      "el"
+    ],
+    "suavemente": [
+      "suavemente"
+    ],
+    "haciendo": [
+      "haciendo"
+    ],
+    "lugar": [
+      "lugar"
+    ],
+    "donde": [
+      "donde"
+    ],
+    "espalda": [
+      "espalda"
+    ],
+    "estn": [
+      "estn"
+    ],
+    "como": [
+      "como"
+    ],
+    "spent": [
+      "spent"
+    ],
+    "granny": [
+      "granny"
+    ],
+    "bag": [
+      "bag"
+    ],
+    "breakup": [
+      "breakup"
+    ],
+    "wholesome": [
+      "wholesome"
+    ],
+    "everyday": [
+      "everyday"
+    ],
+    "weakly": [
+      "weakly"
+    ],
+    "bearable": [
+      "bearable"
+    ],
+    "serene": [
+      "serene"
+    ],
+    "not_painful": [
+      "not_painful"
+    ],
+    "far": [
+      "far"
+    ],
+    "infiting": [
+      "infiting"
+    ],
+    "not_concentrate": [
+      "not_concentrate"
+    ],
+    "subway": [
+      "subway"
+    ],
+    "tried": [
+      "tried"
+    ],
+    "wanna": [
+      "wanna"
+    ],
+    "blade": [
+      "blade"
+    ],
+    "attitude": [
+      "attitude"
+    ],
+    "mainly": [
+      "mainly"
+    ],
+    "hallway": [
+      "hallway"
+    ],
+    "specifically": [
+      "specifically"
+    ],
+    "badly": [
+      "badly"
+    ],
+    "believe": [
+      "believes",
+      "believe"
+    ],
+    "bum": [
+      "bum"
+    ],
+    "action": [
+      "action"
+    ],
+    "pc": [
+      "pc"
+    ],
+    "kidding": [
+      "kidding"
+    ],
+    "tummy": [
+      "tummy"
+    ],
+    "cough": [
+      "cough"
+    ],
+    "capable": [
+      "capable"
+    ],
+    "tranquility": [
+      "tranquility"
+    ],
+    "sweetness": [
+      "sweetness"
+    ],
+    "perceive": [
+      "perceive",
+      "perceived"
+    ],
+    "fulfilled": [
+      "fulfilled"
+    ],
+    "swabbing": [
+      "swabbing"
+    ],
+    "section": [
+      "section"
+    ],
+    "without_people": [
+      "without_people"
+    ],
+    "bold": [
+      "bold"
+    ],
+    "tattoo": [
+      "tattoo"
+    ],
+    "corridor": [
+      "corridor"
+    ],
+    "sunscreen": [
+      "sunscreen"
+    ],
+    "others_company": [
+      "others_company"
+    ],
+    "not_scared": [
+      "not_scared"
+    ],
+    "not_interested": [
+      "not_interested"
+    ],
+    "tight": [
+      "tight"
+    ],
+    "tightly": [
+      "tightly"
+    ],
+    "expectations": [
+      "expectations"
+    ],
+    "adhd": [
+      "adhd"
+    ],
+    "assert": [
+      "assert"
+    ],
+    "show_affection": [
+      "show_affection"
+    ],
+    "business": [
+      "business"
+    ],
+    "act": [
+      "act",
+      "acting"
+    ],
+    "outer": [
+      "outer"
+    ],
+    "alleviate": [
+      "alleviate"
+    ],
+    "meet": [
+      "meet"
+    ],
+    "clumsy": [
+      "clumsy"
+    ],
+    "well_intentioned": [
+      "well_intentioned"
+    ],
+    "something_comfort": [
+      "something_comfort"
+    ],
+    "falling": [
+      "falling"
+    ],
+    "rid": [
+      "rid"
+    ],
+    "recall": [
+      "recall"
+    ],
+    "uncontrollably": [
+      "uncontrollably"
+    ],
+    "bare": [
+      "bare"
+    ],
+    "blind": [
+      "blind"
+    ],
+    "miss": [
+      "miss"
+    ],
+    "hugged": [
+      "hugged"
+    ],
+    "pattern": [
+      "pattern",
+      "patter"
+    ],
+    "obvious": [
+      "obvious"
+    ],
+    "przedrami": [
+      "przedrami"
+    ],
+    "dotyk": [
+      "dotyk"
+    ],
+    "childhood": [
+      "childhood"
+    ],
+    "gamba": [
+      "gamba"
+    ],
+    "passeggiata": [
+      "passeggiata"
+    ],
+    "facciamo": [
+      "facciamo"
+    ],
+    "marito": [
+      "marito"
+    ],
+    "operation": [
+      "operation"
+    ],
+    "trainer": [
+      "trainer"
+    ],
+    "apprehensive": [
+      "apprehensive"
+    ],
+    "chick": [
+      "chick"
+    ],
+    "ink": [
+      "ink"
+    ],
+    "sauce": [
+      "sauce"
+    ],
+    "bestfriend": [
+      "bestfriend"
+    ],
+    "advantage": [
+      "advantage"
+    ],
+    "oven": [
+      "oven"
+    ],
+    "incident": [
+      "incident"
+    ],
+    "monitor": [
+      "monitor"
+    ],
+    "undivided": [
+      "undivided"
+    ],
+    "unkind": [
+      "unkind"
+    ],
+    "threatened": [
+      "threatened"
+    ],
+    "cajoling": [
+      "cajoling"
+    ],
+    "cajoled": [
+      "cajoled"
+    ],
+    "wound": [
+      "wound"
+    ],
+    "induce": [
+      "induce"
+    ],
+    "forgot": [
+      "forgot"
+    ],
+    "fever": [
+      "fever"
+    ],
+    "cook": [
+      "cook",
+      "cooking"
+    ],
+    "loneliness": [
+      "loneliness"
+    ],
+    "assignements": [
+      "assignements"
+    ],
+    "malicious": [
+      "malicious"
+    ],
+    "minutes": [
+      "minutes"
+    ],
+    "composure": [
+      "composure"
+    ],
+    "escalator": [
+      "escalator"
+    ],
+    "yard": [
+      "yard"
+    ],
+    "bread": [
+      "bread"
+    ],
+    "reading": [
+      "reading"
+    ],
+    "scalding": [
+      "scalding"
+    ],
+    "someone_attention": [
+      "someone_attention"
+    ],
+    "useful": [
+      "useful"
+    ],
+    "condescending": [
+      "condescending"
+    ],
+    "crown": [
+      "crown"
+    ],
+    "cognitive": [
+      "cognitive"
+    ],
+    "behavioural": [
+      "behavioural"
+    ],
+    "guest": [
+      "guest"
+    ],
+    "granular": [
+      "granular"
+    ],
+    "transient": [
+      "transient"
+    ],
+    "prosi": [
+      "prosi"
+    ],
+    "ciepa": [
+      "ciepa"
+    ],
+    "mojej": [
+      "mojej"
+    ],
+    "budzi": [
+      "budzi"
+    ],
+    "uwage": [
+      "uwage"
+    ],
+    "szpital": [
+      "szpital"
+    ],
+    "reprimand": [
+      "reprimand"
+    ],
+    "sensuous": [
+      "sensuous"
+    ],
+    "me_pressure": [
+      "me_pressure"
+    ],
+    "graduation": [
+      "graduation"
+    ],
+    "tutor": [
+      "tutor"
+    ],
+    "miy": [
+      "miy"
+    ],
+    "clearly": [
+      "clearly"
+    ],
+    "temper": [
+      "temper"
+    ],
+    "not_imagine": [
+      "not_imagine"
+    ],
+    "primarily": [
+      "primarily"
+    ],
+    "och": [
+      "och"
+    ],
+    "not_stress": [
+      "not_stress"
+    ],
+    "surrounding": [
+      "surrounding",
+      "surroundings"
+    ],
+    "no_fight": [
+      "no_fight"
+    ],
+    "fracture": [
+      "fracture",
+      "fractured"
+    ],
+    "empatia": [
+      "empatia",
+      "emphatic"
+    ],
+    "allaltra": [
+      "allaltra",
+      "dellaltra"
+    ],
+    "destra": [
+      "destra",
+      "destro"
+    ],
+    "oils": [
+      "oils",
+      "oil"
+    ],
+    "doubting": [
+      "doubting"
+    ],
+    "not_receive": [
+      "not_receive",
+      "not_recieve"
+    ],
+    "everyting": [
+      "everyting",
+      "evrything"
+    ],
+    "affirmative": [
+      "affirmative",
+      "affirmation"
+    ],
+    "diffusing": [
+      "diffusing",
+      "diffusingly"
+    ],
+    "relation": [
+      "relations",
+      "relation"
+    ],
+    "elation": [
+      "elation"
+    ],
+    "relating": [
+      "relating"
+    ],
+    "not_confidence": [
+      "not_confidence",
+      "not_confident"
+    ],
+    "repeat": [
+      "repeat",
+      "repeats"
+    ],
+    "intervals": [
+      "intervals",
+      "intervsal"
+    ],
+    "without_care": [
+      "without_care"
+    ],
+    "pestered": [
+      "pestered"
+    ],
+    "pester": [
+      "pester"
+    ],
+    "togerher": [
+      "togerher",
+      "togeether"
+    ],
+    "unremarkable": [
+      "unremarkable"
+    ],
+    "remarkable": [
+      "remarkable"
+    ],
+    "collected": [
+      "collected"
+    ],
+    "collect": [
+      "collect"
+    ],
+    "damaged": [
+      "damaged",
+      "damage"
+    ],
+    "gently": [
+      "gently",
+      "gentely",
+      "geantly"
+    ],
+    "comunicarmi": [
+      "comunicarmi",
+      "comunicar_me"
+    ],
+    "affettivo": [
+      "affettivo",
+      "affetto"
+    ],
+    "pretend": [
+      "pretend",
+      "pretends"
+    ],
+    "warmed": [
+      "warmed",
+      "warmer"
+    ],
+    "battle": [
+      "battle",
+      "batte"
+    ],
+    "dancing": [
+      "dancing"
+    ],
+    "sentada": [
+      "sentada",
+      "sentados"
+    ],
+    "animado": [
+      "animado",
+      "animando"
+    ],
+    "climbs": [
+      "climbs",
+      "climb"
+    ],
+    "organs": [
+      "organs",
+      "organ"
+    ],
+    "laid_back": [
+      "laid_back"
+    ],
+    "probed": [
+      "probed",
+      "prosbe"
+    ],
+    "competitive": [
+      "competitive",
+      "competition"
+    ],
+    "wear": [
+      "wear",
+      "weary"
+    ],
+    "paper": [
+      "paper",
+      "paer"
+    ],
+    "cautions": [
+      "cautions",
+      "caution",
+      "cautios"
+    ],
+    "attempt": [
+      "attempt",
+      "attempts"
+    ],
+    "non_intrusive": [
+      "non_intrusive",
+      "not_intrusive"
+    ],
+    "assistance": [
+      "assistance",
+      "assistence"
+    ],
+    "united": [
+      "united",
+      "unitedly"
+    ],
+    "child_like": [
+      "child_like",
+      "chil_like",
+      "childlike"
+    ],
+    "cigarette": [
+      "cigarette",
+      "cigarettes"
+    ],
+    "increase": [
+      "increase",
+      "increases"
+    ],
+    "lighten": [
+      "lighten",
+      "lighter"
+    ],
+    "disoriented": [
+      "disoriented",
+      "desoriented"
+    ],
+    "includes": [
+      "includes",
+      "included"
+    ],
+    "cosmetic": [
+      "cosmetic"
+    ],
+    "comedic": [
+      "comedic"
+    ],
+    "endlessly": [
+      "endlessly"
+    ],
+    "mindlessly": [
+      "mindlessly"
+    ],
+    "manager": [
+      "manager"
+    ],
+    "managed": [
+      "managed"
+    ],
+    "coziness": [
+      "coziness",
+      "comfiness"
+    ],
+    "fluttery": [
+      "fluttery",
+      "flatter"
+    ],
+    "liking": [
+      "liking",
+      "lieing"
+    ],
+    "sfrega": [
+      "sfrega",
+      "sfregare"
+    ],
+    "not_cause": [
+      "not_cause"
+    ],
+    "not_course": [
+      "not_course"
+    ],
+    "perceptible": [
+      "perceptible"
+    ],
+    "imperceptible": [
+      "imperceptible"
+    ],
+    "preferrable": [
+      "preferrable",
+      "preferably"
+    ],
+    "swing": [
+      "swing"
+    ],
+    "exhaustion": [
+      "exhaustion",
+      "exhausting"
+    ],
+    "not_contact": [
+      "not_contact",
+      "no_contact"
+    ],
+    "student": [
+      "student",
+      "students"
+    ],
+    "complain": [
+      "complain",
+      "complained"
+    ],
+    "plain": [
+      "plain"
+    ],
+    "not_relax": [
+      "not_relax",
+      "not_relaxed"
+    ],
+    "reducing": [
+      "reducing"
+    ],
+    "seducing": [
+      "seducing"
+    ],
+    "clothes": [
+      "clothes",
+      "clothed"
+    ],
+    "involving": [
+      "involving"
+    ],
+    "insulted": [
+      "insulted"
+    ],
+    "invoking": [
+      "invoking"
+    ],
+    "ombro": [
+      "ombro",
+      "hombro"
+    ],
+    "atenta": [
+      "atenta"
+    ],
+    "tentar": [
+      "tentar"
+    ],
+    "reconfort": [
+      "reconfort",
+      "reconforte"
+    ],
+    "communication": [
+      "communication",
+      "communicating"
+    ],
+    "harmfull": [
+      "harmfull"
+    ],
+    "sipping": [
+      "sipping"
+    ],
+    "doors": [
+      "doors",
+      "door"
+    ],
+    "masau": [
+      "masau",
+      "masa"
+    ],
+    "sypialnia": [
+      "sypialnia",
+      "sypialni"
+    ],
+    "spokojny": [
+      "spokojny",
+      "spokoju"
+    ],
+    "personally": [
+      "personally"
+    ],
+    "agent": [
+      "agent",
+      "gent"
+    ],
+    "sentirme": [
+      "sentirme",
+      "sentir"
+    ],
+    "repetida": [
+      "repetida",
+      "repetidas"
+    ],
+    "masajear": [
+      "masajear",
+      "masaje"
+    ],
+    "search": [
+      "search"
+    ],
+    "not_think": [
+      "not_think"
+    ],
+    "not_thing": [
+      "not_thing"
+    ],
+    "eventual": [
+      "eventual",
+      "eventually"
+    ],
+    "rush": [
+      "rushing",
+      "rushed",
+      "rush"
+    ],
+    "not_pushy": [
+      "not_pushy"
+    ],
+    "not_rush": [
+      "not_rush"
+    ],
+    "pushes": [
+      "pushes"
+    ],
+    "resort": [
+      "resort"
+    ],
+    "fails": [
+      "fails",
+      "fail"
+    ],
+    "presumed": [
+      "presumed"
+    ],
+    "painless": [
+      "painless"
+    ],
+    "guard": [
+      "guard",
+      "guardo"
+    ],
+    "breaths": [
+      "breaths",
+      "breath"
+    ],
+    "breathing": [
+      "breathing"
+    ],
+    "memories": [
+      "memories",
+      "memory"
+    ],
+    "endearing": [
+      "endearing"
+    ],
+    "not_stand": [
+      "not_stand"
+    ],
+    "harried": [
+      "harried"
+    ],
+    "hurried": [
+      "hurried"
+    ],
+    "evaluation": [
+      "evaluation",
+      "avaliation"
+    ],
+    "softeness": [
+      "softeness",
+      "softness"
+    ],
+    "undergoing": [
+      "undergoing"
+    ],
+    "underlying": [
+      "underlying"
+    ],
+    "custom": [
+      "custom"
+    ],
+    "customer": [
+      "customer"
+    ],
+    "sneezing": [
+      "sneezing"
+    ],
+    "conciousness": [
+      "conciousness",
+      "consciousness"
+    ],
+    "separate": [
+      "separate",
+      "separately"
+    ],
+    "ache": [
+      "ache",
+      "aches",
+      "aching"
+    ],
+    "dramatic": [
+      "dramatic"
+    ],
+    "erection": [
+      "erection"
+    ],
+    "explicit": [
+      "explicit",
+      "explici"
+    ],
+    "kontakt": [
+      "kontakt",
+      "kontaktu"
+    ],
+    "remaining": [
+      "remaining"
+    ],
+    "irritability": [
+      "irritability",
+      "irritabilit"
+    ],
+    "figlio": [
+      "figlio",
+      "figlia"
+    ],
+    "uplift": [
+      "uplift",
+      "uplifted"
+    ],
+    "gliding": [
+      "gliding"
+    ],
+    "panicked": [
+      "panicked",
+      "pricked"
+    ],
+    "trading": [
+      "trading",
+      "tracing"
+    ],
+    "thankfulness": [
+      "thankfulness",
+      "thankfullness"
+    ],
+    "reject": [
+      "reject",
+      "rejected"
+    ],
+    "pauses": [
+      "pauses"
+    ],
+    "paused": [
+      "paused"
+    ],
+    "condescended": [
+      "condescended",
+      "condescend"
+    ],
+    "directed": [
+      "directed",
+      "direct"
+    ],
+    "zwrcenie": [
+      "zwrcenie",
+      "zwrocenie"
+    ],
+    "obojetny": [
+      "obojetny",
+      "obojtny"
+    ],
+    "pocig": [
+      "pocig",
+      "pocigu"
+    ],
+    "without_time": [
+      "without_time"
+    ],
+    "fondly": [
+      "fondly"
+    ],
+    "pre_sex": [
+      "pre_sex"
+    ],
+    "swnxual": [
+      "swnxual"
+    ],
+    "headsets": [
+      "headsets"
+    ],
+    "inteneded": [
+      "inteneded"
+    ],
+    "interogation": [
+      "interogation"
+    ],
+    "angered": [
+      "angered"
+    ],
+    "low": [
+      "low"
+    ],
+    "board": [
+      "board"
+    ],
+    "resume": [
+      "resume"
+    ],
+    "tending": [
+      "tending"
+    ],
+    "extend": [
+      "extended",
+      "extender"
+    ],
+    "entender": [
+      "entender"
+    ],
+    "slumbering": [
+      "slumbering"
+    ],
+    "considerate": [
+      "considerate"
+    ],
+    "maintaining": [
+      "maintaining"
+    ],
+    "distrurb": [
+      "distrurb"
+    ],
+    "permissible": [
+      "permissible"
+    ],
+    "divertente": [
+      "divertente"
+    ],
+    "amichevole": [
+      "amichevole"
+    ],
+    "avere": [
+      "avere"
+    ],
+    "questa": [
+      "questa"
+    ],
+    "da": [
+      "da"
+    ],
+    "amica": [
+      "amica"
+    ],
+    "pulito": [
+      "pulito"
+    ],
+    "picchiettare": [
+      "picchiettare"
+    ],
+    "qualcosa": [
+      "qualcosa"
+    ],
+    "unamica": [
+      "unamica"
+    ],
+    "della": [
+      "della"
+    ],
+    "durante": [
+      "durante"
+    ],
+    "duration": [
+      "duration"
+    ],
+    "semplicemente": [
+      "semplicemente"
+    ],
+    "giocare": [
+      "giocare"
+    ],
+    "ticchetto": [
+      "ticchetto"
+    ],
+    "solleticare": [
+      "solleticare"
+    ],
+    "polso": [
+      "polso"
+    ],
+    "something_friend": [
+      "something_friend"
+    ],
+    "not_embrace": [
+      "not_embrace"
+    ],
+    "not_rude": [
+      "not_rude"
+    ],
+    "apologetic": [
+      "apologetic"
+    ],
+    "birth": [
+      "birth"
+    ],
+    "lend": [
+      "lend"
+    ],
+    "meh": [
+      "meh"
+    ],
+    "difficulties": [
+      "difficulties"
+    ],
+    "struggles": [
+      "struggles"
+    ],
+    "episode": [
+      "episode"
+    ],
+    "parl": [
+      "parl"
+    ],
+    "terrified": [
+      "terrified"
+    ],
+    "humiliated": [
+      "humiliated"
+    ],
+    "row": [
+      "row"
+    ],
+    "warmful": [
+      "warmful"
+    ],
+    "multiple": [
+      "multiple"
+    ],
+    "campus": [
+      "campus"
+    ],
+    "caml": [
+      "caml"
+    ],
+    "reserve": [
+      "reserve"
+    ],
+    "holiday": [
+      "holiday"
+    ],
+    "daniel": [
+      "daniel"
+    ],
+    "nit": [
+      "nit"
+    ],
+    "wonderfull": [
+      "wonderfull"
+    ],
+    "sinkinginh": [
+      "sinkinginh"
+    ],
+    "molest": [
+      "molest",
+      "molesting"
+    ],
+    "approves": [
+      "approves"
+    ],
+    "swift": [
+      "swift"
+    ],
+    "oiy": [
+      "oiy"
+    ],
+    "nausea": [
+      "nausea"
+    ],
+    "swiped": [
+      "swiped"
+    ],
+    "chikd": [
+      "chikd"
+    ],
+    "cutting": [
+      "cutting"
+    ],
+    "tantrum": [
+      "tantrum"
+    ],
+    "firmwarm": [
+      "firmwarm"
+    ],
+    "not_need": [
+      "not_need"
+    ],
+    "lading": [
+      "lading"
+    ],
+    "celebrating": [
+      "celebrating"
+    ],
+    "gather": [
+      "gather"
+    ],
+    "creeped": [
+      "creeped"
+    ],
+    "back_muscles": [
+      "back_muscles"
+    ],
+    "complimenting": [
+      "complimenting"
+    ],
+    "tripped": [
+      "tripped"
+    ],
+    "graduated": [
+      "graduated"
+    ],
+    "callingmy": [
+      "callingmy"
+    ],
+    "calling": [
+      "calling"
+    ],
+    "ackowledging": [
+      "ackowledging"
+    ],
+    "acknowledgement": [
+      "acknowledgement"
+    ],
+    "philosophy": [
+      "philosophy"
+    ],
+    "sime": [
+      "sime"
+    ],
+    "square": [
+      "square"
+    ],
+    "hassled": [
+      "hassled"
+    ],
+    "mess": [
+      "mess",
+      "messing"
+    ],
+    "vintage": [
+      "vintage"
+    ],
+    "fruit": [
+      "fruit"
+    ],
+    "me_creepy": [
+      "me_creepy"
+    ],
+    "burger": [
+      "burger"
+    ],
+    "methods": [
+      "methods"
+    ],
+    "4_year": [
+      "4_year"
+    ],
+    "clam": [
+      "clam"
+    ],
+    "celebratory": [
+      "celebratory"
+    ],
+    "fondness": [
+      "fondness"
+    ],
+    "escaped": [
+      "escaped"
+    ],
+    "earth": [
+      "earth"
+    ],
+    "not_speak": [
+      "not_speak"
+    ],
+    "mas": [
+      "mas"
+    ],
+    "statement": [
+      "statement"
+    ],
+    "aboyt": [
+      "aboyt"
+    ],
+    "freckle": [
+      "freckle"
+    ],
+    "naughty": [
+      "naughty"
+    ],
+    "asmr": [
+      "asmr"
+    ],
+    "momma": [
+      "momma"
+    ],
+    "patronisation": [
+      "patronisation"
+    ],
+    "precursor": [
+      "precursor"
+    ],
+    "sale": [
+      "sale"
+    ],
+    "not_enough": [
+      "not_enough"
+    ],
+    "practitioner": [
+      "practitioner"
+    ],
+    "whacked": [
+      "whacked"
+    ],
+    "lovelly": [
+      "lovelly",
+      "lovely"
+    ],
+    "cafs": [
+      "cafs"
+    ],
+    "restraining": [
+      "restraining"
+    ],
+    "questioning": [
+      "questioning"
+    ],
+    "stunned": [
+      "stunned"
+    ],
+    "educative": [
+      "educative"
+    ],
+    "not_education": [
+      "not_education"
+    ],
+    "undervalue": [
+      "undervalue"
+    ],
+    "not_affectionate": [
+      "not_affectionate"
+    ],
+    "comfy": [
+      "comfy"
+    ],
+    "not_strong": [
+      "not_strong"
+    ],
+    "armhair": [
+      "armhair"
+    ],
+    "not_loved": [
+      "not_loved"
+    ],
+    "gaze": [
+      "gaze"
+    ],
+    "view": [
+      "view"
+    ],
+    "mountains": [
+      "mountains"
+    ],
+    "tent": [
+      "tent"
+    ],
+    "moonlight": [
+      "moonlight"
+    ],
+    "drenched": [
+      "drenched"
+    ],
+    "dermatological": [
+      "dermatological"
+    ],
+    "lego": [
+      "lego"
+    ],
+    "curled": [
+      "curled"
+    ],
+    "blanket": [
+      "blanket"
+    ],
+    "ther": [
+      "ther"
+    ],
+    "residence": [
+      "residence"
+    ],
+    "not_someone": [
+      "not_someone"
+    ],
+    "idk": [
+      "idk"
+    ],
+    "tiktok": [
+      "tiktok"
+    ],
+    "abbratiion": [
+      "abbratiion"
+    ],
+    "recipients": [
+      "recipients"
+    ],
+    "consultant": [
+      "consultant"
+    ],
+    "highlight": [
+      "highlight"
+    ],
+    "appropriated": [
+      "appropriated"
+    ],
+    "flowing": [
+      "flowing"
+    ],
+    "fantastic": [
+      "fantastic"
+    ],
+    "romanticism": [
+      "romanticism"
+    ],
+    "hovers": [
+      "hovers"
+    ],
+    "not_type": [
+      "not_type"
+    ],
+    "puts": [
+      "puts"
+    ],
+    "typing": [
+      "typing"
+    ],
+    "exaggerate": [
+      "exaggerate"
+    ],
+    "not_job": [
+      "not_job"
+    ],
+    "signalize": [
+      "signalize"
+    ],
+    "ritmic": [
+      "ritmic"
+    ],
+    "cloeser": [
+      "cloeser"
+    ],
+    "loudly": [
+      "loudly"
+    ],
+    "sof": [
+      "sof"
+    ],
+    "sims": [
+      "sims"
+    ],
+    "impatiet": [
+      "impatiet"
+    ],
+    "percezione": [
+      "percezione"
+    ],
+    "meccanico": [
+      "meccanico"
+    ],
+    "verificare": [
+      "verificare"
+    ],
+    "ambulatorio": [
+      "ambulatorio"
+    ],
+    "visitando": [
+      "visitando"
+    ],
+    "sta": [
+      "sta"
+    ],
+    "coscia": [
+      "coscia"
+    ],
+    "stiamo": [
+      "stiamo"
+    ],
+    "incitarmi": [
+      "incitarmi"
+    ],
+    "scrivania": [
+      "scrivania"
+    ],
+    "cringing": [
+      "cringing"
+    ],
+    "inciting": [
+      "inciting"
+    ],
+    "complimentarsi": [
+      "complimentarsi"
+    ],
+    "delle": [
+      "delle"
+    ],
+    "assieme": [
+      "assieme"
+    ],
+    "confidenziale": [
+      "confidenziale"
+    ],
+    "decisioni": [
+      "decisioni"
+    ],
+    "prendendo": [
+      "prendendo"
+    ],
+    "alla": [
+      "alla"
+    ],
+    "cucinando": [
+      "cucinando"
+    ],
+    "tavola": [
+      "tavola"
+    ],
+    "sto": [
+      "sto"
+    ],
+    "incoraggiarmi": [
+      "incoraggiarmi"
+    ],
+    "confortato": [
+      "confortato"
+    ],
+    "affettuoso": [
+      "affettuoso"
+    ],
+    "ragazzo": [
+      "ragazzo"
+    ],
+    "seduto": [
+      "seduto"
+    ],
+    "molto": [
+      "molto"
+    ],
+    "malizioso": [
+      "malizioso"
+    ],
+    "piacevole": [
+      "piacevole"
+    ],
+    "divertimento": [
+      "divertimento"
+    ],
+    "sterile": [
+      "sterile"
+    ],
+    "tablecloth": [
+      "tablecloth"
+    ],
+    "shiver": [
+      "shiver"
+    ],
+    "odly": [
+      "odly"
+    ],
+    "duncomforabtle": [
+      "duncomforabtle"
+    ],
+    "severely": [
+      "severely"
+    ],
+    "complete": [
+      "complete"
+    ],
+    "smartphone": [
+      "smartphone"
+    ],
+    "something_sweaty": [
+      "something_sweaty"
+    ],
+    "summer": [
+      "summer"
+    ],
+    "pillows": [
+      "pillows"
+    ],
+    "alguna": [
+      "alguna"
+    ],
+    "pinchar": [
+      "pinchar"
+    ],
+    "charming": [
+      "charming"
+    ],
+    "cosa": [
+      "cosa"
+    ],
+    "distrada": [
+      "distrada"
+    ],
+    "intentando": [
+      "intentando"
+    ],
+    "simpata": [
+      "simpata"
+    ],
+    "amiga": [
+      "amiga"
+    ],
+    "vvido": [
+      "vvido"
+    ],
+    "cauteloso": [
+      "cauteloso"
+    ],
+    "parque": [
+      "parque"
+    ],
+    "palpar": [
+      "palpar"
+    ],
+    "complaciente": [
+      "complaciente"
+    ],
+    "pareja": [
+      "pareja"
+    ],
+    "banco": [
+      "banco"
+    ],
+    "satisfaccin": [
+      "satisfaccin"
+    ],
+    "conversamos": [
+      "conversamos"
+    ],
+    "su": [
+      "su"
+    ],
+    "animadamente": [
+      "animadamente"
+    ],
+    "cario": [
+      "cario"
+    ],
+    "madre": [
+      "madre"
+    ],
+    "relajarme": [
+      "relajarme"
+    ],
+    "vibrar": [
+      "vibrar"
+    ],
+    "nerviosa": [
+      "nerviosa"
+    ],
+    "excitante": [
+      "excitante"
+    ],
+    "without_feel": [
+      "without_feel"
+    ],
+    "visa": [
+      "visa"
+    ],
+    "build": [
+      "build"
+    ],
+    "me_female": [
+      "me_female"
+    ],
+    "stimulus": [
+      "stimulus"
+    ],
+    "aat": [
+      "aat"
+    ],
+    "suffer": [
+      "suffer"
+    ],
+    "autonomic": [
+      "autonomic"
+    ],
+    "tingles": [
+      "tingles",
+      "tingling"
+    ],
+    "system": [
+      "system"
+    ],
+    "fade": [
+      "fade"
+    ],
+    "exasperated": [
+      "exasperated"
+    ],
+    "undertake": [
+      "undertake"
+    ],
+    "occurring": [
+      "occurring"
+    ],
+    "neglected": [
+      "neglected"
+    ],
+    "energetic": [
+      "energetic"
+    ],
+    "claws": [
+      "claws"
+    ],
+    "absent_minded": [
+      "absent_minded"
+    ],
+    "essay": [
+      "essay"
+    ],
+    "glance": [
+      "glance"
+    ],
+    "gland": [
+      "gland"
+    ],
+    "stubborn": [
+      "stubborn"
+    ],
+    "bureau": [
+      "bureau"
+    ],
+    "nad": [
+      "nad"
+    ],
+    "back": [
+      "back",
+      "mack",
+      "mid_back"
+    ],
+    "back_doctor": [
+      "back_doctor"
+    ],
+    "socilaising": [
+      "socilaising"
+    ],
+    "lunchbreal": [
+      "lunchbreal"
+    ],
+    "sympathise": [
+      "sympathise"
+    ],
+    "dissapoinment": [
+      "dissapoinment"
+    ],
+    "dislike": [
+      "dislike"
+    ],
+    "theya": [
+      "theya"
+    ],
+    "fixated": [
+      "fixated"
+    ],
+    "medium": [
+      "medium"
+    ],
+    "bf": [
+      "bf"
+    ],
+    "wash": [
+      "wash",
+      "washing"
+    ],
+    "fill": [
+      "fill"
+    ],
+    "filling": [
+      "filling"
+    ],
+    "split": [
+      "split"
+    ],
+    "showcasing": [
+      "showcasing"
+    ],
+    "booth": [
+      "booth"
+    ],
+    "traffic": [
+      "traffic"
+    ],
+    "omnious": [
+      "omnious"
+    ],
+    "york": [
+      "york"
+    ],
+    "pedestrian": [
+      "pedestrian"
+    ],
+    "heinous": [
+      "heinous"
+    ],
+    "stern": [
+      "stern"
+    ],
+    "item": [
+      "item"
+    ],
+    "attachment": [
+      "attachment"
+    ],
+    "hypnotic": [
+      "hypnotic"
+    ],
+    "opposite": [
+      "opposite"
+    ],
+    "harm": [
+      "harm"
+    ],
+    "rob": [
+      "rob"
+    ],
+    "ascertain": [
+      "ascertain"
+    ],
+    "fascinated": [
+      "fascinated"
+    ],
+    "charged": [
+      "charged"
+    ],
+    "charge": [
+      "charge"
+    ],
+    "electricity": [
+      "electricity"
+    ],
+    "throbbing": [
+      "throbbing"
+    ],
+    "robbery": [
+      "robbery"
+    ],
+    "wrestling": [
+      "wrestling"
+    ],
+    "prolific": [
+      "prolific"
+    ],
+    "myhand": [
+      "myhand"
+    ],
+    "targeted": [
+      "targeted"
+    ],
+    "not_bad": [
+      "not_bad"
+    ],
+    "excel": [
+      "excel"
+    ],
+    "sheet": [
+      "sheet"
+    ],
+    "lift": [
+      "lift"
+    ],
+    "burden": [
+      "burden",
+      "burdening"
+    ],
+    "gotten": [
+      "gotten"
+    ],
+    "seduction": [
+      "seduction"
+    ],
+    "verbally": [
+      "verbally"
+    ],
+    "hesitating": [
+      "hesitating"
+    ],
+    "unserious": [
+      "unserious"
+    ],
+    "not_sleep": [
+      "not_sleep"
+    ],
+    "not_tender": [
+      "not_tender"
+    ],
+    "sleeping": [
+      "sleeping"
+    ],
+    "revenge": [
+      "revenge"
+    ],
+    "skero": [
+      "skero"
+    ],
+    "laid": [
+      "laid"
+    ],
+    "refusing": [
+      "refusing"
+    ],
+    "asap": [
+      "asap"
+    ],
+    "not_let": [
+      "not_let"
+    ],
+    "agressively": [
+      "agressively"
+    ],
+    "bbq": [
+      "bbq"
+    ],
+    "turst": [
+      "turst"
+    ],
+    "devoted": [
+      "devoted"
+    ],
+    "war": [
+      "war"
+    ],
+    "confront": [
+      "confront"
+    ],
+    "not_anymore": [
+      "not_anymore"
+    ],
+    "realize": [
+      "realize"
+    ],
+    "tensive": [
+      "tensive"
+    ],
+    "skinship": [
+      "skinship"
+    ],
+    "not_forceful": [
+      "not_forceful"
+    ],
+    "linked": [
+      "linked"
+    ],
+    "anch65o9r": [
+      "anch65o9r"
+    ],
+    "sligthly": [
+      "sligthly"
+    ],
+    "intimidate": [
+      "intimidated",
+      "intimidate"
+    ],
+    "fashion": [
+      "fashion"
+    ],
+    "slight": [
+      "slight",
+      "slightly"
+    ],
+    "not_particularly_normal": [
+      "not_particularly_normal"
+    ],
+    "single": [
+      "single"
+    ],
+    "friendyll": [
+      "friendyll"
+    ],
+    "devotion": [
+      "devotion"
+    ],
+    "clarification": [
+      "clarification"
+    ],
+    "f2f": [
+      "f2f"
+    ],
+    "arriving": [
+      "arriving"
+    ],
+    "pack": [
+      "pack"
+    ],
+    "chit": [
+      "chit"
+    ],
+    "instigating": [
+      "instigating"
+    ],
+    "ambivalent": [
+      "ambivalent"
+    ],
+    "instinctive": [
+      "instinctive"
+    ],
+    "promtig": [
+      "promtig"
+    ],
+    "phase": [
+      "phase"
+    ],
+    "not_crowded": [
+      "not_crowded"
+    ],
+    "deadlines": [
+      "deadlines"
+    ],
+    "not_alarm": [
+      "not_alarm"
+    ],
+    "dozing": [
+      "dozing"
+    ],
+    "automatic": [
+      "automatic"
+    ],
+    "recounting": [
+      "recounting"
+    ],
+    "could": [
+      "could"
+    ],
+    "anecdote": [
+      "anecdote"
+    ],
+    "no_overtone": [
+      "no_overtone"
+    ],
+    "snother": [
+      "snother"
+    ],
+    "automated": [
+      "automated"
+    ],
+    "unspoken": [
+      "unspoken"
+    ],
+    "takeouts": [
+      "takeouts"
+    ],
+    "drunk": [
+      "drunk"
+    ],
+    "fromwork": [
+      "fromwork"
+    ],
+    "goofily": [
+      "goofily"
+    ],
+    "tow": [
+      "tow"
+    ],
+    "fed": [
+      "fed"
+    ],
+    "completing": [
+      "completing"
+    ],
+    "puzzle": [
+      "puzzle",
+      "puzzling"
+    ],
+    "clock": [
+      "clock"
+    ],
+    "kill": [
+      "kill"
+    ],
+    "killing": [
+      "killing"
+    ],
+    "no_intent": [
+      "no_intent"
+    ],
+    "dermatologist": [
+      "dermatologist"
+    ],
+    "coherent": [
+      "coherent"
+    ],
+    "unable": [
+      "unable"
+    ],
+    "discontinuous": [
+      "discontinuous"
+    ],
+    "avoidant": [
+      "avoidant"
+    ],
+    "neurodivergent": [
+      "neurodivergent"
+    ],
+    "tie": [
+      "tie"
+    ],
+    "dimension": [
+      "dimension"
+    ],
+    "communion": [
+      "communion"
+    ],
+    "slidy": [
+      "slidy"
+    ],
+    "mode": [
+      "mode"
+    ],
+    "household": [
+      "household"
+    ],
+    "lil": [
+      "lil"
+    ],
+    "disposition": [
+      "disposition"
+    ],
+    "construction": [
+      "construction"
+    ],
+    "site": [
+      "site"
+    ],
+    "without_leg": [
+      "without_leg"
+    ],
+    "not_request": [
+      "not_request"
+    ],
+    "deceptive": [
+      "deceptive"
+    ],
+    "vacation": [
+      "vacation"
+    ],
+    "brainstorm": [
+      "brainstorm"
+    ],
+    "color": [
+      "color"
+    ],
+    "zoning": [
+      "zoning"
+    ],
+    "differently": [
+      "differently"
+    ],
+    "parnet": [
+      "parnet"
+    ],
+    "tickets": [
+      "tickets"
+    ],
+    "droplet": [
+      "droplet"
+    ],
+    "altercation": [
+      "altercation"
+    ],
+    "not_child": [
+      "not_child"
+    ],
+    "art": [
+      "art"
+    ],
+    "backyard": [
+      "backyard"
+    ],
+    "biting": [
+      "biting"
+    ],
+    "coy": [
+      "coy"
+    ],
+    "wise": [
+      "wise"
+    ],
+    "backpain": [
+      "backpain"
+    ],
+    "ailments": [
+      "ailments"
+    ],
+    "granddaughter": [
+      "granddaughter"
+    ],
+    "something_attention": [
+      "something_attention"
+    ],
+    "uptight": [
+      "uptight"
+    ],
+    "without_arrive": [
+      "without_arrive"
+    ],
+    "secretive": [
+      "secretive"
+    ],
+    "wit": [
+      "wit"
+    ],
+    "location": [
+      "location"
+    ],
+    "antagonistic": [
+      "antagonistic"
+    ],
+    "imposing": [
+      "imposing"
+    ],
+    "promotion": [
+      "promotion"
+    ],
+    "collaborating": [
+      "collaborating"
+    ],
+    "not_special": [
+      "not_special"
+    ],
+    "tease": [
+      "teases",
+      "tease"
+    ],
+    "intervention": [
+      "intervention"
+    ],
+    "intravenous": [
+      "intravenous"
+    ],
+    "slow_motion": [
+      "slow_motion"
+    ],
+    "screams": [
+      "screams"
+    ],
+    "verge": [
+      "verge"
+    ],
+    "canoodling": [
+      "canoodling"
+    ],
+    "endorphines": [
+      "endorphines"
+    ],
+    "not_offensive": [
+      "not_offensive"
+    ],
+    "addressed": [
+      "addressed"
+    ],
+    "dressed": [
+      "dressed"
+    ],
+    "soul": [
+      "soul"
+    ],
+    "in_home": [
+      "in_home"
+    ],
+    "ex_girlfriend": [
+      "ex_girlfriend"
+    ],
+    "coldness": [
+      "coldness"
+    ],
+    "coolly": [
+      "coolly"
+    ],
+    "involvement": [
+      "involvement"
+    ],
+    "varied": [
+      "varied"
+    ],
+    "assuming": [
+      "assuming"
+    ],
+    "tocca": [
+      "tocca"
+    ],
+    "amico": [
+      "amico"
+    ],
+    "stuzzicare": [
+      "stuzzicare"
+    ],
+    "dove": [
+      "dove"
+    ],
+    "dolore": [
+      "dolore"
+    ],
+    "capire": [
+      "capire"
+    ],
+    "lavambraccio": [
+      "lavambraccio"
+    ],
+    "piumato": [
+      "piumato"
+    ],
+    "bambino": [
+      "bambino"
+    ],
+    "without_intimacy": [
+      "without_intimacy"
+    ],
+    "furtive": [
+      "furtive"
+    ],
+    "softer": [
+      "softer"
+    ],
+    "homework": [
+      "homework"
+    ],
+    "cottage": [
+      "cottage"
+    ],
+    "suffocate": [
+      "suffocate"
+    ],
+    "account": [
+      "account"
+    ],
+    "accompanying": [
+      "accompanying"
+    ],
+    "bitten": [
+      "bitten"
+    ],
+    "hangout": [
+      "hangout"
+    ],
+    "foolaround": [
+      "foolaround"
+    ],
+    "palliative": [
+      "palliative"
+    ],
+    "transition": [
+      "transition"
+    ],
+    "predicament": [
+      "predicament"
+    ],
+    "commiseration": [
+      "commiseration"
+    ],
+    "dismissive": [
+      "dismissive"
+    ],
+    "invested": [
+      "invested"
+    ],
+    "sittted": [
+      "sittted"
+    ],
+    "questionable": [
+      "questionable"
+    ],
+    "unloved": [
+      "unloved"
+    ],
+    "sarcasm": [
+      "sarcasm"
+    ],
+    "not_something": [
+      "not_something"
+    ],
+    "something": [
+      "something"
+    ],
+    "sarcastically": [
+      "sarcastically"
+    ],
+    "discourage": [
+      "discourage"
+    ],
+    "term": [
+      "term"
+    ],
+    "crisis": [
+      "crisis"
+    ],
+    "feedback": [
+      "feedback"
+    ],
+    "tear": [
+      "tear"
+    ],
+    "kegs": [
+      "kegs"
+    ],
+    "succession": [
+      "succession"
+    ],
+    "price": [
+      "price"
+    ],
+    "stage": [
+      "stage"
+    ],
+    "mysterious": [
+      "mysterious"
+    ],
+    "not_cry": [
+      "not_cry"
+    ],
+    "romantically": [
+      "romantically"
+    ],
+    "sth": [
+      "sth"
+    ],
+    "accordingly": [
+      "accordingly"
+    ],
+    "subject": [
+      "subject"
+    ],
+    "scolded": [
+      "scolded"
+    ],
+    "scolding": [
+      "scolding"
+    ],
+    "convivial": [
+      "convivial"
+    ],
+    "post_lunch": [
+      "post_lunch"
+    ],
+    "dumped": [
+      "dumped"
+    ],
+    "learnt": [
+      "learnt"
+    ],
+    "learning": [
+      "learning"
+    ],
+    "upsat": [
+      "upsat"
+    ],
+    "copied": [
+      "copied"
+    ],
+    "colluge": [
+      "colluge"
+    ],
+    "adorrable": [
+      "adorrable"
+    ],
+    "stirring": [
+      "stirring"
+    ],
+    "easiest": [
+      "easiest"
+    ],
+    "drums": [
+      "drums"
+    ],
+    "sits": [
+      "sits"
+    ],
+    "rhyme": [
+      "rhyme"
+    ],
+    "maternity": [
+      "maternity"
+    ],
+    "observations": [
+      "observations"
+    ],
+    "not_drive": [
+      "not_drive"
+    ],
+    "green": [
+      "green"
+    ],
+    "not_lonely": [
+      "not_lonely"
+    ],
+    "elongated": [
+      "elongated"
+    ],
+    "answering": [
+      "answering"
+    ],
+    "resuscitation": [
+      "resuscitation"
+    ],
+    "cardiopulmonary": [
+      "cardiopulmonary"
+    ],
+    "not_comfort": [
+      "not_comfort"
+    ],
+    "not_comforting": [
+      "not_comforting"
+    ],
+    "misunderstood": [
+      "misunderstood"
+    ],
+    "folding": [
+      "folding"
+    ],
+    "alittle": [
+      "alittle"
+    ],
+    "arund": [
+      "arund"
+    ],
+    "circulation": [
+      "circulation"
+    ],
+    "counselling": [
+      "counselling"
+    ],
+    "cardiopulmonary_resuscitation": [
+      "cpr"
+    ],
+    "cramped": [
+      "cramped"
+    ],
+    "brush": [
+      "brush",
+      "brushing"
+    ],
+    "trip": [
+      "trip"
+    ],
+    "punching": [
+      "punching"
+    ],
+    "mass": [
+      "mass"
+    ],
+    "prelude": [
+      "prelude"
+    ],
+    "explorative": [
+      "explorative"
+    ],
+    "not_effective": [
+      "not_effective"
+    ],
+    "tugging": [
+      "tugging"
+    ],
+    "effective": [
+      "effective"
+    ],
+    "nonetheless": [
+      "nonetheless"
+    ],
+    "windy": [
+      "windy"
+    ],
+    "assess": [
+      "assess"
+    ],
+    "storng": [
+      "storng"
+    ],
+    "no_technique": [
+      "no_technique"
+    ],
+    "controlled": [
+      "controlled"
+    ],
+    "perpetual": [
+      "perpetual"
+    ],
+    "smudging": [
+      "smudging"
+    ],
+    "connectedness": [
+      "connectedness"
+    ],
+    "makeme": [
+      "makeme"
+    ],
+    "smoothness": [
+      "smoothness"
+    ],
+    "gratified": [
+      "gratified"
+    ],
+    "shaman": [
+      "shaman"
+    ],
+    "okey": [
+      "okey"
+    ],
+    "understable": [
+      "understable"
+    ],
+    "not_ususal": [
+      "not_ususal"
+    ],
+    "clitoris": [
+      "clitoris"
+    ],
+    "without_touch": [
+      "without_touch"
+    ],
+    "not_disturb": [
+      "not_disturb"
+    ],
+    "something_check": [
+      "something_check"
+    ],
+    "sunbathing": [
+      "sunbathing"
+    ],
+    "not_hope": [
+      "not_hope"
+    ],
+    "buzz": [
+      "buzz"
+    ],
+    "no_connection": [
+      "no_connection"
+    ],
+    "ir": [
+      "ir"
+    ],
+    "os": [
+      "os"
+    ],
+    "not_injure": [
+      "not_injure"
+    ],
+    "including": [
+      "including"
+    ],
+    "patch": [
+      "patch"
+    ],
+    "dorm": [
+      "dorm"
+    ],
+    "agreement": [
+      "agreement"
+    ],
+    "doesnt": [
+      "doesnt"
+    ],
+    "overthinking": [
+      "overthinking"
+    ],
+    "not_angry": [
+      "not_angry"
+    ],
+    "workshop": [
+      "workshop"
+    ],
+    "fixing": [
+      "fixing"
+    ],
+    "signaling": [
+      "signaling"
+    ],
+    "mentioning": [
+      "mentioning"
+    ],
+    "poin": [
+      "poin"
+    ],
+    "lightweight": [
+      "lightweight"
+    ],
+    "not_available": [
+      "not_available"
+    ],
+    "without_say": [
+      "without_say"
+    ],
+    "sadly": [
+      "sadly"
+    ],
+    "overstrech": [
+      "overstrech"
+    ],
+    "intruding": [
+      "intruding"
+    ],
+    "without_encouragement": [
+      "without_encouragement"
+    ],
+    "speech": [
+      "speech"
+    ],
+    "hastily": [
+      "hastily"
+    ],
+    "stillness": [
+      "stillness"
+    ],
+    "estou": [
+      "estou"
+    ],
+    "agitao": [
+      "agitao"
+    ],
+    "rodeia": [
+      "rodeia"
+    ],
+    "matria": [
+      "matria"
+    ],
+    "dar": [
+      "dar"
+    ],
+    "distanciada": [
+      "distanciada"
+    ],
+    "aula": [
+      "aula"
+    ],
+    "mundo": [
+      "mundo"
+    ],
+    "tem": [
+      "tem"
+    ],
+    "chamar_me": [
+      "chamar_me"
+    ],
+    "meu": [
+      "meu"
+    ],
+    "com": [
+      "com"
+    ],
+    "emocionado": [
+      "emocionado"
+    ],
+    "me_contar": [
+      "me_contar"
+    ],
+    "uma": [
+      "uma"
+    ],
+    "no_cinema": [
+      "no_cinema"
+    ],
+    "apaixonado": [
+      "apaixonado"
+    ],
+    "mo": [
+      "mo"
+    ],
+    "um": [
+      "um"
+    ],
+    "ver": [
+      "ver"
+    ],
+    "afeto": [
+      "afeto"
+    ],
+    "espera": [
+      "espera"
+    ],
+    "desejo": [
+      "desejo"
+    ],
+    "servida": [
+      "servida"
+    ],
+    "mim": [
+      "mim"
+    ],
+    "admirao": [
+      "admirao"
+    ],
+    "admiration": [
+      "admiration"
+    ],
+    "desejvel": [
+      "desejvel"
+    ],
+    "por": [
+      "por"
+    ],
+    "sente": [
+      "sente"
+    ],
+    "seja": [
+      "seja"
+    ],
+    "herbal": [
+      "herbal"
+    ],
+    "moisturizing": [
+      "moisturizing"
+    ],
+    "restful": [
+      "restful"
+    ],
+    "fluffy": [
+      "fluffy"
+    ],
+    "consolidated": [
+      "consolidated"
+    ],
+    "vigilant": [
+      "vigilant"
+    ],
+    "sunday": [
+      "sunday"
+    ],
+    "affirm": [
+      "affirm"
+    ],
+    "lingering": [
+      "lingering"
+    ],
+    "riding": [
+      "riding"
+    ],
+    "cherishing": [
+      "cherishing"
+    ],
+    "theliving": [
+      "theliving"
+    ],
+    "living": [
+      "living"
+    ],
+    "oh": [
+      "oh"
+    ],
+    "ordeal": [
+      "ordeal"
+    ],
+    "thick": [
+      "thick"
+    ],
+    "weirdly": [
+      "weirdly"
+    ],
+    "back_hurts": [
+      "back_hurts"
+    ],
+    "hectic": [
+      "hectic"
+    ],
+    "sample": [
+      "sample"
+    ],
+    "easier": [
+      "easier"
+    ],
+    "identify": [
+      "identify"
+    ],
+    "stretchinh": [
+      "stretchinh"
+    ],
+    "stretching": [
+      "stretching"
+    ],
+    "not_colleague": [
+      "not_colleague"
+    ],
+    "no_friction": [
+      "no_friction"
+    ],
+    "no_calm": [
+      "no_calm"
+    ],
+    "permission": [
+      "permission"
+    ],
+    "bottom_half": [
+      "bottom_half"
+    ],
+    "without_word": [
+      "without_word"
+    ],
+    "without_wake": [
+      "without_wake"
+    ],
+    "non_verbal": [
+      "non_verbal"
+    ],
+    "elevated": [
+      "elevated"
+    ],
+    "subordinate": [
+      "subordinate"
+    ],
+    "self_worth": [
+      "self_worth"
+    ],
+    "dominated": [
+      "dominated"
+    ],
+    "inflamed": [
+      "inflamed"
+    ],
+    "pciked": [
+      "pciked"
+    ],
+    "length": [
+      "length"
+    ],
+    "back_bed": [
+      "back_bed"
+    ],
+    "proof": [
+      "proof"
+    ],
+    "irregularities": [
+      "irregularities"
+    ],
+    "mole": [
+      "mole"
+    ],
+    "elicits": [
+      "elicits"
+    ],
+    "iteself": [
+      "iteself"
+    ],
+    "johannesburg": [
+      "johannesburg"
+    ],
+    "gas": [
+      "gas"
+    ],
+    "sandton": [
+      "sandton"
+    ],
+    "stoke": [
+      "stoke"
+    ],
+    "submit": [
+      "submit"
+    ],
+    "reprimanding": [
+      "reprimanding"
+    ],
+    "zdziwienie": [
+      "zdziwienie"
+    ],
+    "pytajcy": [
+      "pytajcy"
+    ],
+    "praca": [
+      "praca"
+    ],
+    "konsekwentny": [
+      "konsekwentny"
+    ],
+    "sklep": [
+      "sklep"
+    ],
+    "palcem": [
+      "palcem"
+    ],
+    "dranienie": [
+      "dranienie"
+    ],
+    "wymuszajcy": [
+      "wymuszajcy"
+    ],
+    "zapytania": [
+      "zapytania"
+    ],
+    "lub": [
+      "lub"
+    ],
+    "alarmujcy": [
+      "alarmujcy"
+    ],
+    "nieznajomy": [
+      "nieznajomy"
+    ],
+    "zaniepokojony": [
+      "zaniepokojony"
+    ],
+    "dziwnie": [
+      "dziwnie"
+    ],
+    "nieprzyjemny": [
+      "nieprzyjemny"
+    ],
+    "celowy": [
+      "celowy"
+    ],
+    "nieznany": [
+      "nieznany"
+    ],
+    "czuje": [
+      "czuje"
+    ],
+    "sposb": [
+      "sposb"
+    ],
+    "kawiarnia": [
+      "kawiarnia"
+    ],
+    "sala": [
+      "sala"
+    ],
+    "zaczepi": [
+      "zaczepi"
+    ],
+    "sprawi": [
+      "sprawi"
+    ],
+    "zadowolenie": [
+      "zadowolenie"
+    ],
+    "oraz": [
+      "oraz"
+    ],
+    "znajomy": [
+      "znajomy"
+    ],
+    "przyjazny": [
+      "przyjazny"
+    ],
+    "rce": [
+      "rce"
+    ],
+    "wraliwy": [
+      "wraliwy"
+    ],
+    "prba": [
+      "prba"
+    ],
+    "miejsca": [
+      "miejsca"
+    ],
+    "umierzeniu": [
+      "umierzeniu"
+    ],
+    "obolaego": [
+      "obolaego"
+    ],
+    "pomoc": [
+      "pomoc"
+    ],
+    "rozgrzewanie": [
+      "rozgrzewanie"
+    ],
+    "leczcy": [
+      "leczcy"
+    ],
+    "wygodny": [
+      "wygodny"
+    ],
+    "terapeuyczny": [
+      "terapeuyczny"
+    ],
+    "gabinet": [
+      "gabinet"
+    ],
+    "wykrycia": [
+      "wykrycia"
+    ],
+    "terapeuta": [
+      "terapeuta"
+    ],
+    "blu": [
+      "blu"
+    ],
+    "choose": [
+      "choose"
+    ],
+    "rapport": [
+      "rapport"
+    ],
+    "village": [
+      "village"
+    ],
+    "erotically": [
+      "erotically"
+    ],
+    "receptionist": [
+      "receptionist"
+    ],
+    "no_patience": [
+      "no_patience"
+    ],
+    "without_body": [
+      "without_body"
+    ],
+    "intentionally": [
+      "intentionally"
+    ],
+    "realising": [
+      "realising"
+    ],
+    "buried": [
+      "buried"
+    ],
+    "soaked": [
+      "soaked"
+    ],
+    "wool": [
+      "wool"
+    ],
+    "reasoning": [
+      "reasoning"
+    ],
+    "wish": [
+      "wish"
+    ],
+    "animated": [
+      "animated"
+    ],
+    "stress_free": [
+      "stress_free",
+      "stree"
+    ],
+    "not_important_weird": [
+      "not_important_weird"
+    ],
+    "faith": [
+      "faith"
+    ],
+    "endangered": [
+      "endangered"
+    ],
+    "disassociation": [
+      "disassociation"
+    ],
+    "norms": [
+      "norms"
+    ],
+    "without_shock": [
+      "without_shock"
+    ],
+    "carassing": [
+      "carassing"
+    ],
+    "ailing": [
+      "ailing"
+    ],
+    "promotes": [
+      "promotes"
+    ],
+    "clase": [
+      "clase"
+    ],
+    "avisando": [
+      "avisando"
+    ],
+    "sand": [
+      "sand"
+    ],
+    "poco": [
+      "poco"
+    ],
+    "atienda": [
+      "atienda"
+    ],
+    "trabajo": [
+      "trabajo"
+    ],
+    "conmigo": [
+      "conmigo"
+    ],
+    "antebrazo": [
+      "antebrazo"
+    ],
+    "cualquier": [
+      "cualquier"
+    ],
+    "ponga": [
+      "ponga"
+    ],
+    "quizzling": [
+      "quizzling"
+    ],
+    "sorprendido": [
+      "sorprendido"
+    ],
+    "coercitivo": [
+      "coercitivo"
+    ],
+    "cuidado": [
+      "cuidado"
+    ],
+    "reconfortada": [
+      "reconfortada"
+    ],
+    "mucho": [
+      "mucho"
+    ],
+    "bonitas": [
+      "bonitas"
+    ],
+    "consolando": [
+      "consolando"
+    ],
+    "animar": [
+      "animar"
+    ],
+    "alguien": [
+      "alguien"
+    ],
+    "apoyada": [
+      "apoyada"
+    ],
+    "reminding": [
+      "reminding"
+    ],
+    "delicadamente": [
+      "delicadamente"
+    ],
+    "algn": [
+      "algn"
+    ],
+    "apoyar": [
+      "apoyar"
+    ],
+    "seguro": [
+      "seguro"
+    ],
+    "muy": [
+      "muy"
+    ],
+    "palabras": [
+      "palabras"
+    ],
+    "querida": [
+      "querida"
+    ],
+    "necesito": [
+      "necesito"
+    ],
+    "emptico": [
+      "emptico"
+    ],
+    "diciendo": [
+      "diciendo"
+    ],
+    "valorada": [
+      "valorada"
+    ],
+    "emocionalmente": [
+      "emocionalmente"
+    ],
+    "comprendida": [
+      "comprendida"
+    ],
+    "consuelo": [
+      "consuelo"
+    ],
+    "hacer": [
+      "hacer"
+    ],
+    "piernas": [
+      "piernas"
+    ],
+    "fuerte": [
+      "fuerte"
+    ],
+    "rehabilitacin": [
+      "rehabilitacin"
+    ],
+    "curar": [
+      "curar"
+    ],
+    "crema": [
+      "crema"
+    ],
+    "fisioterapeuta": [
+      "fisioterapeuta"
+    ],
+    "especie": [
+      "especie"
+    ],
+    "somwhere": [
+      "somwhere"
+    ],
+    "unwantingly": [
+      "unwantingly"
+    ],
+    "hole": [
+      "hole"
+    ],
+    "pre_schooler": [
+      "pre_schooler"
+    ],
+    "yoghurt": [
+      "yoghurt"
+    ],
+    "susceptible": [
+      "susceptible"
+    ],
+    "kiosk": [
+      "kiosk"
+    ],
+    "monthly": [
+      "monthly"
+    ],
+    "something_finger": [
+      "something_finger"
+    ],
+    "exhausted": [
+      "exhausted"
+    ],
+    "laughable": [
+      "laughable"
+    ],
+    "laughter": [
+      "laughter"
+    ],
+    "soulis": [
+      "soulis"
+    ],
+    "phsing": [
+      "phsing"
+    ],
+    "bill": [
+      "bill"
+    ],
+    "invite": [
+      "invite"
+    ],
+    "thugh": [
+      "thugh"
+    ],
+    "english": [
+      "english"
+    ],
+    "intermittent": [
+      "intermittent"
+    ],
+    "serendipity": [
+      "serendipity"
+    ],
+    "developing": [
+      "developing"
+    ],
+    "facilitate": [
+      "facilitate"
+    ],
+    "sentimental": [
+      "sentimental"
+    ],
+    "alleviating": [
+      "alleviating"
+    ],
+    "pocket": [
+      "pocket"
+    ],
+    "tube": [
+      "tube"
+    ],
+    "prioritising": [
+      "prioritising"
+    ],
+    "priest": [
+      "priest"
+    ],
+    "climax": [
+      "climax"
+    ],
+    "not_worry": [
+      "not_worry"
+    ],
+    "lazily": [
+      "lazily"
+    ],
+    "feed": [
+      "feed"
+    ],
+    "mouth": [
+      "mouth"
+    ],
+    "relaxtrying": [
+      "relaxtrying"
+    ],
+    "costumer": [
+      "costumer"
+    ],
+    "not_stroke_stress": [
+      "not_stroke_stress"
+    ],
+    "tribulations": [
+      "tribulations"
+    ],
+    "comprehensive": [
+      "comprehensive"
+    ],
+    "atmosphere": [
+      "atmosphere"
+    ],
+    "anguish": [
+      "anguish"
+    ],
+    "doubtful": [
+      "doubtful"
+    ],
+    "marital": [
+      "marital"
+    ],
+    "horizontal": [
+      "horizontal"
+    ],
+    "ill": [
+      "ill"
+    ],
+    "alongside": [
+      "alongside"
+    ],
+    "mosque": [
+      "mosque"
+    ],
+    "muted": [
+      "muted"
+    ],
+    "methodical": [
+      "methodical"
+    ],
+    "presentable": [
+      "presentable"
+    ],
+    "fixed": [
+      "fixed"
+    ],
+    "greetings": [
+      "greetings",
+      "greeting"
+    ],
+    "while_curiousity": [
+      "while_curiousity"
+    ],
+    "tends": [
+      "tends"
+    ],
+    "ankle": [
+      "ankle"
+    ],
+    "whinging": [
+      "whinging"
+    ],
+    "solidarity": [
+      "solidarity"
+    ],
+    "not_mean": [
+      "not_mean"
+    ],
+    "no_one": [
+      "no_one"
+    ],
+    "measuring": [
+      "measuring"
+    ],
+    "platform": [
+      "platform"
+    ],
+    "carefree": [
+      "carefree"
+    ],
+    "stress_reliever": [
+      "stress_reliever"
+    ],
+    "gossiping": [
+      "gossiping"
+    ],
+    "smth": [
+      "smth"
+    ],
+    "remain": [
+      "remain"
+    ],
+    "birds": [
+      "birds"
+    ],
+    "cry": [
+      "cry",
+      "crying"
+    ],
+    "accomplished": [
+      "accomplished"
+    ],
+    "maniac": [
+      "maniac"
+    ],
+    "not_equip": [
+      "not_equip"
+    ],
+    "misguided": [
+      "misguided"
+    ],
+    "idiot": [
+      "idiot"
+    ],
+    "not_annoy": [
+      "not_annoy"
+    ],
+    "conciel": [
+      "conciel"
+    ],
+    "not_apply": [
+      "not_apply"
+    ],
+    "not_bite": [
+      "not_bite"
+    ],
+    "orthopaedic": [
+      "orthopaedic"
+    ],
+    "parking": [
+      "parking"
+    ],
+    "lounging": [
+      "lounging"
+    ],
+    "number": [
+      "number"
+    ],
+    "requesting": [
+      "requesting"
+    ],
+    "not_relationshionship": [
+      "not_relationshionship"
+    ],
+    "ketchup": [
+      "ketchup"
+    ],
+    "waled": [
+      "waled"
+    ],
+    "half_serious": [
+      "half_serious"
+    ],
+    "without_consolation": [
+      "without_consolation"
+    ],
+    "half_joking": [
+      "half_joking"
+    ],
+    "uni": [
+      "uni"
+    ],
+    "poor": [
+      "poor"
+    ],
+    "helplessness": [
+      "helplessness"
+    ],
+    "awful": [
+      "awful"
+    ],
+    "driving": [
+      "driving",
+      "drivings"
+    ],
+    "te": [
+      "te"
+    ],
+    "import": [
+      "import"
+    ],
+    "sorryness": [
+      "sorryness"
+    ],
+    "itchig": [
+      "itchig"
+    ],
+    "channel": [
+      "channel"
+    ],
+    "incridibly": [
+      "incridibly"
+    ],
+    "caresed": [
+      "caresed"
+    ],
+    "me_tickling": [
+      "me_tickling"
+    ],
+    "downthis": [
+      "downthis"
+    ],
+    "erect": [
+      "erect"
+    ],
+    "bigger": [
+      "bigger"
+    ],
+    "grows": [
+      "grows"
+    ],
+    "recomforted": [
+      "recomforted"
+    ],
+    "worked": [
+      "worked"
+    ],
+    "clammy": [
+      "clammy"
+    ],
+    "pinched": [
+      "pinched"
+    ],
+    "candidly": [
+      "candidly"
+    ],
+    "charismatic": [
+      "charismatic"
+    ],
+    "back_shoulder": [
+      "back_shoulder"
+    ],
+    "screen": [
+      "screen"
+    ],
+    "terrible": [
+      "terrible"
+    ],
+    "thy": [
+      "thy"
+    ],
+    "scrutching": [
+      "scrutching"
+    ],
+    "band_aid": [
+      "band_aid"
+    ],
+    "extremly": [
+      "extremly"
+    ],
+    "desconcert": [
+      "desconcert"
+    ],
+    "rigidly": [
+      "rigidly"
+    ],
+    "onre": [
+      "onre"
+    ],
+    "lands": [
+      "lands"
+    ],
+    "symptoms": [
+      "symptoms"
+    ],
+    "hilarious": [
+      "hilarious"
+    ],
+    "anniversary": [
+      "anniversary"
+    ],
+    "stood": [
+      "stood"
+    ],
+    "bewildered": [
+      "bewildered"
+    ],
+    "sensory": [
+      "sensory"
+    ],
+    "overload": [
+      "overload"
+    ],
+    "swiftly": [
+      "swiftly"
+    ],
+    "deal": [
+      "deal"
+    ],
+    "nag": [
+      "nag",
+      "nagging",
+      "naging"
+    ],
+    "delightful": [
+      "delightful"
+    ],
+    "vulgar": [
+      "vulgar"
+    ],
+    "highly": [
+      "highly"
+    ],
+    "violent": [
+      "violent"
+    ],
+    "appreciable": [
+      "appreciable"
+    ],
+    "recovering": [
+      "recovering"
+    ],
+    "rabes": [
+      "rabes"
+    ],
+    "fluidity": [
+      "fluidity"
+    ],
+    "renovating": [
+      "renovating"
+    ],
+    "cake": [
+      "cake"
+    ],
+    "pop": [
+      "pop"
+    ],
+    "withdrawing": [
+      "withdrawing"
+    ],
+    "artist": [
+      "artist"
+    ],
+    "draining": [
+      "draining"
+    ],
+    "drained": [
+      "drained"
+    ],
+    "stencil": [
+      "stencil"
+    ],
+    "cage": [
+      "cage"
+    ],
+    "goals": [
+      "goals"
+    ],
+    "dementia": [
+      "dementia"
+    ],
+    "freaked": [
+      "freaked"
+    ],
+    "freaking": [
+      "freaking"
+    ],
+    "not_reciprocate": [
+      "not_reciprocate"
+    ],
+    "frozen": [
+      "frozen"
+    ],
+    "growths": [
+      "growths"
+    ],
+    "thyroid": [
+      "thyroid"
+    ],
+    "set": [
+      "set"
+    ],
+    "staircase": [
+      "staircase"
+    ],
+    "advance": [
+      "advance"
+    ],
+    "not_burn": [
+      "not_burn"
+    ],
+    "no_anger": [
+      "no_anger"
+    ],
+    "heartfelt": [
+      "heartfelt"
+    ],
+    "facial": [
+      "facial"
+    ],
+    "not_appropriate": [
+      "not_appropriate"
+    ],
+    "choice": [
+      "choice"
+    ],
+    "slaping": [
+      "slaping"
+    ],
+    "slapping": [
+      "slapping"
+    ],
+    "migraines": [
+      "migraines"
+    ],
+    "surrounded": [
+      "surrounded"
+    ],
+    "intimity": [
+      "intimity"
+    ],
+    "grown": [
+      "grown"
+    ],
+    "dopamine": [
+      "dopamine"
+    ],
+    "dmdd": [
+      "dmdd"
+    ],
+    "flights": [
+      "flights"
+    ],
+    "airport": [
+      "airport"
+    ],
+    "bro": [
+      "bro"
+    ],
+    "imagining": [
+      "imagining"
+    ],
+    "sidewalk": [
+      "sidewalk"
+    ],
+    "chaotic": [
+      "chaotic"
+    ],
+    "instead": [
+      "instead"
+    ],
+    "someway": [
+      "someway"
+    ],
+    "reasonably": [
+      "reasonably"
+    ],
+    "persist": [
+      "persist"
+    ],
+    "turm": [
+      "turm"
+    ],
+    "interlocutor": [
+      "interlocutor"
+    ],
+    "spill": [
+      "spill"
+    ],
+    "giggle": [
+      "giggle"
+    ],
+    "nibble": [
+      "nibble"
+    ],
+    "sofs": [
+      "sofs"
+    ],
+    "cannulation": [
+      "cannulation"
+    ],
+    "inserted": [
+      "inserted"
+    ],
+    "iv": [
+      "iv"
+    ],
+    "viable": [
+      "viable"
+    ],
+    "suitable": [
+      "suitable"
+    ],
+    "palpate": [
+      "palpate"
+    ],
+    "compared": [
+      "compared"
+    ],
+    "extremities": [
+      "extremities"
+    ],
+    "cosmetician": [
+      "cosmetician"
+    ],
+    "tactful": [
+      "tactful"
+    ],
+    "dysfunctional": [
+      "dysfunctional"
+    ],
+    "solitary": [
+      "solitary"
+    ],
+    "merely": [
+      "merely"
+    ],
+    "willingly": [
+      "willingly"
+    ],
+    "willing": [
+      "willing"
+    ],
+    "not_damage": [
+      "not_damage"
+    ],
+    "complicated": [
+      "complicated"
+    ],
+    "exodes": [
+      "exodes"
+    ],
+    "occasionally": [
+      "occasionally"
+    ],
+    "not_intimate": [
+      "not_intimate"
+    ],
+    "road": [
+      "road"
+    ],
+    "latest": [
+      "latest"
+    ],
+    "testing": [
+      "testing"
+    ],
+    "success": [
+      "success"
+    ],
+    "confessing": [
+      "confessing"
+    ],
+    "recurring": [
+      "recurring"
+    ],
+    "unclear": [
+      "unclear"
+    ],
+    "recurrent": [
+      "recurrent"
+    ],
+    "somekind": [
+      "somekind"
+    ],
+    "manifestation": [
+      "manifestation"
+    ],
+    "deciding": [
+      "deciding"
+    ],
+    "status": [
+      "status"
+    ],
+    "hend": [
+      "hend"
+    ],
+    "invading": [
+      "invading"
+    ],
+    "fancy": [
+      "fancy"
+    ],
+    "othe": [
+      "othe"
+    ],
+    "community": [
+      "community"
+    ],
+    "cordial": [
+      "cordial"
+    ],
+    "titillating": [
+      "titillating"
+    ],
+    "remarks": [
+      "remarks"
+    ],
+    "personality": [
+      "personality"
+    ],
+    "commanding": [
+      "commanding"
+    ],
+    "without_expression": [
+      "without_expression"
+    ],
+    "not_impression": [
+      "not_impression"
+    ],
+    "not_thrilled": [
+      "not_thrilled"
+    ],
+    "learned": [
+      "learned"
+    ],
+    "expectthe": [
+      "expectthe"
+    ],
+    "pharmacy": [
+      "pharmacy"
+    ],
+    "disease": [
+      "disease"
+    ],
+    "disinfecting": [
+      "disinfecting"
+    ],
+    "vaccinate": [
+      "vaccinate"
+    ],
+    "utter": [
+      "utter"
+    ],
+    "infection": [
+      "infection"
+    ],
+    "sidenear": [
+      "sidenear"
+    ],
+    "saddened": [
+      "saddened"
+    ],
+    "acquire": [
+      "acquire"
+    ],
+    "sharply": [
+      "sharply"
+    ],
+    "dose": [
+      "dose"
+    ],
+    "shall": [
+      "shall"
+    ],
+    "washed": [
+      "washed"
+    ],
+    "technician": [
+      "technician"
+    ],
+    "flue": [
+      "flue"
+    ],
+    "spirits": [
+      "spirits"
+    ],
+    "disillusionment": [
+      "disillusionment"
+    ],
+    "arrange": [
+      "arrange"
+    ],
+    "research": [
+      "research"
+    ],
+    "auto": [
+      "auto"
+    ],
+    "commitment": [
+      "commitment"
+    ],
+    "beckons": [
+      "beckons"
+    ],
+    "carelessly": [
+      "carelessly"
+    ],
+    "pube": [
+      "pube"
+    ],
+    "cheered": [
+      "cheered"
+    ],
+    "urged": [
+      "urged"
+    ],
+    "irration": [
+      "irration"
+    ],
+    "awakening": [
+      "awakening"
+    ],
+    "expierences": [
+      "expierences"
+    ],
+    "tocu": [
+      "tocu"
+    ],
+    "component": [
+      "component"
+    ],
+    "false": [
+      "false"
+    ],
+    "bottom_bedroom": [
+      "bottom_bedroom"
+    ],
+    "infuriating": [
+      "infuriating"
+    ],
+    "midnight": [
+      "midnight"
+    ],
+    "scract": [
+      "scract"
+    ],
+    "tic": [
+      "tic"
+    ],
+    "without_stranger": [
+      "without_stranger"
+    ],
+    "not_enjoyable": [
+      "not_enjoyable"
+    ],
+    "acted": [
+      "acted"
+    ],
+    "fluently": [
+      "fluently"
+    ],
+    "unnerving": [
+      "unnerving"
+    ],
+    "knowledge": [
+      "knowledge"
+    ],
+    "schooldegree": [
+      "schooldegree"
+    ],
+    "klepanie": [
+      "klepanie"
+    ],
+    "apanie": [
+      "apanie"
+    ],
+    "uspokajajcy": [
+      "uspokajajcy"
+    ],
+    "uczucie": [
+      "uczucie"
+    ],
+    "akceptacja": [
+      "akceptacja"
+    ],
+    "naciskanie": [
+      "naciskanie"
+    ],
+    "czuy": [
+      "czuy"
+    ],
+    "fizyczny": [
+      "fizyczny"
+    ],
+    "kanapie": [
+      "kanapie"
+    ],
+    "fizycznego": [
+      "fizycznego"
+    ],
+    "potrzeba": [
+      "potrzeba"
+    ],
+    "easily": [
+      "easily"
+    ],
+    "no_interaction": [
+      "no_interaction"
+    ],
+    "prode": [
+      "prode",
+      "prodding"
+    ],
+    "friednly": [
+      "friednly"
+    ],
+    "amr": [
+      "amr"
+    ],
+    "moral": [
+      "moral"
+    ],
+    "basis": [
+      "basis"
+    ],
+    "not_arouse": [
+      "not_arouse"
+    ],
+    "no_meaning": [
+      "no_meaning"
+    ],
+    "not_relationship": [
+      "not_relationship"
+    ],
+    "unsolicited": [
+      "unsolicited"
+    ],
+    "not_robust": [
+      "not_robust"
+    ],
+    "sgradevole": [
+      "sgradevole"
+    ],
+    "che": [
+      "che"
+    ],
+    "quello": [
+      "quello"
+    ],
+    "enfasi": [
+      "enfasi"
+    ],
+    "dare": [
+      "dare"
+    ],
+    "dice": [
+      "dice"
+    ],
+    "discute": [
+      "discute"
+    ],
+    "colpire": [
+      "colpire"
+    ],
+    "divano": [
+      "divano"
+    ],
+    "sulla": [
+      "sulla"
+    ],
+    "richiamare": [
+      "richiamare"
+    ],
+    "gioia": [
+      "gioia"
+    ],
+    "dolcemente": [
+      "dolcemente"
+    ],
+    "hamstring": [
+      "hamstring"
+    ],
+    "impulsively": [
+      "impulsively"
+    ],
+    "without_comfort": [
+      "without_comfort"
+    ],
+    "objective": [
+      "objective"
+    ],
+    "staff": [
+      "staff"
+    ],
+    "hairstyle": [
+      "hairstyle"
+    ],
+    "pep": [
+      "pep"
+    ],
+    "consuming": [
+      "consuming"
+    ],
+    "outcome": [
+      "outcome"
+    ],
+    "stuttle": [
+      "stuttle"
+    ],
+    "compelling": [
+      "compelling"
+    ],
+    "promising": [
+      "promising"
+    ],
+    "review": [
+      "review"
+    ],
+    "discovering": [
+      "discovering"
+    ],
+    "ugly": [
+      "ugly"
+    ],
+    "updating": [
+      "updating"
+    ],
+    "smitten": [
+      "smitten"
+    ],
+    "no_abou": [
+      "no_abou"
+    ],
+    "no_respect": [
+      "no_respect"
+    ],
+    "not_watch": [
+      "not_watch"
+    ],
+    "ensuring": [
+      "ensuring"
+    ],
+    "craved": [
+      "craved"
+    ],
+    "celebrated": [
+      "celebrated"
+    ],
+    "sunburn": [
+      "sunburn"
+    ],
+    "umbrella": [
+      "umbrella"
+    ],
+    "white": [
+      "white"
+    ],
+    "swimming": [
+      "swimming"
+    ],
+    "policeman": [
+      "policeman"
+    ],
+    "prank": [
+      "prank"
+    ],
+    "maid": [
+      "maid"
+    ],
+    "shortly": [
+      "shortly"
+    ],
+    "parentprobably": [
+      "parentprobably"
+    ],
+    "infantilized": [
+      "infantilized"
+    ],
+    "cashier": [
+      "cashier"
+    ],
+    "not_people": [
+      "not_people"
+    ],
+    "crawl": [
+      "crawl",
+      "crawling"
+    ],
+    "description": [
+      "description"
+    ],
+    "access": [
+      "access"
+    ],
+    "damp": [
+      "damp"
+    ],
+    "beed": [
+      "beed"
+    ],
+    "bumping": [
+      "bumping"
+    ],
+    "cemetery": [
+      "cemetery"
+    ],
+    "rave": [
+      "rave"
+    ],
+    "rant": [
+      "rant"
+    ],
+    "unimpressionable": [
+      "unimpressionable"
+    ],
+    "key": [
+      "key"
+    ],
+    "ick": [
+      "ick"
+    ],
+    "not_help": [
+      "not_help"
+    ],
+    "syringe": [
+      "syringe"
+    ],
+    "nonstop": [
+      "nonstop"
+    ],
+    "paced": [
+      "paced"
+    ],
+    "not_notice": [
+      "not_notice"
+    ],
+    "concrete": [
+      "concrete"
+    ],
+    "not_close_enough": [
+      "not_close_enough"
+    ],
+    "not_super_comforting": [
+      "not_super_comforting"
+    ],
+    "not_happen": [
+      "not_happen"
+    ],
+    "solo": [
+      "solo"
+    ],
+    "obligated": [
+      "obligated"
+    ],
+    "demand": [
+      "demand"
+    ],
+    "dandruff": [
+      "dandruff"
+    ],
+    "headache": [
+      "headache"
+    ],
+    "excruciating": [
+      "excruciating"
+    ],
+    "subconsciously": [
+      "subconsciously"
+    ],
+    "wrapped": [
+      "wrapped",
+      "wrapping"
+    ],
+    "slipped": [
+      "slipped"
+    ],
+    "association": [
+      "association"
+    ],
+    "pulsating": [
+      "pulsating"
+    ],
+    "cohesive": [
+      "cohesive"
+    ],
+    "knew": [
+      "knew"
+    ],
+    "empowered": [
+      "empowered"
+    ],
+    "thei": [
+      "thei"
+    ],
+    "superiority": [
+      "superiority"
+    ],
+    "accused": [
+      "accused"
+    ],
+    "accusing": [
+      "accusing"
+    ],
+    "wearing": [
+      "wearing"
+    ],
+    "admonished": [
+      "admonished"
+    ],
+    "challenging": [
+      "challenging"
+    ],
+    "persuade": [
+      "persuade"
+    ],
+    "pressurised": [
+      "pressurised"
+    ],
+    "me_suggestive": [
+      "me_suggestive"
+    ],
+    "arose": [
+      "arose"
+    ],
+    "evocative": [
+      "evocative"
+    ],
+    "dismissed": [
+      "dismissed"
+    ],
+    "bout": [
+      "bout"
+    ],
+    "power": [
+      "power"
+    ],
+    "extra": [
+      "extra"
+    ],
+    "pervert": [
+      "pervert"
+    ],
+    "smudge": [
+      "smudge"
+    ],
+    "sauve": [
+      "sauve"
+    ],
+    "serenity": [
+      "serenity"
+    ],
+    "backing": [
+      "backing"
+    ],
+    "frightening": [
+      "frightening"
+    ],
+    "explosive": [
+      "explosive"
+    ],
+    "meetig": [
+      "meetig"
+    ],
+    "meeting": [
+      "meeting"
+    ],
+    "handshake": [
+      "handshake"
+    ],
+    "represents": [
+      "represents"
+    ],
+    "handling": [
+      "handling"
+    ],
+    "programme": [
+      "programme"
+    ],
+    "report": [
+      "report"
+    ],
+    "not_organic": [
+      "not_organic"
+    ],
+    "tragic": [
+      "tragic"
+    ],
+    "bits": [
+      "bits"
+    ],
+    "emergency": [
+      "emergency"
+    ],
+    "beeing": [
+      "beeing"
+    ],
+    "courtship": [
+      "courtship"
+    ],
+    "rigig": [
+      "rigig"
+    ],
+    "avaliating": [
+      "avaliating"
+    ],
+    "density": [
+      "density"
+    ],
+    "sleppy": [
+      "sleppy"
+    ],
+    "meke": [
+      "meke"
+    ],
+    "strike": [
+      "strike"
+    ],
+    "sincerity": [
+      "sincerity"
+    ],
+    "sanitizer": [
+      "sanitizer"
+    ],
+    "sterelising": [
+      "sterelising"
+    ],
+    "early": [
+      "early"
+    ],
+    "woulf": [
+      "woulf"
+    ],
+    "take_care": [
+      "take_care"
+    ],
+    "regularly": [
+      "regularly"
+    ],
+    "physicallity": [
+      "physicallity"
+    ],
+    "bonded": [
+      "bonded"
+    ],
+    "mama": [
+      "mama"
+    ],
+    "soilely": [
+      "soilely"
+    ],
+    "institutional": [
+      "institutional"
+    ],
+    "tranquilizing": [
+      "tranquilizing"
+    ],
+    "fullfilling": [
+      "fullfilling"
+    ],
+    "wholehearted": [
+      "wholehearted"
+    ],
+    "inaudible": [
+      "inaudible"
+    ],
+    "nightclub": [
+      "nightclub"
+    ],
+    "dance": [
+      "dance"
+    ],
+    "posterior": [
+      "posterior"
+    ],
+    "joint": [
+      "joint"
+    ],
+    "joining": [
+      "joining"
+    ],
+    "minimum": [
+      "minimum"
+    ],
+    "not_alarming": [
+      "not_alarming"
+    ],
+    "handit": [
+      "handit"
+    ],
+    "stain": [
+      "stain"
+    ],
+    "closest": [
+      "closest"
+    ],
+    "birthday": [
+      "birthday"
+    ],
+    "patio": [
+      "patio"
+    ],
+    "showcase": [
+      "showcase"
+    ],
+    "impose": [
+      "impose"
+    ],
+    "without_soft": [
+      "without_soft"
+    ],
+    "leftover": [
+      "leftover"
+    ],
+    "no_thought": [
+      "no_thought"
+    ],
+    "nauseous": [
+      "nauseous"
+    ],
+    "gauge": [
+      "gauge"
+    ],
+    "newborn": [
+      "newborn"
+    ],
+    "infant": [
+      "infant"
+    ],
+    "goofing": [
+      "goofing"
+    ],
+    "dim": [
+      "dim"
+    ],
+    "not_mistake": [
+      "not_mistake"
+    ],
+    "bloated": [
+      "bloated"
+    ],
+    "stiffness": [
+      "stiffness"
+    ],
+    "dragged": [
+      "dragged"
+    ],
+    "paces": [
+      "paces"
+    ],
+    "held": [
+      "held"
+    ],
+    "publishing": [
+      "publishing"
+    ],
+    "never_meet": [
+      "never_meet"
+    ],
+    "amazement": [
+      "amazement"
+    ],
+    "metro": [
+      "metro"
+    ],
+    "ang": [
+      "ang"
+    ],
+    "incentive": [
+      "incentive"
+    ],
+    "dolce": [
+      "dolce"
+    ],
+    "rings": [
+      "rings"
+    ],
+    "ambulance": [
+      "ambulance"
+    ],
+    "solace": [
+      "solace"
+    ],
+    "solution": [
+      "solution"
+    ],
+    "baker": [
+      "baker"
+    ],
+    "baking": [
+      "baking"
+    ],
+    "dough": [
+      "dough"
+    ],
+    "ahead": [
+      "ahead"
+    ],
+    "canibal": [
+      "canibal"
+    ],
+    "announcing": [
+      "announcing"
+    ],
+    "clown": [
+      "clown"
+    ],
+    "mortuary": [
+      "mortuary"
+    ],
+    "junk": [
+      "junk"
+    ],
+    "filfthy": [
+      "filfthy"
+    ],
+    "depnded": [
+      "depnded"
+    ],
+    "pussher": [
+      "pussher"
+    ],
+    "drug": [
+      "drug"
+    ],
+    "junkie": [
+      "junkie"
+    ],
+    "anesthesiologist": [
+      "anesthesiologist"
+    ],
+    "severity": [
+      "severity"
+    ],
+    "major": [
+      "major"
+    ],
+    "responding": [
+      "responding"
+    ],
+    "clit": [
+      "clit"
+    ],
+    "underwear": [
+      "underwear"
+    ],
+    "eyebrows": [
+      "eyebrows"
+    ],
+    "browsing": [
+      "browsing"
+    ],
+    "weather": [
+      "weather"
+    ],
+    "playroom": [
+      "playroom"
+    ],
+    "leathery": [
+      "leathery"
+    ],
+    "carpet": [
+      "carpet"
+    ],
+    "thoughtfully": [
+      "thoughtfully"
+    ],
+    "reflexive": [
+      "reflexive"
+    ],
+    "de_stress": [
+      "de_stress"
+    ],
+    "trauma": [
+      "trauma"
+    ],
+    "traumatic": [
+      "traumatic"
+    ],
+    "accidentally": [
+      "accidentally"
+    ],
+    "maternal": [
+      "maternal"
+    ],
+    "no_harm": [
+      "no_harm"
+    ],
+    "imaged": [
+      "imaged"
+    ],
+    "overcome": [
+      "overcome"
+    ],
+    "helped": [
+      "helped"
+    ],
+    "not_shame": [
+      "not_shame"
+    ],
+    "treated": [
+      "treated"
+    ],
+    "vividly": [
+      "vividly"
+    ],
+    "selfishly": [
+      "selfishly"
+    ],
+    "unfairly": [
+      "unfairly"
+    ],
+    "similarily": [
+      "similarily"
+    ],
+    "regardless": [
+      "regardless"
+    ],
+    "forming": [
+      "forming"
+    ],
+    "gate": [
+      "gate"
+    ],
+    "hubbly": [
+      "hubbly"
+    ],
+    "not_harsh": [
+      "not_harsh"
+    ],
+    "smoke": [
+      "smoke",
+      "smoking"
+    ],
+    "luck": [
+      "luck"
+    ],
+    "narrow": [
+      "narrow"
+    ],
+    "obtrusive": [
+      "obtrusive"
+    ],
+    "not_necessary": [
+      "not_necessary"
+    ],
+    "struggling": [
+      "struggling"
+    ],
+    "financial": [
+      "financial"
+    ],
+    "without_assistance": [
+      "without_assistance"
+    ],
+    "empathizing": [
+      "empathizing"
+    ],
+    "sushi": [
+      "sushi"
+    ],
+    "complaining": [
+      "complaining"
+    ],
+    "side_table": [
+      "side_table"
+    ],
+    "bursts": [
+      "bursts"
+    ],
+    "mommy": [
+      "mommy"
+    ],
+    "win": [
+      "win"
+    ],
+    "men": [
+      "men"
+    ],
+    "slap": [
+      "slap"
+    ],
+    "upseting": [
+      "upseting"
+    ],
+    "indirectly": [
+      "indirectly"
+    ],
+    "ridiculous": [
+      "ridiculous"
+    ],
+    "artritis": [
+      "artritis"
+    ],
+    "volleyball": [
+      "volleyball"
+    ],
+    "unprovactive": [
+      "unprovactive"
+    ],
+    "germophobe": [
+      "germophobe"
+    ],
+    "goodnight": [
+      "goodnight"
+    ],
+    "apologise": [
+      "apologise"
+    ],
+    "apoliogisin": [
+      "apoliogisin"
+    ],
+    "gossip": [
+      "gossip"
+    ],
+    "inane": [
+      "inane"
+    ],
+    "watched": [
+      "watched"
+    ],
+    "drops": [
+      "drops"
+    ],
+    "grievance": [
+      "grievance"
+    ],
+    "guarded": [
+      "guarded"
+    ],
+    "show_appreciation": [
+      "show_appreciation"
+    ],
+    "jungle": [
+      "jungle"
+    ],
+    "gripping": [
+      "gripping"
+    ],
+    "wild": [
+      "wild",
+      "wildly"
+    ],
+    "observe": [
+      "observe"
+    ],
+    "serves": [
+      "serves"
+    ],
+    "melancholic": [
+      "melancholic"
+    ],
+    "teller": [
+      "teller"
+    ],
+    "fortune": [
+      "fortune"
+    ],
+    "catturare": [
+      "catturare"
+    ],
+    "predict": [
+      "predict"
+    ],
+    "optimistic": [
+      "optimistic"
+    ],
+    "wrinkly": [
+      "wrinkly"
+    ],
+    "not_wound": [
+      "not_wound"
+    ],
+    "rooted": [
+      "rooted"
+    ],
+    "wall": [
+      "wall"
+    ],
+    "oxytocin": [
+      "oxytocin"
+    ],
+    "increasing": [
+      "increasing"
+    ],
+    "not_fever_verbs": [
+      "not_fever_verbs"
+    ],
+    "concept": [
+      "concept"
+    ],
+    "rougher": [
+      "rougher"
+    ],
+    "cuz": [
+      "cuz"
+    ],
+    "involuntary": [
+      "involuntary"
+    ],
+    "awe": [
+      "awe"
+    ],
+    "corresponded": [
+      "corresponded"
+    ],
+    "post": [
+      "post"
+    ],
+    "pre": [
+      "pre"
+    ],
+    "benefits": [
+      "benefits"
+    ],
+    "dent": [
+      "dent"
+    ],
+    "non_threatening": [
+      "non_threatening"
+    ],
+    "reconnecting": [
+      "reconnecting"
+    ],
+    "feather_light": [
+      "feather_light"
+    ],
+    "blockages": [
+      "blockages"
+    ],
+    "base": [
+      "base"
+    ],
+    "dissolve": [
+      "dissolve"
+    ],
+    "midst": [
+      "midst"
+    ],
+    "dissolving": [
+      "dissolving"
+    ],
+    "recoil": [
+      "recoil"
+    ],
+    "transfer": [
+      "transfer"
+    ],
+    "plague": [
+      "plague"
+    ],
+    "not_situation": [
+      "not_situation"
+    ],
+    "work_related": [
+      "work_related"
+    ],
+    "related": [
+      "related"
+    ],
+    "tidy": [
+      "tidy"
+    ],
+    "solve": [
+      "solve"
+    ],
+    "slimy": [
+      "slimy"
+    ],
+    "thanks": [
+      "thanks"
+    ],
+    "nursing": [
+      "nursing"
+    ],
+    "daycare": [
+      "daycare"
+    ],
+    "not_pain_rubbing": [
+      "not_pain_rubbing"
+    ],
+    "astonishment": [
+      "astonishment"
+    ],
+    "selfes": [
+      "selfes"
+    ],
+    "tune": [
+      "tune"
+    ],
+    "uncertainty": [
+      "uncertainty"
+    ],
+    "eye_catching": [
+      "eye_catching"
+    ],
+    "firmer": [
+      "firmer"
+    ],
+    "wrote": [
+      "wrote"
+    ],
+    "reasuringly": [
+      "reasuringly"
+    ],
+    "exercising": [
+      "exercising"
+    ],
+    "execise": [
+      "execise"
+    ],
+    "ar": [
+      "ar"
+    ],
+    "envy": [
+      "envy"
+    ],
+    "tryna": [
+      "tryna"
+    ],
+    "calmingcomforting": [
+      "calmingcomforting"
+    ],
+    "hes": [
+      "hes"
+    ],
+    "delightedempathy": [
+      "delightedempathy"
+    ],
+    "unplesand": [
+      "unplesand"
+    ],
+    "une": [
+      "une"
+    ],
+    "faimy": [
+      "faimy"
+    ],
+    "aiming": [
+      "aiming"
+    ],
+    "pointer": [
+      "pointer"
+    ],
+    "brim": [
+      "brim"
+    ],
+    "pointless": [
+      "pointless"
+    ],
+    "mor": [
+      "mor"
+    ],
+    "sus": [
+      "sus"
+    ],
+    "bck": [
+      "bck"
+    ],
+    "not_boundary": [
+      "not_boundary"
+    ],
+    "overstep": [
+      "overstep"
+    ],
+    "becuase": [
+      "becuase"
+    ],
+    "hearted": [
+      "hearted"
+    ],
+    "whisper": [
+      "whisper"
+    ],
+    "detached": [
+      "detached"
+    ],
+    "edge": [
+      "edge"
+    ],
+    "treat": [
+      "treat"
+    ],
+    "tra": [
+      "tra"
+    ],
+    "tatooist": [
+      "tatooist"
+    ],
+    "bym": [
+      "bym"
+    ],
+    "sie": [
+      "sie"
+    ],
+    "zgodzil": [
+      "zgodzil"
+    ],
+    "zwrcic": [
+      "zwrcic"
+    ],
+    "zaciekawiajcy": [
+      "zaciekawiajcy"
+    ],
+    "pulsacyjny": [
+      "pulsacyjny"
+    ],
+    "monotonny": [
+      "monotonny"
+    ],
+    "powodu": [
+      "powodu"
+    ],
+    "bez": [
+      "bez"
+    ],
+    "stuka": [
+      "stuka"
+    ],
+    "reke": [
+      "reke"
+    ],
+    "uderzanie": [
+      "uderzanie"
+    ],
+    "ywy": [
+      "ywy"
+    ],
+    "pynny": [
+      "pynny"
+    ],
+    "krzepicy": [
+      "krzepicy"
+    ],
+    "wsparcie": [
+      "wsparcie"
+    ],
+    "pokrzepiajcy": [
+      "pokrzepiajcy"
+    ],
+    "wsppasaer": [
+      "wsppasaer"
+    ],
+    "mam": [
+      "mam"
+    ],
+    "wysiadac": [
+      "wysiadac"
+    ],
+    "czoci": [
+      "czoci"
+    ],
+    "przekonanie": [
+      "przekonanie"
+    ],
+    "okazanie": [
+      "okazanie"
+    ],
+    "zmartwiony": [
+      "zmartwiony"
+    ],
+    "zainteresowanie": [
+      "zainteresowanie"
+    ],
+    "czym": [
+      "czym"
+    ],
+    "pobudzajcy": [
+      "pobudzajcy"
+    ],
+    "zwrocil": [
+      "zwrocil"
+    ],
+    "zebym": [
+      "zebym"
+    ],
+    "czce": [
+      "czce"
+    ],
+    "emocji": [
+      "emocji"
+    ],
+    "specjalista": [
+      "specjalista"
+    ],
+    "agresywny": [
+      "agresywny"
+    ],
+    "ostre": [
+      "ostre"
+    ],
+    "naruszony": [
+      "naruszony"
+    ],
+    "uspokoic": [
+      "uspokoic"
+    ],
+    "not_creepy": [
+      "not_creepy"
+    ],
+    "alienated": [
+      "alienated"
+    ],
+    "humour": [
+      "humour"
+    ],
+    "gran": [
+      "gran"
+    ],
+    "no_stroking": [
+      "no_stroking"
+    ],
+    "flattered": [
+      "flattered"
+    ],
+    "latte": [
+      "latte"
+    ],
+    "flattering": [
+      "flattering"
+    ],
+    "continuing": [
+      "continuing"
+    ],
+    "disagreeing": [
+      "disagreeing"
+    ],
+    "difference": [
+      "difference"
+    ],
+    "confronting": [
+      "confronting"
+    ],
+    "impress": [
+      "impress",
+      "impressed",
+      "impression"
+    ],
+    "labour": [
+      "labour"
+    ],
+    "snap": [
+      "snap"
+    ],
+    "bouncy": [
+      "bouncy"
+    ],
+    "standingbin": [
+      "standingbin"
+    ],
+    "frint": [
+      "frint"
+    ],
+    "payment": [
+      "payment"
+    ],
+    "psychologist": [
+      "psychologist"
+    ],
+    "kinky": [
+      "kinky"
+    ],
+    "spine": [
+      "spine"
+    ],
+    "write": [
+      "write",
+      "writing"
+    ],
+    "reflex": [
+      "reflex"
+    ],
+    "inspector": [
+      "inspector"
+    ],
+    "commuting": [
+      "commuting"
+    ],
+    "queuing": [
+      "queuing"
+    ],
+    "possessive": [
+      "possessive"
+    ],
+    "thoughtless": [
+      "thoughtless"
+    ],
+    "without_irritating": [
+      "without_irritating"
+    ],
+    "chore": [
+      "chore"
+    ],
+    "aggravating": [
+      "aggravating"
+    ],
+    "aggravated": [
+      "aggravated",
+      "agrivated",
+      "aggrevated",
+      "aggrivated"
+    ],
+    "mimics": [
+      "mimics"
+    ],
+    "not_look": [
+      "not_look"
+    ],
+    "not_work": [
+      "not_work"
+    ],
+    "not_stay": [
+      "not_stay"
+    ],
+    "not_mind": [
+      "not_mind"
+    ],
+    "not_friend": [
+      "not_friend"
+    ],
+    "not_mood": [
+      "not_mood"
+    ],
+    "not_harmful": [
+      "not_harmful"
+    ],
+    "not_warm": [
+      "not_warm"
+    ],
+    "not_place": [
+      "not_place"
+    ],
+    "placing": [
+      "placing"
+    ],
+    "not_force": [
+      "not_force"
+    ],
+    "not_space": [
+      "not_space"
+    ],
+    "not_pay": [
+      "not_pay"
+    ],
+    "not_loose": [
+      "not_loose"
+    ],
+    "not_come": [
+      "not_come"
+    ],
+    "not_car": [
+      "not_car"
+    ],
+    "not_hard": [
+      "not_hard"
+    ],
+    "not_much": [
+      "not_much"
+    ],
+    "not_love": [
+      "not_love"
+    ],
+    "not_intention": [
+      "not_intention"
+    ],
+    "not_consensual": [
+      "not_consensual"
+    ],
+    "ant": [
+      "ant"
+    ],
+    "not_gentle": [
+      "not_gentle"
+    ],
+    "punishment": [
+      "punishment"
+    ],
+    "discipline": [
+      "discipline"
+    ],
+    "back_comfort": [
+      "back_comfort"
+    ],
+    "never_hope": [
+      "never_hope"
+    ],
+    "not_question_becasue": [
+      "not_question_becasue"
+    ],
+    "enthusiastic": [
+      "enthusiastic"
+    ],
+    "tennis": [
+      "tennis"
+    ],
+    "thump": [
+      "thump"
+    ],
+    "jumpy": [
+      "jumpy"
+    ],
+    "sucking": [
+      "sucking"
+    ],
+    "remeber": [
+      "remeber"
+    ],
+    "not_affection": [
+      "not_affection"
+    ],
+    "insistence": [
+      "insistence"
+    ],
+    "rainy": [
+      "rainy"
+    ],
+    "lazy": [
+      "lazy"
+    ],
+    "continually": [
+      "continually"
+    ],
+    "pounce": [
+      "pounce"
+    ],
+    "pounding": [
+      "pounding"
+    ],
+    "freezing": [
+      "freezing"
+    ],
+    "fleeting": [
+      "fleeting"
+    ],
+    "goose_flesh": [
+      "goose_flesh"
+    ],
+    "lulls": [
+      "lulls"
+    ],
+    "pair": [
+      "pair"
+    ],
+    "academic": [
+      "academic"
+    ],
+    "spoon_hugging": [
+      "spoon_hugging"
+    ],
+    "remember": [
+      "remember",
+      "remembered"
+    ],
+    "cupping": [
+      "cupping"
+    ],
+    "admonishing": [
+      "admonishing"
+    ],
+    "sheepish": [
+      "sheepish"
+    ],
+    "pissed": [
+      "pissed"
+    ],
+    "viewing": [
+      "viewing"
+    ],
+    "presentation": [
+      "presentation"
+    ],
+    "zwraca": [
+      "zwraca"
+    ],
+    "mily": [
+      "mily"
+    ],
+    "lekarz": [
+      "lekarz"
+    ],
+    "zadne": [
+      "zadne"
+    ],
+    "mni": [
+      "mni"
+    ],
+    "listended": [
+      "listended"
+    ],
+    "plus": [
+      "plus"
+    ],
+    "not_person": [
+      "not_person"
+    ],
+    "toards": [
+      "toards"
+    ],
+    "jacket": [
+      "jacket"
+    ],
+    "tuition": [
+      "tuition"
+    ],
+    "trampoline": [
+      "trampoline"
+    ],
+    "adornment": [
+      "adornment"
+    ],
+    "defeated": [
+      "defeated"
+    ],
+    "freely": [
+      "freely"
+    ],
+    "goodwill": [
+      "goodwill"
+    ],
+    "not_aggressiveness": [
+      "not_aggressiveness"
+    ],
+    "profesionnalmade": [
+      "profesionnalmade"
+    ],
+    "curiositywhere": [
+      "curiositywhere"
+    ],
+    "not_stimulate": [
+      "not_stimulate"
+    ],
+    "without_thigh": [
+      "without_thigh"
+    ],
+    "side_stroking": [
+      "side_stroking"
+    ],
+    "register": [
+      "register"
+    ],
+    "familyevent": [
+      "familyevent"
+    ],
+    "hardpressing": [
+      "hardpressing"
+    ],
+    "impuls": [
+      "impuls"
+    ],
+    "feem": [
+      "feem"
+    ],
+    "upperarm": [
+      "upperarm"
+    ],
+    "planning": [
+      "planning"
+    ],
+    "opportunity": [
+      "opportunity"
+    ],
+    "participate": [
+      "participate"
+    ],
+    "explanation": [
+      "explanation"
+    ],
+    "piano": [
+      "piano"
+    ],
+    "routines": [
+      "routines"
+    ],
+    "outing": [
+      "outing"
+    ],
+    "diet": [
+      "diet"
+    ],
+    "contra": [
+      "contra"
+    ],
+    "apart": [
+      "apart"
+    ],
+    "hushed": [
+      "hushed"
+    ],
+    "melt": [
+      "melt"
+    ],
+    "agro": [
+      "agro"
+    ],
+    "agrocery": [
+      "agrocery"
+    ],
+    "und": [
+      "und"
+    ],
+    "clap": [
+      "claps",
+      "clapping"
+    ],
+    "hypothesis": [
+      "hypothesis"
+    ],
+    "buttock": [
+      "buttock"
+    ],
+    "principle": [
+      "principle"
+    ],
+    "contracture": [
+      "contracture"
+    ],
+    "not_elucidative_enough": [
+      "not_elucidative_enough"
+    ],
+    "signify": [
+      "signify"
+    ],
+    "obscene": [
+      "obscene"
+    ],
+    "not_consider": [
+      "not_consider"
+    ],
+    "somethingthe": [
+      "somethingthe"
+    ],
+    "attended": [
+      "attended"
+    ],
+    "practicing": [
+      "practicing"
+    ],
+    "rehearsing": [
+      "rehearsing"
+    ],
+    "tomorrow": [
+      "tomorrow"
+    ],
+    "llamar": [
+      "llamar"
+    ],
+    "apretar": [
+      "apretar"
+    ],
+    "mejilla": [
+      "mejilla"
+    ],
+    "izquierda": [
+      "izquierda"
+    ],
+    "tocan": [
+      "tocan"
+    ],
+    "picar": [
+      "picar"
+    ],
+    "cara": [
+      "cara"
+    ],
+    "confiado": [
+      "confiado"
+    ],
+    "dedo": [
+      "dedo"
+    ],
+    "ocasiones": [
+      "ocasiones"
+    ],
+    "es": [
+      "es"
+    ],
+    "significativo": [
+      "significativo"
+    ],
+    "aconsejar": [
+      "aconsejar"
+    ],
+    "otra": [
+      "otra"
+    ],
+    "til": [
+      "til"
+    ],
+    "tocar": [
+      "tocar"
+    ],
+    "pero": [
+      "pero"
+    ],
+    "cuerpo": [
+      "cuerpo"
+    ],
+    "bien": [
+      "bien"
+    ],
+    "punto": [
+      "punto"
+    ],
+    "platica": [
+      "platica"
+    ],
+    "rpido": [
+      "rpido"
+    ],
+    "mover": [
+      "mover"
+    ],
+    "agradecimiento": [
+      "agradecimiento"
+    ],
+    "denso": [
+      "denso"
+    ],
+    "esa": [
+      "esa"
+    ],
+    "levantar": [
+      "levantar"
+    ],
+    "tocarme": [
+      "tocarme"
+    ],
+    "llega": [
+      "llega"
+    ],
+    "admiracin": [
+      "admiracin"
+    ],
+    "sobar": [
+      "sobar"
+    ],
+    "sobbing": [
+      "sobbing"
+    ],
+    "ocurre": [
+      "ocurre"
+    ],
+    "bajar": [
+      "bajar"
+    ],
+    "hacerme": [
+      "hacerme"
+    ],
+    "alertness": [
+      "alertness"
+    ],
+    "spotted": [
+      "spotted"
+    ],
+    "appear": [
+      "appear"
+    ],
+    "obtain": [
+      "obtain"
+    ],
+    "correcting": [
+      "correcting"
+    ],
+    "dresser": [
+      "dresser"
+    ],
+    "show_love": [
+      "show_love"
+    ],
+    "divorce": [
+      "divorce"
+    ],
+    "unhealthy": [
+      "unhealthy"
+    ],
+    "awkwardness": [
+      "awkwardness"
+    ],
+    "stretch": [
+      "stretch"
+    ],
+    "data": [
+      "data"
+    ],
+    "salient": [
+      "salient"
+    ],
+    "not_scenario": [
+      "not_scenario"
+    ],
+    "wok": [
+      "wok"
+    ],
+    "deem": [
+      "deem"
+    ],
+    "vulnerability": [
+      "vulnerability"
+    ],
+    "finely": [
+      "finely"
+    ],
+    "administered": [
+      "administered"
+    ],
+    "not_tune": [
+      "not_tune"
+    ],
+    "participating": [
+      "participating"
+    ],
+    "added": [
+      "added"
+    ],
+    "not_part": [
+      "not_part"
+    ],
+    "researcher": [
+      "researcher"
+    ],
+    "not_hard_either": [
+      "not_hard_either"
+    ],
+    "seek": [
+      "seeking",
+      "seeks"
+    ],
+    "seems": [
+      "seems"
+    ],
+    "seeked": [
+      "seeked"
+    ],
+    "expertise": [
+      "expertise"
+    ],
+    "resolving": [
+      "resolving"
+    ],
+    "mix": [
+      "mix"
+    ],
+    "alot": [
+      "alot"
+    ],
+    "loaded": [
+      "loaded"
+    ],
+    "moderate": [
+      "moderate"
+    ],
+    "ceremony": [
+      "ceremony"
+    ],
+    "official": [
+      "official"
+    ],
+    "unfriendly": [
+      "unfriendly"
+    ],
+    "gained": [
+      "gained"
+    ],
+    "sporting": [
+      "sporting"
+    ],
+    "lik": [
+      "lik"
+    ],
+    "portion": [
+      "portion"
+    ],
+    "coach": [
+      "coach"
+    ],
+    "closure": [
+      "closure"
+    ],
+    "thome": [
+      "thome"
+    ],
+    "clubbing": [
+      "clubbing"
+    ],
+    "spelt": [
+      "spelt"
+    ],
+    "probing": [
+      "probing"
+    ],
+    "": [
+      "nt",
+      "ca",
+      "mi",
+      "na",
+      "domu",
+      "en",
+      "co",
+      "al",
+      "rk",
+      "ne",
+      "ot",
+      "od",
+      "wo",
+      "arw",
+      "mu",
+      "ro",
+      "ri",
+      "amvel",
+      "aqm",
+      "ch",
+      "kto",
+      "po",
+      "bu",
+      "tha",
+      "ew",
+      "fxxx",
+      "lu",
+      "nd",
+      "ahe",
+      "tp",
+      "ss",
+      "asd",
+      "trough",
+      "rka",
+      "mnie",
+      "un",
+      "con",
+      "la",
+      "ofcourse"
+    ]
+  }
+}
