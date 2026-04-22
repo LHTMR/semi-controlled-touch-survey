@@ -1,0 +1,133 @@
+response_id,response,theme,present,score,count_original,count_synonym,count_closest,examples_original,examples_synonym,examples_closest
+1,we are cuddling,Getting attention_communication,False,0.0,0,0,0,,,
+2,I'm sitting on the couch in the living room with my headsets. I'm focusing on the movie I'm watching and my mother touches me on my shoulder.,Getting attention_communication,True,1.0,0,0,2,,,"movie, touch"
+3,My girlfriend is touching my neck,Getting attention_communication,True,1.0,0,0,2,,,"neck, touch"
+4,"We are playing a board game, my arm is on the table, my girlfriend is in front of me with her arm half extended as to reach my forearm and touch it.",Getting attention_communication,True,1.5,0,0,3,,,"play, reach, touch"
+5,making fun,Getting attention_communication,False,0.0,0,0,0,,,
+6,we are talking and my partner is massaging my hand,Getting attention_communication,True,2.5,1,2,0,talk,"talk, talking",
+7,we are watching TV,Getting attention_communication,False,0.0,0,0,0,,,
+8,The stranger (a man) is trying to flirt but being weird and creepy,Getting attention_communication,False,0.0,0,0,0,,,
+9,we are sleeping,Getting attention_communication,False,0.0,0,0,0,,,
+10,my mother is touching my back,Getting attention_communication,False,0.5,0,0,1,,,touch
+11,doctor is checking for muscle tenderness,Getting attention_communication,False,0.0,0,0,0,,,
+12,"We're in class, being bored during a Philosophy lesson",Getting attention_communication,False,0.0,0,0,0,,,
+13,my child is trying to get my attention,Getting attention_communication,True,2.25,1,1,1,attention,get,attention
+14,I’m feeling a bit stressed or uneasy so the therapist is trying methods to calm me down.,Getting attention_communication,True,1.5,0,0,3,,,"down, feel, feeling"
+15,My daughter is rubbing my arm with her finder,Getting attention_communication,False,0.5,0,0,1,,,rub
+16,My mom is cleaning something of my face,Getting attention_communication,True,1.25,0,1,1,,face,face
+17,"He's next to me, doing this, even though I don't like this type of strong press over my arm.",Getting attention_communication,False,0.0,0,0,0,,,
+18,Sat on the couch watching tv,Getting attention_communication,False,0.0,0,0,0,,,
+19,We are watching movie and im begin touched pretty same as on video but maybe slower,Getting attention_communication,True,1.5,0,0,3,,,"begin, movie, touch"
+20,They are trying to get my attention,Getting attention_communication,True,2.25,1,1,1,attention,get,attention
+21,He is trying to get my attention,Getting attention_communication,True,2.25,1,1,1,attention,get,attention
+22,Playing pretend doctors and nurses,Getting attention_communication,True,1.0,0,0,2,,,"nurse, play"
+23,The person is touching me to get my attention,Getting attention_communication,True,2.75,1,1,2,attention,get,"attention, touch"
+24,They are applying pressure to my arm while rubbing up and down,Getting attention_communication,True,1.0,0,0,2,,,"down, rub"
+25,We are sitting on the couch watching a movie,Getting attention_communication,False,0.5,0,0,1,,,movie
+26,"The music is loud, we are dancing and singing",Getting attention_communication,False,0.0,0,0,0,,,
+27,daughter wants to ask for something,Getting attention_communication,True,1.0,1,0,0,ask,,
+28,My romantic partner touches my arm exactly as shown in the video at her/my home,Getting attention_communication,True,1.5,1,0,1,show,,touch
+29,watching some video on tv or a film on netflix.,Getting attention_communication,False,0.0,0,0,0,,,
+30,My arm is being gently rubbed,Getting attention_communication,False,0.5,0,0,1,,,rub
+31,"I'm sleeping or dozing, not paying attention",Getting attention_communication,True,2.0,2,0,0,"paying attention, paying_attention",,
+32,playing with a kid,Getting attention_communication,False,0.5,0,0,1,,,play
+33,A doctor is conducting a check-up,Getting attention_communication,False,0.0,0,0,0,,,
+34,we're spending our break time in leisure together,Getting attention_communication,False,0.0,0,0,0,,,
+35,She's trying to tease me to do something else.,Getting attention_communication,False,0.0,0,0,0,,,
+36,The girlfriend is scrubbing or rubbing my chest in a romantic way,Getting attention_communication,False,0.5,0,0,1,,,rub
+37,I was going for a regular check-up and to get my vitals checked.,Getting attention_communication,False,0.75,0,1,0,,get,
+38,"My son is asking me about something he wants, either a toy or a specific snack",Getting attention_communication,True,1.0,1,0,0,ask,,
+39,she tries to relax me,Getting attention_communication,False,0.5,0,0,1,,,relax
+40,being touch with just one finger,Getting attention_communication,True,1.0,0,0,2,,,"finger, touch"
+41,They are helping me calm down after I've had an anxiety attack.,Getting attention_communication,False,0.5,0,0,1,,,down
+42,kid is just touching while trying to get attention,Getting attention_communication,True,2.75,1,1,2,attention,get,"attention, touch"
+43,"touching my arm, could be on the current topic being discussed",Getting attention_communication,False,0.5,0,0,1,,,touch
+44,They are caresing me,Getting attention_communication,False,0.0,0,0,0,,,
+45,Someone is aggressively pressing their finger into my arm,Getting attention_communication,False,0.5,0,0,1,,,finger
+46,my friend wants to show me a cool trick with human body she just learnt,Getting attention_communication,True,1.5,1,0,1,show,,learn
+47,I am at the computer answering this survey while i am waiting for my lunch.,Getting attention_communication,False,0.5,0,0,1,,,answer
+48,the stranger and I are talking,Getting attention_communication,True,2.5,1,2,0,talk,"talk, talking",
+49,having argument,Getting attention_communication,False,0.0,0,0,0,,,
+50,i'm distracted scrolling through my phone,Getting attention_communication,False,0.0,0,0,0,,,
+51,We are at a playground.,Getting attention_communication,False,0.0,0,0,0,,,
+52,we are having a dinner,Getting attention_communication,False,0.0,0,0,0,,,
+53,my sister is petting my forearm,Getting attention_communication,False,0.5,0,0,1,,,pet
+54,"I am napping on the couch, and my partner is waking me up softly",Getting attention_communication,True,1.5,1,0,1,wake,,wake
+55,Me and my partner are watching a movie.,Getting attention_communication,False,0.5,0,0,1,,,movie
+56,normal relaxing time at home watching,Getting attention_communication,False,0.5,0,0,1,,,relax
+57,my mother is asking me a question,Getting attention_communication,True,2.5,2,0,1,"ask, question",,question
+58,touching and stroking of the arm,Getting attention_communication,True,1.0,0,0,2,,,"stroke, touch"
+59,My mother is rubbing cream on my stomach,Getting attention_communication,True,1.0,0,0,2,,,"cream, rub"
+60,I have been told that my skin looks good and they want to check it out.,Getting attention_communication,True,3.75,2,1,2,"look, tell",look,"good, look"
+61,I'm riding the bus and a stranger sat next to me and touched my arm like the video.,Getting attention_communication,False,0.5,0,0,1,,,touch
+62,It feels weird being touched like that. It feels like something your romantic partner would do and not colleague.,Getting attention_communication,True,1.0,0,0,2,,,"feel, touch"
+63,I am sitting on a chair with my feet elevated and the masseuse is sitting in front of me and rubbing my feet.,Getting attention_communication,False,0.5,0,0,1,,,rub
+64,They are checking my blood,Getting attention_communication,False,0.0,0,0,0,,,
+65,Socialisng,Getting attention_communication,False,0.0,0,0,0,,,
+66,The nurse is applying pressure and rubbing with wool soaked with a numbing agent,Getting attention_communication,True,1.0,0,0,2,,,"nurse, rub"
+67,she is rubbing my forearm with her index finger,Getting attention_communication,True,1.0,0,0,2,,,"finger, rub"
+68,playing with my face,Getting attention_communication,True,1.75,0,1,2,,face,"face, play"
+69,My nephew is trying to get me to get up and play with him.,Getting attention_communication,True,1.75,0,1,2,,get,"get up, play"
+70,"talking, joking, laughing, gossiping",Getting attention_communication,True,4.0,1,2,3,talk,"talk, talking","gossip, gossiping, joke"
+71,he comes next to me and touching me,Getting attention_communication,False,0.5,0,0,1,,,touch
+72,Touching something irregular on the skin,Getting attention_communication,False,0.5,0,0,1,,,touch
+73,my son wants my attention and rubs my leg in order for me to acknowledge him,Getting attention_communication,True,2.0,1,0,2,attention,,"attention, rub"
+74,I'm being examined,Getting attention_communication,False,0.0,0,0,0,,,
+75,It' afternoon or evening and we are chilling together,Getting attention_communication,False,0.0,0,0,0,,,
+76,He's massaging me,Getting attention_communication,False,0.0,0,0,0,,,
+77,They just randomly started doing that,Getting attention_communication,False,0.0,0,0,0,,,
+78,Rubbing my arm with their finger as a sign of affection,Getting attention_communication,True,1.5,0,0,3,,,"finger, rub, sign"
+79,he's trying to be affectionate,Getting attention_communication,False,0.0,0,0,0,,,
+80,My partner is showing care,Getting attention_communication,True,1.75,1,1,0,show,care,
+81,We're eating and talking,Getting attention_communication,True,2.5,1,2,0,talk,"talk, talking",
+82,We have been seated next to each other casually,Getting attention_communication,False,0.0,0,0,0,,,
+83,Spending quality time with romantic partner alone,Getting attention_communication,False,0.0,0,0,0,,,
+84,"the touch is firm, it wants to communicate something to me, not necessarily something nice",Getting attention_communication,True,1.0,0,0,2,,,"communicate, touch"
+85,Watching a movie/ hanging out,Getting attention_communication,False,0.5,0,0,1,,,movie
+86,"He is touching my neck, that back and forth rub relaxes me",Getting attention_communication,True,2.0,0,0,4,,,"neck, relax, rub, touch"
+87,An unknown man stopped me in the street wanting to talk to me.,Getting attention_communication,True,1.75,1,1,0,talk,talk,
+88,"A romantic moment on the couch, my wife beckons me wanting to be hugged, feel closeness",Getting attention_communication,False,0.5,0,0,1,,,feel
+89,the doctor examines my stomach,Getting attention_communication,False,0.0,0,0,0,,,
+90,"my colleague is trying to be intimate with me, trying to gain confidence so she can take to bed",Getting attention_communication,False,0.5,0,0,1,,,gain
+91,we are alone and in a close situation without strangers around,Getting attention_communication,False,0.5,0,0,1,,,situation
+92,"We are both seated together on the sofa/couch and he is rubbing my hand, just playfully.",Getting attention_communication,False,0.5,0,0,1,,,rub
+93,potrzeba kontaktu fizycznego,Getting attention_communication,False,0.0,0,0,0,,,
+94,The doctor checks if my back is straight,Getting attention_communication,False,0.0,0,0,0,,,
+95,The doctor is rubbing their hands in my back.,Getting attention_communication,False,0.5,0,0,1,,,rub
+96,its tea time and we are sitting and talking about things in general,Getting attention_communication,True,2.5,1,2,0,talk,"talk, talking",
+97,Sitting around a desk having a meeting and taking notes.,Getting attention_communication,True,1.5,0,0,3,,,"meet, meeting, note"
+98,A child is aggressively touching my arm,Getting attention_communication,False,0.5,0,0,1,,,touch
+99,My mother is rubbing something off my face,Getting attention_communication,True,1.75,0,1,2,,face,"face, rub"
+100,rubbing arm with finger,Getting attention_communication,True,1.0,0,0,2,,,"finger, rub"
+101,simply having a rather boring class,Getting attention_communication,False,0.0,0,0,0,,,
+102,My daughter is watching TV,Getting attention_communication,False,0.0,0,0,0,,,
+103,i have a stain of ink from my pen or marker or something on my face or a mark on my forehead and my colleague or teacher are tying to wipe it off or rub it off,Getting attention_communication,True,1.75,0,1,2,,face,"face, rub"
+104,A child who is bored and curious starts poking me or bothering me in some way to entertain themselves.,Getting attention_communication,True,1.0,1,0,0,poke,,
+105,girlfriend is rubbing my skin after she sees a bump,Getting attention_communication,True,1.0,0,0,2,,,"rub, see"
+106,I'm standing in their way,Getting attention_communication,False,0.0,0,0,0,,,
+107,we are laying in bed,Getting attention_communication,False,0.0,0,0,0,,,
+108,I have pain in my arm,Getting attention_communication,False,0.0,0,0,0,,,
+109,i just complained about my hands being very dry and the person wants to feel how dry the skin on my hand feels.,Getting attention_communication,False,0.5,0,0,1,,,feel
+110,The nurse is checking to see where there is a vein,Getting attention_communication,True,1.0,0,0,2,,,"nurse, see"
+111,Using finger to rub,Getting attention_communication,True,1.0,0,0,2,,,"finger, rub"
+112,I’m sitting on my sofa with a friend of mine watching a movie,Getting attention_communication,False,0.5,0,0,1,,,movie
+113,"We're pre, post or during a bedroom conversation. Probably after having intercourse",Getting attention_communication,False,0.5,0,0,1,,,conversation
+114,the friend is rubbing my arm to get my attention,Getting attention_communication,True,2.75,1,1,2,attention,get,"attention, rub"
+115,"a light and playful moment in which closeness is expressed with an almost childlike gesture. she smiles and caresses my face, my nose, making me smile back",Getting attention_communication,True,3.25,1,1,3,gesture,face,"caress, face, gesture"
+116,He slides his finger over my skin.,Getting attention_communication,False,0.5,0,0,1,,,finger
+117,we are working,Getting attention_communication,False,0.5,0,0,1,,,work
+118,czce zebym zwrocil na cos uwage,Getting attention_communication,False,0.0,0,0,0,,,
+119,Relaxing,Getting attention_communication,False,0.5,0,0,1,,,relax
+120,she's trying to clean up something from my arm,Getting attention_communication,False,0.0,0,0,0,,,
+121,They are trying to annoy me.,Getting attention_communication,False,0.0,0,0,0,,,
+122,Watching tv,Getting attention_communication,False,0.0,0,0,0,,,
+123,I am watching tv,Getting attention_communication,False,0.0,0,0,0,,,
+124,We're on the couch and the other person tries to get my attention,Getting attention_communication,True,2.25,1,1,1,attention,get,attention
+125,The person poked me,Getting attention_communication,True,1.0,1,0,0,poke,,
+126,"My friend and I are watching TV during a rainy, lazy afternoon",Getting attention_communication,False,0.0,0,0,0,,,
+127,We are coudling resting in the bed,Getting attention_communication,False,0.0,0,0,0,,,
+128,I am making a point which is contra to what the other people wants to hear and I am slightly agrivated,Getting attention_communication,True,1.0,1,0,0,hear,,
+129,My friend is rubbing my forearm,Getting attention_communication,False,0.5,0,0,1,,,rub
+130,friend is trying to help me remove a spot of something on my arm,Getting attention_communication,False,0.0,0,0,0,,,
+131,I am participating in a study and a researcher is touching me,Getting attention_communication,False,0.5,0,0,1,,,touch
+132,The child is a bit annoying,Getting attention_communication,False,0.0,0,0,0,,,

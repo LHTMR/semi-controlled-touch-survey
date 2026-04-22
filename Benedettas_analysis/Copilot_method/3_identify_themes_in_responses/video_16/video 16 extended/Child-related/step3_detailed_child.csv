@@ -1,0 +1,133 @@
+response_id,response,theme,present,score,count_original,count_synonym,count_closest,examples_original,examples_synonym,examples_closest
+1,we are cuddling,Child-related,False,0.0,0,0,0,,,
+2,I'm sitting on the couch in the living room with my headsets. I'm focusing on the movie I'm watching and my mother touches me on my shoulder.,Child-related,False,0.5,0,0,1,,,movie
+3,My girlfriend is touching my neck,Child-related,False,0.0,0,0,0,,,
+4,"We are playing a board game, my arm is on the table, my girlfriend is in front of me with her arm half extended as to reach my forearm and touch it.",Child-related,True,2.0,1,0,2,play,,"play, reach"
+5,making fun,Child-related,False,0.0,0,0,0,,,
+6,we are talking and my partner is massaging my hand,Child-related,False,0.5,0,0,1,,,hand
+7,we are watching TV,Child-related,False,0.0,0,0,0,,,
+8,The stranger (a man) is trying to flirt but being weird and creepy,Child-related,False,0.0,0,0,0,,,
+9,we are sleeping,Child-related,False,0.0,0,0,0,,,
+10,my mother is touching my back,Child-related,False,0.0,0,0,0,,,
+11,doctor is checking for muscle tenderness,Child-related,False,0.0,0,0,0,,,
+12,"We're in class, being bored during a Philosophy lesson",Child-related,False,0.0,0,0,0,,,
+13,my child is trying to get my attention,Child-related,True,3.25,2,1,1,"attention, child",child,child
+14,I’m feeling a bit stressed or uneasy so the therapist is trying methods to calm me down.,Child-related,True,1.25,0,1,1,,bite,down
+15,My daughter is rubbing my arm with her finder,Child-related,True,1.5,1,0,1,daughter,,daughter
+16,My mom is cleaning something of my face,Child-related,False,0.0,0,0,0,,,
+17,"He's next to me, doing this, even though I don't like this type of strong press over my arm.",Child-related,False,0.0,0,0,0,,,
+18,Sat on the couch watching tv,Child-related,False,0.0,0,0,0,,,
+19,We are watching movie and im begin touched pretty same as on video but maybe slower,Child-related,True,1.0,0,0,2,,,"movie, video"
+20,They are trying to get my attention,Child-related,True,1.0,1,0,0,attention,,
+21,He is trying to get my attention,Child-related,True,1.0,1,0,0,attention,,
+22,Playing pretend doctors and nurses,Child-related,True,1.5,1,0,1,play,,play
+23,The person is touching me to get my attention,Child-related,True,1.5,1,0,1,attention,,person
+24,They are applying pressure to my arm while rubbing up and down,Child-related,False,0.5,0,0,1,,,down
+25,We are sitting on the couch watching a movie,Child-related,False,0.5,0,0,1,,,movie
+26,"The music is loud, we are dancing and singing",Child-related,False,0.0,0,0,0,,,
+27,daughter wants to ask for something,Child-related,True,2.5,2,0,1,"ask, daughter",,daughter
+28,My romantic partner touches my arm exactly as shown in the video at her/my home,Child-related,True,1.5,1,0,1,show,,video
+29,watching some video on tv or a film on netflix.,Child-related,False,0.5,0,0,1,,,video
+30,My arm is being gently rubbed,Child-related,False,0.0,0,0,0,,,
+31,"I'm sleeping or dozing, not paying attention",Child-related,False,0.0,0,0,0,,,
+32,playing with a kid,Child-related,True,3.25,2,1,1,"kid, play",kid,play
+33,A doctor is conducting a check-up,Child-related,False,0.0,0,0,0,,,
+34,we're spending our break time in leisure together,Child-related,False,0.0,0,0,0,,,
+35,She's trying to tease me to do something else.,Child-related,False,0.0,0,0,0,,,
+36,The girlfriend is scrubbing or rubbing my chest in a romantic way,Child-related,False,0.0,0,0,0,,,
+37,I was going for a regular check-up and to get my vitals checked.,Child-related,False,0.0,0,0,0,,,
+38,"My son is asking me about something he wants, either a toy or a specific snack",Child-related,True,4.5,4,0,1,"ask, snack, son, toy",,son
+39,she tries to relax me,Child-related,False,0.0,0,0,0,,,
+40,being touch with just one finger,Child-related,False,0.0,0,0,0,,,
+41,They are helping me calm down after I've had an anxiety attack.,Child-related,True,1.5,1,0,1,help,,down
+42,kid is just touching while trying to get attention,Child-related,True,2.75,2,1,0,"attention, kid",kid,
+43,"touching my arm, could be on the current topic being discussed",Child-related,False,0.0,0,0,0,,,
+44,They are caresing me,Child-related,False,0.0,0,0,0,,,
+45,Someone is aggressively pressing their finger into my arm,Child-related,False,0.0,0,0,0,,,
+46,my friend wants to show me a cool trick with human body she just learnt,Child-related,True,1.5,1,0,1,show,,learn
+47,I am at the computer answering this survey while i am waiting for my lunch.,Child-related,False,0.5,0,0,1,,,lunch
+48,the stranger and I are talking,Child-related,False,0.0,0,0,0,,,
+49,having argument,Child-related,False,0.0,0,0,0,,,
+50,i'm distracted scrolling through my phone,Child-related,False,0.0,0,0,0,,,
+51,We are at a playground.,Child-related,False,0.0,0,0,0,,,
+52,we are having a dinner,Child-related,False,0.5,0,0,1,,,dinner
+53,my sister is petting my forearm,Child-related,False,0.5,0,0,1,,,sister
+54,"I am napping on the couch, and my partner is waking me up softly",Child-related,True,1.5,1,0,1,wake,,wake
+55,Me and my partner are watching a movie.,Child-related,False,0.5,0,0,1,,,movie
+56,normal relaxing time at home watching,Child-related,False,0.0,0,0,0,,,
+57,my mother is asking me a question,Child-related,True,1.0,1,0,0,ask,,
+58,touching and stroking of the arm,Child-related,False,0.0,0,0,0,,,
+59,My mother is rubbing cream on my stomach,Child-related,False,0.5,0,0,1,,,cream
+60,I have been told that my skin looks good and they want to check it out.,Child-related,False,0.0,0,0,0,,,
+61,I'm riding the bus and a stranger sat next to me and touched my arm like the video.,Child-related,False,0.5,0,0,1,,,video
+62,It feels weird being touched like that. It feels like something your romantic partner would do and not colleague.,Child-related,False,0.0,0,0,0,,,
+63,I am sitting on a chair with my feet elevated and the masseuse is sitting in front of me and rubbing my feet.,Child-related,False,0.0,0,0,0,,,
+64,They are checking my blood,Child-related,False,0.0,0,0,0,,,
+65,Socialisng,Child-related,False,0.0,0,0,0,,,
+66,The nurse is applying pressure and rubbing with wool soaked with a numbing agent,Child-related,False,0.0,0,0,0,,,
+67,she is rubbing my forearm with her index finger,Child-related,False,0.0,0,0,0,,,
+68,playing with my face,Child-related,True,1.5,1,0,1,play,,play
+69,My nephew is trying to get me to get up and play with him.,Child-related,True,3.0,2,0,2,"nephew, play",,"get up, play"
+70,"talking, joking, laughing, gossiping",Child-related,False,0.5,0,0,1,,,joke
+71,he comes next to me and touching me,Child-related,False,0.0,0,0,0,,,
+72,Touching something irregular on the skin,Child-related,False,0.0,0,0,0,,,
+73,my son wants my attention and rubs my leg in order for me to acknowledge him,Child-related,True,2.5,2,0,1,"attention, son",,son
+74,I'm being examined,Child-related,False,0.0,0,0,0,,,
+75,It' afternoon or evening and we are chilling together,Child-related,False,0.0,0,0,0,,,
+76,He's massaging me,Child-related,False,0.0,0,0,0,,,
+77,They just randomly started doing that,Child-related,False,0.0,0,0,0,,,
+78,Rubbing my arm with their finger as a sign of affection,Child-related,False,0.5,0,0,1,,,sign
+79,he's trying to be affectionate,Child-related,False,0.0,0,0,0,,,
+80,My partner is showing care,Child-related,True,1.0,1,0,0,show,,
+81,We're eating and talking,Child-related,False,0.0,0,0,0,,,
+82,We have been seated next to each other casually,Child-related,False,0.5,0,0,1,,,seat
+83,Spending quality time with romantic partner alone,Child-related,False,0.0,0,0,0,,,
+84,"the touch is firm, it wants to communicate something to me, not necessarily something nice",Child-related,False,0.5,0,0,1,,,communicate
+85,Watching a movie/ hanging out,Child-related,False,0.5,0,0,1,,,movie
+86,"He is touching my neck, that back and forth rub relaxes me",Child-related,False,0.0,0,0,0,,,
+87,An unknown man stopped me in the street wanting to talk to me.,Child-related,False,0.0,0,0,0,,,
+88,"A romantic moment on the couch, my wife beckons me wanting to be hugged, feel closeness",Child-related,False,0.0,0,0,0,,,
+89,the doctor examines my stomach,Child-related,False,0.0,0,0,0,,,
+90,"my colleague is trying to be intimate with me, trying to gain confidence so she can take to bed",Child-related,False,0.0,0,0,0,,,
+91,we are alone and in a close situation without strangers around,Child-related,False,0.0,0,0,0,,,
+92,"We are both seated together on the sofa/couch and he is rubbing my hand, just playfully.",Child-related,True,1.0,0,0,2,,,"hand, seat"
+93,potrzeba kontaktu fizycznego,Child-related,False,0.0,0,0,0,,,
+94,The doctor checks if my back is straight,Child-related,False,0.0,0,0,0,,,
+95,The doctor is rubbing their hands in my back.,Child-related,False,0.5,0,0,1,,,hand
+96,its tea time and we are sitting and talking about things in general,Child-related,False,0.5,0,0,1,,,tea
+97,Sitting around a desk having a meeting and taking notes.,Child-related,False,0.0,0,0,0,,,
+98,A child is aggressively touching my arm,Child-related,True,2.25,1,1,1,child,child,child
+99,My mother is rubbing something off my face,Child-related,False,0.0,0,0,0,,,
+100,rubbing arm with finger,Child-related,False,0.0,0,0,0,,,
+101,simply having a rather boring class,Child-related,False,0.0,0,0,0,,,
+102,My daughter is watching TV,Child-related,True,1.5,1,0,1,daughter,,daughter
+103,i have a stain of ink from my pen or marker or something on my face or a mark on my forehead and my colleague or teacher are tying to wipe it off or rub it off,Child-related,False,0.0,0,0,0,,,
+104,A child who is bored and curious starts poking me or bothering me in some way to entertain themselves.,Child-related,True,3.25,2,1,1,"child, poke",child,child
+105,girlfriend is rubbing my skin after she sees a bump,Child-related,False,0.0,0,0,0,,,
+106,I'm standing in their way,Child-related,False,0.0,0,0,0,,,
+107,we are laying in bed,Child-related,False,0.0,0,0,0,,,
+108,I have pain in my arm,Child-related,False,0.0,0,0,0,,,
+109,i just complained about my hands being very dry and the person wants to feel how dry the skin on my hand feels.,Child-related,True,1.0,0,0,2,,,"hand, person"
+110,The nurse is checking to see where there is a vein,Child-related,False,0.0,0,0,0,,,
+111,Using finger to rub,Child-related,False,0.0,0,0,0,,,
+112,I’m sitting on my sofa with a friend of mine watching a movie,Child-related,False,0.5,0,0,1,,,movie
+113,"We're pre, post or during a bedroom conversation. Probably after having intercourse",Child-related,False,0.0,0,0,0,,,
+114,the friend is rubbing my arm to get my attention,Child-related,True,1.0,1,0,0,attention,,
+115,"a light and playful moment in which closeness is expressed with an almost childlike gesture. she smiles and caresses my face, my nose, making me smile back",Child-related,False,0.5,0,0,1,,,gesture
+116,He slides his finger over my skin.,Child-related,False,0.0,0,0,0,,,
+117,we are working,Child-related,False,0.0,0,0,0,,,
+118,czce zebym zwrocil na cos uwage,Child-related,False,0.0,0,0,0,,,
+119,Relaxing,Child-related,False,0.0,0,0,0,,,
+120,she's trying to clean up something from my arm,Child-related,False,0.0,0,0,0,,,
+121,They are trying to annoy me.,Child-related,False,0.0,0,0,0,,,
+122,Watching tv,Child-related,False,0.0,0,0,0,,,
+123,I am watching tv,Child-related,False,0.0,0,0,0,,,
+124,We're on the couch and the other person tries to get my attention,Child-related,True,1.5,1,0,1,attention,,person
+125,The person poked me,Child-related,True,1.5,1,0,1,poke,,person
+126,"My friend and I are watching TV during a rainy, lazy afternoon",Child-related,False,0.0,0,0,0,,,
+127,We are coudling resting in the bed,Child-related,False,0.0,0,0,0,,,
+128,I am making a point which is contra to what the other people wants to hear and I am slightly agrivated,Child-related,False,0.0,0,0,0,,,
+129,My friend is rubbing my forearm,Child-related,False,0.0,0,0,0,,,
+130,friend is trying to help me remove a spot of something on my arm,Child-related,True,1.0,1,0,0,help,,
+131,I am participating in a study and a researcher is touching me,Child-related,False,0.0,0,0,0,,,
+132,The child is a bit annoying,Child-related,True,3.0,1,2,1,child,"bite, child",child

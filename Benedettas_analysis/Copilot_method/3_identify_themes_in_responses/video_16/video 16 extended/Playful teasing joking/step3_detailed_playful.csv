@@ -1,0 +1,133 @@
+response_id,response,theme,present,score,count_original,count_synonym,count_closest,examples_original,examples_synonym,examples_closest
+1,we are cuddling,Playful teasing joking,False,0.0,0,0,0,,,
+2,I'm sitting on the couch in the living room with my headsets. I'm focusing on the movie I'm watching and my mother touches me on my shoulder.,Playful teasing joking,False,0.5,0,0,1,,,touch
+3,My girlfriend is touching my neck,Playful teasing joking,False,0.5,0,0,1,,,touch
+4,"We are playing a board game, my arm is on the table, my girlfriend is in front of me with her arm half extended as to reach my forearm and touch it.",Playful teasing joking,True,2.5,1,0,3,play,,"game, play, touch"
+5,making fun,Playful teasing joking,True,2.5,2,0,1,"fun, making",,fun
+6,we are talking and my partner is massaging my hand,Playful teasing joking,False,0.0,0,0,0,,,
+7,we are watching TV,Playful teasing joking,False,0.0,0,0,0,,,
+8,The stranger (a man) is trying to flirt but being weird and creepy,Playful teasing joking,False,0.0,0,0,0,,,
+9,we are sleeping,Playful teasing joking,False,0.0,0,0,0,,,
+10,my mother is touching my back,Playful teasing joking,False,0.5,0,0,1,,,touch
+11,doctor is checking for muscle tenderness,Playful teasing joking,False,0.0,0,0,0,,,
+12,"We're in class, being bored during a Philosophy lesson",Playful teasing joking,False,0.0,0,0,0,,,
+13,my child is trying to get my attention,Playful teasing joking,True,1.0,0,0,2,,,"child, get"
+14,I’m feeling a bit stressed or uneasy so the therapist is trying methods to calm me down.,Playful teasing joking,False,0.5,0,0,1,,,down
+15,My daughter is rubbing my arm with her finder,Playful teasing joking,False,0.0,0,0,0,,,
+16,My mom is cleaning something of my face,Playful teasing joking,False,0.0,0,0,0,,,
+17,"He's next to me, doing this, even though I don't like this type of strong press over my arm.",Playful teasing joking,False,0.0,0,0,0,,,
+18,Sat on the couch watching tv,Playful teasing joking,False,0.0,0,0,0,,,
+19,We are watching movie and im begin touched pretty same as on video but maybe slower,Playful teasing joking,False,0.5,0,0,1,,,touch
+20,They are trying to get my attention,Playful teasing joking,False,0.5,0,0,1,,,get
+21,He is trying to get my attention,Playful teasing joking,False,0.5,0,0,1,,,get
+22,Playing pretend doctors and nurses,Playful teasing joking,True,2.0,1,0,2,play,,"nurse, play"
+23,The person is touching me to get my attention,Playful teasing joking,True,1.0,0,0,2,,,"get, touch"
+24,They are applying pressure to my arm while rubbing up and down,Playful teasing joking,False,0.5,0,0,1,,,down
+25,We are sitting on the couch watching a movie,Playful teasing joking,False,0.0,0,0,0,,,
+26,"The music is loud, we are dancing and singing",Playful teasing joking,True,1.5,0,0,3,,,"dance, dancing, music"
+27,daughter wants to ask for something,Playful teasing joking,False,0.0,0,0,0,,,
+28,My romantic partner touches my arm exactly as shown in the video at her/my home,Playful teasing joking,False,0.5,0,0,1,,,touch
+29,watching some video on tv or a film on netflix.,Playful teasing joking,False,0.0,0,0,0,,,
+30,My arm is being gently rubbed,Playful teasing joking,True,1.0,1,0,0,gently,,
+31,"I'm sleeping or dozing, not paying attention",Playful teasing joking,False,0.0,0,0,0,,,
+32,playing with a kid,Playful teasing joking,True,2.0,1,0,2,play,,"kid, play"
+33,A doctor is conducting a check-up,Playful teasing joking,False,0.0,0,0,0,,,
+34,we're spending our break time in leisure together,Playful teasing joking,False,0.0,0,0,0,,,
+35,She's trying to tease me to do something else.,Playful teasing joking,True,2.25,1,1,1,tease,tease,tease
+36,The girlfriend is scrubbing or rubbing my chest in a romantic way,Playful teasing joking,False,0.0,0,0,0,,,
+37,I was going for a regular check-up and to get my vitals checked.,Playful teasing joking,False,0.5,0,0,1,,,get
+38,"My son is asking me about something he wants, either a toy or a specific snack",Playful teasing joking,False,0.75,0,1,0,,about,
+39,she tries to relax me,Playful teasing joking,False,0.0,0,0,0,,,
+40,being touch with just one finger,Playful teasing joking,False,0.5,0,0,1,,,touch
+41,They are helping me calm down after I've had an anxiety attack.,Playful teasing joking,True,1.0,0,0,2,,,"attack, down"
+42,kid is just touching while trying to get attention,Playful teasing joking,True,1.5,0,0,3,,,"get, kid, touch"
+43,"touching my arm, could be on the current topic being discussed",Playful teasing joking,False,0.5,0,0,1,,,touch
+44,They are caresing me,Playful teasing joking,False,0.0,0,0,0,,,
+45,Someone is aggressively pressing their finger into my arm,Playful teasing joking,False,0.0,0,0,0,,,
+46,my friend wants to show me a cool trick with human body she just learnt,Playful teasing joking,False,0.5,0,0,1,,,trick
+47,I am at the computer answering this survey while i am waiting for my lunch.,Playful teasing joking,False,0.0,0,0,0,,,
+48,the stranger and I are talking,Playful teasing joking,False,0.0,0,0,0,,,
+49,having argument,Playful teasing joking,False,0.0,0,0,0,,,
+50,i'm distracted scrolling through my phone,Playful teasing joking,False,0.0,0,0,0,,,
+51,We are at a playground.,Playful teasing joking,False,0.0,0,0,0,,,
+52,we are having a dinner,Playful teasing joking,False,0.0,0,0,0,,,
+53,my sister is petting my forearm,Playful teasing joking,False,0.0,0,0,0,,,
+54,"I am napping on the couch, and my partner is waking me up softly",Playful teasing joking,False,0.5,0,0,1,,,wake
+55,Me and my partner are watching a movie.,Playful teasing joking,False,0.0,0,0,0,,,
+56,normal relaxing time at home watching,Playful teasing joking,False,0.0,0,0,0,,,
+57,my mother is asking me a question,Playful teasing joking,False,0.0,0,0,0,,,
+58,touching and stroking of the arm,Playful teasing joking,False,0.5,0,0,1,,,touch
+59,My mother is rubbing cream on my stomach,Playful teasing joking,False,0.5,0,0,1,,,cream
+60,I have been told that my skin looks good and they want to check it out.,Playful teasing joking,False,0.0,0,0,0,,,
+61,I'm riding the bus and a stranger sat next to me and touched my arm like the video.,Playful teasing joking,False,0.5,0,0,1,,,touch
+62,It feels weird being touched like that. It feels like something your romantic partner would do and not colleague.,Playful teasing joking,False,0.5,0,0,1,,,touch
+63,I am sitting on a chair with my feet elevated and the masseuse is sitting in front of me and rubbing my feet.,Playful teasing joking,False,0.0,0,0,0,,,
+64,They are checking my blood,Playful teasing joking,False,0.0,0,0,0,,,
+65,Socialisng,Playful teasing joking,False,0.0,0,0,0,,,
+66,The nurse is applying pressure and rubbing with wool soaked with a numbing agent,Playful teasing joking,False,0.5,0,0,1,,,nurse
+67,she is rubbing my forearm with her index finger,Playful teasing joking,False,0.0,0,0,0,,,
+68,playing with my face,Playful teasing joking,True,1.5,1,0,1,play,,play
+69,My nephew is trying to get me to get up and play with him.,Playful teasing joking,True,2.5,1,0,3,play,,"get, get up, play"
+70,"talking, joking, laughing, gossiping",Playful teasing joking,True,3.75,2,1,2,"joke, laugh",laugh,"joke, laugh"
+71,he comes next to me and touching me,Playful teasing joking,False,0.5,0,0,1,,,touch
+72,Touching something irregular on the skin,Playful teasing joking,False,0.5,0,0,1,,,touch
+73,my son wants my attention and rubs my leg in order for me to acknowledge him,Playful teasing joking,False,0.0,0,0,0,,,
+74,I'm being examined,Playful teasing joking,False,0.0,0,0,0,,,
+75,It' afternoon or evening and we are chilling together,Playful teasing joking,False,0.0,0,0,0,,,
+76,He's massaging me,Playful teasing joking,False,0.0,0,0,0,,,
+77,They just randomly started doing that,Playful teasing joking,False,0.5,0,0,1,,,start
+78,Rubbing my arm with their finger as a sign of affection,Playful teasing joking,False,0.0,0,0,0,,,
+79,he's trying to be affectionate,Playful teasing joking,False,0.0,0,0,0,,,
+80,My partner is showing care,Playful teasing joking,False,0.0,0,0,0,,,
+81,We're eating and talking,Playful teasing joking,False,0.0,0,0,0,,,
+82,We have been seated next to each other casually,Playful teasing joking,False,0.0,0,0,0,,,
+83,Spending quality time with romantic partner alone,Playful teasing joking,False,0.0,0,0,0,,,
+84,"the touch is firm, it wants to communicate something to me, not necessarily something nice",Playful teasing joking,False,0.5,0,0,1,,,touch
+85,Watching a movie/ hanging out,Playful teasing joking,False,0.0,0,0,0,,,
+86,"He is touching my neck, that back and forth rub relaxes me",Playful teasing joking,False,0.5,0,0,1,,,touch
+87,An unknown man stopped me in the street wanting to talk to me.,Playful teasing joking,False,0.0,0,0,0,,,
+88,"A romantic moment on the couch, my wife beckons me wanting to be hugged, feel closeness",Playful teasing joking,False,0.0,0,0,0,,,
+89,the doctor examines my stomach,Playful teasing joking,False,0.0,0,0,0,,,
+90,"my colleague is trying to be intimate with me, trying to gain confidence so she can take to bed",Playful teasing joking,False,0.0,0,0,0,,,
+91,we are alone and in a close situation without strangers around,Playful teasing joking,False,0.0,0,0,0,,,
+92,"We are both seated together on the sofa/couch and he is rubbing my hand, just playfully.",Playful teasing joking,False,0.0,0,0,0,,,
+93,potrzeba kontaktu fizycznego,Playful teasing joking,False,0.0,0,0,0,,,
+94,The doctor checks if my back is straight,Playful teasing joking,False,0.0,0,0,0,,,
+95,The doctor is rubbing their hands in my back.,Playful teasing joking,False,0.0,0,0,0,,,
+96,its tea time and we are sitting and talking about things in general,Playful teasing joking,False,0.75,0,1,0,,about,
+97,Sitting around a desk having a meeting and taking notes.,Playful teasing joking,True,1.0,1,0,0,around,,
+98,A child is aggressively touching my arm,Playful teasing joking,True,1.0,0,0,2,,,"child, touch"
+99,My mother is rubbing something off my face,Playful teasing joking,False,0.0,0,0,0,,,
+100,rubbing arm with finger,Playful teasing joking,False,0.0,0,0,0,,,
+101,simply having a rather boring class,Playful teasing joking,False,0.0,0,0,0,,,
+102,My daughter is watching TV,Playful teasing joking,False,0.0,0,0,0,,,
+103,i have a stain of ink from my pen or marker or something on my face or a mark on my forehead and my colleague or teacher are tying to wipe it off or rub it off,Playful teasing joking,False,0.0,0,0,0,,,
+104,A child who is bored and curious starts poking me or bothering me in some way to entertain themselves.,Playful teasing joking,True,3.75,2,1,2,"bother, poke",bother,"child, start"
+105,girlfriend is rubbing my skin after she sees a bump,Playful teasing joking,False,0.0,0,0,0,,,
+106,I'm standing in their way,Playful teasing joking,False,0.0,0,0,0,,,
+107,we are laying in bed,Playful teasing joking,False,0.0,0,0,0,,,
+108,I have pain in my arm,Playful teasing joking,False,0.0,0,0,0,,,
+109,i just complained about my hands being very dry and the person wants to feel how dry the skin on my hand feels.,Playful teasing joking,False,0.75,0,1,0,,about,
+110,The nurse is checking to see where there is a vein,Playful teasing joking,False,0.5,0,0,1,,,nurse
+111,Using finger to rub,Playful teasing joking,False,0.0,0,0,0,,,
+112,I’m sitting on my sofa with a friend of mine watching a movie,Playful teasing joking,False,0.0,0,0,0,,,
+113,"We're pre, post or during a bedroom conversation. Probably after having intercourse",Playful teasing joking,False,0.0,0,0,0,,,
+114,the friend is rubbing my arm to get my attention,Playful teasing joking,False,0.5,0,0,1,,,get
+115,"a light and playful moment in which closeness is expressed with an almost childlike gesture. she smiles and caresses my face, my nose, making me smile back",Playful teasing joking,True,3.0,3,0,0,"making, nose, playful",,
+116,He slides his finger over my skin.,Playful teasing joking,False,0.0,0,0,0,,,
+117,we are working,Playful teasing joking,False,0.5,0,0,1,,,work
+118,czce zebym zwrocil na cos uwage,Playful teasing joking,False,0.0,0,0,0,,,
+119,Relaxing,Playful teasing joking,False,0.0,0,0,0,,,
+120,she's trying to clean up something from my arm,Playful teasing joking,False,0.0,0,0,0,,,
+121,They are trying to annoy me.,Playful teasing joking,True,1.0,1,0,0,annoy,,
+122,Watching tv,Playful teasing joking,False,0.0,0,0,0,,,
+123,I am watching tv,Playful teasing joking,False,0.0,0,0,0,,,
+124,We're on the couch and the other person tries to get my attention,Playful teasing joking,False,0.5,0,0,1,,,get
+125,The person poked me,Playful teasing joking,True,1.0,1,0,0,poke,,
+126,"My friend and I are watching TV during a rainy, lazy afternoon",Playful teasing joking,False,0.0,0,0,0,,,
+127,We are coudling resting in the bed,Playful teasing joking,False,0.0,0,0,0,,,
+128,I am making a point which is contra to what the other people wants to hear and I am slightly agrivated,Playful teasing joking,True,1.0,1,0,0,making,,
+129,My friend is rubbing my forearm,Playful teasing joking,False,0.0,0,0,0,,,
+130,friend is trying to help me remove a spot of something on my arm,Playful teasing joking,False,0.0,0,0,0,,,
+131,I am participating in a study and a researcher is touching me,Playful teasing joking,False,0.5,0,0,1,,,touch
+132,The child is a bit annoying,Playful teasing joking,True,1.5,1,0,1,annoy,,child

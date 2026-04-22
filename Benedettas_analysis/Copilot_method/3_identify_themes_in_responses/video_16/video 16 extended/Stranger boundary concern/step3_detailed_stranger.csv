@@ -1,0 +1,133 @@
+response_id,response,theme,present,score,count_original,count_synonym,count_closest,examples_original,examples_synonym,examples_closest
+1,we are cuddling,strager boundary concern,False,0.0,0,0,0,,,
+2,I'm sitting on the couch in the living room with my headsets. I'm focusing on the movie I'm watching and my mother touches me on my shoulder.,strager boundary concern,True,1.25,0,1,1,,touch,touch
+3,My girlfriend is touching my neck,strager boundary concern,True,1.25,0,1,1,,touch,touch
+4,"We are playing a board game, my arm is on the table, my girlfriend is in front of me with her arm half extended as to reach my forearm and touch it.",strager boundary concern,True,2.25,0,1,3,,touch,"game, play, touch"
+5,making fun,strager boundary concern,False,0.5,0,0,1,,,fun
+6,we are talking and my partner is massaging my hand,strager boundary concern,False,0.0,0,0,0,,,
+7,we are watching TV,strager boundary concern,False,0.0,0,0,0,,,
+8,The stranger (a man) is trying to flirt but being weird and creepy,strager boundary concern,True,7.5,6,2,0,"creepy, flirt, man, stranger, trying, weird","flirt, try",
+9,we are sleeping,strager boundary concern,False,0.0,0,0,0,,,
+10,my mother is touching my back,strager boundary concern,True,1.25,0,1,1,,touch,touch
+11,doctor is checking for muscle tenderness,strager boundary concern,False,0.5,0,0,1,,,check
+12,"We're in class, being bored during a Philosophy lesson",strager boundary concern,False,0.0,0,0,0,,,
+13,my child is trying to get my attention,strager boundary concern,True,2.75,2,1,0,"attention, trying",try,
+14,I’m feeling a bit stressed or uneasy so the therapist is trying methods to calm me down.,strager boundary concern,True,2.25,1,1,1,trying,try,feel
+15,My daughter is rubbing my arm with her finder,strager boundary concern,True,1.0,1,0,0,rub,,
+16,My mom is cleaning something of my face,strager boundary concern,False,0.0,0,0,0,,,
+17,"He's next to me, doing this, even though I don't like this type of strong press over my arm.",strager boundary concern,False,0.5,0,0,1,,,press
+18,Sat on the couch watching tv,strager boundary concern,False,0.0,0,0,0,,,
+19,We are watching movie and im begin touched pretty same as on video but maybe slower,strager boundary concern,True,2.25,1,1,1,touched,touch,touch
+20,They are trying to get my attention,strager boundary concern,True,2.75,2,1,0,"attention, trying",try,
+21,He is trying to get my attention,strager boundary concern,True,2.75,2,1,0,"attention, trying",try,
+22,Playing pretend doctors and nurses,strager boundary concern,False,0.5,0,0,1,,,play
+23,The person is touching me to get my attention,strager boundary concern,True,2.75,1,1,2,attention,touch,"person, touch"
+24,They are applying pressure to my arm while rubbing up and down,strager boundary concern,True,1.5,1,0,1,rub,,apply
+25,We are sitting on the couch watching a movie,strager boundary concern,False,0.0,0,0,0,,,
+26,"The music is loud, we are dancing and singing",strager boundary concern,True,1.0,0,0,2,,,"dance, dancing"
+27,daughter wants to ask for something,strager boundary concern,True,2.75,2,1,0,"ask, wants",want,
+28,My romantic partner touches my arm exactly as shown in the video at her/my home,strager boundary concern,True,1.25,0,1,1,,touch,touch
+29,watching some video on tv or a film on netflix.,strager boundary concern,False,0.0,0,0,0,,,
+30,My arm is being gently rubbed,strager boundary concern,True,1.0,1,0,0,rub,,
+31,"I'm sleeping or dozing, not paying attention",strager boundary concern,False,0.0,0,0,0,,,
+32,playing with a kid,strager boundary concern,False,0.5,0,0,1,,,play
+33,A doctor is conducting a check-up,strager boundary concern,False,0.5,0,0,1,,,check
+34,we're spending our break time in leisure together,strager boundary concern,False,0.0,0,0,0,,,
+35,She's trying to tease me to do something else.,strager boundary concern,True,2.25,1,1,1,trying,try,tease
+36,The girlfriend is scrubbing or rubbing my chest in a romantic way,strager boundary concern,True,1.0,1,0,0,rub,,
+37,I was going for a regular check-up and to get my vitals checked.,strager boundary concern,False,0.5,0,0,1,,,check
+38,"My son is asking me about something he wants, either a toy or a specific snack",strager boundary concern,True,3.5,2,2,0,"ask, wants","toy, want",
+39,she tries to relax me,strager boundary concern,False,0.75,0,1,0,,try,
+40,being touch with just one finger,strager boundary concern,True,1.75,0,1,2,,touch,"finger, touch"
+41,They are helping me calm down after I've had an anxiety attack.,strager boundary concern,False,0.0,0,0,0,,,
+42,kid is just touching while trying to get attention,strager boundary concern,True,4.0,2,2,1,"attention, trying","touch, try",touch
+43,"touching my arm, could be on the current topic being discussed",strager boundary concern,True,1.25,0,1,1,,touch,touch
+44,They are caresing me,strager boundary concern,False,0.0,0,0,0,,,
+45,Someone is aggressively pressing their finger into my arm,strager boundary concern,True,2.0,1,0,2,aggressively,,"finger, press"
+46,my friend wants to show me a cool trick with human body she just learnt,strager boundary concern,True,2.25,1,1,1,wants,want,learn
+47,I am at the computer answering this survey while i am waiting for my lunch.,strager boundary concern,False,0.0,0,0,0,,,
+48,the stranger and I are talking,strager boundary concern,True,1.0,1,0,0,stranger,,
+49,having argument,strager boundary concern,False,0.0,0,0,0,,,
+50,i'm distracted scrolling through my phone,strager boundary concern,False,0.0,0,0,0,,,
+51,We are at a playground.,strager boundary concern,False,0.0,0,0,0,,,
+52,we are having a dinner,strager boundary concern,False,0.0,0,0,0,,,
+53,my sister is petting my forearm,strager boundary concern,False,0.0,0,0,0,,,
+54,"I am napping on the couch, and my partner is waking me up softly",strager boundary concern,False,0.5,0,0,1,,,wake
+55,Me and my partner are watching a movie.,strager boundary concern,False,0.0,0,0,0,,,
+56,normal relaxing time at home watching,strager boundary concern,False,0.0,0,0,0,,,
+57,my mother is asking me a question,strager boundary concern,True,1.0,1,0,0,ask,,
+58,touching and stroking of the arm,strager boundary concern,True,1.75,0,1,2,,touch,"stroke, touch"
+59,My mother is rubbing cream on my stomach,strager boundary concern,True,1.0,1,0,0,rub,,
+60,I have been told that my skin looks good and they want to check it out.,strager boundary concern,True,1.25,0,1,1,,want,check
+61,I'm riding the bus and a stranger sat next to me and touched my arm like the video.,strager boundary concern,True,3.25,2,1,1,"stranger, touched",touch,touch
+62,It feels weird being touched like that. It feels like something your romantic partner would do and not colleague.,strager boundary concern,True,3.75,2,1,2,"touched, weird",touch,"feel, touch"
+63,I am sitting on a chair with my feet elevated and the masseuse is sitting in front of me and rubbing my feet.,strager boundary concern,True,1.0,1,0,0,rub,,
+64,They are checking my blood,strager boundary concern,False,0.5,0,0,1,,,check
+65,Socialisng,strager boundary concern,False,0.0,0,0,0,,,
+66,The nurse is applying pressure and rubbing with wool soaked with a numbing agent,strager boundary concern,True,1.5,1,0,1,rub,,apply
+67,she is rubbing my forearm with her index finger,strager boundary concern,True,1.5,1,0,1,rub,,finger
+68,playing with my face,strager boundary concern,False,0.5,0,0,1,,,play
+69,My nephew is trying to get me to get up and play with him.,strager boundary concern,True,2.75,1,1,2,trying,try,"get up, play"
+70,"talking, joking, laughing, gossiping",strager boundary concern,False,0.0,0,0,0,,,
+71,he comes next to me and touching me,strager boundary concern,True,1.75,0,1,2,,touch,"come, touch"
+72,Touching something irregular on the skin,strager boundary concern,True,1.25,0,1,1,,touch,touch
+73,my son wants my attention and rubs my leg in order for me to acknowledge him,strager boundary concern,True,4.25,3,1,1,"attention, rub, wants",want,order
+74,I'm being examined,strager boundary concern,False,0.0,0,0,0,,,
+75,It' afternoon or evening and we are chilling together,strager boundary concern,False,0.0,0,0,0,,,
+76,He's massaging me,strager boundary concern,False,0.0,0,0,0,,,
+77,They just randomly started doing that,strager boundary concern,False,0.0,0,0,0,,,
+78,Rubbing my arm with their finger as a sign of affection,strager boundary concern,True,1.5,1,0,1,rub,,finger
+79,he's trying to be affectionate,strager boundary concern,True,1.75,1,1,0,trying,try,
+80,My partner is showing care,strager boundary concern,False,0.0,0,0,0,,,
+81,We're eating and talking,strager boundary concern,False,0.0,0,0,0,,,
+82,We have been seated next to each other casually,strager boundary concern,False,0.0,0,0,0,,,
+83,Spending quality time with romantic partner alone,strager boundary concern,False,0.0,0,0,0,,,
+84,"the touch is firm, it wants to communicate something to me, not necessarily something nice",strager boundary concern,True,3.0,1,2,1,wants,"touch, want",touch
+85,Watching a movie/ hanging out,strager boundary concern,False,0.0,0,0,0,,,
+86,"He is touching my neck, that back and forth rub relaxes me",strager boundary concern,True,2.25,1,1,1,rub,touch,touch
+87,An unknown man stopped me in the street wanting to talk to me.,strager boundary concern,True,4.25,2,3,0,"man, stopped","stop, unknown, want",
+88,"A romantic moment on the couch, my wife beckons me wanting to be hugged, feel closeness",strager boundary concern,True,1.25,0,1,1,,want,feel
+89,the doctor examines my stomach,strager boundary concern,False,0.0,0,0,0,,,
+90,"my colleague is trying to be intimate with me, trying to gain confidence so she can take to bed",strager boundary concern,True,1.75,1,1,0,trying,try,
+91,we are alone and in a close situation without strangers around,strager boundary concern,True,1.5,1,0,1,stranger,,close
+92,"We are both seated together on the sofa/couch and he is rubbing my hand, just playfully.",strager boundary concern,True,1.0,1,0,0,rub,,
+93,potrzeba kontaktu fizycznego,strager boundary concern,False,0.0,0,0,0,,,
+94,The doctor checks if my back is straight,strager boundary concern,False,0.5,0,0,1,,,check
+95,The doctor is rubbing their hands in my back.,strager boundary concern,True,1.0,1,0,0,rub,,
+96,its tea time and we are sitting and talking about things in general,strager boundary concern,False,0.5,0,0,1,,,thing
+97,Sitting around a desk having a meeting and taking notes.,strager boundary concern,False,0.0,0,0,0,,,
+98,A child is aggressively touching my arm,strager boundary concern,True,2.25,1,1,1,aggressively,touch,touch
+99,My mother is rubbing something off my face,strager boundary concern,True,1.0,1,0,0,rub,,
+100,rubbing arm with finger,strager boundary concern,True,1.5,1,0,1,rub,,finger
+101,simply having a rather boring class,strager boundary concern,False,0.0,0,0,0,,,
+102,My daughter is watching TV,strager boundary concern,False,0.0,0,0,0,,,
+103,i have a stain of ink from my pen or marker or something on my face or a mark on my forehead and my colleague or teacher are tying to wipe it off or rub it off,strager boundary concern,True,1.75,1,1,0,rub,wipe,
+104,A child who is bored and curious starts poking me or bothering me in some way to entertain themselves.,strager boundary concern,False,0.0,0,0,0,,,
+105,girlfriend is rubbing my skin after she sees a bump,strager boundary concern,True,1.0,1,0,0,rub,,
+106,I'm standing in their way,strager boundary concern,False,0.0,0,0,0,,,
+107,we are laying in bed,strager boundary concern,False,0.0,0,0,0,,,
+108,I have pain in my arm,strager boundary concern,False,0.0,0,0,0,,,
+109,i just complained about my hands being very dry and the person wants to feel how dry the skin on my hand feels.,strager boundary concern,True,2.75,1,1,2,wants,want,"feel, person"
+110,The nurse is checking to see where there is a vein,strager boundary concern,False,0.5,0,0,1,,,check
+111,Using finger to rub,strager boundary concern,True,1.5,1,0,1,rub,,finger
+112,I’m sitting on my sofa with a friend of mine watching a movie,strager boundary concern,False,0.0,0,0,0,,,
+113,"We're pre, post or during a bedroom conversation. Probably after having intercourse",strager boundary concern,False,0.0,0,0,0,,,
+114,the friend is rubbing my arm to get my attention,strager boundary concern,True,2.0,2,0,0,"attention, rub",,
+115,"a light and playful moment in which closeness is expressed with an almost childlike gesture. she smiles and caresses my face, my nose, making me smile back",strager boundary concern,False,0.0,0,0,0,,,
+116,He slides his finger over my skin.,strager boundary concern,False,0.5,0,0,1,,,finger
+117,we are working,strager boundary concern,False,0.0,0,0,0,,,
+118,czce zebym zwrocil na cos uwage,strager boundary concern,False,0.0,0,0,0,,,
+119,Relaxing,strager boundary concern,False,0.0,0,0,0,,,
+120,she's trying to clean up something from my arm,strager boundary concern,True,1.75,1,1,0,trying,try,
+121,They are trying to annoy me.,strager boundary concern,True,1.75,1,1,0,trying,try,
+122,Watching tv,strager boundary concern,False,0.0,0,0,0,,,
+123,I am watching tv,strager boundary concern,False,0.0,0,0,0,,,
+124,We're on the couch and the other person tries to get my attention,strager boundary concern,True,2.25,1,1,1,attention,try,person
+125,The person poked me,strager boundary concern,False,0.5,0,0,1,,,person
+126,"My friend and I are watching TV during a rainy, lazy afternoon",strager boundary concern,False,0.0,0,0,0,,,
+127,We are coudling resting in the bed,strager boundary concern,False,0.0,0,0,0,,,
+128,I am making a point which is contra to what the other people wants to hear and I am slightly agrivated,strager boundary concern,True,1.75,1,1,0,wants,want,
+129,My friend is rubbing my forearm,strager boundary concern,True,1.0,1,0,0,rub,,
+130,friend is trying to help me remove a spot of something on my arm,strager boundary concern,True,1.75,1,1,0,trying,try,
+131,I am participating in a study and a researcher is touching me,strager boundary concern,True,1.25,0,1,1,,touch,touch
+132,The child is a bit annoying,strager boundary concern,False,0.0,0,0,0,,,

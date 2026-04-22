@@ -1,0 +1,133 @@
+response_id,response,theme,present,score,count_original,count_synonym,count_closest,examples_original,examples_synonym,examples_closest
+1,we are cuddling,medical examination therapy,False,0.0,0,0,0,,,
+2,I'm sitting on the couch in the living room with my headsets. I'm focusing on the movie I'm watching and my mother touches me on my shoulder.,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+3,My girlfriend is touching my neck,medical examination therapy,False,0.0,0,0,0,,,
+4,"We are playing a board game, my arm is on the table, my girlfriend is in front of me with her arm half extended as to reach my forearm and touch it.",medical examination therapy,False,0.5,0,0,1,,,reach
+5,making fun,medical examination therapy,False,0.0,0,0,0,,,
+6,we are talking and my partner is massaging my hand,medical examination therapy,True,1.5,1,0,1,massage,,massage
+7,we are watching TV,medical examination therapy,False,0.0,0,0,0,,,
+8,The stranger (a man) is trying to flirt but being weird and creepy,medical examination therapy,False,0.0,0,0,0,,,
+9,we are sleeping,medical examination therapy,False,0.0,0,0,0,,,
+10,my mother is touching my back,medical examination therapy,False,0.0,0,0,0,,,
+11,doctor is checking for muscle tenderness,medical examination therapy,True,2.5,2,0,1,"check, doctor",,doctor
+12,"We're in class, being bored during a Philosophy lesson",medical examination therapy,False,0.0,0,0,0,,,
+13,my child is trying to get my attention,medical examination therapy,False,0.0,0,0,0,,,
+14,I’m feeling a bit stressed or uneasy so the therapist is trying methods to calm me down.,medical examination therapy,True,1.75,1,1,0,therapist,feel,
+15,My daughter is rubbing my arm with her finder,medical examination therapy,False,0.0,0,0,0,,,
+16,My mom is cleaning something of my face,medical examination therapy,False,0.0,0,0,0,,,
+17,"He's next to me, doing this, even though I don't like this type of strong press over my arm.",medical examination therapy,True,1.75,1,1,0,press,press,
+18,Sat on the couch watching tv,medical examination therapy,False,0.5,0,0,1,,,sit
+19,We are watching movie and im begin touched pretty same as on video but maybe slower,medical examination therapy,False,0.0,0,0,0,,,
+20,They are trying to get my attention,medical examination therapy,False,0.0,0,0,0,,,
+21,He is trying to get my attention,medical examination therapy,False,0.0,0,0,0,,,
+22,Playing pretend doctors and nurses,medical examination therapy,True,3.0,2,0,2,"doctor, nurse",,"doctor, nurse"
+23,The person is touching me to get my attention,medical examination therapy,False,0.0,0,0,0,,,
+24,They are applying pressure to my arm while rubbing up and down,medical examination therapy,True,1.75,1,1,0,pressure,pressure,
+25,We are sitting on the couch watching a movie,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+26,"The music is loud, we are dancing and singing",medical examination therapy,False,0.0,0,0,0,,,
+27,daughter wants to ask for something,medical examination therapy,False,0.5,0,0,1,,,ask
+28,My romantic partner touches my arm exactly as shown in the video at her/my home,medical examination therapy,False,0.0,0,0,0,,,
+29,watching some video on tv or a film on netflix.,medical examination therapy,False,0.0,0,0,0,,,
+30,My arm is being gently rubbed,medical examination therapy,False,0.0,0,0,0,,,
+31,"I'm sleeping or dozing, not paying attention",medical examination therapy,False,0.0,0,0,0,,,
+32,playing with a kid,medical examination therapy,False,0.0,0,0,0,,,
+33,A doctor is conducting a check-up,medical examination therapy,True,2.5,2,0,1,"check, doctor",,doctor
+34,we're spending our break time in leisure together,medical examination therapy,False,0.0,0,0,0,,,
+35,She's trying to tease me to do something else.,medical examination therapy,False,0.0,0,0,0,,,
+36,The girlfriend is scrubbing or rubbing my chest in a romantic way,medical examination therapy,False,0.0,0,0,0,,,
+37,I was going for a regular check-up and to get my vitals checked.,medical examination therapy,True,1.0,1,0,0,check,,
+38,"My son is asking me about something he wants, either a toy or a specific snack",medical examination therapy,False,0.5,0,0,1,,,ask
+39,she tries to relax me,medical examination therapy,False,0.0,0,0,0,,,
+40,being touch with just one finger,medical examination therapy,False,0.0,0,0,0,,,
+41,They are helping me calm down after I've had an anxiety attack.,medical examination therapy,False,0.0,0,0,0,,,
+42,kid is just touching while trying to get attention,medical examination therapy,False,0.0,0,0,0,,,
+43,"touching my arm, could be on the current topic being discussed",medical examination therapy,False,0.0,0,0,0,,,
+44,They are caresing me,medical examination therapy,False,0.0,0,0,0,,,
+45,Someone is aggressively pressing their finger into my arm,medical examination therapy,True,2.5,1,2,0,press,"press, pressing",
+46,my friend wants to show me a cool trick with human body she just learnt,medical examination therapy,False,0.0,0,0,0,,,
+47,I am at the computer answering this survey while i am waiting for my lunch.,medical examination therapy,False,0.5,0,0,1,,,survey
+48,the stranger and I are talking,medical examination therapy,False,0.0,0,0,0,,,
+49,having argument,medical examination therapy,False,0.0,0,0,0,,,
+50,i'm distracted scrolling through my phone,medical examination therapy,False,0.0,0,0,0,,,
+51,We are at a playground.,medical examination therapy,False,0.0,0,0,0,,,
+52,we are having a dinner,medical examination therapy,False,0.0,0,0,0,,,
+53,my sister is petting my forearm,medical examination therapy,False,0.0,0,0,0,,,
+54,"I am napping on the couch, and my partner is waking me up softly",medical examination therapy,False,0.5,0,0,1,,,wake
+55,Me and my partner are watching a movie.,medical examination therapy,False,0.0,0,0,0,,,
+56,normal relaxing time at home watching,medical examination therapy,False,0.0,0,0,0,,,
+57,my mother is asking me a question,medical examination therapy,False,0.5,0,0,1,,,ask
+58,touching and stroking of the arm,medical examination therapy,False,0.0,0,0,0,,,
+59,My mother is rubbing cream on my stomach,medical examination therapy,False,0.0,0,0,0,,,
+60,I have been told that my skin looks good and they want to check it out.,medical examination therapy,True,1.0,1,0,0,check,,
+61,I'm riding the bus and a stranger sat next to me and touched my arm like the video.,medical examination therapy,False,0.5,0,0,1,,,sit
+62,It feels weird being touched like that. It feels like something your romantic partner would do and not colleague.,medical examination therapy,False,0.75,0,1,0,,feel,
+63,I am sitting on a chair with my feet elevated and the masseuse is sitting in front of me and rubbing my feet.,medical examination therapy,True,1.5,0,0,3,,,"masseuse, sit, sitting"
+64,They are checking my blood,medical examination therapy,True,1.0,1,0,0,check,,
+65,Socialisng,medical examination therapy,False,0.0,0,0,0,,,
+66,The nurse is applying pressure and rubbing with wool soaked with a numbing agent,medical examination therapy,True,5.0,3,2,1,"numbing, nurse, pressure","numb, pressure",nurse
+67,she is rubbing my forearm with her index finger,medical examination therapy,False,0.0,0,0,0,,,
+68,playing with my face,medical examination therapy,False,0.0,0,0,0,,,
+69,My nephew is trying to get me to get up and play with him.,medical examination therapy,False,0.5,0,0,1,,,get up
+70,"talking, joking, laughing, gossiping",medical examination therapy,False,0.5,0,0,1,,,joke
+71,he comes next to me and touching me,medical examination therapy,False,0.0,0,0,0,,,
+72,Touching something irregular on the skin,medical examination therapy,False,0.0,0,0,0,,,
+73,my son wants my attention and rubs my leg in order for me to acknowledge him,medical examination therapy,False,0.0,0,0,0,,,
+74,I'm being examined,medical examination therapy,False,0.0,0,0,0,,,
+75,It' afternoon or evening and we are chilling together,medical examination therapy,False,0.0,0,0,0,,,
+76,He's massaging me,medical examination therapy,True,1.5,1,0,1,massage,,massage
+77,They just randomly started doing that,medical examination therapy,False,0.0,0,0,0,,,
+78,Rubbing my arm with their finger as a sign of affection,medical examination therapy,False,0.5,0,0,1,,,sign
+79,he's trying to be affectionate,medical examination therapy,False,0.0,0,0,0,,,
+80,My partner is showing care,medical examination therapy,False,0.5,0,0,1,,,care
+81,We're eating and talking,medical examination therapy,False,0.0,0,0,0,,,
+82,We have been seated next to each other casually,medical examination therapy,False,0.0,0,0,0,,,
+83,Spending quality time with romantic partner alone,medical examination therapy,False,0.0,0,0,0,,,
+84,"the touch is firm, it wants to communicate something to me, not necessarily something nice",medical examination therapy,False,0.5,0,0,1,,,communicate
+85,Watching a movie/ hanging out,medical examination therapy,False,0.0,0,0,0,,,
+86,"He is touching my neck, that back and forth rub relaxes me",medical examination therapy,False,0.0,0,0,0,,,
+87,An unknown man stopped me in the street wanting to talk to me.,medical examination therapy,False,0.0,0,0,0,,,
+88,"A romantic moment on the couch, my wife beckons me wanting to be hugged, feel closeness",medical examination therapy,False,0.75,0,1,0,,feel,
+89,the doctor examines my stomach,medical examination therapy,True,1.5,1,0,1,doctor,,doctor
+90,"my colleague is trying to be intimate with me, trying to gain confidence so she can take to bed",medical examination therapy,False,0.0,0,0,0,,,
+91,we are alone and in a close situation without strangers around,medical examination therapy,False,0.0,0,0,0,,,
+92,"We are both seated together on the sofa/couch and he is rubbing my hand, just playfully.",medical examination therapy,False,0.0,0,0,0,,,
+93,potrzeba kontaktu fizycznego,medical examination therapy,False,0.0,0,0,0,,,
+94,The doctor checks if my back is straight,medical examination therapy,True,2.5,2,0,1,"check, doctor",,doctor
+95,The doctor is rubbing their hands in my back.,medical examination therapy,True,1.5,1,0,1,doctor,,doctor
+96,its tea time and we are sitting and talking about things in general,medical examination therapy,True,1.5,0,0,3,,,"sit, sitting, thing"
+97,Sitting around a desk having a meeting and taking notes.,medical examination therapy,True,2.0,0,0,4,,,"meet, meeting, sit, sitting"
+98,A child is aggressively touching my arm,medical examination therapy,False,0.0,0,0,0,,,
+99,My mother is rubbing something off my face,medical examination therapy,False,0.0,0,0,0,,,
+100,rubbing arm with finger,medical examination therapy,False,0.0,0,0,0,,,
+101,simply having a rather boring class,medical examination therapy,False,0.0,0,0,0,,,
+102,My daughter is watching TV,medical examination therapy,False,0.0,0,0,0,,,
+103,i have a stain of ink from my pen or marker or something on my face or a mark on my forehead and my colleague or teacher are tying to wipe it off or rub it off,medical examination therapy,False,0.0,0,0,0,,,
+104,A child who is bored and curious starts poking me or bothering me in some way to entertain themselves.,medical examination therapy,False,0.0,0,0,0,,,
+105,girlfriend is rubbing my skin after she sees a bump,medical examination therapy,False,0.0,0,0,0,,,
+106,I'm standing in their way,medical examination therapy,False,0.0,0,0,0,,,
+107,we are laying in bed,medical examination therapy,False,0.0,0,0,0,,,
+108,I have pain in my arm,medical examination therapy,False,0.0,0,0,0,,,
+109,i just complained about my hands being very dry and the person wants to feel how dry the skin on my hand feels.,medical examination therapy,False,0.75,0,1,0,,feel,
+110,The nurse is checking to see where there is a vein,medical examination therapy,True,3.5,3,0,1,"check, nurse, vein",,nurse
+111,Using finger to rub,medical examination therapy,False,0.0,0,0,0,,,
+112,I’m sitting on my sofa with a friend of mine watching a movie,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+113,"We're pre, post or during a bedroom conversation. Probably after having intercourse",medical examination therapy,False,0.0,0,0,0,,,
+114,the friend is rubbing my arm to get my attention,medical examination therapy,False,0.0,0,0,0,,,
+115,"a light and playful moment in which closeness is expressed with an almost childlike gesture. she smiles and caresses my face, my nose, making me smile back",medical examination therapy,False,0.0,0,0,0,,,
+116,He slides his finger over my skin.,medical examination therapy,False,0.0,0,0,0,,,
+117,we are working,medical examination therapy,False,0.0,0,0,0,,,
+118,czce zebym zwrocil na cos uwage,medical examination therapy,False,0.0,0,0,0,,,
+119,Relaxing,medical examination therapy,False,0.0,0,0,0,,,
+120,she's trying to clean up something from my arm,medical examination therapy,False,0.0,0,0,0,,,
+121,They are trying to annoy me.,medical examination therapy,False,0.0,0,0,0,,,
+122,Watching tv,medical examination therapy,False,0.0,0,0,0,,,
+123,I am watching tv,medical examination therapy,False,0.0,0,0,0,,,
+124,We're on the couch and the other person tries to get my attention,medical examination therapy,False,0.0,0,0,0,,,
+125,The person poked me,medical examination therapy,False,0.0,0,0,0,,,
+126,"My friend and I are watching TV during a rainy, lazy afternoon",medical examination therapy,False,0.0,0,0,0,,,
+127,We are coudling resting in the bed,medical examination therapy,False,0.0,0,0,0,,,
+128,I am making a point which is contra to what the other people wants to hear and I am slightly agrivated,medical examination therapy,False,0.5,0,0,1,,,hear
+129,My friend is rubbing my forearm,medical examination therapy,False,0.0,0,0,0,,,
+130,friend is trying to help me remove a spot of something on my arm,medical examination therapy,False,0.0,0,0,0,,,
+131,I am participating in a study and a researcher is touching me,medical examination therapy,False,0.0,0,0,0,,,
+132,The child is a bit annoying,medical examination therapy,False,0.0,0,0,0,,,
