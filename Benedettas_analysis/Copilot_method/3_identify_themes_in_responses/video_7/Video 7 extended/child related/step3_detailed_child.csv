@@ -1,0 +1,134 @@
+response_id,response,theme,present,score,count_original,count_synonym,count_closest,examples_original,examples_synonym,examples_closest
+1,i have just lost something dear to me,Child-related,False,0.0,0,0,0,,,
+2,My mum cames at me and just shows me how much she loves using her touch,Child-related,True,1.0,1,0,0,show,,
+3,we are talking about our upcoming exams and projects,Child-related,False,0.5,0,0,1,,,project
+4,The friend is comforting me.,Child-related,False,0.5,0,0,1,,,comfort
+5,We are talking,Child-related,False,0.0,0,0,0,,,
+6,I am sad and my mom tries to comfort me.,Child-related,False,0.5,0,0,1,,,comfort
+7,we are having a conversation,Child-related,False,0.0,0,0,0,,,
+8,we are both sitting in the kitchen table,Child-related,False,0.0,0,0,0,,,
+9,The other person is trying to comfort me.,Child-related,True,1.0,0,0,2,,,"comfort, person"
+10,He touching me,Child-related,False,0.0,0,0,0,,,
+11,I received some bad news,Child-related,False,0.0,0,0,0,,,
+12,I'm talking about something important or hard for me,Child-related,False,0.0,0,0,0,,,
+13,We are in class and my friend touches me during a lecture to make me laugh,Child-related,False,0.0,0,0,0,,,
+14,Grounding technique,Child-related,False,0.0,0,0,0,,,
+15,Wife is putting her hand on my shoulder.,Child-related,False,0.5,0,0,1,,,hand
+16,I was walking down the street and my acquaintance way walking  behind my back,Child-related,False,0.5,0,0,1,,,down
+17,We are sitting and talking. She touched my knee,Child-related,False,0.0,0,0,0,,,
+18,Maybe i'm describing something that worries me,Child-related,False,0.0,0,0,0,,,
+19,we are sitting in the living room,Child-related,False,0.0,0,0,0,,,
+20,"Next to each other daydreaming, he touches my shoulders like that, have that fantastic feeling once again of someone touching my shoulder.",Child-related,False,0.0,0,0,0,,,
+21,I've received news that I did not get the job I wanted.,Child-related,False,0.0,0,0,0,,,
+22,we have a deep conversation about some serious topics like health,Child-related,False,0.0,0,0,0,,,
+23,My friend is comforting me after I just received news of the passing of a loved one.,Child-related,False,0.5,0,0,1,,,comfort
+24,I entered the church and a man dressed as a priest approached me and touched my arm like this,Child-related,False,0.0,0,0,0,,,
+25,I went to my mother's room after feeling bad or stuck in my life. She then proceeds to comfort me both with her words and a gentle touch on my shoulder.,Child-related,False,0.5,0,0,1,,,comfort
+26,We are chilling on the bed,Child-related,False,0.0,0,0,0,,,
+27,The person is asking me if everything is okay with my life.,Child-related,True,1.5,1,0,1,ask,,person
+28,She is talking to me,Child-related,False,0.0,0,0,0,,,
+29,"There are many people around us, but he took an interest in me and he is speaking to me in a creepy way",Child-related,False,0.0,0,0,0,,,
+30,She's helping me going through some troubles.,Child-related,True,1.0,1,0,0,help,,
+31,I have a problem with the University and I am speaking with my parents,Child-related,False,0.5,0,0,1,,,parent
+32,she's reassuring me about a situation.,Child-related,False,0.0,0,0,0,,,
+33,I'm feeling anxious about incoming deadlines,Child-related,False,0.0,0,0,0,,,
+34,a hand reaches to gently tap snother person's arm a few times,Child-related,True,2.0,1,0,2,tap,,"hand, reach"
+35,I feel sad,Child-related,False,0.0,0,0,0,,,
+36,She is touching my forearm after a long heart to heart conversation.,Child-related,False,0.0,0,0,0,,,
+37,I was unhappy and my mother said to me that all are ok,Child-related,False,0.0,0,0,0,,,
+38,I am explaining something I find difficult at work,Child-related,False,0.0,0,0,0,,,
+39,My wife is comforting me after some annoyance,Child-related,True,1.0,0,0,2,,,"annoyance, comfort"
+40,My colleague is trying to touch  me in a way that will lead to sex.,Child-related,False,0.0,0,0,0,,,
+41,someone is touching me tenderly,Child-related,False,0.0,0,0,0,,,
+42,having a deep conversation,Child-related,False,0.0,0,0,0,,,
+43,I have just finished my homework that I was doing next to him while he drinks his coffee.,Child-related,False,0.0,0,0,0,,,
+44,We could be watching tv and sitting on the couch or lying on the bed,Child-related,False,0.0,0,0,0,,,
+45,"We are in class, the professor tells us that in this term things may get difficult due to country's energy crisis, my friend touch me in the hand to comfort me and let me know that we are in this situation together.",Child-related,True,1.0,0,0,2,,,"comfort, hand"
+46,We are lying next to eah other in the evening. She grabs my hand like this as she often does in the evening before going to sleep.,Child-related,False,0.5,0,0,1,,,hand
+47,i´m telling her something that happens to me,Child-related,False,0.0,0,0,0,,,
+48,My friend is trying to comfort me as I just heard some bad news,Child-related,False,0.5,0,0,1,,,comfort
+49,We are talking about our day and I'm telling her I had it rough at work today.,Child-related,False,0.0,0,0,0,,,
+50,I'm anxious for a medical exam,Child-related,False,0.0,0,0,0,,,
+51,I did a good job fixing a machine for my dad,Child-related,False,0.0,0,0,0,,,
+52,She is touching me after me giving her good news,Child-related,False,0.0,0,0,0,,,
+53,Were watching a scary movie.,Child-related,False,0.5,0,0,1,,,movie
+54,We are having an emotional conversation in the garden.,Child-related,False,0.0,0,0,0,,,
+55,We are talking about challenges in our life,Child-related,False,0.0,0,0,0,,,
+56,im recieving a massage and she is massaging calmly my back,Child-related,False,0.0,0,0,0,,,
+57,My housband want to tell me something without words.,Child-related,False,0.0,0,0,0,,,
+58,I'm going through a tough time and this is how they touch me while comforting me.,Child-related,False,0.5,0,0,1,,,comfort
+59,An upsetting conversation,Child-related,False,0.0,0,0,0,,,
+60,my boss is firing me,Child-related,False,0.0,0,0,0,,,
+61,We are driving somwhere where we can spent time together,Child-related,False,0.0,0,0,0,,,
+62,"another hand touching another hand, patting three times",Child-related,False,0.5,0,0,1,,,hand
+63,They are trying to comfort me,Child-related,False,0.5,0,0,1,,,comfort
+64,sitting together on the grass,Child-related,False,0.0,0,0,0,,,
+65,My mother is comforting me because my friend passes away,Child-related,False,0.5,0,0,1,,,comfort
+66,Driving in the car and my husband reaches over and touches my hand because I have been nervous about a medical test.,Child-related,True,1.0,0,0,2,,,"hand, reach"
+67,"After a long day at work, I was talking with my friend about some issues that happened at my work. He found that to comfort me from those tribulations it might be a good idea to ease me down like that",Child-related,True,1.0,0,0,2,,,"comfort, down"
+68,Something went wrong during the day and I am sharing my anguish with my mother,Child-related,False,0.0,0,0,0,,,
+69,Mom is calming me down,Child-related,False,0.5,0,0,1,,,down
+70,feels the touch of a loved one. It's a gentle touch that soothes me,Child-related,False,0.0,0,0,0,,,
+71,I just got back home after a long time,Child-related,False,0.0,0,0,0,,,
+72,Someone who is not equipped to do so is trying to give me comfort.,Child-related,False,0.5,0,0,1,,,comfort
+73,my friend is gently touching and hovering my forearm,Child-related,False,0.0,0,0,0,,,
+74,He just touches my shoulder like that and hugs me at the same time.,Child-related,False,0.0,0,0,0,,,
+75,I'm talking to a stranger,Child-related,False,0.0,0,0,0,,,
+76,Conversation,Child-related,False,0.0,0,0,0,,,
+77,We are talking and they are comforting me.,Child-related,False,0.5,0,0,1,,,comfort
+78,Calming,Child-related,False,0.0,0,0,0,,,
+79,I am at funeral with my mother and she grabs my forearm in a sad yet comforting reassuring way.,Child-related,False,0.5,0,0,1,,,comfort
+80,I'm telling her about positive things that are happening in my life.,Child-related,False,0.0,0,0,0,,,
+81,a person gently places his hand on his arm,Child-related,True,1.0,0,0,2,,,"hand, person"
+82,A one on one therapy session and the therapist is re-assuring me,Child-related,False,0.0,0,0,0,,,
+83,I may have told her about something that frustrated or worried me while we are sitting together talking.,Child-related,False,0.0,0,0,0,,,
+84,Doctor is giving me bad news,Child-related,False,0.0,0,0,0,,,
+85,Consolation after an unsuccessful week at work,Child-related,False,0.0,0,0,0,,,
+86,my mother touchs me so she can be supportive,Child-related,False,0.0,0,0,0,,,
+87,Friend giving me affirmation,Child-related,False,0.0,0,0,0,,,
+88,My child is sitting with me on the sofa while touching my face.,Child-related,True,2.25,1,1,1,child,child,child
+89,Hugging me and touching my upper shouder,Child-related,False,0.0,0,0,0,,,
+90,My husband needs my full attention I am focusing on something at the moment. To not Stuttle me he gentle touches me to get my attention.,Child-related,True,1.0,1,0,0,attention,,
+91,He is taking advantage of me,Child-related,False,0.0,0,0,0,,,
+92,I am nervous a bout something.,Child-related,False,0.0,0,0,0,,,
+93,I am venting about my problems,Child-related,False,0.0,0,0,0,,,
+94,We are at home having a heart to heart conversation,Child-related,False,0.0,0,0,0,,,
+95,i hurt my knee badly from a football match.,Child-related,False,0.0,0,0,0,,,
+96,He is trying to comfort me in a funny way,Child-related,False,0.5,0,0,1,,,comfort
+97,im going through stuff and sharing my problems,Child-related,False,0.0,0,0,0,,,
+98,They are comforting me while i feel down/sad.,Child-related,True,1.0,0,0,2,,,"comfort, down"
+99,I just gave this woman a seat and she touches me as she is sitting ang thaniking me,Child-related,False,0.5,0,0,1,,,seat
+100,I received a sad result and the partnet came to solace me,Child-related,False,0.0,0,0,0,,,
+101,we are waiting for the exam,Child-related,False,0.0,0,0,0,,,
+102,I was very vividly describing to her a very bad encounter I had with a person that I felt treated me very unfairly and selfishly which made me react back with harsh words and I feel some regret now,Child-related,True,1.0,0,0,2,,,"person, treat"
+103,my sister is holding my shoulder after hearing some sad news,Child-related,False,0.5,0,0,1,,,sister
+104,a gentle touch,Child-related,False,0.0,0,0,0,,,
+105,Gentle pressure from someone of little strenght,Child-related,False,0.0,0,0,0,,,
+106,They're confiding some inane gossip on me.,Child-related,False,0.0,0,0,0,,,
+107,I am sick and tell my mom I feel like I have a temperature/fever,Child-related,False,0.0,0,0,0,,,
+108,We are waiting for food,Child-related,False,0.0,0,0,0,,,
+109,im depressed cuz something bad happened and he's comforting me,Child-related,False,0.5,0,0,1,,,comfort
+110,"I had some problem, maybe a worse grade or a issue with family",Child-related,False,0.0,0,0,0,,,
+111,My romantic partner is touching my arm while we are chilling on the couch while watching tv,Child-related,False,0.0,0,0,0,,,
+112,She touches me on the arm by advancing the pressure,Child-related,False,0.0,0,0,0,,,
+113,we are talking,Child-related,False,0.0,0,0,0,,,
+114,The therapist make me the heat therapy,Child-related,False,0.0,0,0,0,,,
+115,Talking,Child-related,False,0.0,0,0,0,,,
+116,"Colleague has softly touched my left shoulder, 3 times.",Child-related,False,0.0,0,0,0,,,
+117,We are having a conversation,Child-related,False,0.0,0,0,0,,,
+118,I have had some bad news,Child-related,False,0.0,0,0,0,,,
+119,They are leaning over me,Child-related,False,0.0,0,0,0,,,
+120,My friend is tapping me on the back,Child-related,True,1.0,1,0,0,tap,,
+121,I need to send an academic report.,Child-related,False,0.0,0,0,0,,,
+122,"We are sitting and catching up and while my relative is talking to me, he or she is touching me.",Child-related,False,0.0,0,0,0,,,
+123,pociesza mnie,Child-related,False,0.0,0,0,0,,,
+124,I am chatting with a friend and my son touches me,Child-related,True,1.5,1,0,1,son,,son
+125,Im getting bad news or i am upset,Child-related,False,0.0,0,0,0,,,
+126,"we were in the school and my friend placed his hand on my thigh, I dont know why, it made me uncomfortable.",Child-related,False,0.5,0,0,1,,,hand
+127,doing some breathing routines,Child-related,False,0.5,0,0,1,,,breathe
+128,My friend is touching my forearm,Child-related,False,0.0,0,0,0,,,
+129,something has happened me and my friend comforts me,Child-related,False,0.5,0,0,1,,,comfort
+130,"I am telling her that something difficult happened to me, and she is saying that everything will be ok and that she's by my side.",Child-related,False,0.0,0,0,0,,,
+131,?,Child-related,False,0.0,0,0,0,,,
+132,I'm telling a sad event to someone of my family and she/he is showing me some support and try to calm me.,Child-related,True,1.5,1,0,1,show,,support
+133,We sit in the couch and they lean their hand over and touch my thigh,Child-related,False,0.5,0,0,1,,,hand

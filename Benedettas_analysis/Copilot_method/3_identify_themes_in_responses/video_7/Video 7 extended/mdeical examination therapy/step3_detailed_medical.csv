@@ -1,0 +1,134 @@
+response_id,response,theme,present,score,count_original,count_synonym,count_closest,examples_original,examples_synonym,examples_closest
+1,i have just lost something dear to me,medical examination therapy,False,0.0,0,0,0,,,
+2,My mum cames at me and just shows me how much she loves using her touch,medical examination therapy,False,0.0,0,0,0,,,
+3,we are talking about our upcoming exams and projects,medical examination therapy,True,2.25,1,1,1,exam,exam,project
+4,The friend is comforting me.,medical examination therapy,False,0.0,0,0,0,,,
+5,We are talking,medical examination therapy,False,0.0,0,0,0,,,
+6,I am sad and my mom tries to comfort me.,medical examination therapy,False,0.0,0,0,0,,,
+7,we are having a conversation,medical examination therapy,False,0.0,0,0,0,,,
+8,we are both sitting in the kitchen table,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+9,The other person is trying to comfort me.,medical examination therapy,False,0.0,0,0,0,,,
+10,He touching me,medical examination therapy,False,0.0,0,0,0,,,
+11,I received some bad news,medical examination therapy,False,0.0,0,0,0,,,
+12,I'm talking about something important or hard for me,medical examination therapy,False,0.0,0,0,0,,,
+13,We are in class and my friend touches me during a lecture to make me laugh,medical examination therapy,False,0.0,0,0,0,,,
+14,Grounding technique,medical examination therapy,False,0.0,0,0,0,,,
+15,Wife is putting her hand on my shoulder.,medical examination therapy,False,0.0,0,0,0,,,
+16,I was walking down the street and my acquaintance way walking  behind my back,medical examination therapy,False,0.0,0,0,0,,,
+17,We are sitting and talking. She touched my knee,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+18,Maybe i'm describing something that worries me,medical examination therapy,False,0.0,0,0,0,,,
+19,we are sitting in the living room,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+20,"Next to each other daydreaming, he touches my shoulders like that, have that fantastic feeling once again of someone touching my shoulder.",medical examination therapy,False,0.75,0,1,0,,feel,
+21,I've received news that I did not get the job I wanted.,medical examination therapy,False,0.0,0,0,0,,,
+22,we have a deep conversation about some serious topics like health,medical examination therapy,False,0.0,0,0,0,,,
+23,My friend is comforting me after I just received news of the passing of a loved one.,medical examination therapy,False,0.0,0,0,0,,,
+24,I entered the church and a man dressed as a priest approached me and touched my arm like this,medical examination therapy,False,0.5,0,0,1,,,dress
+25,I went to my mother's room after feeling bad or stuck in my life. She then proceeds to comfort me both with her words and a gentle touch on my shoulder.,medical examination therapy,False,0.75,0,1,0,,feel,
+26,We are chilling on the bed,medical examination therapy,False,0.0,0,0,0,,,
+27,The person is asking me if everything is okay with my life.,medical examination therapy,False,0.5,0,0,1,,,ask
+28,She is talking to me,medical examination therapy,False,0.0,0,0,0,,,
+29,"There are many people around us, but he took an interest in me and he is speaking to me in a creepy way",medical examination therapy,False,0.0,0,0,0,,,
+30,She's helping me going through some troubles.,medical examination therapy,False,0.0,0,0,0,,,
+31,I have a problem with the University and I am speaking with my parents,medical examination therapy,False,0.0,0,0,0,,,
+32,she's reassuring me about a situation.,medical examination therapy,False,0.0,0,0,0,,,
+33,I'm feeling anxious about incoming deadlines,medical examination therapy,False,0.75,0,1,0,,feel,
+34,a hand reaches to gently tap snother person's arm a few times,medical examination therapy,False,0.5,0,0,1,,,reach
+35,I feel sad,medical examination therapy,False,0.75,0,1,0,,feel,
+36,She is touching my forearm after a long heart to heart conversation.,medical examination therapy,False,0.0,0,0,0,,,
+37,I was unhappy and my mother said to me that all are ok,medical examination therapy,False,0.0,0,0,0,,,
+38,I am explaining something I find difficult at work,medical examination therapy,False,0.0,0,0,0,,,
+39,My wife is comforting me after some annoyance,medical examination therapy,False,0.0,0,0,0,,,
+40,My colleague is trying to touch  me in a way that will lead to sex.,medical examination therapy,False,0.0,0,0,0,,,
+41,someone is touching me tenderly,medical examination therapy,False,0.0,0,0,0,,,
+42,having a deep conversation,medical examination therapy,False,0.0,0,0,0,,,
+43,I have just finished my homework that I was doing next to him while he drinks his coffee.,medical examination therapy,False,0.0,0,0,0,,,
+44,We could be watching tv and sitting on the couch or lying on the bed,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+45,"We are in class, the professor tells us that in this term things may get difficult due to country's energy crisis, my friend touch me in the hand to comfort me and let me know that we are in this situation together.",medical examination therapy,False,0.5,0,0,1,,,thing
+46,We are lying next to eah other in the evening. She grabs my hand like this as she often does in the evening before going to sleep.,medical examination therapy,False,0.0,0,0,0,,,
+47,i´m telling her something that happens to me,medical examination therapy,False,0.0,0,0,0,,,
+48,My friend is trying to comfort me as I just heard some bad news,medical examination therapy,False,0.5,0,0,1,,,hear
+49,We are talking about our day and I'm telling her I had it rough at work today.,medical examination therapy,False,0.0,0,0,0,,,
+50,I'm anxious for a medical exam,medical examination therapy,True,4.25,2,3,0,"exam, medical","exam, medical exam, medical_exam",
+51,I did a good job fixing a machine for my dad,medical examination therapy,False,0.5,0,0,1,,,fix
+52,She is touching me after me giving her good news,medical examination therapy,False,0.0,0,0,0,,,
+53,Were watching a scary movie.,medical examination therapy,False,0.0,0,0,0,,,
+54,We are having an emotional conversation in the garden.,medical examination therapy,False,0.0,0,0,0,,,
+55,We are talking about challenges in our life,medical examination therapy,False,0.0,0,0,0,,,
+56,im recieving a massage and she is massaging calmly my back,medical examination therapy,True,1.5,1,0,1,massage,,massage
+57,My housband want to tell me something without words.,medical examination therapy,False,0.0,0,0,0,,,
+58,I'm going through a tough time and this is how they touch me while comforting me.,medical examination therapy,False,0.0,0,0,0,,,
+59,An upsetting conversation,medical examination therapy,False,0.0,0,0,0,,,
+60,my boss is firing me,medical examination therapy,False,0.0,0,0,0,,,
+61,We are driving somwhere where we can spent time together,medical examination therapy,False,0.0,0,0,0,,,
+62,"another hand touching another hand, patting three times",medical examination therapy,False,0.0,0,0,0,,,
+63,They are trying to comfort me,medical examination therapy,False,0.0,0,0,0,,,
+64,sitting together on the grass,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+65,My mother is comforting me because my friend passes away,medical examination therapy,False,0.0,0,0,0,,,
+66,Driving in the car and my husband reaches over and touches my hand because I have been nervous about a medical test.,medical examination therapy,True,3.75,2,1,2,"medical, test",test,"reach, test"
+67,"After a long day at work, I was talking with my friend about some issues that happened at my work. He found that to comfort me from those tribulations it might be a good idea to ease me down like that",medical examination therapy,False,0.0,0,0,0,,,
+68,Something went wrong during the day and I am sharing my anguish with my mother,medical examination therapy,False,0.0,0,0,0,,,
+69,Mom is calming me down,medical examination therapy,False,0.0,0,0,0,,,
+70,feels the touch of a loved one. It's a gentle touch that soothes me,medical examination therapy,False,0.75,0,1,0,,feel,
+71,I just got back home after a long time,medical examination therapy,False,0.0,0,0,0,,,
+72,Someone who is not equipped to do so is trying to give me comfort.,medical examination therapy,False,0.0,0,0,0,,,
+73,my friend is gently touching and hovering my forearm,medical examination therapy,False,0.0,0,0,0,,,
+74,He just touches my shoulder like that and hugs me at the same time.,medical examination therapy,False,0.0,0,0,0,,,
+75,I'm talking to a stranger,medical examination therapy,False,0.0,0,0,0,,,
+76,Conversation,medical examination therapy,False,0.0,0,0,0,,,
+77,We are talking and they are comforting me.,medical examination therapy,False,0.0,0,0,0,,,
+78,Calming,medical examination therapy,False,0.0,0,0,0,,,
+79,I am at funeral with my mother and she grabs my forearm in a sad yet comforting reassuring way.,medical examination therapy,False,0.0,0,0,0,,,
+80,I'm telling her about positive things that are happening in my life.,medical examination therapy,False,0.5,0,0,1,,,thing
+81,a person gently places his hand on his arm,medical examination therapy,False,0.0,0,0,0,,,
+82,A one on one therapy session and the therapist is re-assuring me,medical examination therapy,True,3.0,2,0,2,"therapist, therapy",,"session, therapy"
+83,I may have told her about something that frustrated or worried me while we are sitting together talking.,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+84,Doctor is giving me bad news,medical examination therapy,True,1.5,1,0,1,doctor,,doctor
+85,Consolation after an unsuccessful week at work,medical examination therapy,False,0.0,0,0,0,,,
+86,my mother touchs me so she can be supportive,medical examination therapy,False,0.0,0,0,0,,,
+87,Friend giving me affirmation,medical examination therapy,False,0.0,0,0,0,,,
+88,My child is sitting with me on the sofa while touching my face.,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+89,Hugging me and touching my upper shouder,medical examination therapy,False,0.0,0,0,0,,,
+90,My husband needs my full attention I am focusing on something at the moment. To not Stuttle me he gentle touches me to get my attention.,medical examination therapy,False,0.0,0,0,0,,,
+91,He is taking advantage of me,medical examination therapy,False,0.0,0,0,0,,,
+92,I am nervous a bout something.,medical examination therapy,False,0.0,0,0,0,,,
+93,I am venting about my problems,medical examination therapy,False,0.0,0,0,0,,,
+94,We are at home having a heart to heart conversation,medical examination therapy,False,0.0,0,0,0,,,
+95,i hurt my knee badly from a football match.,medical examination therapy,False,0.0,0,0,0,,,
+96,He is trying to comfort me in a funny way,medical examination therapy,False,0.0,0,0,0,,,
+97,im going through stuff and sharing my problems,medical examination therapy,False,0.0,0,0,0,,,
+98,They are comforting me while i feel down/sad.,medical examination therapy,False,0.75,0,1,0,,feel,
+99,I just gave this woman a seat and she touches me as she is sitting ang thaniking me,medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+100,I received a sad result and the partnet came to solace me,medical examination therapy,False,0.0,0,0,0,,,
+101,we are waiting for the exam,medical examination therapy,True,1.75,1,1,0,exam,exam,
+102,I was very vividly describing to her a very bad encounter I had with a person that I felt treated me very unfairly and selfishly which made me react back with harsh words and I feel some regret now,medical examination therapy,True,2.25,1,1,1,treat,feel,treat
+103,my sister is holding my shoulder after hearing some sad news,medical examination therapy,True,1.0,0,0,2,,,"hear, hearing"
+104,a gentle touch,medical examination therapy,False,0.0,0,0,0,,,
+105,Gentle pressure from someone of little strenght,medical examination therapy,True,1.75,1,1,0,pressure,pressure,
+106,They're confiding some inane gossip on me.,medical examination therapy,False,0.0,0,0,0,,,
+107,I am sick and tell my mom I feel like I have a temperature/fever,medical examination therapy,False,0.75,0,1,0,,feel,
+108,We are waiting for food,medical examination therapy,False,0.0,0,0,0,,,
+109,im depressed cuz something bad happened and he's comforting me,medical examination therapy,False,0.0,0,0,0,,,
+110,"I had some problem, maybe a worse grade or a issue with family",medical examination therapy,False,0.0,0,0,0,,,
+111,My romantic partner is touching my arm while we are chilling on the couch while watching tv,medical examination therapy,False,0.0,0,0,0,,,
+112,She touches me on the arm by advancing the pressure,medical examination therapy,True,1.75,1,1,0,pressure,pressure,
+113,we are talking,medical examination therapy,False,0.0,0,0,0,,,
+114,The therapist make me the heat therapy,medical examination therapy,True,2.5,2,0,1,"therapist, therapy",,therapy
+115,Talking,medical examination therapy,False,0.0,0,0,0,,,
+116,"Colleague has softly touched my left shoulder, 3 times.",medical examination therapy,False,0.0,0,0,0,,,
+117,We are having a conversation,medical examination therapy,False,0.0,0,0,0,,,
+118,I have had some bad news,medical examination therapy,False,0.0,0,0,0,,,
+119,They are leaning over me,medical examination therapy,False,0.0,0,0,0,,,
+120,My friend is tapping me on the back,medical examination therapy,False,0.0,0,0,0,,,
+121,I need to send an academic report.,medical examination therapy,False,0.0,0,0,0,,,
+122,"We are sitting and catching up and while my relative is talking to me, he or she is touching me.",medical examination therapy,True,1.0,0,0,2,,,"sit, sitting"
+123,pociesza mnie,medical examination therapy,False,0.0,0,0,0,,,
+124,I am chatting with a friend and my son touches me,medical examination therapy,False,0.0,0,0,0,,,
+125,Im getting bad news or i am upset,medical examination therapy,False,0.0,0,0,0,,,
+126,"we were in the school and my friend placed his hand on my thigh, I dont know why, it made me uncomfortable.",medical examination therapy,False,0.0,0,0,0,,,
+127,doing some breathing routines,medical examination therapy,False,0.5,0,0,1,,,breathe
+128,My friend is touching my forearm,medical examination therapy,False,0.0,0,0,0,,,
+129,something has happened me and my friend comforts me,medical examination therapy,False,0.0,0,0,0,,,
+130,"I am telling her that something difficult happened to me, and she is saying that everything will be ok and that she's by my side.",medical examination therapy,False,0.0,0,0,0,,,
+131,?,medical examination therapy,False,0.0,0,0,0,,,
+132,I'm telling a sad event to someone of my family and she/he is showing me some support and try to calm me.,medical examination therapy,False,0.0,0,0,0,,,
+133,We sit in the couch and they lean their hand over and touch my thigh,medical examination therapy,False,0.5,0,0,1,,,sit
