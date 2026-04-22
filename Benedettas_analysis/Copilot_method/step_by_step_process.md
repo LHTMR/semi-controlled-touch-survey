@@ -1,8 +1,8 @@
-#Copilot method using the fixed touch_data file
+# Copilot method using the fixed touch_data file
 
  I used the file only for Social_context. 
 
-#Step 1
+# Step 1
 
 I opened Copilot, set it to think deeper and: 
 1) Uploaded the file with the prompt: “Please read the following section in the document and identify the main themes appearing in the answers”
@@ -13,14 +13,17 @@ I opened Copilot, set it to think deeper and:
 
 4) I made a list of the generated keywords for each theme. 
 
-#Step 2
+# Step 2
 
 After I got a list of keywords for each theme, I used python to run the wordnet_multiple_definition.py script. I run it for each list of keywords. This is what I wrote in the terminal: 
 python wordnet_multiple_definitions.py --input-file "inpu file name " --extend-synonyms --num-closest 20 --safe-mode
 
 I did this for each theme. After I got all the keywords disambiguated for each theme, I proceeded with step 3. 
 
-#Step 3
+# Step 3
 
 Step 3: identify themes in responses of two videos: 16 and 7. 
-the script used in step 3 was step_3_one_video.py, one for the extended file and the other for the synset-only. 
+The scripts used in step 3 were step3_one_video_extended.py and step3_one_video_synset_only.py, one for the extended file and the other for the synset-only. 
+
+# Step 4
+I counted theme presence by video and reported results for both extended and synsets-only.
