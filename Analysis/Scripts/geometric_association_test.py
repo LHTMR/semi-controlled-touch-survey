@@ -24,8 +24,14 @@ def get_raw_wmw(A, B, C, D):
     term2_num = (2 * A * D) + (A * B) + (C * D)
     term2_den = (2 * B * C) + (A * B) + (C * D)
 
+    # Condition 1: Perfect Opposites (No mass in the Agreement quadrants)
+    if term1_num == 0 or term2_num == 0:
+        return -np.inf
+
+    # Condition 2: Perfect Similarity (No mass in the Disagreement quadrants)
     if term1_den == 0 or term2_den == 0:
-        return 0.0
+        return np.inf
+
     wmw_geo = np.sqrt((term1_num / term1_den) * (term2_num / term2_den))
     return np.log(wmw_geo)
 
