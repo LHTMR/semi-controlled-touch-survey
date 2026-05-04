@@ -1,5 +1,5 @@
 # Script 
-The script used can be found here: https://github.com/LHTMR/semi-controlled-touch-survey/tree/main/Analysis/Scripts
+The script used is called all_words_extractor_edited.py. This script is the modified version of all_words_extractor.py (found here: https://github.com/LHTMR/semi-controlled-touch-survey/tree/main/Analysis/Scripts), which was modified to read the edited version of the dictionary. 
 
 # Input
  python all_words_extractor_edited.py social_context.txt --custom-dict word_grouping_dict_edited.json
