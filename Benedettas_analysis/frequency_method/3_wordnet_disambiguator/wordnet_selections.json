@@ -1,0 +1,361 @@
+{
+  "touching": [
+    "touch.n.01"
+  ],
+  "watching": [
+    "observation.n.02"
+  ],
+  "trying": [
+    "try.v.01"
+  ],
+  "arm": [
+    "arm.n.01"
+  ],
+  "attention": [
+    "attention.n.01"
+  ],
+  "touch": [
+    "touch.n.01",
+    "contact.n.08",
+    "touch.v.01"
+  ],
+  "friend": [
+    "friend.n.01"
+  ],
+  "something": null,
+  "talking": [
+    "talk.n.01"
+  ],
+  "sitting": [
+    "sitting.n.02"
+  ],
+  "person": [
+    "person.n.01"
+  ],
+  "get": [
+    "get.v.01"
+  ],
+  "hand": [
+    "hand.n.01"
+  ],
+  "wants": [
+    "lack.n.01",
+    "need.n.02"
+  ],
+  "tv": [
+    "television_receiver.n.01"
+  ],
+  "rubbing": [
+    "rub.v.01",
+    "rub.v.02"
+  ],
+  "child": [
+    "child.n.01"
+  ],
+  "back": [
+    "back.n.01"
+  ],
+  "shoulder": [
+    "shoulder.n.01"
+  ],
+  "someone": [
+    "person.n.01"
+  ],
+  "movie": [
+    "movie.n.01"
+  ],
+  "partner": [
+    "spouse.n.01"
+  ],
+  "feel": [
+    "tactile_property.n.01"
+  ],
+  "forearm": [
+    "forearm.n.01"
+  ],
+  "gentle": [
+    "pacify.v.01"
+  ],
+  "finger": [
+    "finger.n.01"
+  ],
+  "tapping": [
+    "tapping.n.01",
+    "tap.v.03"
+  ],
+  "comfort": [
+    "comfort.n.01"
+  ],
+  "comforting": [
+    "comfort.v.01"
+  ],
+  "like": [
+    "like.n.01"
+  ],
+  "im": null,
+  "time": null,
+  "day": [
+    "day.n.01",
+    "day.n.04"
+  ],
+  "way": [
+    "manner.n.01"
+  ],
+  "conversation": [
+    "conversation.n.01"
+  ],
+  "doctor": [
+    "doctor.n.01"
+  ],
+  "sad": [
+    "sad.a.01"
+  ],
+  "work": [
+    "employment.n.02"
+  ],
+  "couch": [
+    "sofa.n.01"
+  ],
+  "ask": [
+    "ask.v.01"
+  ],
+  "family": [
+    "family.n.01",
+    "family.n.04",
+    "kin.n.01"
+  ],
+  "relaxing": [
+    "relax.v.01"
+  ],
+  "bed": [
+    "bed.n.01"
+  ],
+  "telling": [
+    "relation.n.04"
+  ],
+  "together": [
+    "together.s.01"
+  ],
+  "news": [
+    "news.n.01"
+  ],
+  "chilling": [
+    "cooling.n.01",
+    "chilling.s.01"
+  ],
+  "playing": [
+    "playing.n.02"
+  ],
+  "bad": [
+    "bad.a.01"
+  ],
+  "colleague": [
+    "colleague.n.01"
+  ],
+  "next": [
+    "following.s.02"
+  ],
+  "waiting": [
+    "wait.n.02"
+  ],
+  "feeling": [
+    "feeling.n.01"
+  ],
+  "need": [
+    "need.n.01"
+  ],
+  "leg": [
+    "leg.n.01"
+  ],
+  "stranger": [
+    "stranger.n.01"
+  ],
+  "face": [
+    "face.n.01"
+  ],
+  "talk": [
+    "talk.n.01"
+  ],
+  "home": [
+    "home.n.01"
+  ],
+  "poking": [
+    "jab.n.01",
+    "poke.v.03"
+  ],
+  "situation": [
+    "situation.n.01"
+  ],
+  "caress": [
+    "caress.n.01"
+  ],
+  "starts": [
+    "start.n.01"
+  ],
+  "upset": [
+    "disturbance.n.02"
+  ],
+  "one": null,
+  "cuddling": [
+    "caressing.n.01",
+    "cuddle.v.01",
+    "cuddle.v.02"
+  ],
+  "mother": [
+    "mother.n.01"
+  ],
+  "happened": [
+    "happen.v.01",
+    "happen.v.02"
+  ],
+  "sofa": [
+    "sofa.n.01"
+  ],
+  "going": [
+    "departure.n.01"
+  ],
+  "life": [
+    "life.n.01"
+  ],
+  "nt": null,
+  "table": [
+    "table.n.01",
+    "table.n.03"
+  ],
+  "show": [
+    "show.n.01"
+  ],
+  "working": [
+    "work.v.02"
+  ],
+  "walk": [
+    "walk.n.01"
+  ],
+  "around": [
+    "about.r.03"
+  ],
+  "video": [
+    "video.n.01"
+  ],
+  "take": [
+    "return.n.06"
+  ],
+  "member": [
+    "member.n.01"
+  ],
+  "getting": [
+    "acquiring.n.01"
+  ],
+  "chat": [
+    "chat.n.01"
+  ],
+  "girlfriend": [
+    "girlfriend.n.01"
+  ],
+  "pain": [
+    "pain.n.01",
+    "pain.n.02"
+  ],
+  "touched": [
+    "touch.v.01"
+  ],
+  "skin": [
+    "skin.n.01"
+  ],
+  "patting": [
+    "chuck.v.03",
+    "dab.v.02"
+  ],
+  "know": [
+    "know.n.01",
+    "know.v.01"
+  ],
+  "romantic": [
+    "amatory.s.01"
+  ],
+  "try": [
+    "try.v.01"
+  ],
+  "make": [
+    "make.v.03"
+  ],
+  "comes": [
+    "come.v.01"
+  ],
+  "behind": [
+    "behind.r.01"
+  ],
+  "rub": [
+    "rub.n.02"
+  ],
+  "lying": [
+    "lying.n.01"
+  ],
+  "maybe": [
+    "possibly.r.01"
+  ],
+  "checking": [
+    "check.v.01"
+  ],
+  "head": [
+    "head.n.01"
+  ],
+  "asleep": [
+    "asleep.a.01",
+    "asleep.r.01"
+  ],
+  "massage": [
+    "massage.n.01"
+  ],
+  "catch": [
+    "catch.n.09"
+  ],
+  "phone": [
+    "telephone.n.01"
+  ],
+  "problems": [
+    "problem.n.01"
+  ],
+  "emotional": [
+    "emotional.a.01"
+  ],
+  "cry": [
+    "cry.n.01"
+  ],
+  "see": [
+    "see.v.01"
+  ],
+  "affection": [
+    "affection.n.01"
+  ],
+  "making": [
+    "make.v.03"
+  ],
+  "reassured": [
+    "reassure.v.01"
+  ],
+  "calm": [
+    "composure.n.01"
+  ],
+  "husband": null,
+  "therapist": [
+    "therapist.n.01"
+  ],
+  "stroking": [
+    "stroke.n.05",
+    "stroke.v.01"
+  ],
+  "outside": null,
+  "another": [
+    "another.s.01"
+  ],
+  "dinner": [
+    "dinner.n.01"
+  ],
+  "people": [
+    "people.n.01"
+  ],
+  "wake": [
+    "wake.v.01"
+  ]
+}
