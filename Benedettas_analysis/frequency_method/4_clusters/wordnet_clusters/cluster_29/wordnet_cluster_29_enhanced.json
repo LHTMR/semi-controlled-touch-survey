@@ -1,0 +1,140 @@
+{
+  "cuddling": [
+    {
+      "synset": "cuddle.v.01",
+      "definition": "move or arrange oneself in a comfortable and cozy position",
+      "synonyms": [
+        "cuddle",
+        "snuggle",
+        "nestle",
+        "nest",
+        "nuzzle",
+        "draw_close"
+      ],
+      "closest_words": [
+        "cling to",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust"
+      ],
+      "closest_words_info": [
+        {
+          "word": "cling to",
+          "distance": 0.19999999999999996,
+          "synset": "cling_to.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6666666666666667,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6666666666666667,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6666666666666667,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6666666666666667,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6666666666666667,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6666666666666667,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6666666666666667,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6666666666666667,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6666666666666667,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6666666666666667,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6666666666666667,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6666666666666667,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6666666666666667,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6666666666666667,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6666666666666667,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.6666666666666667,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.6666666666666667,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.6666666666666667,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.6666666666666667,
+          "synset": "exhaust.v.05"
+        }
+      ]
+    }
+  ]
+}

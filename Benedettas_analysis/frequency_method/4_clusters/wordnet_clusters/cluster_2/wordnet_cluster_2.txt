@@ -1,0 +1,12 @@
+friend.n.01
+person.n.01
+child.n.01
+spouse.n.01
+doctor.n.01
+kin.n.01
+colleague.n.01
+stranger.n.01
+mother.n.01
+member.n.01
+girlfriend.n.01
+therapist.n.01

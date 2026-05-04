@@ -1,0 +1,1338 @@
+{
+  "wants": [
+    {
+      "synset": "lack.n.01",
+      "definition": "the state of needing something that is absent or unavailable",
+      "synonyms": [
+        "lack",
+        "deficiency",
+        "want"
+      ],
+      "closest_words": [
+        "absence",
+        "dearth",
+        "deficit",
+        "mineral deficiency",
+        "shortness",
+        "stringency",
+        "need",
+        "nonoccurrence",
+        "awayness",
+        "sideropenia",
+        "necessity",
+        "condition",
+        "requisiteness",
+        "urgency",
+        "diversity",
+        "anchorage",
+        "health",
+        "mode",
+        "niche",
+        "noise conditions"
+      ],
+      "closest_words_info": [
+        {
+          "word": "absence",
+          "distance": 0.06666666666666665,
+          "synset": "absence.n.01"
+        },
+        {
+          "word": "dearth",
+          "distance": 0.06666666666666665,
+          "synset": "dearth.n.01"
+        },
+        {
+          "word": "deficit",
+          "distance": 0.06666666666666665,
+          "synset": "deficit.n.02"
+        },
+        {
+          "word": "mineral deficiency",
+          "distance": 0.06666666666666665,
+          "synset": "mineral_deficiency.n.01"
+        },
+        {
+          "word": "shortness",
+          "distance": 0.06666666666666665,
+          "synset": "shortness.n.02"
+        },
+        {
+          "word": "stringency",
+          "distance": 0.06666666666666665,
+          "synset": "stringency.n.01"
+        },
+        {
+          "word": "need",
+          "distance": 0.07692307692307687,
+          "synset": "need.n.01"
+        },
+        {
+          "word": "nonoccurrence",
+          "distance": 0.125,
+          "synset": "nonoccurrence.n.01"
+        },
+        {
+          "word": "awayness",
+          "distance": 0.125,
+          "synset": "awayness.n.01"
+        },
+        {
+          "word": "sideropenia",
+          "distance": 0.125,
+          "synset": "sideropenia.n.01"
+        },
+        {
+          "word": "necessity",
+          "distance": 0.1428571428571429,
+          "synset": "necessity.n.01"
+        },
+        {
+          "word": "condition",
+          "distance": 0.16666666666666663,
+          "synset": "condition.n.01"
+        },
+        {
+          "word": "requisiteness",
+          "distance": 0.19999999999999996,
+          "synset": "requisiteness.n.01"
+        },
+        {
+          "word": "urgency",
+          "distance": 0.19999999999999996,
+          "synset": "urgency.n.01"
+        },
+        {
+          "word": "diversity",
+          "distance": 0.23076923076923073,
+          "synset": "diversity.n.02"
+        },
+        {
+          "word": "anchorage",
+          "distance": 0.23076923076923073,
+          "synset": "anchorage.n.01"
+        },
+        {
+          "word": "health",
+          "distance": 0.23076923076923073,
+          "synset": "health.n.02"
+        },
+        {
+          "word": "mode",
+          "distance": 0.23076923076923073,
+          "synset": "mode.n.02"
+        },
+        {
+          "word": "niche",
+          "distance": 0.23076923076923073,
+          "synset": "niche.n.04"
+        },
+        {
+          "word": "noise conditions",
+          "distance": 0.23076923076923073,
+          "synset": "noise_conditions.n.01"
+        }
+      ]
+    }
+  ],
+  "comfort": [
+    {
+      "synset": "comfort.n.01",
+      "definition": "a state of being relaxed and feeling no pain",
+      "synonyms": [
+        "comfortableness"
+      ],
+      "closest_words": [
+        "relief",
+        "solace",
+        "coziness",
+        "convenience",
+        "condition",
+        "reprieve",
+        "diversity",
+        "anchorage",
+        "health",
+        "mode",
+        "niche",
+        "noise conditions",
+        "participation",
+        "prepossession",
+        "regularization",
+        "saturation",
+        "silence",
+        "situation",
+        "ski conditions",
+        "nomination"
+      ],
+      "closest_words_info": [
+        {
+          "word": "relief",
+          "distance": 0.07692307692307687,
+          "synset": "relief.n.02"
+        },
+        {
+          "word": "solace",
+          "distance": 0.07692307692307687,
+          "synset": "solace.n.02"
+        },
+        {
+          "word": "coziness",
+          "distance": 0.07692307692307687,
+          "synset": "coziness.n.01"
+        },
+        {
+          "word": "convenience",
+          "distance": 0.07692307692307687,
+          "synset": "convenience.n.01"
+        },
+        {
+          "word": "condition",
+          "distance": 0.09090909090909094,
+          "synset": "condition.n.01"
+        },
+        {
+          "word": "reprieve",
+          "distance": 0.1428571428571429,
+          "synset": "reprieve.n.01"
+        },
+        {
+          "word": "diversity",
+          "distance": 0.16666666666666663,
+          "synset": "diversity.n.02"
+        },
+        {
+          "word": "anchorage",
+          "distance": 0.16666666666666663,
+          "synset": "anchorage.n.01"
+        },
+        {
+          "word": "health",
+          "distance": 0.16666666666666663,
+          "synset": "health.n.02"
+        },
+        {
+          "word": "mode",
+          "distance": 0.16666666666666663,
+          "synset": "mode.n.02"
+        },
+        {
+          "word": "niche",
+          "distance": 0.16666666666666663,
+          "synset": "niche.n.04"
+        },
+        {
+          "word": "noise conditions",
+          "distance": 0.16666666666666663,
+          "synset": "noise_conditions.n.01"
+        },
+        {
+          "word": "participation",
+          "distance": 0.16666666666666663,
+          "synset": "participation.n.02"
+        },
+        {
+          "word": "prepossession",
+          "distance": 0.16666666666666663,
+          "synset": "prepossession.n.01"
+        },
+        {
+          "word": "regularization",
+          "distance": 0.16666666666666663,
+          "synset": "regularization.n.01"
+        },
+        {
+          "word": "saturation",
+          "distance": 0.16666666666666663,
+          "synset": "saturation.n.03"
+        },
+        {
+          "word": "silence",
+          "distance": 0.16666666666666663,
+          "synset": "silence.n.01"
+        },
+        {
+          "word": "situation",
+          "distance": 0.16666666666666663,
+          "synset": "situation.n.02"
+        },
+        {
+          "word": "ski conditions",
+          "distance": 0.16666666666666663,
+          "synset": "ski_conditions.n.01"
+        },
+        {
+          "word": "nomination",
+          "distance": 0.16666666666666663,
+          "synset": "nomination.n.02"
+        }
+      ]
+    }
+  ],
+  "feeling": [
+    {
+      "synset": "feeling.n.01",
+      "definition": "the experiencing of affective and emotional states",
+      "synonyms": [],
+      "closest_words": [
+        "affect",
+        "emotion",
+        "thing",
+        "glow",
+        "faintness",
+        "soul",
+        "passion",
+        "sentiment",
+        "complex",
+        "ambivalence",
+        "apathy",
+        "desire",
+        "sex",
+        "pleasure",
+        "pain",
+        "pang",
+        "liking",
+        "dislike",
+        "gratitude",
+        "ingratitude"
+      ],
+      "closest_words_info": [
+        {
+          "word": "affect",
+          "distance": 0.09090909090909094,
+          "synset": "affect.n.01"
+        },
+        {
+          "word": "emotion",
+          "distance": 0.09090909090909094,
+          "synset": "emotion.n.01"
+        },
+        {
+          "word": "thing",
+          "distance": 0.09090909090909094,
+          "synset": "thing.n.11"
+        },
+        {
+          "word": "glow",
+          "distance": 0.09090909090909094,
+          "synset": "glow.n.04"
+        },
+        {
+          "word": "faintness",
+          "distance": 0.09090909090909094,
+          "synset": "faintness.n.01"
+        },
+        {
+          "word": "soul",
+          "distance": 0.09090909090909094,
+          "synset": "soul.n.03"
+        },
+        {
+          "word": "passion",
+          "distance": 0.09090909090909094,
+          "synset": "passion.n.01"
+        },
+        {
+          "word": "sentiment",
+          "distance": 0.09090909090909094,
+          "synset": "sentiment.n.01"
+        },
+        {
+          "word": "complex",
+          "distance": 0.09090909090909094,
+          "synset": "complex.n.03"
+        },
+        {
+          "word": "ambivalence",
+          "distance": 0.09090909090909094,
+          "synset": "ambivalence.n.01"
+        },
+        {
+          "word": "apathy",
+          "distance": 0.09090909090909094,
+          "synset": "apathy.n.01"
+        },
+        {
+          "word": "desire",
+          "distance": 0.09090909090909094,
+          "synset": "desire.n.01"
+        },
+        {
+          "word": "sex",
+          "distance": 0.09090909090909094,
+          "synset": "sex.n.03"
+        },
+        {
+          "word": "pleasure",
+          "distance": 0.09090909090909094,
+          "synset": "pleasure.n.01"
+        },
+        {
+          "word": "pain",
+          "distance": 0.09090909090909094,
+          "synset": "pain.n.02"
+        },
+        {
+          "word": "pang",
+          "distance": 0.09090909090909094,
+          "synset": "pang.n.01"
+        },
+        {
+          "word": "liking",
+          "distance": 0.09090909090909094,
+          "synset": "liking.n.01"
+        },
+        {
+          "word": "dislike",
+          "distance": 0.09090909090909094,
+          "synset": "dislike.n.02"
+        },
+        {
+          "word": "gratitude",
+          "distance": 0.09090909090909094,
+          "synset": "gratitude.n.01"
+        },
+        {
+          "word": "ingratitude",
+          "distance": 0.09090909090909094,
+          "synset": "ingratitude.n.01"
+        }
+      ]
+    }
+  ],
+  "need": [
+    {
+      "synset": "need.n.01",
+      "definition": "a condition requiring relief",
+      "synonyms": [
+        "demand"
+      ],
+      "closest_words": [
+        "lack",
+        "necessity",
+        "condition",
+        "absence",
+        "dearth",
+        "deficit",
+        "mineral deficiency",
+        "shortness",
+        "stringency",
+        "requisiteness",
+        "urgency",
+        "diversity",
+        "anchorage",
+        "health",
+        "mode",
+        "niche",
+        "noise conditions",
+        "participation",
+        "prepossession",
+        "regularization"
+      ],
+      "closest_words_info": [
+        {
+          "word": "lack",
+          "distance": 0.07692307692307687,
+          "synset": "lack.n.01"
+        },
+        {
+          "word": "necessity",
+          "distance": 0.07692307692307687,
+          "synset": "necessity.n.01"
+        },
+        {
+          "word": "condition",
+          "distance": 0.09090909090909094,
+          "synset": "condition.n.01"
+        },
+        {
+          "word": "absence",
+          "distance": 0.1428571428571429,
+          "synset": "absence.n.01"
+        },
+        {
+          "word": "dearth",
+          "distance": 0.1428571428571429,
+          "synset": "dearth.n.01"
+        },
+        {
+          "word": "deficit",
+          "distance": 0.1428571428571429,
+          "synset": "deficit.n.02"
+        },
+        {
+          "word": "mineral deficiency",
+          "distance": 0.1428571428571429,
+          "synset": "mineral_deficiency.n.01"
+        },
+        {
+          "word": "shortness",
+          "distance": 0.1428571428571429,
+          "synset": "shortness.n.02"
+        },
+        {
+          "word": "stringency",
+          "distance": 0.1428571428571429,
+          "synset": "stringency.n.01"
+        },
+        {
+          "word": "requisiteness",
+          "distance": 0.1428571428571429,
+          "synset": "requisiteness.n.01"
+        },
+        {
+          "word": "urgency",
+          "distance": 0.1428571428571429,
+          "synset": "urgency.n.01"
+        },
+        {
+          "word": "diversity",
+          "distance": 0.16666666666666663,
+          "synset": "diversity.n.02"
+        },
+        {
+          "word": "anchorage",
+          "distance": 0.16666666666666663,
+          "synset": "anchorage.n.01"
+        },
+        {
+          "word": "health",
+          "distance": 0.16666666666666663,
+          "synset": "health.n.02"
+        },
+        {
+          "word": "mode",
+          "distance": 0.16666666666666663,
+          "synset": "mode.n.02"
+        },
+        {
+          "word": "niche",
+          "distance": 0.16666666666666663,
+          "synset": "niche.n.04"
+        },
+        {
+          "word": "noise conditions",
+          "distance": 0.16666666666666663,
+          "synset": "noise_conditions.n.01"
+        },
+        {
+          "word": "participation",
+          "distance": 0.16666666666666663,
+          "synset": "participation.n.02"
+        },
+        {
+          "word": "prepossession",
+          "distance": 0.16666666666666663,
+          "synset": "prepossession.n.01"
+        },
+        {
+          "word": "regularization",
+          "distance": 0.16666666666666663,
+          "synset": "regularization.n.01"
+        }
+      ]
+    }
+  ],
+  "situation": [
+    {
+      "synset": "situation.n.01",
+      "definition": "the general state of things; the combination of circumstances at a given time; ; ; - Franklin D.Roosevelt",
+      "synonyms": [
+        "state_of_affairs"
+      ],
+      "closest_words": [
+        "absurd",
+        "acceptance",
+        "ballgame",
+        "challenge",
+        "childlessness",
+        "complication",
+        "crowding",
+        "disequilibrium",
+        "element",
+        "environment",
+        "equilibrium",
+        "exclusion",
+        "goldfish bowl",
+        "hotbed",
+        "inclusion",
+        "intestacy",
+        "picture",
+        "prison",
+        "rejection",
+        "size"
+      ],
+      "closest_words_info": [
+        {
+          "word": "absurd",
+          "distance": 0.09090909090909094,
+          "synset": "absurd.n.01"
+        },
+        {
+          "word": "acceptance",
+          "distance": 0.09090909090909094,
+          "synset": "acceptance.n.03"
+        },
+        {
+          "word": "ballgame",
+          "distance": 0.09090909090909094,
+          "synset": "ballgame.n.01"
+        },
+        {
+          "word": "challenge",
+          "distance": 0.09090909090909094,
+          "synset": "challenge.n.01"
+        },
+        {
+          "word": "childlessness",
+          "distance": 0.09090909090909094,
+          "synset": "childlessness.n.01"
+        },
+        {
+          "word": "complication",
+          "distance": 0.09090909090909094,
+          "synset": "complication.n.02"
+        },
+        {
+          "word": "crowding",
+          "distance": 0.09090909090909094,
+          "synset": "crowding.n.01"
+        },
+        {
+          "word": "disequilibrium",
+          "distance": 0.09090909090909094,
+          "synset": "disequilibrium.n.01"
+        },
+        {
+          "word": "element",
+          "distance": 0.09090909090909094,
+          "synset": "element.n.06"
+        },
+        {
+          "word": "environment",
+          "distance": 0.09090909090909094,
+          "synset": "environment.n.01"
+        },
+        {
+          "word": "equilibrium",
+          "distance": 0.09090909090909094,
+          "synset": "equilibrium.n.01"
+        },
+        {
+          "word": "exclusion",
+          "distance": 0.09090909090909094,
+          "synset": "exclusion.n.01"
+        },
+        {
+          "word": "goldfish bowl",
+          "distance": 0.09090909090909094,
+          "synset": "goldfish_bowl.n.01"
+        },
+        {
+          "word": "hotbed",
+          "distance": 0.09090909090909094,
+          "synset": "hotbed.n.01"
+        },
+        {
+          "word": "inclusion",
+          "distance": 0.09090909090909094,
+          "synset": "inclusion.n.01"
+        },
+        {
+          "word": "intestacy",
+          "distance": 0.09090909090909094,
+          "synset": "intestacy.n.01"
+        },
+        {
+          "word": "picture",
+          "distance": 0.09090909090909094,
+          "synset": "picture.n.04"
+        },
+        {
+          "word": "prison",
+          "distance": 0.09090909090909094,
+          "synset": "prison.n.02"
+        },
+        {
+          "word": "rejection",
+          "distance": 0.09090909090909094,
+          "synset": "rejection.n.02"
+        },
+        {
+          "word": "size",
+          "distance": 0.09090909090909094,
+          "synset": "size.n.04"
+        }
+      ]
+    }
+  ],
+  "upset": [
+    {
+      "synset": "disturbance.n.02",
+      "definition": "an unhappy and worried mental state",
+      "synonyms": [
+        "disturbance",
+        "perturbation"
+      ],
+      "closest_words": [
+        "agitation",
+        "fret",
+        "dither",
+        "tailspin",
+        "psychological state",
+        "cognitive state",
+        "state of mind",
+        "abulia",
+        "anhedonia",
+        "depersonalization",
+        "hypnosis",
+        "fugue",
+        "trauma",
+        "morale",
+        "anxiety",
+        "hallucinosis",
+        "identity crisis",
+        "nervousness",
+        "delusion",
+        "mental health"
+      ],
+      "closest_words_info": [
+        {
+          "word": "agitation",
+          "distance": 0.06666666666666665,
+          "synset": "agitation.n.01"
+        },
+        {
+          "word": "fret",
+          "distance": 0.125,
+          "synset": "fret.n.01"
+        },
+        {
+          "word": "dither",
+          "distance": 0.125,
+          "synset": "dither.n.01"
+        },
+        {
+          "word": "tailspin",
+          "distance": 0.125,
+          "synset": "tailspin.n.01"
+        },
+        {
+          "word": "psychological state",
+          "distance": 0.1428571428571429,
+          "synset": "psychological_state.n.01"
+        },
+        {
+          "word": "cognitive state",
+          "distance": 0.19999999999999996,
+          "synset": "cognitive_state.n.01"
+        },
+        {
+          "word": "state of mind",
+          "distance": 0.19999999999999996,
+          "synset": "state_of_mind.n.01"
+        },
+        {
+          "word": "abulia",
+          "distance": 0.19999999999999996,
+          "synset": "abulia.n.01"
+        },
+        {
+          "word": "anhedonia",
+          "distance": 0.19999999999999996,
+          "synset": "anhedonia.n.01"
+        },
+        {
+          "word": "depersonalization",
+          "distance": 0.19999999999999996,
+          "synset": "depersonalization.n.02"
+        },
+        {
+          "word": "hypnosis",
+          "distance": 0.19999999999999996,
+          "synset": "hypnosis.n.01"
+        },
+        {
+          "word": "fugue",
+          "distance": 0.19999999999999996,
+          "synset": "fugue.n.02"
+        },
+        {
+          "word": "trauma",
+          "distance": 0.19999999999999996,
+          "synset": "trauma.n.02"
+        },
+        {
+          "word": "morale",
+          "distance": 0.19999999999999996,
+          "synset": "morale.n.01"
+        },
+        {
+          "word": "anxiety",
+          "distance": 0.19999999999999996,
+          "synset": "anxiety.n.01"
+        },
+        {
+          "word": "hallucinosis",
+          "distance": 0.19999999999999996,
+          "synset": "hallucinosis.n.01"
+        },
+        {
+          "word": "identity crisis",
+          "distance": 0.19999999999999996,
+          "synset": "identity_crisis.n.01"
+        },
+        {
+          "word": "nervousness",
+          "distance": 0.19999999999999996,
+          "synset": "nervousness.n.02"
+        },
+        {
+          "word": "delusion",
+          "distance": 0.19999999999999996,
+          "synset": "delusion.n.01"
+        },
+        {
+          "word": "mental health",
+          "distance": 0.19999999999999996,
+          "synset": "mental_health.n.01"
+        }
+      ]
+    }
+  ],
+  "life": [
+    {
+      "synset": "life.n.01",
+      "definition": "a characteristic state or mode of living",
+      "synonyms": [],
+      "closest_words": [
+        "ghetto",
+        "being",
+        "actuality",
+        "eternity",
+        "preexistence",
+        "coexistence",
+        "subsistence",
+        "presence",
+        "life",
+        "animation",
+        "transcendence",
+        "possibility",
+        "state",
+        "entelechy",
+        "genuineness",
+        "reality",
+        "reality",
+        "truth",
+        "eternal life",
+        "immanence"
+      ],
+      "closest_words_info": [
+        {
+          "word": "ghetto",
+          "distance": 0.07692307692307687,
+          "synset": "ghetto.n.02"
+        },
+        {
+          "word": "being",
+          "distance": 0.09090909090909094,
+          "synset": "being.n.01"
+        },
+        {
+          "word": "actuality",
+          "distance": 0.16666666666666663,
+          "synset": "actuality.n.01"
+        },
+        {
+          "word": "eternity",
+          "distance": 0.16666666666666663,
+          "synset": "eternity.n.02"
+        },
+        {
+          "word": "preexistence",
+          "distance": 0.16666666666666663,
+          "synset": "preexistence.n.01"
+        },
+        {
+          "word": "coexistence",
+          "distance": 0.16666666666666663,
+          "synset": "coexistence.n.01"
+        },
+        {
+          "word": "subsistence",
+          "distance": 0.16666666666666663,
+          "synset": "subsistence.n.03"
+        },
+        {
+          "word": "presence",
+          "distance": 0.16666666666666663,
+          "synset": "presence.n.01"
+        },
+        {
+          "word": "life",
+          "distance": 0.16666666666666663,
+          "synset": "life.n.03"
+        },
+        {
+          "word": "animation",
+          "distance": 0.16666666666666663,
+          "synset": "animation.n.01"
+        },
+        {
+          "word": "transcendence",
+          "distance": 0.16666666666666663,
+          "synset": "transcendence.n.01"
+        },
+        {
+          "word": "possibility",
+          "distance": 0.16666666666666663,
+          "synset": "possibility.n.02"
+        },
+        {
+          "word": "state",
+          "distance": 0.19999999999999996,
+          "synset": "state.n.02"
+        },
+        {
+          "word": "entelechy",
+          "distance": 0.23076923076923073,
+          "synset": "entelechy.n.01"
+        },
+        {
+          "word": "genuineness",
+          "distance": 0.23076923076923073,
+          "synset": "genuineness.n.01"
+        },
+        {
+          "word": "reality",
+          "distance": 0.23076923076923073,
+          "synset": "reality.n.02"
+        },
+        {
+          "word": "reality",
+          "distance": 0.23076923076923073,
+          "synset": "reality.n.03"
+        },
+        {
+          "word": "truth",
+          "distance": 0.23076923076923073,
+          "synset": "truth.n.02"
+        },
+        {
+          "word": "eternal life",
+          "distance": 0.23076923076923073,
+          "synset": "eternal_life.n.01"
+        },
+        {
+          "word": "immanence",
+          "distance": 0.23076923076923073,
+          "synset": "immanence.n.01"
+        }
+      ]
+    }
+  ],
+  "pain": [
+    {
+      "synset": "pain.n.02",
+      "definition": "emotional distress; a fundamental feeling that people try to avoid",
+      "synonyms": [
+        "painfulness"
+      ],
+      "closest_words": [
+        "growing pains",
+        "unpleasantness",
+        "mental anguish",
+        "suffering",
+        "distress",
+        "feeling",
+        "agony",
+        "throes",
+        "discomfort",
+        "anguish",
+        "self-torture",
+        "tsoris",
+        "wound",
+        "affect",
+        "emotion",
+        "thing",
+        "glow",
+        "faintness",
+        "soul",
+        "passion"
+      ],
+      "closest_words_info": [
+        {
+          "word": "growing pains",
+          "distance": 0.07692307692307687,
+          "synset": "growing_pains.n.02"
+        },
+        {
+          "word": "unpleasantness",
+          "distance": 0.07692307692307687,
+          "synset": "unpleasantness.n.01"
+        },
+        {
+          "word": "mental anguish",
+          "distance": 0.07692307692307687,
+          "synset": "mental_anguish.n.01"
+        },
+        {
+          "word": "suffering",
+          "distance": 0.07692307692307687,
+          "synset": "suffering.n.04"
+        },
+        {
+          "word": "distress",
+          "distance": 0.07692307692307687,
+          "synset": "distress.n.01"
+        },
+        {
+          "word": "feeling",
+          "distance": 0.09090909090909094,
+          "synset": "feeling.n.01"
+        },
+        {
+          "word": "agony",
+          "distance": 0.1428571428571429,
+          "synset": "agony.n.01"
+        },
+        {
+          "word": "throes",
+          "distance": 0.1428571428571429,
+          "synset": "throes.n.01"
+        },
+        {
+          "word": "discomfort",
+          "distance": 0.1428571428571429,
+          "synset": "discomfort.n.02"
+        },
+        {
+          "word": "anguish",
+          "distance": 0.1428571428571429,
+          "synset": "anguish.n.01"
+        },
+        {
+          "word": "self-torture",
+          "distance": 0.1428571428571429,
+          "synset": "self-torture.n.01"
+        },
+        {
+          "word": "tsoris",
+          "distance": 0.1428571428571429,
+          "synset": "tsoris.n.01"
+        },
+        {
+          "word": "wound",
+          "distance": 0.1428571428571429,
+          "synset": "wound.n.03"
+        },
+        {
+          "word": "affect",
+          "distance": 0.16666666666666663,
+          "synset": "affect.n.01"
+        },
+        {
+          "word": "emotion",
+          "distance": 0.16666666666666663,
+          "synset": "emotion.n.01"
+        },
+        {
+          "word": "thing",
+          "distance": 0.16666666666666663,
+          "synset": "thing.n.11"
+        },
+        {
+          "word": "glow",
+          "distance": 0.16666666666666663,
+          "synset": "glow.n.04"
+        },
+        {
+          "word": "faintness",
+          "distance": 0.16666666666666663,
+          "synset": "faintness.n.01"
+        },
+        {
+          "word": "soul",
+          "distance": 0.16666666666666663,
+          "synset": "soul.n.03"
+        },
+        {
+          "word": "passion",
+          "distance": 0.16666666666666663,
+          "synset": "passion.n.01"
+        }
+      ]
+    }
+  ],
+  "problems": [
+    {
+      "synset": "problem.n.01",
+      "definition": "a state of difficulty that needs to be resolved",
+      "synonyms": [
+        "problem",
+        "job"
+      ],
+      "closest_words": [
+        "race problem",
+        "balance-of-payments problem",
+        "difficulty",
+        "bitch",
+        "predicament",
+        "rattrap",
+        "pinch",
+        "fix",
+        "hard time",
+        "stress",
+        "mire",
+        "situation",
+        "urinary hesitancy",
+        "wall",
+        "condition",
+        "care",
+        "conflict of interest",
+        "crisis",
+        "crunch",
+        "hornet's nest"
+      ],
+      "closest_words_info": [
+        {
+          "word": "race problem",
+          "distance": 0.06666666666666665,
+          "synset": "race_problem.n.01"
+        },
+        {
+          "word": "balance-of-payments problem",
+          "distance": 0.06666666666666665,
+          "synset": "balance-of-payments_problem.n.01"
+        },
+        {
+          "word": "difficulty",
+          "distance": 0.07692307692307687,
+          "synset": "difficulty.n.03"
+        },
+        {
+          "word": "bitch",
+          "distance": 0.1428571428571429,
+          "synset": "bitch.n.01"
+        },
+        {
+          "word": "predicament",
+          "distance": 0.1428571428571429,
+          "synset": "predicament.n.01"
+        },
+        {
+          "word": "rattrap",
+          "distance": 0.1428571428571429,
+          "synset": "rattrap.n.01"
+        },
+        {
+          "word": "pinch",
+          "distance": 0.1428571428571429,
+          "synset": "pinch.n.01"
+        },
+        {
+          "word": "fix",
+          "distance": 0.1428571428571429,
+          "synset": "fix.n.01"
+        },
+        {
+          "word": "hard time",
+          "distance": 0.1428571428571429,
+          "synset": "hard_time.n.01"
+        },
+        {
+          "word": "stress",
+          "distance": 0.1428571428571429,
+          "synset": "stress.n.04"
+        },
+        {
+          "word": "mire",
+          "distance": 0.1428571428571429,
+          "synset": "mire.n.03"
+        },
+        {
+          "word": "situation",
+          "distance": 0.1428571428571429,
+          "synset": "situation.n.03"
+        },
+        {
+          "word": "urinary hesitancy",
+          "distance": 0.1428571428571429,
+          "synset": "urinary_hesitancy.n.01"
+        },
+        {
+          "word": "wall",
+          "distance": 0.1428571428571429,
+          "synset": "wall.n.04"
+        },
+        {
+          "word": "condition",
+          "distance": 0.16666666666666663,
+          "synset": "condition.n.01"
+        },
+        {
+          "word": "care",
+          "distance": 0.19999999999999996,
+          "synset": "care.n.04"
+        },
+        {
+          "word": "conflict of interest",
+          "distance": 0.19999999999999996,
+          "synset": "conflict_of_interest.n.01"
+        },
+        {
+          "word": "crisis",
+          "distance": 0.19999999999999996,
+          "synset": "crisis.n.01"
+        },
+        {
+          "word": "crunch",
+          "distance": 0.19999999999999996,
+          "synset": "crunch.n.02"
+        },
+        {
+          "word": "hornet's nest",
+          "distance": 0.19999999999999996,
+          "synset": "hornet's_nest.n.01"
+        }
+      ]
+    }
+  ],
+  "affection": [
+    {
+      "synset": "affection.n.01",
+      "definition": "a positive feeling of liking",
+      "synonyms": [
+        "affectionateness",
+        "fondness",
+        "tenderness",
+        "heart",
+        "warmness",
+        "warmheartedness",
+        "philia"
+      ],
+      "closest_words": [
+        "attachment",
+        "protectiveness",
+        "regard",
+        "soft spot",
+        "feeling",
+        "affect",
+        "emotion",
+        "thing",
+        "glow",
+        "faintness",
+        "soul",
+        "passion",
+        "sentiment",
+        "complex",
+        "ambivalence",
+        "apathy",
+        "desire",
+        "sex",
+        "pleasure",
+        "pain"
+      ],
+      "closest_words_info": [
+        {
+          "word": "attachment",
+          "distance": 0.07692307692307687,
+          "synset": "attachment.n.01"
+        },
+        {
+          "word": "protectiveness",
+          "distance": 0.07692307692307687,
+          "synset": "protectiveness.n.01"
+        },
+        {
+          "word": "regard",
+          "distance": 0.07692307692307687,
+          "synset": "regard.n.06"
+        },
+        {
+          "word": "soft spot",
+          "distance": 0.07692307692307687,
+          "synset": "soft_spot.n.02"
+        },
+        {
+          "word": "feeling",
+          "distance": 0.09090909090909094,
+          "synset": "feeling.n.01"
+        },
+        {
+          "word": "affect",
+          "distance": 0.16666666666666663,
+          "synset": "affect.n.01"
+        },
+        {
+          "word": "emotion",
+          "distance": 0.16666666666666663,
+          "synset": "emotion.n.01"
+        },
+        {
+          "word": "thing",
+          "distance": 0.16666666666666663,
+          "synset": "thing.n.11"
+        },
+        {
+          "word": "glow",
+          "distance": 0.16666666666666663,
+          "synset": "glow.n.04"
+        },
+        {
+          "word": "faintness",
+          "distance": 0.16666666666666663,
+          "synset": "faintness.n.01"
+        },
+        {
+          "word": "soul",
+          "distance": 0.16666666666666663,
+          "synset": "soul.n.03"
+        },
+        {
+          "word": "passion",
+          "distance": 0.16666666666666663,
+          "synset": "passion.n.01"
+        },
+        {
+          "word": "sentiment",
+          "distance": 0.16666666666666663,
+          "synset": "sentiment.n.01"
+        },
+        {
+          "word": "complex",
+          "distance": 0.16666666666666663,
+          "synset": "complex.n.03"
+        },
+        {
+          "word": "ambivalence",
+          "distance": 0.16666666666666663,
+          "synset": "ambivalence.n.01"
+        },
+        {
+          "word": "apathy",
+          "distance": 0.16666666666666663,
+          "synset": "apathy.n.01"
+        },
+        {
+          "word": "desire",
+          "distance": 0.16666666666666663,
+          "synset": "desire.n.01"
+        },
+        {
+          "word": "sex",
+          "distance": 0.16666666666666663,
+          "synset": "sex.n.03"
+        },
+        {
+          "word": "pleasure",
+          "distance": 0.16666666666666663,
+          "synset": "pleasure.n.01"
+        },
+        {
+          "word": "pain",
+          "distance": 0.16666666666666663,
+          "synset": "pain.n.02"
+        }
+      ]
+    }
+  ]
+}

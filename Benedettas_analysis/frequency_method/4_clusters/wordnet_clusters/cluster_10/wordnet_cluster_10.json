@@ -1,0 +1,32 @@
+{
+  "wants": [
+    "lack.n.01"
+  ],
+  "comfort": [
+    "comfort.n.01"
+  ],
+  "feeling": [
+    "feeling.n.01"
+  ],
+  "need": [
+    "need.n.01"
+  ],
+  "situation": [
+    "situation.n.01"
+  ],
+  "upset": [
+    "disturbance.n.02"
+  ],
+  "life": [
+    "life.n.01"
+  ],
+  "pain": [
+    "pain.n.02"
+  ],
+  "problems": [
+    "problem.n.01"
+  ],
+  "affection": [
+    "affection.n.01"
+  ]
+}

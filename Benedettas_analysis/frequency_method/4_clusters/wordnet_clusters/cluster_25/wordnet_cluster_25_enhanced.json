@@ -1,0 +1,140 @@
+{
+  "relaxing": [
+    {
+      "synset": "relax.v.01",
+      "definition": "become less tense, rest, or take one's ease",
+      "synonyms": [
+        "relax",
+        "loosen_up",
+        "unbend",
+        "unwind",
+        "decompress",
+        "slow_down"
+      ],
+      "closest_words": [
+        "vege out",
+        "sit back",
+        "change state",
+        "wake up",
+        "zonk out",
+        "come to",
+        "tense",
+        "reduce",
+        "gain",
+        "dress",
+        "cross-fertilize",
+        "conceive",
+        "secularize",
+        "citrate",
+        "equilibrate",
+        "fall",
+        "become",
+        "worsen",
+        "better",
+        "disengage"
+      ],
+      "closest_words_info": [
+        {
+          "word": "vege out",
+          "distance": 0.1428571428571429,
+          "synset": "vege_out.v.01"
+        },
+        {
+          "word": "sit back",
+          "distance": 0.1428571428571429,
+          "synset": "sit_back.v.01"
+        },
+        {
+          "word": "change state",
+          "distance": 0.19999999999999996,
+          "synset": "change_state.v.01"
+        },
+        {
+          "word": "wake up",
+          "distance": 0.33333333333333337,
+          "synset": "wake_up.v.02"
+        },
+        {
+          "word": "zonk out",
+          "distance": 0.33333333333333337,
+          "synset": "zonk_out.v.01"
+        },
+        {
+          "word": "come to",
+          "distance": 0.33333333333333337,
+          "synset": "come_to.v.04"
+        },
+        {
+          "word": "tense",
+          "distance": 0.33333333333333337,
+          "synset": "tense.v.03"
+        },
+        {
+          "word": "reduce",
+          "distance": 0.33333333333333337,
+          "synset": "reduce.v.20"
+        },
+        {
+          "word": "gain",
+          "distance": 0.33333333333333337,
+          "synset": "gain.v.09"
+        },
+        {
+          "word": "dress",
+          "distance": 0.33333333333333337,
+          "synset": "dress.v.02"
+        },
+        {
+          "word": "cross-fertilize",
+          "distance": 0.33333333333333337,
+          "synset": "cross-fertilize.v.01"
+        },
+        {
+          "word": "conceive",
+          "distance": 0.33333333333333337,
+          "synset": "conceive.v.03"
+        },
+        {
+          "word": "secularize",
+          "distance": 0.33333333333333337,
+          "synset": "secularize.v.01"
+        },
+        {
+          "word": "citrate",
+          "distance": 0.33333333333333337,
+          "synset": "citrate.v.01"
+        },
+        {
+          "word": "equilibrate",
+          "distance": 0.33333333333333337,
+          "synset": "equilibrate.v.01"
+        },
+        {
+          "word": "fall",
+          "distance": 0.33333333333333337,
+          "synset": "fall.v.03"
+        },
+        {
+          "word": "become",
+          "distance": 0.33333333333333337,
+          "synset": "become.v.01"
+        },
+        {
+          "word": "worsen",
+          "distance": 0.33333333333333337,
+          "synset": "worsen.v.01"
+        },
+        {
+          "word": "better",
+          "distance": 0.33333333333333337,
+          "synset": "better.v.03"
+        },
+        {
+          "word": "disengage",
+          "distance": 0.33333333333333337,
+          "synset": "disengage.v.03"
+        }
+      ]
+    }
+  ]
+}

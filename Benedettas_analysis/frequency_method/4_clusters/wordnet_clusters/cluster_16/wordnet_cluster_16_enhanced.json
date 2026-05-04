@@ -1,0 +1,136 @@
+{
+  "patting": [
+    {
+      "synset": "chuck.v.03",
+      "definition": "pat or squeeze fondly or playfully, especially under the chin",
+      "synonyms": [
+        "chuck",
+        "pat"
+      ],
+      "closest_words": [
+        "caress",
+        "paw",
+        "grope",
+        "dandle",
+        "pet",
+        "nuzzle",
+        "pet",
+        "tickle",
+        "stroke",
+        "canoodle",
+        "gentle",
+        "neck",
+        "smooch",
+        "lick",
+        "tongue",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep"
+      ],
+      "closest_words_info": [
+        {
+          "word": "caress",
+          "distance": 0.1428571428571429,
+          "synset": "caress.v.01"
+        },
+        {
+          "word": "paw",
+          "distance": 0.25,
+          "synset": "paw.v.02"
+        },
+        {
+          "word": "grope",
+          "distance": 0.25,
+          "synset": "grope.v.03"
+        },
+        {
+          "word": "dandle",
+          "distance": 0.25,
+          "synset": "dandle.v.02"
+        },
+        {
+          "word": "pet",
+          "distance": 0.25,
+          "synset": "pet.v.02"
+        },
+        {
+          "word": "nuzzle",
+          "distance": 0.25,
+          "synset": "nuzzle.v.02"
+        },
+        {
+          "word": "pet",
+          "distance": 0.25,
+          "synset": "pet.v.01"
+        },
+        {
+          "word": "tickle",
+          "distance": 0.25,
+          "synset": "tickle.v.03"
+        },
+        {
+          "word": "stroke",
+          "distance": 0.33333333333333337,
+          "synset": "stroke.v.01"
+        },
+        {
+          "word": "canoodle",
+          "distance": 0.33333333333333337,
+          "synset": "canoodle.v.01"
+        },
+        {
+          "word": "gentle",
+          "distance": 0.33333333333333337,
+          "synset": "gentle.v.03"
+        },
+        {
+          "word": "neck",
+          "distance": 0.33333333333333337,
+          "synset": "neck.v.01"
+        },
+        {
+          "word": "smooch",
+          "distance": 0.4,
+          "synset": "smooch.v.01"
+        },
+        {
+          "word": "lick",
+          "distance": 0.4285714285714286,
+          "synset": "lick.v.02"
+        },
+        {
+          "word": "tongue",
+          "distance": 0.5,
+          "synset": "tongue.v.02"
+        },
+        {
+          "word": "entity",
+          "distance": 0.7142857142857143,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.7142857142857143,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.7142857142857143,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.7142857142857143,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.7142857142857143,
+          "synset": "oversleep.v.01"
+        }
+      ]
+    }
+  ]
+}

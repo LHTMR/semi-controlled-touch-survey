@@ -1,0 +1,276 @@
+{
+  "chilling": [
+    {
+      "synset": "cooling.n.01",
+      "definition": "the process of becoming cooler; a falling temperature",
+      "synonyms": [
+        "cooling",
+        "temperature_reduction"
+      ],
+      "closest_words": [
+        "freeze",
+        "heat dissipation",
+        "refrigeration",
+        "temperature change",
+        "freeze-drying",
+        "frost",
+        "advection",
+        "climate change",
+        "convection",
+        "heating",
+        "natural process",
+        "boiling",
+        "global warming",
+        "induction heating",
+        "overheating",
+        "radiant heating",
+        "thaw",
+        "radiation",
+        "absorption",
+        "acidification"
+      ],
+      "closest_words_info": [
+        {
+          "word": "freeze",
+          "distance": 0.07692307692307687,
+          "synset": "freeze.n.01"
+        },
+        {
+          "word": "heat dissipation",
+          "distance": 0.07692307692307687,
+          "synset": "heat_dissipation.n.01"
+        },
+        {
+          "word": "refrigeration",
+          "distance": 0.07692307692307687,
+          "synset": "refrigeration.n.01"
+        },
+        {
+          "word": "temperature change",
+          "distance": 0.09090909090909094,
+          "synset": "temperature_change.n.01"
+        },
+        {
+          "word": "freeze-drying",
+          "distance": 0.1428571428571429,
+          "synset": "freeze-drying.n.01"
+        },
+        {
+          "word": "frost",
+          "distance": 0.1428571428571429,
+          "synset": "frost.n.03"
+        },
+        {
+          "word": "advection",
+          "distance": 0.16666666666666663,
+          "synset": "advection.n.01"
+        },
+        {
+          "word": "climate change",
+          "distance": 0.16666666666666663,
+          "synset": "climate_change.n.01"
+        },
+        {
+          "word": "convection",
+          "distance": 0.16666666666666663,
+          "synset": "convection.n.01"
+        },
+        {
+          "word": "heating",
+          "distance": 0.16666666666666663,
+          "synset": "heating.n.01"
+        },
+        {
+          "word": "natural process",
+          "distance": 0.19999999999999996,
+          "synset": "natural_process.n.01"
+        },
+        {
+          "word": "boiling",
+          "distance": 0.23076923076923073,
+          "synset": "boiling.n.01"
+        },
+        {
+          "word": "global warming",
+          "distance": 0.23076923076923073,
+          "synset": "global_warming.n.01"
+        },
+        {
+          "word": "induction heating",
+          "distance": 0.23076923076923073,
+          "synset": "induction_heating.n.01"
+        },
+        {
+          "word": "overheating",
+          "distance": 0.23076923076923073,
+          "synset": "overheating.n.01"
+        },
+        {
+          "word": "radiant heating",
+          "distance": 0.23076923076923073,
+          "synset": "radiant_heating.n.01"
+        },
+        {
+          "word": "thaw",
+          "distance": 0.23076923076923073,
+          "synset": "thaw.n.01"
+        },
+        {
+          "word": "radiation",
+          "distance": 0.2727272727272727,
+          "synset": "radiation.n.05"
+        },
+        {
+          "word": "absorption",
+          "distance": 0.2727272727272727,
+          "synset": "absorption.n.02"
+        },
+        {
+          "word": "acidification",
+          "distance": 0.2727272727272727,
+          "synset": "acidification.n.01"
+        }
+      ]
+    }
+  ],
+  "cuddling": [
+    {
+      "synset": "caressing.n.01",
+      "definition": "affectionate play (or foreplay without contact with the genital organs)",
+      "synonyms": [
+        "caressing",
+        "fondling",
+        "hugging",
+        "kissing",
+        "necking",
+        "petting",
+        "smooching",
+        "snuggling"
+      ],
+      "closest_words": [
+        "snogging",
+        "foreplay",
+        "feel",
+        "sexual activity",
+        "bondage",
+        "outercourse",
+        "safe sex",
+        "conception",
+        "sexual intercourse",
+        "pleasure",
+        "sexual love",
+        "carnal abuse",
+        "coupling",
+        "reproduction",
+        "perversion",
+        "autoeroticism",
+        "promiscuity",
+        "lechery",
+        "homosexuality",
+        "bisexuality"
+      ],
+      "closest_words_info": [
+        {
+          "word": "snogging",
+          "distance": 0.05882352941176472,
+          "synset": "snogging.n.01"
+        },
+        {
+          "word": "foreplay",
+          "distance": 0.06666666666666665,
+          "synset": "foreplay.n.01"
+        },
+        {
+          "word": "feel",
+          "distance": 0.125,
+          "synset": "feel.n.04"
+        },
+        {
+          "word": "sexual activity",
+          "distance": 0.1428571428571429,
+          "synset": "sexual_activity.n.01"
+        },
+        {
+          "word": "bondage",
+          "distance": 0.19999999999999996,
+          "synset": "bondage.n.03"
+        },
+        {
+          "word": "outercourse",
+          "distance": 0.19999999999999996,
+          "synset": "outercourse.n.01"
+        },
+        {
+          "word": "safe sex",
+          "distance": 0.19999999999999996,
+          "synset": "safe_sex.n.01"
+        },
+        {
+          "word": "conception",
+          "distance": 0.19999999999999996,
+          "synset": "conception.n.02"
+        },
+        {
+          "word": "sexual intercourse",
+          "distance": 0.19999999999999996,
+          "synset": "sexual_intercourse.n.01"
+        },
+        {
+          "word": "pleasure",
+          "distance": 0.19999999999999996,
+          "synset": "pleasure.n.05"
+        },
+        {
+          "word": "sexual love",
+          "distance": 0.19999999999999996,
+          "synset": "sexual_love.n.02"
+        },
+        {
+          "word": "carnal abuse",
+          "distance": 0.19999999999999996,
+          "synset": "carnal_abuse.n.01"
+        },
+        {
+          "word": "coupling",
+          "distance": 0.19999999999999996,
+          "synset": "coupling.n.03"
+        },
+        {
+          "word": "reproduction",
+          "distance": 0.19999999999999996,
+          "synset": "reproduction.n.05"
+        },
+        {
+          "word": "perversion",
+          "distance": 0.19999999999999996,
+          "synset": "perversion.n.02"
+        },
+        {
+          "word": "autoeroticism",
+          "distance": 0.19999999999999996,
+          "synset": "autoeroticism.n.01"
+        },
+        {
+          "word": "promiscuity",
+          "distance": 0.19999999999999996,
+          "synset": "promiscuity.n.01"
+        },
+        {
+          "word": "lechery",
+          "distance": 0.19999999999999996,
+          "synset": "lechery.n.01"
+        },
+        {
+          "word": "homosexuality",
+          "distance": 0.19999999999999996,
+          "synset": "homosexuality.n.01"
+        },
+        {
+          "word": "bisexuality",
+          "distance": 0.19999999999999996,
+          "synset": "bisexuality.n.02"
+        }
+      ]
+    }
+  ]
+}

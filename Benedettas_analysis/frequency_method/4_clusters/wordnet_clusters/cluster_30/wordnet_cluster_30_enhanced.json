@@ -1,0 +1,136 @@
+{
+  "ask": [
+    {
+      "synset": "ask.v.01",
+      "definition": "inquire about",
+      "synonyms": [
+        "inquire",
+        "enquire"
+      ],
+      "closest_words": [
+        "pry",
+        "consult",
+        "communicate",
+        "grimace",
+        "yak",
+        "fingerspell",
+        "aphorize",
+        "riddle",
+        "project",
+        "reach",
+        "inflict",
+        "commune",
+        "telecommunicate",
+        "inform",
+        "joke",
+        "blog",
+        "greet",
+        "address",
+        "nod",
+        "sign"
+      ],
+      "closest_words_info": [
+        {
+          "word": "pry",
+          "distance": 0.11111111111111116,
+          "synset": "pry.v.02"
+        },
+        {
+          "word": "consult",
+          "distance": 0.11111111111111116,
+          "synset": "consult.v.01"
+        },
+        {
+          "word": "communicate",
+          "distance": 0.1428571428571429,
+          "synset": "communicate.v.02"
+        },
+        {
+          "word": "grimace",
+          "distance": 0.25,
+          "synset": "grimace.v.01"
+        },
+        {
+          "word": "yak",
+          "distance": 0.25,
+          "synset": "yak.v.01"
+        },
+        {
+          "word": "fingerspell",
+          "distance": 0.25,
+          "synset": "fingerspell.v.01"
+        },
+        {
+          "word": "aphorize",
+          "distance": 0.25,
+          "synset": "aphorize.v.01"
+        },
+        {
+          "word": "riddle",
+          "distance": 0.25,
+          "synset": "riddle.v.05"
+        },
+        {
+          "word": "project",
+          "distance": 0.25,
+          "synset": "project.v.01"
+        },
+        {
+          "word": "reach",
+          "distance": 0.25,
+          "synset": "reach.v.04"
+        },
+        {
+          "word": "inflict",
+          "distance": 0.25,
+          "synset": "inflict.v.01"
+        },
+        {
+          "word": "commune",
+          "distance": 0.25,
+          "synset": "commune.v.01"
+        },
+        {
+          "word": "telecommunicate",
+          "distance": 0.25,
+          "synset": "telecommunicate.v.01"
+        },
+        {
+          "word": "inform",
+          "distance": 0.25,
+          "synset": "inform.v.01"
+        },
+        {
+          "word": "joke",
+          "distance": 0.25,
+          "synset": "joke.v.01"
+        },
+        {
+          "word": "blog",
+          "distance": 0.25,
+          "synset": "blog.v.01"
+        },
+        {
+          "word": "greet",
+          "distance": 0.25,
+          "synset": "greet.v.02"
+        },
+        {
+          "word": "address",
+          "distance": 0.25,
+          "synset": "address.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.25,
+          "synset": "nod.v.02"
+        },
+        {
+          "word": "sign",
+          "distance": 0.25,
+          "synset": "sign.v.07"
+        }
+      ]
+    }
+  ]
+}

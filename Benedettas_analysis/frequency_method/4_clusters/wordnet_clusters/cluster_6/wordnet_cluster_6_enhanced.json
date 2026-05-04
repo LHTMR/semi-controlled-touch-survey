@@ -1,0 +1,133 @@
+{
+  "dinner": [
+    {
+      "synset": "dinner.n.01",
+      "definition": "the main meal of the day served in the evening or at midday",
+      "synonyms": [],
+      "closest_words": [
+        "high tea",
+        "meal",
+        "mess",
+        "square meal",
+        "potluck",
+        "refection",
+        "breakfast",
+        "brunch",
+        "lunch",
+        "tea",
+        "supper",
+        "buffet",
+        "picnic",
+        "bite",
+        "nosh-up",
+        "ploughman's lunch",
+        "banquet",
+        "nutriment",
+        "Seder",
+        "refreshment"
+      ],
+      "closest_words_info": [
+        {
+          "word": "high tea",
+          "distance": 0.05882352941176472,
+          "synset": "high_tea.n.01"
+        },
+        {
+          "word": "meal",
+          "distance": 0.06666666666666665,
+          "synset": "meal.n.01"
+        },
+        {
+          "word": "mess",
+          "distance": 0.125,
+          "synset": "mess.n.04"
+        },
+        {
+          "word": "square meal",
+          "distance": 0.125,
+          "synset": "square_meal.n.01"
+        },
+        {
+          "word": "potluck",
+          "distance": 0.125,
+          "synset": "potluck.n.01"
+        },
+        {
+          "word": "refection",
+          "distance": 0.125,
+          "synset": "refection.n.01"
+        },
+        {
+          "word": "breakfast",
+          "distance": 0.125,
+          "synset": "breakfast.n.01"
+        },
+        {
+          "word": "brunch",
+          "distance": 0.125,
+          "synset": "brunch.n.01"
+        },
+        {
+          "word": "lunch",
+          "distance": 0.125,
+          "synset": "lunch.n.01"
+        },
+        {
+          "word": "tea",
+          "distance": 0.125,
+          "synset": "tea.n.02"
+        },
+        {
+          "word": "supper",
+          "distance": 0.125,
+          "synset": "supper.n.01"
+        },
+        {
+          "word": "buffet",
+          "distance": 0.125,
+          "synset": "buffet.n.02"
+        },
+        {
+          "word": "picnic",
+          "distance": 0.125,
+          "synset": "picnic.n.03"
+        },
+        {
+          "word": "bite",
+          "distance": 0.125,
+          "synset": "bite.n.04"
+        },
+        {
+          "word": "nosh-up",
+          "distance": 0.125,
+          "synset": "nosh-up.n.01"
+        },
+        {
+          "word": "ploughman's lunch",
+          "distance": 0.125,
+          "synset": "ploughman's_lunch.n.01"
+        },
+        {
+          "word": "banquet",
+          "distance": 0.125,
+          "synset": "banquet.n.02"
+        },
+        {
+          "word": "nutriment",
+          "distance": 0.1428571428571429,
+          "synset": "nutriment.n.01"
+        },
+        {
+          "word": "Seder",
+          "distance": 0.17647058823529416,
+          "synset": "seder.n.01"
+        },
+        {
+          "word": "refreshment",
+          "distance": 0.17647058823529416,
+          "synset": "refreshment.n.01"
+        }
+      ]
+    }
+  ]
+}

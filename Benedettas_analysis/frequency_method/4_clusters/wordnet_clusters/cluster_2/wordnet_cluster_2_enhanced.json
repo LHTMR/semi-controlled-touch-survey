@@ -1,0 +1,1756 @@
+{
+  "friend": [
+    {
+      "synset": "friend.n.01",
+      "definition": "a person you know well and regard with affection and trust",
+      "synonyms": [],
+      "closest_words": [
+        "organism",
+        "benthos",
+        "dwarf",
+        "heterotroph",
+        "parent",
+        "person",
+        "animal",
+        "plant",
+        "native",
+        "recombinant",
+        "conspecific",
+        "carrier",
+        "denizen",
+        "amphidiploid",
+        "diploid",
+        "haploid",
+        "heteroploid",
+        "polyploid",
+        "animalcule",
+        "microorganism"
+      ],
+      "closest_words_info": [
+        {
+          "word": "organism",
+          "distance": 0.1428571428571429,
+          "synset": "organism.n.01"
+        },
+        {
+          "word": "benthos",
+          "distance": 0.19999999999999996,
+          "synset": "benthos.n.02"
+        },
+        {
+          "word": "dwarf",
+          "distance": 0.19999999999999996,
+          "synset": "dwarf.n.03"
+        },
+        {
+          "word": "heterotroph",
+          "distance": 0.19999999999999996,
+          "synset": "heterotroph.n.01"
+        },
+        {
+          "word": "parent",
+          "distance": 0.19999999999999996,
+          "synset": "parent.n.02"
+        },
+        {
+          "word": "person",
+          "distance": 0.19999999999999996,
+          "synset": "person.n.01"
+        },
+        {
+          "word": "animal",
+          "distance": 0.19999999999999996,
+          "synset": "animal.n.01"
+        },
+        {
+          "word": "plant",
+          "distance": 0.19999999999999996,
+          "synset": "plant.n.02"
+        },
+        {
+          "word": "native",
+          "distance": 0.19999999999999996,
+          "synset": "native.n.03"
+        },
+        {
+          "word": "recombinant",
+          "distance": 0.19999999999999996,
+          "synset": "recombinant.n.01"
+        },
+        {
+          "word": "conspecific",
+          "distance": 0.19999999999999996,
+          "synset": "conspecific.n.01"
+        },
+        {
+          "word": "carrier",
+          "distance": 0.19999999999999996,
+          "synset": "carrier.n.11"
+        },
+        {
+          "word": "denizen",
+          "distance": 0.19999999999999996,
+          "synset": "denizen.n.02"
+        },
+        {
+          "word": "amphidiploid",
+          "distance": 0.19999999999999996,
+          "synset": "amphidiploid.n.01"
+        },
+        {
+          "word": "diploid",
+          "distance": 0.19999999999999996,
+          "synset": "diploid.n.01"
+        },
+        {
+          "word": "haploid",
+          "distance": 0.19999999999999996,
+          "synset": "haploid.n.01"
+        },
+        {
+          "word": "heteroploid",
+          "distance": 0.19999999999999996,
+          "synset": "heteroploid.n.01"
+        },
+        {
+          "word": "polyploid",
+          "distance": 0.19999999999999996,
+          "synset": "polyploid.n.01"
+        },
+        {
+          "word": "animalcule",
+          "distance": 0.19999999999999996,
+          "synset": "animalcule.n.01"
+        },
+        {
+          "word": "microorganism",
+          "distance": 0.19999999999999996,
+          "synset": "microorganism.n.01"
+        }
+      ]
+    }
+  ],
+  "person": [
+    {
+      "synset": "person.n.01",
+      "definition": "a human being",
+      "synonyms": [
+        "individual",
+        "someone",
+        "somebody",
+        "mortal",
+        "soul"
+      ],
+      "closest_words": [
+        "organism",
+        "benthos",
+        "dwarf",
+        "heterotroph",
+        "parent",
+        "causal agent",
+        "animal",
+        "plant",
+        "native",
+        "recombinant",
+        "conspecific",
+        "carrier",
+        "denizen",
+        "amphidiploid",
+        "diploid",
+        "haploid",
+        "heteroploid",
+        "polyploid",
+        "animalcule",
+        "microorganism"
+      ],
+      "closest_words_info": [
+        {
+          "word": "organism",
+          "distance": 0.07692307692307687,
+          "synset": "organism.n.01"
+        },
+        {
+          "word": "benthos",
+          "distance": 0.1428571428571429,
+          "synset": "benthos.n.02"
+        },
+        {
+          "word": "dwarf",
+          "distance": 0.1428571428571429,
+          "synset": "dwarf.n.03"
+        },
+        {
+          "word": "heterotroph",
+          "distance": 0.1428571428571429,
+          "synset": "heterotroph.n.01"
+        },
+        {
+          "word": "parent",
+          "distance": 0.1428571428571429,
+          "synset": "parent.n.02"
+        },
+        {
+          "word": "causal agent",
+          "distance": 0.1428571428571429,
+          "synset": "causal_agent.n.01"
+        },
+        {
+          "word": "animal",
+          "distance": 0.1428571428571429,
+          "synset": "animal.n.01"
+        },
+        {
+          "word": "plant",
+          "distance": 0.1428571428571429,
+          "synset": "plant.n.02"
+        },
+        {
+          "word": "native",
+          "distance": 0.1428571428571429,
+          "synset": "native.n.03"
+        },
+        {
+          "word": "recombinant",
+          "distance": 0.1428571428571429,
+          "synset": "recombinant.n.01"
+        },
+        {
+          "word": "conspecific",
+          "distance": 0.1428571428571429,
+          "synset": "conspecific.n.01"
+        },
+        {
+          "word": "carrier",
+          "distance": 0.1428571428571429,
+          "synset": "carrier.n.11"
+        },
+        {
+          "word": "denizen",
+          "distance": 0.1428571428571429,
+          "synset": "denizen.n.02"
+        },
+        {
+          "word": "amphidiploid",
+          "distance": 0.1428571428571429,
+          "synset": "amphidiploid.n.01"
+        },
+        {
+          "word": "diploid",
+          "distance": 0.1428571428571429,
+          "synset": "diploid.n.01"
+        },
+        {
+          "word": "haploid",
+          "distance": 0.1428571428571429,
+          "synset": "haploid.n.01"
+        },
+        {
+          "word": "heteroploid",
+          "distance": 0.1428571428571429,
+          "synset": "heteroploid.n.01"
+        },
+        {
+          "word": "polyploid",
+          "distance": 0.1428571428571429,
+          "synset": "polyploid.n.01"
+        },
+        {
+          "word": "animalcule",
+          "distance": 0.1428571428571429,
+          "synset": "animalcule.n.01"
+        },
+        {
+          "word": "microorganism",
+          "distance": 0.1428571428571429,
+          "synset": "microorganism.n.01"
+        }
+      ]
+    }
+  ],
+  "someone": [
+    {
+      "synset": "person.n.01",
+      "definition": "a human being",
+      "synonyms": [
+        "person",
+        "individual",
+        "somebody",
+        "mortal",
+        "soul"
+      ],
+      "closest_words": [
+        "organism",
+        "benthos",
+        "dwarf",
+        "heterotroph",
+        "parent",
+        "causal agent",
+        "animal",
+        "plant",
+        "native",
+        "recombinant",
+        "conspecific",
+        "carrier",
+        "denizen",
+        "amphidiploid",
+        "diploid",
+        "haploid",
+        "heteroploid",
+        "polyploid",
+        "animalcule",
+        "microorganism"
+      ],
+      "closest_words_info": [
+        {
+          "word": "organism",
+          "distance": 0.07692307692307687,
+          "synset": "organism.n.01"
+        },
+        {
+          "word": "benthos",
+          "distance": 0.1428571428571429,
+          "synset": "benthos.n.02"
+        },
+        {
+          "word": "dwarf",
+          "distance": 0.1428571428571429,
+          "synset": "dwarf.n.03"
+        },
+        {
+          "word": "heterotroph",
+          "distance": 0.1428571428571429,
+          "synset": "heterotroph.n.01"
+        },
+        {
+          "word": "parent",
+          "distance": 0.1428571428571429,
+          "synset": "parent.n.02"
+        },
+        {
+          "word": "causal agent",
+          "distance": 0.1428571428571429,
+          "synset": "causal_agent.n.01"
+        },
+        {
+          "word": "animal",
+          "distance": 0.1428571428571429,
+          "synset": "animal.n.01"
+        },
+        {
+          "word": "plant",
+          "distance": 0.1428571428571429,
+          "synset": "plant.n.02"
+        },
+        {
+          "word": "native",
+          "distance": 0.1428571428571429,
+          "synset": "native.n.03"
+        },
+        {
+          "word": "recombinant",
+          "distance": 0.1428571428571429,
+          "synset": "recombinant.n.01"
+        },
+        {
+          "word": "conspecific",
+          "distance": 0.1428571428571429,
+          "synset": "conspecific.n.01"
+        },
+        {
+          "word": "carrier",
+          "distance": 0.1428571428571429,
+          "synset": "carrier.n.11"
+        },
+        {
+          "word": "denizen",
+          "distance": 0.1428571428571429,
+          "synset": "denizen.n.02"
+        },
+        {
+          "word": "amphidiploid",
+          "distance": 0.1428571428571429,
+          "synset": "amphidiploid.n.01"
+        },
+        {
+          "word": "diploid",
+          "distance": 0.1428571428571429,
+          "synset": "diploid.n.01"
+        },
+        {
+          "word": "haploid",
+          "distance": 0.1428571428571429,
+          "synset": "haploid.n.01"
+        },
+        {
+          "word": "heteroploid",
+          "distance": 0.1428571428571429,
+          "synset": "heteroploid.n.01"
+        },
+        {
+          "word": "polyploid",
+          "distance": 0.1428571428571429,
+          "synset": "polyploid.n.01"
+        },
+        {
+          "word": "animalcule",
+          "distance": 0.1428571428571429,
+          "synset": "animalcule.n.01"
+        },
+        {
+          "word": "microorganism",
+          "distance": 0.1428571428571429,
+          "synset": "microorganism.n.01"
+        }
+      ]
+    }
+  ],
+  "child": [
+    {
+      "synset": "child.n.01",
+      "definition": "a young person of either sex",
+      "synonyms": [
+        "kid",
+        "youngster",
+        "minor",
+        "shaver",
+        "nipper",
+        "small_fry",
+        "tiddler",
+        "tike",
+        "tyke",
+        "fry",
+        "nestling"
+      ],
+      "closest_words": [
+        "bairn",
+        "buster",
+        "changeling",
+        "child prodigy",
+        "foster-child",
+        "imp",
+        "kiddy",
+        "orphan",
+        "peanut",
+        "pickaninny",
+        "poster child",
+        "preschooler",
+        "silly",
+        "sprog",
+        "toddler",
+        "urchin",
+        "waif",
+        "foster-daughter",
+        "foster-son",
+        "poster boy"
+      ],
+      "closest_words_info": [
+        {
+          "word": "bairn",
+          "distance": 0.052631578947368474,
+          "synset": "bairn.n.01"
+        },
+        {
+          "word": "buster",
+          "distance": 0.052631578947368474,
+          "synset": "buster.n.02"
+        },
+        {
+          "word": "changeling",
+          "distance": 0.052631578947368474,
+          "synset": "changeling.n.02"
+        },
+        {
+          "word": "child prodigy",
+          "distance": 0.052631578947368474,
+          "synset": "child_prodigy.n.01"
+        },
+        {
+          "word": "foster-child",
+          "distance": 0.052631578947368474,
+          "synset": "foster-child.n.01"
+        },
+        {
+          "word": "imp",
+          "distance": 0.052631578947368474,
+          "synset": "imp.n.02"
+        },
+        {
+          "word": "kiddy",
+          "distance": 0.052631578947368474,
+          "synset": "kiddy.n.01"
+        },
+        {
+          "word": "orphan",
+          "distance": 0.052631578947368474,
+          "synset": "orphan.n.01"
+        },
+        {
+          "word": "peanut",
+          "distance": 0.052631578947368474,
+          "synset": "peanut.n.03"
+        },
+        {
+          "word": "pickaninny",
+          "distance": 0.052631578947368474,
+          "synset": "pickaninny.n.01"
+        },
+        {
+          "word": "poster child",
+          "distance": 0.052631578947368474,
+          "synset": "poster_child.n.01"
+        },
+        {
+          "word": "preschooler",
+          "distance": 0.052631578947368474,
+          "synset": "preschooler.n.01"
+        },
+        {
+          "word": "silly",
+          "distance": 0.052631578947368474,
+          "synset": "silly.n.01"
+        },
+        {
+          "word": "sprog",
+          "distance": 0.052631578947368474,
+          "synset": "sprog.n.02"
+        },
+        {
+          "word": "toddler",
+          "distance": 0.052631578947368474,
+          "synset": "toddler.n.01"
+        },
+        {
+          "word": "urchin",
+          "distance": 0.052631578947368474,
+          "synset": "urchin.n.01"
+        },
+        {
+          "word": "waif",
+          "distance": 0.052631578947368474,
+          "synset": "waif.n.01"
+        },
+        {
+          "word": "foster-daughter",
+          "distance": 0.09999999999999998,
+          "synset": "foster-daughter.n.01"
+        },
+        {
+          "word": "foster-son",
+          "distance": 0.09999999999999998,
+          "synset": "foster-son.n.01"
+        },
+        {
+          "word": "poster boy",
+          "distance": 0.09999999999999998,
+          "synset": "poster_boy.n.01"
+        }
+      ]
+    }
+  ],
+  "partner": [
+    {
+      "synset": "spouse.n.01",
+      "definition": "a person's partner in marriage",
+      "synonyms": [
+        "spouse",
+        "married_person",
+        "mate",
+        "better_half"
+      ],
+      "closest_words": [
+        "bigamist",
+        "consort",
+        "helpmate",
+        "husband",
+        "monogamist",
+        "newlywed",
+        "polygamist",
+        "wife",
+        "battle-ax",
+        "benedick",
+        "bride",
+        "crown princess",
+        "cuckold",
+        "family man",
+        "first lady",
+        "golf widow",
+        "groom",
+        "honest woman",
+        "house husband",
+        "housewife"
+      ],
+      "closest_words_info": [
+        {
+          "word": "bigamist",
+          "distance": 0.052631578947368474,
+          "synset": "bigamist.n.01"
+        },
+        {
+          "word": "consort",
+          "distance": 0.052631578947368474,
+          "synset": "consort.n.01"
+        },
+        {
+          "word": "helpmate",
+          "distance": 0.052631578947368474,
+          "synset": "helpmate.n.01"
+        },
+        {
+          "word": "husband",
+          "distance": 0.052631578947368474,
+          "synset": "husband.n.01"
+        },
+        {
+          "word": "monogamist",
+          "distance": 0.052631578947368474,
+          "synset": "monogamist.n.01"
+        },
+        {
+          "word": "newlywed",
+          "distance": 0.052631578947368474,
+          "synset": "newlywed.n.01"
+        },
+        {
+          "word": "polygamist",
+          "distance": 0.052631578947368474,
+          "synset": "polygamist.n.01"
+        },
+        {
+          "word": "wife",
+          "distance": 0.052631578947368474,
+          "synset": "wife.n.01"
+        },
+        {
+          "word": "battle-ax",
+          "distance": 0.09999999999999998,
+          "synset": "battle-ax.n.02"
+        },
+        {
+          "word": "benedick",
+          "distance": 0.09999999999999998,
+          "synset": "benedick.n.01"
+        },
+        {
+          "word": "bride",
+          "distance": 0.09999999999999998,
+          "synset": "bride.n.01"
+        },
+        {
+          "word": "crown princess",
+          "distance": 0.09999999999999998,
+          "synset": "crown_princess.n.01"
+        },
+        {
+          "word": "cuckold",
+          "distance": 0.09999999999999998,
+          "synset": "cuckold.n.01"
+        },
+        {
+          "word": "family man",
+          "distance": 0.09999999999999998,
+          "synset": "family_man.n.01"
+        },
+        {
+          "word": "first lady",
+          "distance": 0.09999999999999998,
+          "synset": "first_lady.n.02"
+        },
+        {
+          "word": "golf widow",
+          "distance": 0.09999999999999998,
+          "synset": "golf_widow.n.01"
+        },
+        {
+          "word": "groom",
+          "distance": 0.09999999999999998,
+          "synset": "groom.n.03"
+        },
+        {
+          "word": "honest woman",
+          "distance": 0.09999999999999998,
+          "synset": "honest_woman.n.01"
+        },
+        {
+          "word": "house husband",
+          "distance": 0.09999999999999998,
+          "synset": "house_husband.n.01"
+        },
+        {
+          "word": "housewife",
+          "distance": 0.09999999999999998,
+          "synset": "housewife.n.01"
+        }
+      ]
+    }
+  ],
+  "doctor": [
+    {
+      "synset": "doctor.n.01",
+      "definition": "a licensed medical practitioner",
+      "synonyms": [
+        "doc",
+        "physician",
+        "MD",
+        "Dr.",
+        "medico"
+      ],
+      "closest_words": [
+        "abortionist",
+        "allergist",
+        "angiologist",
+        "extern",
+        "gastroenterologist",
+        "general practitioner",
+        "hakim",
+        "house physician",
+        "intern",
+        "primary care physician",
+        "quack",
+        "specialist",
+        "surgeon",
+        "veterinarian",
+        "Averroes",
+        "Avicenna",
+        "Barany",
+        "Bartholin",
+        "Bruce",
+        "Crohn"
+      ],
+      "closest_words_info": [
+        {
+          "word": "abortionist",
+          "distance": 0.040000000000000036,
+          "synset": "abortionist.n.01"
+        },
+        {
+          "word": "allergist",
+          "distance": 0.040000000000000036,
+          "synset": "allergist.n.01"
+        },
+        {
+          "word": "angiologist",
+          "distance": 0.040000000000000036,
+          "synset": "angiologist.n.01"
+        },
+        {
+          "word": "extern",
+          "distance": 0.040000000000000036,
+          "synset": "extern.n.01"
+        },
+        {
+          "word": "gastroenterologist",
+          "distance": 0.040000000000000036,
+          "synset": "gastroenterologist.n.01"
+        },
+        {
+          "word": "general practitioner",
+          "distance": 0.040000000000000036,
+          "synset": "general_practitioner.n.01"
+        },
+        {
+          "word": "hakim",
+          "distance": 0.040000000000000036,
+          "synset": "hakim.n.02"
+        },
+        {
+          "word": "house physician",
+          "distance": 0.040000000000000036,
+          "synset": "house_physician.n.01"
+        },
+        {
+          "word": "intern",
+          "distance": 0.040000000000000036,
+          "synset": "intern.n.01"
+        },
+        {
+          "word": "primary care physician",
+          "distance": 0.040000000000000036,
+          "synset": "primary_care_physician.n.01"
+        },
+        {
+          "word": "quack",
+          "distance": 0.040000000000000036,
+          "synset": "quack.n.01"
+        },
+        {
+          "word": "specialist",
+          "distance": 0.040000000000000036,
+          "synset": "specialist.n.02"
+        },
+        {
+          "word": "surgeon",
+          "distance": 0.040000000000000036,
+          "synset": "surgeon.n.01"
+        },
+        {
+          "word": "veterinarian",
+          "distance": 0.040000000000000036,
+          "synset": "veterinarian.n.01"
+        },
+        {
+          "word": "Averroes",
+          "distance": 0.040000000000000036,
+          "synset": "averroes.n.01"
+        },
+        {
+          "word": "Avicenna",
+          "distance": 0.040000000000000036,
+          "synset": "avicenna.n.01"
+        },
+        {
+          "word": "Barany",
+          "distance": 0.040000000000000036,
+          "synset": "barany.n.01"
+        },
+        {
+          "word": "Bartholin",
+          "distance": 0.040000000000000036,
+          "synset": "bartholin.n.01"
+        },
+        {
+          "word": "Bruce",
+          "distance": 0.040000000000000036,
+          "synset": "bruce.n.01"
+        },
+        {
+          "word": "Crohn",
+          "distance": 0.040000000000000036,
+          "synset": "crohn.n.01"
+        }
+      ]
+    }
+  ],
+  "family": [
+    {
+      "synset": "kin.n.01",
+      "definition": "a person having kinship with another or others",
+      "synonyms": [
+        "kin",
+        "kinsperson"
+      ],
+      "closest_words": [
+        "affine",
+        "organism",
+        "benthos",
+        "dwarf",
+        "heterotroph",
+        "parent",
+        "person",
+        "animal",
+        "plant",
+        "native",
+        "recombinant",
+        "conspecific",
+        "carrier",
+        "denizen",
+        "amphidiploid",
+        "diploid",
+        "haploid",
+        "heteroploid",
+        "polyploid",
+        "animalcule"
+      ],
+      "closest_words_info": [
+        {
+          "word": "affine",
+          "distance": 0.052631578947368474,
+          "synset": "affine.n.01"
+        },
+        {
+          "word": "organism",
+          "distance": 0.19999999999999996,
+          "synset": "organism.n.01"
+        },
+        {
+          "word": "benthos",
+          "distance": 0.25,
+          "synset": "benthos.n.02"
+        },
+        {
+          "word": "dwarf",
+          "distance": 0.25,
+          "synset": "dwarf.n.03"
+        },
+        {
+          "word": "heterotroph",
+          "distance": 0.25,
+          "synset": "heterotroph.n.01"
+        },
+        {
+          "word": "parent",
+          "distance": 0.25,
+          "synset": "parent.n.02"
+        },
+        {
+          "word": "person",
+          "distance": 0.25,
+          "synset": "person.n.01"
+        },
+        {
+          "word": "animal",
+          "distance": 0.25,
+          "synset": "animal.n.01"
+        },
+        {
+          "word": "plant",
+          "distance": 0.25,
+          "synset": "plant.n.02"
+        },
+        {
+          "word": "native",
+          "distance": 0.25,
+          "synset": "native.n.03"
+        },
+        {
+          "word": "recombinant",
+          "distance": 0.25,
+          "synset": "recombinant.n.01"
+        },
+        {
+          "word": "conspecific",
+          "distance": 0.25,
+          "synset": "conspecific.n.01"
+        },
+        {
+          "word": "carrier",
+          "distance": 0.25,
+          "synset": "carrier.n.11"
+        },
+        {
+          "word": "denizen",
+          "distance": 0.25,
+          "synset": "denizen.n.02"
+        },
+        {
+          "word": "amphidiploid",
+          "distance": 0.25,
+          "synset": "amphidiploid.n.01"
+        },
+        {
+          "word": "diploid",
+          "distance": 0.25,
+          "synset": "diploid.n.01"
+        },
+        {
+          "word": "haploid",
+          "distance": 0.25,
+          "synset": "haploid.n.01"
+        },
+        {
+          "word": "heteroploid",
+          "distance": 0.25,
+          "synset": "heteroploid.n.01"
+        },
+        {
+          "word": "polyploid",
+          "distance": 0.25,
+          "synset": "polyploid.n.01"
+        },
+        {
+          "word": "animalcule",
+          "distance": 0.25,
+          "synset": "animalcule.n.01"
+        }
+      ]
+    }
+  ],
+  "colleague": [
+    {
+      "synset": "colleague.n.01",
+      "definition": "an associate that one works with",
+      "synonyms": [
+        "co-worker",
+        "fellow_worker",
+        "workfellow"
+      ],
+      "closest_words": [
+        "associate",
+        "adjunct",
+        "affiliate",
+        "ally",
+        "bedfellow",
+        "collaborator",
+        "colleague",
+        "member",
+        "participant",
+        "shipmate",
+        "teammate",
+        "attendant",
+        "discussant",
+        "Areopagite",
+        "blood brother",
+        "bride",
+        "bridge partner",
+        "brother",
+        "cabalist",
+        "charter member"
+      ],
+      "closest_words_info": [
+        {
+          "word": "associate",
+          "distance": 0.052631578947368474,
+          "synset": "associate.n.01"
+        },
+        {
+          "word": "adjunct",
+          "distance": 0.09999999999999998,
+          "synset": "adjunct.n.02"
+        },
+        {
+          "word": "affiliate",
+          "distance": 0.09999999999999998,
+          "synset": "affiliate.n.01"
+        },
+        {
+          "word": "ally",
+          "distance": 0.09999999999999998,
+          "synset": "ally.n.02"
+        },
+        {
+          "word": "bedfellow",
+          "distance": 0.09999999999999998,
+          "synset": "bedfellow.n.01"
+        },
+        {
+          "word": "collaborator",
+          "distance": 0.09999999999999998,
+          "synset": "collaborator.n.03"
+        },
+        {
+          "word": "colleague",
+          "distance": 0.09999999999999998,
+          "synset": "colleague.n.02"
+        },
+        {
+          "word": "member",
+          "distance": 0.09999999999999998,
+          "synset": "member.n.01"
+        },
+        {
+          "word": "participant",
+          "distance": 0.09999999999999998,
+          "synset": "participant.n.01"
+        },
+        {
+          "word": "shipmate",
+          "distance": 0.09999999999999998,
+          "synset": "shipmate.n.01"
+        },
+        {
+          "word": "teammate",
+          "distance": 0.09999999999999998,
+          "synset": "teammate.n.01"
+        },
+        {
+          "word": "attendant",
+          "distance": 0.1428571428571429,
+          "synset": "attendant.n.02"
+        },
+        {
+          "word": "discussant",
+          "distance": 0.1428571428571429,
+          "synset": "discussant.n.01"
+        },
+        {
+          "word": "Areopagite",
+          "distance": 0.1428571428571429,
+          "synset": "areopagite.n.01"
+        },
+        {
+          "word": "blood brother",
+          "distance": 0.1428571428571429,
+          "synset": "blood_brother.n.02"
+        },
+        {
+          "word": "bride",
+          "distance": 0.1428571428571429,
+          "synset": "bride.n.03"
+        },
+        {
+          "word": "bridge partner",
+          "distance": 0.1428571428571429,
+          "synset": "bridge_partner.n.01"
+        },
+        {
+          "word": "brother",
+          "distance": 0.1428571428571429,
+          "synset": "brother.n.02"
+        },
+        {
+          "word": "cabalist",
+          "distance": 0.1428571428571429,
+          "synset": "cabalist.n.01"
+        },
+        {
+          "word": "charter member",
+          "distance": 0.1428571428571429,
+          "synset": "charter_member.n.01"
+        }
+      ]
+    }
+  ],
+  "stranger": [
+    {
+      "synset": "stranger.n.01",
+      "definition": "anyone who does not belong in the environment in which they are found",
+      "synonyms": [
+        "alien",
+        "unknown"
+      ],
+      "closest_words": [
+        "foreigner",
+        "transalpine",
+        "entrant",
+        "intruder",
+        "boarder",
+        "gatecrasher",
+        "infiltrator",
+        "invader",
+        "penetrator",
+        "prowler",
+        "pusher",
+        "squatter",
+        "organism",
+        "benthos",
+        "dwarf",
+        "heterotroph",
+        "parent",
+        "person",
+        "animal",
+        "plant"
+      ],
+      "closest_words_info": [
+        {
+          "word": "foreigner",
+          "distance": 0.04347826086956519,
+          "synset": "foreigner.n.02"
+        },
+        {
+          "word": "transalpine",
+          "distance": 0.08333333333333337,
+          "synset": "transalpine.n.01"
+        },
+        {
+          "word": "entrant",
+          "distance": 0.09999999999999998,
+          "synset": "entrant.n.03"
+        },
+        {
+          "word": "intruder",
+          "distance": 0.1428571428571429,
+          "synset": "intruder.n.01"
+        },
+        {
+          "word": "boarder",
+          "distance": 0.18181818181818177,
+          "synset": "boarder.n.02"
+        },
+        {
+          "word": "gatecrasher",
+          "distance": 0.18181818181818177,
+          "synset": "gatecrasher.n.01"
+        },
+        {
+          "word": "infiltrator",
+          "distance": 0.18181818181818177,
+          "synset": "infiltrator.n.02"
+        },
+        {
+          "word": "invader",
+          "distance": 0.18181818181818177,
+          "synset": "invader.n.01"
+        },
+        {
+          "word": "penetrator",
+          "distance": 0.18181818181818177,
+          "synset": "penetrator.n.01"
+        },
+        {
+          "word": "prowler",
+          "distance": 0.18181818181818177,
+          "synset": "prowler.n.01"
+        },
+        {
+          "word": "pusher",
+          "distance": 0.18181818181818177,
+          "synset": "pusher.n.01"
+        },
+        {
+          "word": "squatter",
+          "distance": 0.18181818181818177,
+          "synset": "squatter.n.02"
+        },
+        {
+          "word": "organism",
+          "distance": 0.25,
+          "synset": "organism.n.01"
+        },
+        {
+          "word": "benthos",
+          "distance": 0.2941176470588235,
+          "synset": "benthos.n.02"
+        },
+        {
+          "word": "dwarf",
+          "distance": 0.2941176470588235,
+          "synset": "dwarf.n.03"
+        },
+        {
+          "word": "heterotroph",
+          "distance": 0.2941176470588235,
+          "synset": "heterotroph.n.01"
+        },
+        {
+          "word": "parent",
+          "distance": 0.2941176470588235,
+          "synset": "parent.n.02"
+        },
+        {
+          "word": "person",
+          "distance": 0.2941176470588235,
+          "synset": "person.n.01"
+        },
+        {
+          "word": "animal",
+          "distance": 0.2941176470588235,
+          "synset": "animal.n.01"
+        },
+        {
+          "word": "plant",
+          "distance": 0.2941176470588235,
+          "synset": "plant.n.02"
+        }
+      ]
+    }
+  ],
+  "mother": [
+    {
+      "synset": "mother.n.01",
+      "definition": "a woman who has given birth to a child (also used as a term of address to your mother)",
+      "synonyms": [
+        "female_parent"
+      ],
+      "closest_words": [
+        "ma",
+        "mater",
+        "mother-in-law",
+        "primipara",
+        "puerpera",
+        "quadripara",
+        "quintipara",
+        "supermom",
+        "surrogate mother",
+        "Mary",
+        "parent",
+        "Naomi",
+        "adoptive parent",
+        "empty nester",
+        "father",
+        "filicide",
+        "stepparent",
+        "genitor",
+        "dad",
+        "father-in-law"
+      ],
+      "closest_words_info": [
+        {
+          "word": "ma",
+          "distance": 0.03703703703703709,
+          "synset": "ma.n.01"
+        },
+        {
+          "word": "mater",
+          "distance": 0.03703703703703709,
+          "synset": "mater.n.01"
+        },
+        {
+          "word": "mother-in-law",
+          "distance": 0.03703703703703709,
+          "synset": "mother-in-law.n.01"
+        },
+        {
+          "word": "primipara",
+          "distance": 0.03703703703703709,
+          "synset": "primipara.n.01"
+        },
+        {
+          "word": "puerpera",
+          "distance": 0.03703703703703709,
+          "synset": "puerpera.n.01"
+        },
+        {
+          "word": "quadripara",
+          "distance": 0.03703703703703709,
+          "synset": "quadripara.n.01"
+        },
+        {
+          "word": "quintipara",
+          "distance": 0.03703703703703709,
+          "synset": "quintipara.n.01"
+        },
+        {
+          "word": "supermom",
+          "distance": 0.03703703703703709,
+          "synset": "supermom.n.01"
+        },
+        {
+          "word": "surrogate mother",
+          "distance": 0.03703703703703709,
+          "synset": "surrogate_mother.n.01"
+        },
+        {
+          "word": "Mary",
+          "distance": 0.03703703703703709,
+          "synset": "mary.n.01"
+        },
+        {
+          "word": "parent",
+          "distance": 0.040000000000000036,
+          "synset": "parent.n.01"
+        },
+        {
+          "word": "Naomi",
+          "distance": 0.0714285714285714,
+          "synset": "naomi.n.01"
+        },
+        {
+          "word": "adoptive parent",
+          "distance": 0.07692307692307687,
+          "synset": "adoptive_parent.n.01"
+        },
+        {
+          "word": "empty nester",
+          "distance": 0.07692307692307687,
+          "synset": "empty_nester.n.01"
+        },
+        {
+          "word": "father",
+          "distance": 0.07692307692307687,
+          "synset": "father.n.01"
+        },
+        {
+          "word": "filicide",
+          "distance": 0.07692307692307687,
+          "synset": "filicide.n.01"
+        },
+        {
+          "word": "stepparent",
+          "distance": 0.07692307692307687,
+          "synset": "stepparent.n.01"
+        },
+        {
+          "word": "genitor",
+          "distance": 0.08333333333333337,
+          "synset": "genitor.n.01"
+        },
+        {
+          "word": "dad",
+          "distance": 0.11111111111111116,
+          "synset": "dad.n.01"
+        },
+        {
+          "word": "father-in-law",
+          "distance": 0.11111111111111116,
+          "synset": "father-in-law.n.01"
+        }
+      ]
+    }
+  ],
+  "member": [
+    {
+      "synset": "member.n.01",
+      "definition": "one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)",
+      "synonyms": [
+        "fellow_member"
+      ],
+      "closest_words": [
+        "Areopagite",
+        "brother",
+        "cabalist",
+        "charter member",
+        "commissioner",
+        "committee member",
+        "council member",
+        "Conservative",
+        "fellow",
+        "homeboy",
+        "homegirl",
+        "huddler",
+        "inductee",
+        "joiner",
+        "kibbutznik",
+        "kolkhoznik",
+        "board member",
+        "clansman",
+        "club member",
+        "pledge"
+      ],
+      "closest_words_info": [
+        {
+          "word": "Areopagite",
+          "distance": 0.04761904761904767,
+          "synset": "areopagite.n.01"
+        },
+        {
+          "word": "brother",
+          "distance": 0.04761904761904767,
+          "synset": "brother.n.02"
+        },
+        {
+          "word": "cabalist",
+          "distance": 0.04761904761904767,
+          "synset": "cabalist.n.01"
+        },
+        {
+          "word": "charter member",
+          "distance": 0.04761904761904767,
+          "synset": "charter_member.n.01"
+        },
+        {
+          "word": "commissioner",
+          "distance": 0.04761904761904767,
+          "synset": "commissioner.n.02"
+        },
+        {
+          "word": "committee member",
+          "distance": 0.04761904761904767,
+          "synset": "committee_member.n.01"
+        },
+        {
+          "word": "council member",
+          "distance": 0.04761904761904767,
+          "synset": "council_member.n.01"
+        },
+        {
+          "word": "Conservative",
+          "distance": 0.04761904761904767,
+          "synset": "conservative.n.02"
+        },
+        {
+          "word": "fellow",
+          "distance": 0.04761904761904767,
+          "synset": "fellow.n.05"
+        },
+        {
+          "word": "homeboy",
+          "distance": 0.04761904761904767,
+          "synset": "homeboy.n.01"
+        },
+        {
+          "word": "homegirl",
+          "distance": 0.04761904761904767,
+          "synset": "homegirl.n.01"
+        },
+        {
+          "word": "huddler",
+          "distance": 0.04761904761904767,
+          "synset": "huddler.n.01"
+        },
+        {
+          "word": "inductee",
+          "distance": 0.04761904761904767,
+          "synset": "inductee.n.01"
+        },
+        {
+          "word": "joiner",
+          "distance": 0.04761904761904767,
+          "synset": "joiner.n.01"
+        },
+        {
+          "word": "kibbutznik",
+          "distance": 0.04761904761904767,
+          "synset": "kibbutznik.n.01"
+        },
+        {
+          "word": "kolkhoznik",
+          "distance": 0.04761904761904767,
+          "synset": "kolkhoznik.n.01"
+        },
+        {
+          "word": "board member",
+          "distance": 0.04761904761904767,
+          "synset": "board_member.n.01"
+        },
+        {
+          "word": "clansman",
+          "distance": 0.04761904761904767,
+          "synset": "clansman.n.01"
+        },
+        {
+          "word": "club member",
+          "distance": 0.04761904761904767,
+          "synset": "club_member.n.01"
+        },
+        {
+          "word": "pledge",
+          "distance": 0.04761904761904767,
+          "synset": "pledge.n.02"
+        }
+      ]
+    }
+  ],
+  "girlfriend": [
+    {
+      "synset": "girlfriend.n.01",
+      "definition": "any female friend",
+      "synonyms": [],
+      "closest_words": [
+        "organism",
+        "benthos",
+        "dwarf",
+        "heterotroph",
+        "parent",
+        "person",
+        "animal",
+        "plant",
+        "native",
+        "recombinant",
+        "conspecific",
+        "carrier",
+        "denizen",
+        "amphidiploid",
+        "diploid",
+        "haploid",
+        "heteroploid",
+        "polyploid",
+        "animalcule",
+        "microorganism"
+      ],
+      "closest_words_info": [
+        {
+          "word": "organism",
+          "distance": 0.19999999999999996,
+          "synset": "organism.n.01"
+        },
+        {
+          "word": "benthos",
+          "distance": 0.25,
+          "synset": "benthos.n.02"
+        },
+        {
+          "word": "dwarf",
+          "distance": 0.25,
+          "synset": "dwarf.n.03"
+        },
+        {
+          "word": "heterotroph",
+          "distance": 0.25,
+          "synset": "heterotroph.n.01"
+        },
+        {
+          "word": "parent",
+          "distance": 0.25,
+          "synset": "parent.n.02"
+        },
+        {
+          "word": "person",
+          "distance": 0.25,
+          "synset": "person.n.01"
+        },
+        {
+          "word": "animal",
+          "distance": 0.25,
+          "synset": "animal.n.01"
+        },
+        {
+          "word": "plant",
+          "distance": 0.25,
+          "synset": "plant.n.02"
+        },
+        {
+          "word": "native",
+          "distance": 0.25,
+          "synset": "native.n.03"
+        },
+        {
+          "word": "recombinant",
+          "distance": 0.25,
+          "synset": "recombinant.n.01"
+        },
+        {
+          "word": "conspecific",
+          "distance": 0.25,
+          "synset": "conspecific.n.01"
+        },
+        {
+          "word": "carrier",
+          "distance": 0.25,
+          "synset": "carrier.n.11"
+        },
+        {
+          "word": "denizen",
+          "distance": 0.25,
+          "synset": "denizen.n.02"
+        },
+        {
+          "word": "amphidiploid",
+          "distance": 0.25,
+          "synset": "amphidiploid.n.01"
+        },
+        {
+          "word": "diploid",
+          "distance": 0.25,
+          "synset": "diploid.n.01"
+        },
+        {
+          "word": "haploid",
+          "distance": 0.25,
+          "synset": "haploid.n.01"
+        },
+        {
+          "word": "heteroploid",
+          "distance": 0.25,
+          "synset": "heteroploid.n.01"
+        },
+        {
+          "word": "polyploid",
+          "distance": 0.25,
+          "synset": "polyploid.n.01"
+        },
+        {
+          "word": "animalcule",
+          "distance": 0.25,
+          "synset": "animalcule.n.01"
+        },
+        {
+          "word": "microorganism",
+          "distance": 0.25,
+          "synset": "microorganism.n.01"
+        }
+      ]
+    }
+  ],
+  "therapist": [
+    {
+      "synset": "therapist.n.01",
+      "definition": "a person skilled in a particular type of therapy",
+      "synonyms": [
+        "healer"
+      ],
+      "closest_words": [
+        "naprapath",
+        "alleviator",
+        "chiropractor",
+        "curandera",
+        "curandero",
+        "electrotherapist",
+        "herbalist",
+        "naturopath",
+        "osteopath",
+        "physical therapist",
+        "psychotherapist",
+        "sangoma",
+        "speech therapist",
+        "massager",
+        "Coue",
+        "masseur",
+        "masseuse",
+        "organism",
+        "benthos",
+        "dwarf"
+      ],
+      "closest_words_info": [
+        {
+          "word": "naprapath",
+          "distance": 0.052631578947368474,
+          "synset": "naprapath.n.01"
+        },
+        {
+          "word": "alleviator",
+          "distance": 0.052631578947368474,
+          "synset": "alleviator.n.01"
+        },
+        {
+          "word": "chiropractor",
+          "distance": 0.052631578947368474,
+          "synset": "chiropractor.n.01"
+        },
+        {
+          "word": "curandera",
+          "distance": 0.052631578947368474,
+          "synset": "curandera.n.01"
+        },
+        {
+          "word": "curandero",
+          "distance": 0.052631578947368474,
+          "synset": "curandero.n.01"
+        },
+        {
+          "word": "electrotherapist",
+          "distance": 0.052631578947368474,
+          "synset": "electrotherapist.n.01"
+        },
+        {
+          "word": "herbalist",
+          "distance": 0.052631578947368474,
+          "synset": "herbalist.n.01"
+        },
+        {
+          "word": "naturopath",
+          "distance": 0.052631578947368474,
+          "synset": "naturopath.n.01"
+        },
+        {
+          "word": "osteopath",
+          "distance": 0.052631578947368474,
+          "synset": "osteopath.n.01"
+        },
+        {
+          "word": "physical therapist",
+          "distance": 0.052631578947368474,
+          "synset": "physical_therapist.n.01"
+        },
+        {
+          "word": "psychotherapist",
+          "distance": 0.052631578947368474,
+          "synset": "psychotherapist.n.01"
+        },
+        {
+          "word": "sangoma",
+          "distance": 0.052631578947368474,
+          "synset": "sangoma.n.01"
+        },
+        {
+          "word": "speech therapist",
+          "distance": 0.052631578947368474,
+          "synset": "speech_therapist.n.01"
+        },
+        {
+          "word": "massager",
+          "distance": 0.09999999999999998,
+          "synset": "massager.n.01"
+        },
+        {
+          "word": "Coue",
+          "distance": 0.09999999999999998,
+          "synset": "coue.n.01"
+        },
+        {
+          "word": "masseur",
+          "distance": 0.1428571428571429,
+          "synset": "masseur.n.01"
+        },
+        {
+          "word": "masseuse",
+          "distance": 0.1428571428571429,
+          "synset": "masseuse.n.01"
+        },
+        {
+          "word": "organism",
+          "distance": 0.19999999999999996,
+          "synset": "organism.n.01"
+        },
+        {
+          "word": "benthos",
+          "distance": 0.25,
+          "synset": "benthos.n.02"
+        },
+        {
+          "word": "dwarf",
+          "distance": 0.25,
+          "synset": "dwarf.n.03"
+        }
+      ]
+    }
+  ]
+}

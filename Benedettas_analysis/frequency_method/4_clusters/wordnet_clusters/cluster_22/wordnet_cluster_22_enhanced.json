@@ -1,0 +1,136 @@
+{
+  "comes": [
+    {
+      "synset": "come.v.01",
+      "definition": "move toward, travel toward something or somebody or approach something or somebody",
+      "synonyms": [
+        "come",
+        "come_up"
+      ],
+      "closest_words": [
+        "emanate",
+        "address",
+        "approach",
+        "approach",
+        "flow out",
+        "greet",
+        "approach",
+        "get on",
+        "drive up",
+        "bear down on",
+        "edge in",
+        "close",
+        "push",
+        "hit",
+        "shake hands",
+        "curtsy",
+        "salute",
+        "salute",
+        "salute",
+        "hail"
+      ],
+      "closest_words_info": [
+        {
+          "word": "emanate",
+          "distance": 0.19999999999999996,
+          "synset": "emanate.v.01"
+        },
+        {
+          "word": "address",
+          "distance": 0.19999999999999996,
+          "synset": "address.v.09"
+        },
+        {
+          "word": "approach",
+          "distance": 0.19999999999999996,
+          "synset": "approach.v.04"
+        },
+        {
+          "word": "approach",
+          "distance": 0.19999999999999996,
+          "synset": "approach.v.01"
+        },
+        {
+          "word": "flow out",
+          "distance": 0.33333333333333337,
+          "synset": "flow_out.v.01"
+        },
+        {
+          "word": "greet",
+          "distance": 0.33333333333333337,
+          "synset": "greet.v.01"
+        },
+        {
+          "word": "approach",
+          "distance": 0.33333333333333337,
+          "synset": "approach.v.05"
+        },
+        {
+          "word": "get on",
+          "distance": 0.33333333333333337,
+          "synset": "get_on.v.04"
+        },
+        {
+          "word": "drive up",
+          "distance": 0.33333333333333337,
+          "synset": "drive_up.v.01"
+        },
+        {
+          "word": "bear down on",
+          "distance": 0.33333333333333337,
+          "synset": "bear_down_on.v.01"
+        },
+        {
+          "word": "edge in",
+          "distance": 0.33333333333333337,
+          "synset": "edge_in.v.01"
+        },
+        {
+          "word": "close",
+          "distance": 0.33333333333333337,
+          "synset": "close.v.12"
+        },
+        {
+          "word": "push",
+          "distance": 0.33333333333333337,
+          "synset": "push.v.06"
+        },
+        {
+          "word": "hit",
+          "distance": 0.4285714285714286,
+          "synset": "hit.v.17"
+        },
+        {
+          "word": "shake hands",
+          "distance": 0.4285714285714286,
+          "synset": "shake_hands.v.01"
+        },
+        {
+          "word": "curtsy",
+          "distance": 0.4285714285714286,
+          "synset": "curtsy.v.02"
+        },
+        {
+          "word": "salute",
+          "distance": 0.4285714285714286,
+          "synset": "salute.v.02"
+        },
+        {
+          "word": "salute",
+          "distance": 0.4285714285714286,
+          "synset": "salute.v.06"
+        },
+        {
+          "word": "salute",
+          "distance": 0.4285714285714286,
+          "synset": "salute.v.05"
+        },
+        {
+          "word": "hail",
+          "distance": 0.4285714285714286,
+          "synset": "hail.v.04"
+        }
+      ]
+    }
+  ]
+}

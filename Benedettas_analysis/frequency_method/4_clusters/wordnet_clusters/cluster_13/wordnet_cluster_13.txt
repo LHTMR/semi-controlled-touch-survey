@@ -1,0 +1,6 @@
+talk.n.01
+conversation.n.01
+news.n.01
+video.n.01
+chat.n.01
+cry.n.01

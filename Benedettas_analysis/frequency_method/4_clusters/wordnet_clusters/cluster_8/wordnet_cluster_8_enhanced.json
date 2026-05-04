@@ -1,0 +1,533 @@
+{
+  "attention": [
+    {
+      "synset": "attention.n.01",
+      "definition": "the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others",
+      "synonyms": [
+        "attending"
+      ],
+      "closest_words": [
+        "attentiveness",
+        "clock-watching",
+        "ear",
+        "eye",
+        "notice",
+        "notice",
+        "basic cognitive process",
+        "mind",
+        "advertence",
+        "remark",
+        "inattention",
+        "intuition",
+        "perception",
+        "apperception",
+        "believing",
+        "classification",
+        "discrimination",
+        "learning",
+        "memory",
+        "representational process"
+      ],
+      "closest_words_info": [
+        {
+          "word": "attentiveness",
+          "distance": 0.06666666666666665,
+          "synset": "attentiveness.n.01"
+        },
+        {
+          "word": "clock-watching",
+          "distance": 0.06666666666666665,
+          "synset": "clock-watching.n.01"
+        },
+        {
+          "word": "ear",
+          "distance": 0.06666666666666665,
+          "synset": "ear.n.04"
+        },
+        {
+          "word": "eye",
+          "distance": 0.06666666666666665,
+          "synset": "eye.n.03"
+        },
+        {
+          "word": "notice",
+          "distance": 0.06666666666666665,
+          "synset": "notice.n.02"
+        },
+        {
+          "word": "notice",
+          "distance": 0.06666666666666665,
+          "synset": "notice.n.06"
+        },
+        {
+          "word": "basic cognitive process",
+          "distance": 0.07692307692307687,
+          "synset": "basic_cognitive_process.n.01"
+        },
+        {
+          "word": "mind",
+          "distance": 0.125,
+          "synset": "mind.n.05"
+        },
+        {
+          "word": "advertence",
+          "distance": 0.125,
+          "synset": "advertence.n.01"
+        },
+        {
+          "word": "remark",
+          "distance": 0.125,
+          "synset": "remark.n.02"
+        },
+        {
+          "word": "inattention",
+          "distance": 0.1428571428571429,
+          "synset": "inattention.n.01"
+        },
+        {
+          "word": "intuition",
+          "distance": 0.1428571428571429,
+          "synset": "intuition.n.01"
+        },
+        {
+          "word": "perception",
+          "distance": 0.1428571428571429,
+          "synset": "perception.n.03"
+        },
+        {
+          "word": "apperception",
+          "distance": 0.1428571428571429,
+          "synset": "apperception.n.01"
+        },
+        {
+          "word": "believing",
+          "distance": 0.1428571428571429,
+          "synset": "believing.n.01"
+        },
+        {
+          "word": "classification",
+          "distance": 0.1428571428571429,
+          "synset": "classification.n.03"
+        },
+        {
+          "word": "discrimination",
+          "distance": 0.1428571428571429,
+          "synset": "discrimination.n.02"
+        },
+        {
+          "word": "learning",
+          "distance": 0.1428571428571429,
+          "synset": "learning.n.01"
+        },
+        {
+          "word": "memory",
+          "distance": 0.1428571428571429,
+          "synset": "memory.n.02"
+        },
+        {
+          "word": "representational process",
+          "distance": 0.1428571428571429,
+          "synset": "representational_process.n.01"
+        }
+      ]
+    }
+  ],
+  "like": [
+    {
+      "synset": "like.n.01",
+      "definition": "a similar kind; ,",
+      "synonyms": [
+        "the_like",
+        "the_likes_of"
+      ],
+      "closest_words": [
+        "kind",
+        "description",
+        "type",
+        "antitype",
+        "art form",
+        "style",
+        "flavor",
+        "color",
+        "species",
+        "genus",
+        "brand",
+        "genre",
+        "like",
+        "manner",
+        "model",
+        "stripe",
+        "category",
+        "breed",
+        "nature",
+        "version"
+      ],
+      "closest_words_info": [
+        {
+          "word": "kind",
+          "distance": 0.052631578947368474,
+          "synset": "kind.n.01"
+        },
+        {
+          "word": "description",
+          "distance": 0.09999999999999998,
+          "synset": "description.n.03"
+        },
+        {
+          "word": "type",
+          "distance": 0.09999999999999998,
+          "synset": "type.n.01"
+        },
+        {
+          "word": "antitype",
+          "distance": 0.09999999999999998,
+          "synset": "antitype.n.02"
+        },
+        {
+          "word": "art form",
+          "distance": 0.09999999999999998,
+          "synset": "art_form.n.01"
+        },
+        {
+          "word": "style",
+          "distance": 0.09999999999999998,
+          "synset": "style.n.03"
+        },
+        {
+          "word": "flavor",
+          "distance": 0.09999999999999998,
+          "synset": "flavor.n.03"
+        },
+        {
+          "word": "color",
+          "distance": 0.09999999999999998,
+          "synset": "color.n.07"
+        },
+        {
+          "word": "species",
+          "distance": 0.09999999999999998,
+          "synset": "species.n.02"
+        },
+        {
+          "word": "genus",
+          "distance": 0.09999999999999998,
+          "synset": "genus.n.01"
+        },
+        {
+          "word": "brand",
+          "distance": 0.09999999999999998,
+          "synset": "brand.n.02"
+        },
+        {
+          "word": "genre",
+          "distance": 0.09999999999999998,
+          "synset": "genre.n.01"
+        },
+        {
+          "word": "like",
+          "distance": 0.09999999999999998,
+          "synset": "like.n.02"
+        },
+        {
+          "word": "manner",
+          "distance": 0.09999999999999998,
+          "synset": "manner.n.03"
+        },
+        {
+          "word": "model",
+          "distance": 0.09999999999999998,
+          "synset": "model.n.02"
+        },
+        {
+          "word": "stripe",
+          "distance": 0.09999999999999998,
+          "synset": "stripe.n.04"
+        },
+        {
+          "word": "category",
+          "distance": 0.11111111111111116,
+          "synset": "category.n.02"
+        },
+        {
+          "word": "breed",
+          "distance": 0.1428571428571429,
+          "synset": "breed.n.02"
+        },
+        {
+          "word": "nature",
+          "distance": 0.1428571428571429,
+          "synset": "nature.n.05"
+        },
+        {
+          "word": "version",
+          "distance": 0.1428571428571429,
+          "synset": "version.n.02"
+        }
+      ]
+    }
+  ],
+  "pain": [
+    {
+      "synset": "pain.n.01",
+      "definition": "a symptom of some physical hurt or disorder",
+      "synonyms": [
+        "hurting"
+      ],
+      "closest_words": [
+        "ache",
+        "agony",
+        "arthralgia",
+        "burn",
+        "causalgia",
+        "colic",
+        "chest pain",
+        "chiralgia",
+        "distress",
+        "dysmenorrhea",
+        "glossalgia",
+        "growing pains",
+        "hemorrhoid",
+        "keratalgia",
+        "labor pain",
+        "mastalgia",
+        "melagra",
+        "meralgia",
+        "metralgia",
+        "myalgia"
+      ],
+      "closest_words_info": [
+        {
+          "word": "ache",
+          "distance": 0.05882352941176472,
+          "synset": "ache.n.01"
+        },
+        {
+          "word": "agony",
+          "distance": 0.05882352941176472,
+          "synset": "agony.n.02"
+        },
+        {
+          "word": "arthralgia",
+          "distance": 0.05882352941176472,
+          "synset": "arthralgia.n.01"
+        },
+        {
+          "word": "burn",
+          "distance": 0.05882352941176472,
+          "synset": "burn.n.01"
+        },
+        {
+          "word": "causalgia",
+          "distance": 0.05882352941176472,
+          "synset": "causalgia.n.01"
+        },
+        {
+          "word": "colic",
+          "distance": 0.05882352941176472,
+          "synset": "colic.n.01"
+        },
+        {
+          "word": "chest pain",
+          "distance": 0.05882352941176472,
+          "synset": "chest_pain.n.01"
+        },
+        {
+          "word": "chiralgia",
+          "distance": 0.05882352941176472,
+          "synset": "chiralgia.n.01"
+        },
+        {
+          "word": "distress",
+          "distance": 0.05882352941176472,
+          "synset": "distress.n.03"
+        },
+        {
+          "word": "dysmenorrhea",
+          "distance": 0.05882352941176472,
+          "synset": "dysmenorrhea.n.01"
+        },
+        {
+          "word": "glossalgia",
+          "distance": 0.05882352941176472,
+          "synset": "glossalgia.n.01"
+        },
+        {
+          "word": "growing pains",
+          "distance": 0.05882352941176472,
+          "synset": "growing_pains.n.01"
+        },
+        {
+          "word": "hemorrhoid",
+          "distance": 0.05882352941176472,
+          "synset": "hemorrhoid.n.01"
+        },
+        {
+          "word": "keratalgia",
+          "distance": 0.05882352941176472,
+          "synset": "keratalgia.n.01"
+        },
+        {
+          "word": "labor pain",
+          "distance": 0.05882352941176472,
+          "synset": "labor_pain.n.01"
+        },
+        {
+          "word": "mastalgia",
+          "distance": 0.05882352941176472,
+          "synset": "mastalgia.n.01"
+        },
+        {
+          "word": "melagra",
+          "distance": 0.05882352941176472,
+          "synset": "melagra.n.01"
+        },
+        {
+          "word": "meralgia",
+          "distance": 0.05882352941176472,
+          "synset": "meralgia.n.01"
+        },
+        {
+          "word": "metralgia",
+          "distance": 0.05882352941176472,
+          "synset": "metralgia.n.01"
+        },
+        {
+          "word": "myalgia",
+          "distance": 0.05882352941176472,
+          "synset": "myalgia.n.01"
+        }
+      ]
+    }
+  ],
+  "know": [
+    {
+      "synset": "know.n.01",
+      "definition": "the fact of being aware of information that is known to few people",
+      "synonyms": [],
+      "closest_words": [
+        "knowing",
+        "awareness",
+        "incognizance",
+        "cognizance",
+        "prevision",
+        "understanding",
+        "higher cognitive process",
+        "self-awareness",
+        "feel",
+        "sense",
+        "comprehension",
+        "self-knowledge",
+        "smattering",
+        "appreciation",
+        "grasping",
+        "hindsight",
+        "insight",
+        "realization",
+        "search",
+        "thinking"
+      ],
+      "closest_words_info": [
+        {
+          "word": "knowing",
+          "distance": 0.06666666666666665,
+          "synset": "knowing.n.01"
+        },
+        {
+          "word": "awareness",
+          "distance": 0.125,
+          "synset": "awareness.n.01"
+        },
+        {
+          "word": "incognizance",
+          "distance": 0.125,
+          "synset": "incognizance.n.01"
+        },
+        {
+          "word": "cognizance",
+          "distance": 0.125,
+          "synset": "cognizance.n.02"
+        },
+        {
+          "word": "prevision",
+          "distance": 0.125,
+          "synset": "prevision.n.03"
+        },
+        {
+          "word": "understanding",
+          "distance": 0.125,
+          "synset": "understanding.n.01"
+        },
+        {
+          "word": "higher cognitive process",
+          "distance": 0.1428571428571429,
+          "synset": "higher_cognitive_process.n.01"
+        },
+        {
+          "word": "self-awareness",
+          "distance": 0.17647058823529416,
+          "synset": "self-awareness.n.01"
+        },
+        {
+          "word": "feel",
+          "distance": 0.17647058823529416,
+          "synset": "feel.n.01"
+        },
+        {
+          "word": "sense",
+          "distance": 0.17647058823529416,
+          "synset": "sense.n.01"
+        },
+        {
+          "word": "comprehension",
+          "distance": 0.17647058823529416,
+          "synset": "comprehension.n.01"
+        },
+        {
+          "word": "self-knowledge",
+          "distance": 0.17647058823529416,
+          "synset": "self-knowledge.n.01"
+        },
+        {
+          "word": "smattering",
+          "distance": 0.17647058823529416,
+          "synset": "smattering.n.02"
+        },
+        {
+          "word": "appreciation",
+          "distance": 0.17647058823529416,
+          "synset": "appreciation.n.01"
+        },
+        {
+          "word": "grasping",
+          "distance": 0.17647058823529416,
+          "synset": "grasping.n.01"
+        },
+        {
+          "word": "hindsight",
+          "distance": 0.17647058823529416,
+          "synset": "hindsight.n.01"
+        },
+        {
+          "word": "insight",
+          "distance": 0.17647058823529416,
+          "synset": "insight.n.03"
+        },
+        {
+          "word": "realization",
+          "distance": 0.17647058823529416,
+          "synset": "realization.n.01"
+        },
+        {
+          "word": "search",
+          "distance": 0.19999999999999996,
+          "synset": "search.n.04"
+        },
+        {
+          "word": "thinking",
+          "distance": 0.19999999999999996,
+          "synset": "thinking.n.01"
+        }
+      ]
+    }
+  ]
+}

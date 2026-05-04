@@ -1,0 +1,275 @@
+{
+  "trying": [
+    {
+      "synset": "try.v.01",
+      "definition": "make an effort or attempt",
+      "synonyms": [
+        "try",
+        "seek",
+        "attempt",
+        "essay",
+        "assay"
+      ],
+      "closest_words": [
+        "take a dare",
+        "fight",
+        "have a go",
+        "grope",
+        "endeavor",
+        "give it a whirl",
+        "gamble",
+        "risk",
+        "struggle",
+        "tug",
+        "flounder",
+        "take pains",
+        "buck",
+        "go for broke",
+        "luck it",
+        "venture",
+        "bell the cat",
+        "strive",
+        "extend oneself",
+        "kill oneself"
+      ],
+      "closest_words_info": [
+        {
+          "word": "take a dare",
+          "distance": 0.19999999999999996,
+          "synset": "take_a_dare.v.02"
+        },
+        {
+          "word": "fight",
+          "distance": 0.19999999999999996,
+          "synset": "fight.v.03"
+        },
+        {
+          "word": "have a go",
+          "distance": 0.19999999999999996,
+          "synset": "have_a_go.v.01"
+        },
+        {
+          "word": "grope",
+          "distance": 0.19999999999999996,
+          "synset": "grope.v.02"
+        },
+        {
+          "word": "endeavor",
+          "distance": 0.19999999999999996,
+          "synset": "endeavor.v.01"
+        },
+        {
+          "word": "give it a whirl",
+          "distance": 0.19999999999999996,
+          "synset": "give_it_a_whirl.v.01"
+        },
+        {
+          "word": "gamble",
+          "distance": 0.19999999999999996,
+          "synset": "gamble.v.01"
+        },
+        {
+          "word": "risk",
+          "distance": 0.19999999999999996,
+          "synset": "risk.v.01"
+        },
+        {
+          "word": "struggle",
+          "distance": 0.33333333333333337,
+          "synset": "struggle.v.02"
+        },
+        {
+          "word": "tug",
+          "distance": 0.33333333333333337,
+          "synset": "tug.v.02"
+        },
+        {
+          "word": "flounder",
+          "distance": 0.33333333333333337,
+          "synset": "flounder.v.02"
+        },
+        {
+          "word": "take pains",
+          "distance": 0.33333333333333337,
+          "synset": "take_pains.v.01"
+        },
+        {
+          "word": "buck",
+          "distance": 0.33333333333333337,
+          "synset": "buck.v.01"
+        },
+        {
+          "word": "go for broke",
+          "distance": 0.33333333333333337,
+          "synset": "go_for_broke.v.01"
+        },
+        {
+          "word": "luck it",
+          "distance": 0.33333333333333337,
+          "synset": "luck_it.v.01"
+        },
+        {
+          "word": "venture",
+          "distance": 0.33333333333333337,
+          "synset": "venture.v.03"
+        },
+        {
+          "word": "bell the cat",
+          "distance": 0.33333333333333337,
+          "synset": "bell_the_cat.v.01"
+        },
+        {
+          "word": "strive",
+          "distance": 0.4285714285714286,
+          "synset": "strive.v.02"
+        },
+        {
+          "word": "extend oneself",
+          "distance": 0.5,
+          "synset": "extend_oneself.v.01"
+        },
+        {
+          "word": "kill oneself",
+          "distance": 0.5,
+          "synset": "kill_oneself.v.01"
+        }
+      ]
+    }
+  ],
+  "try": [
+    {
+      "synset": "try.v.01",
+      "definition": "make an effort or attempt",
+      "synonyms": [
+        "seek",
+        "attempt",
+        "essay",
+        "assay"
+      ],
+      "closest_words": [
+        "take a dare",
+        "fight",
+        "have a go",
+        "grope",
+        "endeavor",
+        "give it a whirl",
+        "gamble",
+        "risk",
+        "struggle",
+        "tug",
+        "flounder",
+        "take pains",
+        "buck",
+        "go for broke",
+        "luck it",
+        "venture",
+        "bell the cat",
+        "strive",
+        "extend oneself",
+        "kill oneself"
+      ],
+      "closest_words_info": [
+        {
+          "word": "take a dare",
+          "distance": 0.19999999999999996,
+          "synset": "take_a_dare.v.02"
+        },
+        {
+          "word": "fight",
+          "distance": 0.19999999999999996,
+          "synset": "fight.v.03"
+        },
+        {
+          "word": "have a go",
+          "distance": 0.19999999999999996,
+          "synset": "have_a_go.v.01"
+        },
+        {
+          "word": "grope",
+          "distance": 0.19999999999999996,
+          "synset": "grope.v.02"
+        },
+        {
+          "word": "endeavor",
+          "distance": 0.19999999999999996,
+          "synset": "endeavor.v.01"
+        },
+        {
+          "word": "give it a whirl",
+          "distance": 0.19999999999999996,
+          "synset": "give_it_a_whirl.v.01"
+        },
+        {
+          "word": "gamble",
+          "distance": 0.19999999999999996,
+          "synset": "gamble.v.01"
+        },
+        {
+          "word": "risk",
+          "distance": 0.19999999999999996,
+          "synset": "risk.v.01"
+        },
+        {
+          "word": "struggle",
+          "distance": 0.33333333333333337,
+          "synset": "struggle.v.02"
+        },
+        {
+          "word": "tug",
+          "distance": 0.33333333333333337,
+          "synset": "tug.v.02"
+        },
+        {
+          "word": "flounder",
+          "distance": 0.33333333333333337,
+          "synset": "flounder.v.02"
+        },
+        {
+          "word": "take pains",
+          "distance": 0.33333333333333337,
+          "synset": "take_pains.v.01"
+        },
+        {
+          "word": "buck",
+          "distance": 0.33333333333333337,
+          "synset": "buck.v.01"
+        },
+        {
+          "word": "go for broke",
+          "distance": 0.33333333333333337,
+          "synset": "go_for_broke.v.01"
+        },
+        {
+          "word": "luck it",
+          "distance": 0.33333333333333337,
+          "synset": "luck_it.v.01"
+        },
+        {
+          "word": "venture",
+          "distance": 0.33333333333333337,
+          "synset": "venture.v.03"
+        },
+        {
+          "word": "bell the cat",
+          "distance": 0.33333333333333337,
+          "synset": "bell_the_cat.v.01"
+        },
+        {
+          "word": "strive",
+          "distance": 0.4285714285714286,
+          "synset": "strive.v.02"
+        },
+        {
+          "word": "extend oneself",
+          "distance": 0.5,
+          "synset": "extend_oneself.v.01"
+        },
+        {
+          "word": "kill oneself",
+          "distance": 0.5,
+          "synset": "kill_oneself.v.01"
+        }
+      ]
+    }
+  ]
+}

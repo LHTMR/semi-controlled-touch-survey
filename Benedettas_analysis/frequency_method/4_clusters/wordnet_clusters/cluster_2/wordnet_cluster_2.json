@@ -1,0 +1,38 @@
+{
+  "friend": [
+    "friend.n.01"
+  ],
+  "person": [
+    "person.n.01"
+  ],
+  "child": [
+    "child.n.01"
+  ],
+  "partner": [
+    "spouse.n.01"
+  ],
+  "doctor": [
+    "doctor.n.01"
+  ],
+  "family": [
+    "kin.n.01"
+  ],
+  "colleague": [
+    "colleague.n.01"
+  ],
+  "stranger": [
+    "stranger.n.01"
+  ],
+  "mother": [
+    "mother.n.01"
+  ],
+  "member": [
+    "member.n.01"
+  ],
+  "girlfriend": [
+    "girlfriend.n.01"
+  ],
+  "therapist": [
+    "therapist.n.01"
+  ]
+}

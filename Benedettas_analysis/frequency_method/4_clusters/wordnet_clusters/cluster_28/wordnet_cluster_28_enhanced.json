@@ -1,0 +1,135 @@
+{
+  "poking": [
+    {
+      "synset": "poke.v.03",
+      "definition": "stir by poking",
+      "synonyms": [
+        "poke"
+      ],
+      "closest_words": [
+        "agitate",
+        "beat",
+        "toss",
+        "roil",
+        "tumble",
+        "whisk",
+        "cream",
+        "muddle",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear"
+      ],
+      "closest_words_info": [
+        {
+          "word": "agitate",
+          "distance": 0.19999999999999996,
+          "synset": "agitate.v.06"
+        },
+        {
+          "word": "beat",
+          "distance": 0.33333333333333337,
+          "synset": "beat.v.10"
+        },
+        {
+          "word": "toss",
+          "distance": 0.33333333333333337,
+          "synset": "toss.v.06"
+        },
+        {
+          "word": "roil",
+          "distance": 0.33333333333333337,
+          "synset": "roil.v.02"
+        },
+        {
+          "word": "tumble",
+          "distance": 0.4285714285714286,
+          "synset": "tumble.v.09"
+        },
+        {
+          "word": "whisk",
+          "distance": 0.4285714285714286,
+          "synset": "whisk.v.04"
+        },
+        {
+          "word": "cream",
+          "distance": 0.4285714285714286,
+          "synset": "cream.v.01"
+        },
+        {
+          "word": "muddle",
+          "distance": 0.4285714285714286,
+          "synset": "muddle.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6666666666666667,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6666666666666667,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6666666666666667,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6666666666666667,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6666666666666667,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6666666666666667,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6666666666666667,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6666666666666667,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6666666666666667,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6666666666666667,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6666666666666667,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6666666666666667,
+          "synset": "wear.v.01"
+        }
+      ]
+    }
+  ]
+}

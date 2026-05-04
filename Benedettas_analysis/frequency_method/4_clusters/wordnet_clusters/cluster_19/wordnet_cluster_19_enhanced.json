@@ -1,0 +1,276 @@
+{
+  "happened": [
+    {
+      "synset": "happen.v.01",
+      "definition": "come to pass",
+      "synonyms": [
+        "happen",
+        "hap",
+        "go_on",
+        "pass_off",
+        "occur",
+        "pass",
+        "fall_out",
+        "come_about",
+        "take_place"
+      ],
+      "closest_words": [
+        "break",
+        "arise",
+        "result",
+        "intervene",
+        "transpire",
+        "give",
+        "operate",
+        "supervene",
+        "proceed",
+        "come",
+        "fall",
+        "anticipate",
+        "develop",
+        "recur",
+        "go off",
+        "come around",
+        "happen",
+        "happen",
+        "befall",
+        "concur"
+      ],
+      "closest_words_info": [
+        {
+          "word": "break",
+          "distance": 0.33333333333333337,
+          "synset": "break.v.53"
+        },
+        {
+          "word": "arise",
+          "distance": 0.33333333333333337,
+          "synset": "arise.v.04"
+        },
+        {
+          "word": "result",
+          "distance": 0.33333333333333337,
+          "synset": "result.v.03"
+        },
+        {
+          "word": "intervene",
+          "distance": 0.33333333333333337,
+          "synset": "intervene.v.03"
+        },
+        {
+          "word": "transpire",
+          "distance": 0.33333333333333337,
+          "synset": "transpire.v.04"
+        },
+        {
+          "word": "give",
+          "distance": 0.33333333333333337,
+          "synset": "give.v.42"
+        },
+        {
+          "word": "operate",
+          "distance": 0.33333333333333337,
+          "synset": "operate.v.05"
+        },
+        {
+          "word": "supervene",
+          "distance": 0.33333333333333337,
+          "synset": "supervene.v.01"
+        },
+        {
+          "word": "proceed",
+          "distance": 0.33333333333333337,
+          "synset": "proceed.v.04"
+        },
+        {
+          "word": "come",
+          "distance": 0.33333333333333337,
+          "synset": "come.v.03"
+        },
+        {
+          "word": "fall",
+          "distance": 0.33333333333333337,
+          "synset": "fall.v.10"
+        },
+        {
+          "word": "anticipate",
+          "distance": 0.33333333333333337,
+          "synset": "anticipate.v.06"
+        },
+        {
+          "word": "develop",
+          "distance": 0.33333333333333337,
+          "synset": "develop.v.09"
+        },
+        {
+          "word": "recur",
+          "distance": 0.33333333333333337,
+          "synset": "recur.v.01"
+        },
+        {
+          "word": "go off",
+          "distance": 0.33333333333333337,
+          "synset": "go_off.v.05"
+        },
+        {
+          "word": "come around",
+          "distance": 0.33333333333333337,
+          "synset": "come_around.v.02"
+        },
+        {
+          "word": "happen",
+          "distance": 0.33333333333333337,
+          "synset": "happen.v.04"
+        },
+        {
+          "word": "happen",
+          "distance": 0.33333333333333337,
+          "synset": "happen.v.02"
+        },
+        {
+          "word": "befall",
+          "distance": 0.33333333333333337,
+          "synset": "befall.v.01"
+        },
+        {
+          "word": "concur",
+          "distance": 0.33333333333333337,
+          "synset": "concur.v.02"
+        }
+      ]
+    },
+    {
+      "synset": "happen.v.02",
+      "definition": "happen, occur, or be the case in the course of events or by chance; ;  (Santayana)",
+      "synonyms": [
+        "happen",
+        "befall",
+        "bechance"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.6,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.6,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.6,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.6,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.6,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.6,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ]
+}

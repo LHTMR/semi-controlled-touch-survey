@@ -1,0 +1,140 @@
+{
+  "take": [
+    {
+      "synset": "return.n.06",
+      "definition": "the income or profit arising from such transactions as the sale of land or other property",
+      "synonyms": [
+        "return",
+        "issue",
+        "takings",
+        "proceeds",
+        "yield",
+        "payoff"
+      ],
+      "closest_words": [
+        "economic rent",
+        "payback",
+        "income",
+        "disposable income",
+        "double dipping",
+        "easy money",
+        "EBITDA",
+        "net income",
+        "cash flow",
+        "personal income",
+        "rental income",
+        "gross sales",
+        "net sales",
+        "unearned income",
+        "unearned income",
+        "government income",
+        "per capita income",
+        "financial gain",
+        "earning per share",
+        "windfall profit"
+      ],
+      "closest_words_info": [
+        {
+          "word": "economic rent",
+          "distance": 0.04761904761904767,
+          "synset": "economic_rent.n.01"
+        },
+        {
+          "word": "payback",
+          "distance": 0.04761904761904767,
+          "synset": "payback.n.01"
+        },
+        {
+          "word": "income",
+          "distance": 0.052631578947368474,
+          "synset": "income.n.01"
+        },
+        {
+          "word": "disposable income",
+          "distance": 0.09999999999999998,
+          "synset": "disposable_income.n.01"
+        },
+        {
+          "word": "double dipping",
+          "distance": 0.09999999999999998,
+          "synset": "double_dipping.n.01"
+        },
+        {
+          "word": "easy money",
+          "distance": 0.09999999999999998,
+          "synset": "easy_money.n.01"
+        },
+        {
+          "word": "EBITDA",
+          "distance": 0.09999999999999998,
+          "synset": "ebitda.n.01"
+        },
+        {
+          "word": "net income",
+          "distance": 0.09999999999999998,
+          "synset": "net_income.n.01"
+        },
+        {
+          "word": "cash flow",
+          "distance": 0.09999999999999998,
+          "synset": "cash_flow.n.01"
+        },
+        {
+          "word": "personal income",
+          "distance": 0.09999999999999998,
+          "synset": "personal_income.n.01"
+        },
+        {
+          "word": "rental income",
+          "distance": 0.09999999999999998,
+          "synset": "rental_income.n.01"
+        },
+        {
+          "word": "gross sales",
+          "distance": 0.09999999999999998,
+          "synset": "gross_sales.n.01"
+        },
+        {
+          "word": "net sales",
+          "distance": 0.09999999999999998,
+          "synset": "net_sales.n.01"
+        },
+        {
+          "word": "unearned income",
+          "distance": 0.09999999999999998,
+          "synset": "unearned_income.n.02"
+        },
+        {
+          "word": "unearned income",
+          "distance": 0.09999999999999998,
+          "synset": "unearned_income.n.01"
+        },
+        {
+          "word": "government income",
+          "distance": 0.09999999999999998,
+          "synset": "government_income.n.01"
+        },
+        {
+          "word": "per capita income",
+          "distance": 0.09999999999999998,
+          "synset": "per_capita_income.n.01"
+        },
+        {
+          "word": "financial gain",
+          "distance": 0.11111111111111116,
+          "synset": "financial_gain.n.01"
+        },
+        {
+          "word": "earning per share",
+          "distance": 0.1428571428571429,
+          "synset": "earning_per_share.n.01"
+        },
+        {
+          "word": "windfall profit",
+          "distance": 0.1428571428571429,
+          "synset": "windfall_profit.n.01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2658 @@
+{
+  "get": [
+    {
+      "synset": "get.v.01",
+      "definition": "come into the possession of something concrete or abstract",
+      "synonyms": [
+        "acquire"
+      ],
+      "closest_words": [
+        "isolate",
+        "win back",
+        "press out",
+        "capture",
+        "come by",
+        "buy",
+        "lease",
+        "receive",
+        "turn",
+        "buy",
+        "find",
+        "glom",
+        "enter upon",
+        "line up",
+        "accept",
+        "obtain",
+        "recover",
+        "catch",
+        "recover",
+        "reclaim"
+      ],
+      "closest_words_info": [
+        {
+          "word": "isolate",
+          "distance": 0.33333333333333337,
+          "synset": "isolate.v.02"
+        },
+        {
+          "word": "win back",
+          "distance": 0.33333333333333337,
+          "synset": "win_back.v.01"
+        },
+        {
+          "word": "press out",
+          "distance": 0.33333333333333337,
+          "synset": "press_out.v.03"
+        },
+        {
+          "word": "capture",
+          "distance": 0.33333333333333337,
+          "synset": "capture.v.06"
+        },
+        {
+          "word": "come by",
+          "distance": 0.33333333333333337,
+          "synset": "come_by.v.02"
+        },
+        {
+          "word": "buy",
+          "distance": 0.33333333333333337,
+          "synset": "buy.v.01"
+        },
+        {
+          "word": "lease",
+          "distance": 0.33333333333333337,
+          "synset": "lease.v.04"
+        },
+        {
+          "word": "receive",
+          "distance": 0.33333333333333337,
+          "synset": "receive.v.01"
+        },
+        {
+          "word": "turn",
+          "distance": 0.33333333333333337,
+          "synset": "turn.v.18"
+        },
+        {
+          "word": "buy",
+          "distance": 0.33333333333333337,
+          "synset": "buy.v.04"
+        },
+        {
+          "word": "find",
+          "distance": 0.33333333333333337,
+          "synset": "find.v.10"
+        },
+        {
+          "word": "glom",
+          "distance": 0.33333333333333337,
+          "synset": "glom.v.02"
+        },
+        {
+          "word": "enter upon",
+          "distance": 0.33333333333333337,
+          "synset": "enter_upon.v.01"
+        },
+        {
+          "word": "line up",
+          "distance": 0.33333333333333337,
+          "synset": "line_up.v.02"
+        },
+        {
+          "word": "accept",
+          "distance": 0.33333333333333337,
+          "synset": "accept.v.02"
+        },
+        {
+          "word": "obtain",
+          "distance": 0.33333333333333337,
+          "synset": "obtain.v.01"
+        },
+        {
+          "word": "recover",
+          "distance": 0.33333333333333337,
+          "synset": "recover.v.01"
+        },
+        {
+          "word": "catch",
+          "distance": 0.33333333333333337,
+          "synset": "catch.v.10"
+        },
+        {
+          "word": "recover",
+          "distance": 0.33333333333333337,
+          "synset": "recover.v.04"
+        },
+        {
+          "word": "reclaim",
+          "distance": 0.33333333333333337,
+          "synset": "reclaim.v.01"
+        }
+      ]
+    }
+  ],
+  "comforting": [
+    {
+      "synset": "comfort.v.01",
+      "definition": "give moral or emotional strength to",
+      "synonyms": [
+        "comfort",
+        "soothe",
+        "console",
+        "solace"
+      ],
+      "closest_words": [
+        "calm",
+        "still",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise"
+      ],
+      "closest_words_info": [
+        {
+          "word": "calm",
+          "distance": 0.33333333333333337,
+          "synset": "calm.v.01"
+        },
+        {
+          "word": "still",
+          "distance": 0.33333333333333337,
+          "synset": "still.v.03"
+        },
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        }
+      ]
+    }
+  ],
+  "sad": [
+    {
+      "synset": "sad.a.01",
+      "definition": "experiencing or showing sorrow or unhappiness; ; - Christina Rossetti",
+      "synonyms": [],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "together": [
+    {
+      "synset": "together.s.01",
+      "definition": "mentally and emotionally stable",
+      "synonyms": [],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "chilling": [
+    {
+      "synset": "chilling.s.01",
+      "definition": "provoking fear terror",
+      "synonyms": [
+        "scarey",
+        "scary",
+        "shivery",
+        "shuddery"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "bad": [
+    {
+      "synset": "bad.a.01",
+      "definition": "having undesirable or negative qualities",
+      "synonyms": [],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "next": [
+    {
+      "synset": "following.s.02",
+      "definition": "immediately following in time or order",
+      "synonyms": [
+        "following"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "working": [
+    {
+      "synset": "work.v.02",
+      "definition": "be employed",
+      "synonyms": [
+        "work",
+        "do_work"
+      ],
+      "closest_words": [
+        "serve",
+        "bank",
+        "fill",
+        "drive",
+        "tinker",
+        "serve",
+        "fink",
+        "labor",
+        "farm",
+        "moonlight",
+        "job",
+        "man",
+        "slave",
+        "subcontract",
+        "turn a trick",
+        "freelance",
+        "entity",
+        "breathe",
+        "act",
+        "be active"
+      ],
+      "closest_words_info": [
+        {
+          "word": "serve",
+          "distance": 0.33333333333333337,
+          "synset": "serve.v.02"
+        },
+        {
+          "word": "bank",
+          "distance": 0.33333333333333337,
+          "synset": "bank.v.05"
+        },
+        {
+          "word": "fill",
+          "distance": 0.33333333333333337,
+          "synset": "fill.v.04"
+        },
+        {
+          "word": "drive",
+          "distance": 0.33333333333333337,
+          "synset": "drive.v.13"
+        },
+        {
+          "word": "tinker",
+          "distance": 0.33333333333333337,
+          "synset": "tinker.v.02"
+        },
+        {
+          "word": "serve",
+          "distance": 0.33333333333333337,
+          "synset": "serve.v.13"
+        },
+        {
+          "word": "fink",
+          "distance": 0.33333333333333337,
+          "synset": "fink.v.01"
+        },
+        {
+          "word": "labor",
+          "distance": 0.33333333333333337,
+          "synset": "labor.v.02"
+        },
+        {
+          "word": "farm",
+          "distance": 0.33333333333333337,
+          "synset": "farm.v.01"
+        },
+        {
+          "word": "moonlight",
+          "distance": 0.33333333333333337,
+          "synset": "moonlight.v.01"
+        },
+        {
+          "word": "job",
+          "distance": 0.33333333333333337,
+          "synset": "job.v.03"
+        },
+        {
+          "word": "man",
+          "distance": 0.33333333333333337,
+          "synset": "man.v.01"
+        },
+        {
+          "word": "slave",
+          "distance": 0.33333333333333337,
+          "synset": "slave.v.01"
+        },
+        {
+          "word": "subcontract",
+          "distance": 0.33333333333333337,
+          "synset": "subcontract.v.02"
+        },
+        {
+          "word": "turn a trick",
+          "distance": 0.33333333333333337,
+          "synset": "turn_a_trick.v.01"
+        },
+        {
+          "word": "freelance",
+          "distance": 0.33333333333333337,
+          "synset": "freelance.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        }
+      ]
+    }
+  ],
+  "around": [
+    {
+      "synset": "about.r.03",
+      "definition": "in the area or vicinity",
+      "synonyms": [
+        "about"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "know": [
+    {
+      "synset": "know.v.01",
+      "definition": "be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about",
+      "synonyms": [
+        "cognize",
+        "cognise"
+      ],
+      "closest_words": [
+        "keep track",
+        "recognize",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise"
+      ],
+      "closest_words_info": [
+        {
+          "word": "keep track",
+          "distance": 0.33333333333333337,
+          "synset": "keep_track.v.01"
+        },
+        {
+          "word": "recognize",
+          "distance": 0.33333333333333337,
+          "synset": "recognize.v.02"
+        },
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        }
+      ]
+    }
+  ],
+  "romantic": [
+    {
+      "synset": "amatory.s.01",
+      "definition": "expressive of or exciting sexual love or romance",
+      "synonyms": [
+        "amatory",
+        "amorous"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "make": [
+    {
+      "synset": "make.v.03",
+      "definition": "make or cause to be or to become",
+      "synonyms": [
+        "create"
+      ],
+      "closest_words": [
+        "beget",
+        "reproduce",
+        "regenerate",
+        "clear",
+        "distill",
+        "derive",
+        "froth",
+        "lay down",
+        "puncture",
+        "twine",
+        "cleave",
+        "track",
+        "institute",
+        "short-circuit",
+        "re-create",
+        "grind",
+        "generate",
+        "originate",
+        "give",
+        "bring"
+      ],
+      "closest_words_info": [
+        {
+          "word": "beget",
+          "distance": 0.33333333333333337,
+          "synset": "beget.v.01"
+        },
+        {
+          "word": "reproduce",
+          "distance": 0.33333333333333337,
+          "synset": "reproduce.v.02"
+        },
+        {
+          "word": "regenerate",
+          "distance": 0.33333333333333337,
+          "synset": "regenerate.v.07"
+        },
+        {
+          "word": "clear",
+          "distance": 0.33333333333333337,
+          "synset": "clear.v.02"
+        },
+        {
+          "word": "distill",
+          "distance": 0.33333333333333337,
+          "synset": "distill.v.03"
+        },
+        {
+          "word": "derive",
+          "distance": 0.33333333333333337,
+          "synset": "derive.v.04"
+        },
+        {
+          "word": "froth",
+          "distance": 0.33333333333333337,
+          "synset": "froth.v.02"
+        },
+        {
+          "word": "lay down",
+          "distance": 0.33333333333333337,
+          "synset": "lay_down.v.01"
+        },
+        {
+          "word": "puncture",
+          "distance": 0.33333333333333337,
+          "synset": "puncture.v.02"
+        },
+        {
+          "word": "twine",
+          "distance": 0.33333333333333337,
+          "synset": "twine.v.03"
+        },
+        {
+          "word": "cleave",
+          "distance": 0.33333333333333337,
+          "synset": "cleave.v.02"
+        },
+        {
+          "word": "track",
+          "distance": 0.33333333333333337,
+          "synset": "track.v.05"
+        },
+        {
+          "word": "institute",
+          "distance": 0.33333333333333337,
+          "synset": "institute.v.02"
+        },
+        {
+          "word": "short-circuit",
+          "distance": 0.33333333333333337,
+          "synset": "short-circuit.v.02"
+        },
+        {
+          "word": "re-create",
+          "distance": 0.33333333333333337,
+          "synset": "re-create.v.01"
+        },
+        {
+          "word": "grind",
+          "distance": 0.33333333333333337,
+          "synset": "grind.v.06"
+        },
+        {
+          "word": "generate",
+          "distance": 0.33333333333333337,
+          "synset": "generate.v.01"
+        },
+        {
+          "word": "originate",
+          "distance": 0.33333333333333337,
+          "synset": "originate.v.02"
+        },
+        {
+          "word": "give",
+          "distance": 0.33333333333333337,
+          "synset": "give.v.09"
+        },
+        {
+          "word": "bring",
+          "distance": 0.33333333333333337,
+          "synset": "bring.v.03"
+        }
+      ]
+    }
+  ],
+  "making": [
+    {
+      "synset": "make.v.03",
+      "definition": "make or cause to be or to become",
+      "synonyms": [
+        "make",
+        "create"
+      ],
+      "closest_words": [
+        "beget",
+        "reproduce",
+        "regenerate",
+        "clear",
+        "distill",
+        "derive",
+        "froth",
+        "lay down",
+        "puncture",
+        "twine",
+        "cleave",
+        "track",
+        "institute",
+        "short-circuit",
+        "re-create",
+        "grind",
+        "generate",
+        "originate",
+        "give",
+        "bring"
+      ],
+      "closest_words_info": [
+        {
+          "word": "beget",
+          "distance": 0.33333333333333337,
+          "synset": "beget.v.01"
+        },
+        {
+          "word": "reproduce",
+          "distance": 0.33333333333333337,
+          "synset": "reproduce.v.02"
+        },
+        {
+          "word": "regenerate",
+          "distance": 0.33333333333333337,
+          "synset": "regenerate.v.07"
+        },
+        {
+          "word": "clear",
+          "distance": 0.33333333333333337,
+          "synset": "clear.v.02"
+        },
+        {
+          "word": "distill",
+          "distance": 0.33333333333333337,
+          "synset": "distill.v.03"
+        },
+        {
+          "word": "derive",
+          "distance": 0.33333333333333337,
+          "synset": "derive.v.04"
+        },
+        {
+          "word": "froth",
+          "distance": 0.33333333333333337,
+          "synset": "froth.v.02"
+        },
+        {
+          "word": "lay down",
+          "distance": 0.33333333333333337,
+          "synset": "lay_down.v.01"
+        },
+        {
+          "word": "puncture",
+          "distance": 0.33333333333333337,
+          "synset": "puncture.v.02"
+        },
+        {
+          "word": "twine",
+          "distance": 0.33333333333333337,
+          "synset": "twine.v.03"
+        },
+        {
+          "word": "cleave",
+          "distance": 0.33333333333333337,
+          "synset": "cleave.v.02"
+        },
+        {
+          "word": "track",
+          "distance": 0.33333333333333337,
+          "synset": "track.v.05"
+        },
+        {
+          "word": "institute",
+          "distance": 0.33333333333333337,
+          "synset": "institute.v.02"
+        },
+        {
+          "word": "short-circuit",
+          "distance": 0.33333333333333337,
+          "synset": "short-circuit.v.02"
+        },
+        {
+          "word": "re-create",
+          "distance": 0.33333333333333337,
+          "synset": "re-create.v.01"
+        },
+        {
+          "word": "grind",
+          "distance": 0.33333333333333337,
+          "synset": "grind.v.06"
+        },
+        {
+          "word": "generate",
+          "distance": 0.33333333333333337,
+          "synset": "generate.v.01"
+        },
+        {
+          "word": "originate",
+          "distance": 0.33333333333333337,
+          "synset": "originate.v.02"
+        },
+        {
+          "word": "give",
+          "distance": 0.33333333333333337,
+          "synset": "give.v.09"
+        },
+        {
+          "word": "bring",
+          "distance": 0.33333333333333337,
+          "synset": "bring.v.03"
+        }
+      ]
+    }
+  ],
+  "behind": [
+    {
+      "synset": "behind.r.01",
+      "definition": "in or to or toward the rear",
+      "synonyms": [],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "maybe": [
+    {
+      "synset": "possibly.r.01",
+      "definition": "by chance",
+      "synonyms": [
+        "possibly",
+        "perchance",
+        "perhaps",
+        "mayhap",
+        "peradventure"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "asleep": [
+    {
+      "synset": "asleep.a.01",
+      "definition": "in a state of sleep",
+      "synonyms": [],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    },
+    {
+      "synset": "asleep.r.01",
+      "definition": "into a sleeping state",
+      "synonyms": [],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "emotional": [
+    {
+      "synset": "emotional.a.01",
+      "definition": "determined or actuated by emotion rather than reason",
+      "synonyms": [],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "another": [
+    {
+      "synset": "another.s.01",
+      "definition": "any of various alternatives; some other",
+      "synonyms": [
+        "some_other"
+      ],
+      "closest_words": [
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.5,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ],
+  "wake": [
+    {
+      "synset": "wake.v.01",
+      "definition": "be awake, be alert, be there",
+      "synonyms": [],
+      "closest_words": [
+        "stay up",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag",
+        "treat",
+        "exercise",
+        "exhaust",
+        "fracture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "stay up",
+          "distance": 0.33333333333333337,
+          "synset": "stay_up.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.5,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.5,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.5,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.5,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.5,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.5,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.5,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.5,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.5,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.5,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.5,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.5,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.5,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.5,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.5,
+          "synset": "gag.v.07"
+        },
+        {
+          "word": "treat",
+          "distance": 0.5,
+          "synset": "treat.v.03"
+        },
+        {
+          "word": "exercise",
+          "distance": 0.5,
+          "synset": "exercise.v.04"
+        },
+        {
+          "word": "exhaust",
+          "distance": 0.5,
+          "synset": "exhaust.v.05"
+        },
+        {
+          "word": "fracture",
+          "distance": 0.5,
+          "synset": "fracture.v.05"
+        }
+      ]
+    }
+  ]
+}

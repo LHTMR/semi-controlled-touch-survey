@@ -1,0 +1,135 @@
+{
+  "cuddling": [
+    {
+      "synset": "cuddle.v.02",
+      "definition": "hold (a person or thing) close, as for affection, comfort, or warmth",
+      "synonyms": [
+        "cuddle"
+      ],
+      "closest_words": [
+        "embrace",
+        "clinch",
+        "interlock",
+        "clasp",
+        "grasp",
+        "latch on",
+        "cling",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in"
+      ],
+      "closest_words_info": [
+        {
+          "word": "embrace",
+          "distance": 0.11111111111111116,
+          "synset": "embrace.v.02"
+        },
+        {
+          "word": "clinch",
+          "distance": 0.19999999999999996,
+          "synset": "clinch.v.04"
+        },
+        {
+          "word": "interlock",
+          "distance": 0.19999999999999996,
+          "synset": "interlock.v.03"
+        },
+        {
+          "word": "clasp",
+          "distance": 0.25,
+          "synset": "clasp.v.01"
+        },
+        {
+          "word": "grasp",
+          "distance": 0.4285714285714286,
+          "synset": "grasp.v.01"
+        },
+        {
+          "word": "latch on",
+          "distance": 0.5,
+          "synset": "latch_on.v.01"
+        },
+        {
+          "word": "cling",
+          "distance": 0.5,
+          "synset": "cling.v.03"
+        },
+        {
+          "word": "entity",
+          "distance": 0.75,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.75,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.75,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.75,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.75,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.75,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.75,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.75,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.75,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.75,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.75,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.75,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.75,
+          "synset": "lie_in.v.02"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "gentle": [
+    {
+      "synset": "pacify.v.01",
+      "definition": "cause to be more favorably inclined; gain the good will of",
+      "synonyms": [
+        "pacify",
+        "lenify",
+        "conciliate",
+        "assuage",
+        "appease",
+        "mollify",
+        "placate",
+        "gruntle"
+      ],
+      "closest_words": [
+        "calm",
+        "lull",
+        "compose",
+        "reassure",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag"
+      ],
+      "closest_words_info": [
+        {
+          "word": "calm",
+          "distance": 0.19999999999999996,
+          "synset": "calm.v.01"
+        },
+        {
+          "word": "lull",
+          "distance": 0.33333333333333337,
+          "synset": "lull.v.01"
+        },
+        {
+          "word": "compose",
+          "distance": 0.33333333333333337,
+          "synset": "compose.v.05"
+        },
+        {
+          "word": "reassure",
+          "distance": 0.33333333333333337,
+          "synset": "reassure.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6666666666666667,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6666666666666667,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6666666666666667,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6666666666666667,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6666666666666667,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6666666666666667,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6666666666666667,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6666666666666667,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6666666666666667,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6666666666666667,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6666666666666667,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6666666666666667,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6666666666666667,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6666666666666667,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6666666666666667,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.6666666666666667,
+          "synset": "gag.v.07"
+        }
+      ]
+    }
+  ],
+  "reassured": [
+    {
+      "synset": "reassure.v.01",
+      "definition": "cause to feel sure; give reassurance to",
+      "synonyms": [
+        "reassure",
+        "assure"
+      ],
+      "closest_words": [
+        "calm",
+        "lull",
+        "compose",
+        "pacify",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear",
+        "lie in",
+        "carry to term",
+        "keep down",
+        "gag"
+      ],
+      "closest_words_info": [
+        {
+          "word": "calm",
+          "distance": 0.19999999999999996,
+          "synset": "calm.v.01"
+        },
+        {
+          "word": "lull",
+          "distance": 0.33333333333333337,
+          "synset": "lull.v.01"
+        },
+        {
+          "word": "compose",
+          "distance": 0.33333333333333337,
+          "synset": "compose.v.05"
+        },
+        {
+          "word": "pacify",
+          "distance": 0.33333333333333337,
+          "synset": "pacify.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6666666666666667,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6666666666666667,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6666666666666667,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6666666666666667,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6666666666666667,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6666666666666667,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6666666666666667,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6666666666666667,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6666666666666667,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6666666666666667,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6666666666666667,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6666666666666667,
+          "synset": "wear.v.01"
+        },
+        {
+          "word": "lie in",
+          "distance": 0.6666666666666667,
+          "synset": "lie_in.v.02"
+        },
+        {
+          "word": "carry to term",
+          "distance": 0.6666666666666667,
+          "synset": "carry_to_term.v.01"
+        },
+        {
+          "word": "keep down",
+          "distance": 0.6666666666666667,
+          "synset": "keep_down.v.03"
+        },
+        {
+          "word": "gag",
+          "distance": 0.6666666666666667,
+          "synset": "gag.v.07"
+        }
+      ]
+    }
+  ]
+}

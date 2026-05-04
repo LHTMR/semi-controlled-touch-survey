@@ -1,0 +1,142 @@
+{
+  "checking": [
+    {
+      "synset": "check.v.01",
+      "definition": "examine so as to determine accuracy, quality, or condition",
+      "synonyms": [
+        "check",
+        "check_up_on",
+        "look_into",
+        "check_out",
+        "suss_out",
+        "check_over",
+        "go_over",
+        "check_into"
+      ],
+      "closest_words": [
+        "watch",
+        "keep tabs on",
+        "guard",
+        "invigilate",
+        "patrol",
+        "stand guard",
+        "baby-sit",
+        "baby-sit",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep",
+        "nod",
+        "fall asleep",
+        "go to bed",
+        "get up",
+        "wake",
+        "keep up",
+        "wear"
+      ],
+      "closest_words_info": [
+        {
+          "word": "watch",
+          "distance": 0.19999999999999996,
+          "synset": "watch.v.02"
+        },
+        {
+          "word": "keep tabs on",
+          "distance": 0.33333333333333337,
+          "synset": "keep_tabs_on.v.01"
+        },
+        {
+          "word": "guard",
+          "distance": 0.33333333333333337,
+          "synset": "guard.v.01"
+        },
+        {
+          "word": "invigilate",
+          "distance": 0.33333333333333337,
+          "synset": "invigilate.v.01"
+        },
+        {
+          "word": "patrol",
+          "distance": 0.4285714285714286,
+          "synset": "patrol.v.01"
+        },
+        {
+          "word": "stand guard",
+          "distance": 0.4285714285714286,
+          "synset": "stand_guard.v.01"
+        },
+        {
+          "word": "baby-sit",
+          "distance": 0.4285714285714286,
+          "synset": "baby-sit.v.02"
+        },
+        {
+          "word": "baby-sit",
+          "distance": 0.4285714285714286,
+          "synset": "baby-sit.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6,
+          "synset": "oversleep.v.01"
+        },
+        {
+          "word": "nod",
+          "distance": 0.6,
+          "synset": "nod.v.03"
+        },
+        {
+          "word": "fall asleep",
+          "distance": 0.6,
+          "synset": "fall_asleep.v.01"
+        },
+        {
+          "word": "go to bed",
+          "distance": 0.6,
+          "synset": "go_to_bed.v.01"
+        },
+        {
+          "word": "get up",
+          "distance": 0.6,
+          "synset": "get_up.v.02"
+        },
+        {
+          "word": "wake",
+          "distance": 0.6,
+          "synset": "wake.v.01"
+        },
+        {
+          "word": "keep up",
+          "distance": 0.6,
+          "synset": "keep_up.v.05"
+        },
+        {
+          "word": "wear",
+          "distance": 0.6,
+          "synset": "wear.v.01"
+        }
+      ]
+    }
+  ]
+}

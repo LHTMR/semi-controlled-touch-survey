@@ -1,0 +1,10 @@
+lack.n.01
+comfort.n.01
+feeling.n.01
+need.n.01
+situation.n.01
+disturbance.n.02
+life.n.01
+pain.n.02
+problem.n.01
+affection.n.01

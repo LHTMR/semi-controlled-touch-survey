@@ -1,0 +1,11 @@
+arm.n.01
+hand.n.01
+need.n.02
+back.n.01
+shoulder.n.01
+forearm.n.01
+finger.n.01
+leg.n.01
+face.n.01
+skin.n.01
+head.n.01

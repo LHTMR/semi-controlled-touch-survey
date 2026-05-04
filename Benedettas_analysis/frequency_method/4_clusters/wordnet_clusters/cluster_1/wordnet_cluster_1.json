@@ -1,0 +1,17 @@
+{
+  "tv": [
+    "television_receiver.n.01"
+  ],
+  "couch": [
+    "sofa.n.01"
+  ],
+  "bed": [
+    "bed.n.01"
+  ],
+  "table": [
+    "table.n.03"
+  ],
+  "phone": [
+    "telephone.n.01"
+  ]
+}

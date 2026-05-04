@@ -1,0 +1,538 @@
+{
+  "family": [
+    {
+      "synset": "family.n.01",
+      "definition": "a social unit living together",
+      "synonyms": [
+        "household",
+        "house",
+        "home",
+        "menage"
+      ],
+      "closest_words": [
+        "broken home",
+        "nuclear family",
+        "extended family",
+        "foster family",
+        "foster home",
+        "menage a trois",
+        "unit",
+        "klavern",
+        "administrative unit",
+        "company",
+        "general delivery",
+        "instrumentality",
+        "intensive care unit",
+        "member",
+        "military unit",
+        "task force",
+        "team",
+        "den",
+        "gang",
+        "combination"
+      ],
+      "closest_words_info": [
+        {
+          "word": "broken home",
+          "distance": 0.06666666666666665,
+          "synset": "broken_home.n.01"
+        },
+        {
+          "word": "nuclear family",
+          "distance": 0.06666666666666665,
+          "synset": "nuclear_family.n.01"
+        },
+        {
+          "word": "extended family",
+          "distance": 0.06666666666666665,
+          "synset": "extended_family.n.01"
+        },
+        {
+          "word": "foster family",
+          "distance": 0.06666666666666665,
+          "synset": "foster_family.n.01"
+        },
+        {
+          "word": "foster home",
+          "distance": 0.06666666666666665,
+          "synset": "foster_home.n.01"
+        },
+        {
+          "word": "menage a trois",
+          "distance": 0.06666666666666665,
+          "synset": "menage_a_trois.n.01"
+        },
+        {
+          "word": "unit",
+          "distance": 0.07692307692307687,
+          "synset": "unit.n.03"
+        },
+        {
+          "word": "klavern",
+          "distance": 0.1428571428571429,
+          "synset": "klavern.n.01"
+        },
+        {
+          "word": "administrative unit",
+          "distance": 0.1428571428571429,
+          "synset": "administrative_unit.n.01"
+        },
+        {
+          "word": "company",
+          "distance": 0.1428571428571429,
+          "synset": "company.n.09"
+        },
+        {
+          "word": "general delivery",
+          "distance": 0.1428571428571429,
+          "synset": "general_delivery.n.01"
+        },
+        {
+          "word": "instrumentality",
+          "distance": 0.1428571428571429,
+          "synset": "instrumentality.n.01"
+        },
+        {
+          "word": "intensive care unit",
+          "distance": 0.1428571428571429,
+          "synset": "intensive_care_unit.n.01"
+        },
+        {
+          "word": "member",
+          "distance": 0.1428571428571429,
+          "synset": "member.n.04"
+        },
+        {
+          "word": "military unit",
+          "distance": 0.1428571428571429,
+          "synset": "military_unit.n.01"
+        },
+        {
+          "word": "task force",
+          "distance": 0.1428571428571429,
+          "synset": "task_force.n.02"
+        },
+        {
+          "word": "team",
+          "distance": 0.1428571428571429,
+          "synset": "team.n.01"
+        },
+        {
+          "word": "den",
+          "distance": 0.1428571428571429,
+          "synset": "den.n.03"
+        },
+        {
+          "word": "gang",
+          "distance": 0.1428571428571429,
+          "synset": "gang.n.03"
+        },
+        {
+          "word": "combination",
+          "distance": 0.1428571428571429,
+          "synset": "combination.n.04"
+        }
+      ]
+    },
+    {
+      "synset": "family.n.04",
+      "definition": "people descended from a common ancestor",
+      "synonyms": [
+        "family_line",
+        "folk",
+        "kinfolk",
+        "kinsfolk",
+        "sept",
+        "phratry"
+      ],
+      "closest_words": [
+        "people",
+        "homefolk",
+        "house",
+        "dynasty",
+        "name",
+        "lineage",
+        "royalty",
+        "Bourbon",
+        "Capetian dynasty",
+        "Carolingian dynasty",
+        "Flavian dynasty",
+        "Han",
+        "Hanover",
+        "Habsburg",
+        "Hohenzollern",
+        "Lancaster",
+        "Liao",
+        "Merovingian",
+        "Ming",
+        "Ottoman"
+      ],
+      "closest_words_info": [
+        {
+          "word": "people",
+          "distance": 0.05882352941176472,
+          "synset": "people.n.03"
+        },
+        {
+          "word": "homefolk",
+          "distance": 0.05882352941176472,
+          "synset": "homefolk.n.01"
+        },
+        {
+          "word": "house",
+          "distance": 0.05882352941176472,
+          "synset": "house.n.06"
+        },
+        {
+          "word": "dynasty",
+          "distance": 0.05882352941176472,
+          "synset": "dynasty.n.01"
+        },
+        {
+          "word": "name",
+          "distance": 0.05882352941176472,
+          "synset": "name.n.03"
+        },
+        {
+          "word": "lineage",
+          "distance": 0.06666666666666665,
+          "synset": "lineage.n.01"
+        },
+        {
+          "word": "royalty",
+          "distance": 0.11111111111111116,
+          "synset": "royalty.n.02"
+        },
+        {
+          "word": "Bourbon",
+          "distance": 0.11111111111111116,
+          "synset": "bourbon.n.04"
+        },
+        {
+          "word": "Capetian dynasty",
+          "distance": 0.11111111111111116,
+          "synset": "capetian_dynasty.n.01"
+        },
+        {
+          "word": "Carolingian dynasty",
+          "distance": 0.11111111111111116,
+          "synset": "carolingian_dynasty.n.01"
+        },
+        {
+          "word": "Flavian dynasty",
+          "distance": 0.11111111111111116,
+          "synset": "flavian_dynasty.n.01"
+        },
+        {
+          "word": "Han",
+          "distance": 0.11111111111111116,
+          "synset": "han.n.01"
+        },
+        {
+          "word": "Hanover",
+          "distance": 0.11111111111111116,
+          "synset": "hanover.n.02"
+        },
+        {
+          "word": "Habsburg",
+          "distance": 0.11111111111111116,
+          "synset": "habsburg.n.01"
+        },
+        {
+          "word": "Hohenzollern",
+          "distance": 0.11111111111111116,
+          "synset": "hohenzollern.n.01"
+        },
+        {
+          "word": "Lancaster",
+          "distance": 0.11111111111111116,
+          "synset": "lancaster.n.02"
+        },
+        {
+          "word": "Liao",
+          "distance": 0.11111111111111116,
+          "synset": "liao.n.01"
+        },
+        {
+          "word": "Merovingian",
+          "distance": 0.11111111111111116,
+          "synset": "merovingian.n.02"
+        },
+        {
+          "word": "Ming",
+          "distance": 0.11111111111111116,
+          "synset": "ming.n.01"
+        },
+        {
+          "word": "Ottoman",
+          "distance": 0.11111111111111116,
+          "synset": "ottoman.n.02"
+        }
+      ]
+    }
+  ],
+  "table": [
+    {
+      "synset": "table.n.01",
+      "definition": "a set of data arranged in rows and columns",
+      "synonyms": [
+        "tabular_array"
+      ],
+      "closest_words": [
+        "correlation table",
+        "contents",
+        "actuarial table",
+        "calendar",
+        "file allocation table",
+        "periodic table",
+        "array",
+        "mortality table",
+        "perpetual calendar",
+        "matrix",
+        "row",
+        "column",
+        "panoply",
+        "bank",
+        "spectrum",
+        "arrangement",
+        "correlation matrix",
+        "dot matrix",
+        "square matrix",
+        "real matrix"
+      ],
+      "closest_words_info": [
+        {
+          "word": "correlation table",
+          "distance": 0.07692307692307687,
+          "synset": "correlation_table.n.01"
+        },
+        {
+          "word": "contents",
+          "distance": 0.07692307692307687,
+          "synset": "contents.n.01"
+        },
+        {
+          "word": "actuarial table",
+          "distance": 0.07692307692307687,
+          "synset": "actuarial_table.n.01"
+        },
+        {
+          "word": "calendar",
+          "distance": 0.07692307692307687,
+          "synset": "calendar.n.03"
+        },
+        {
+          "word": "file allocation table",
+          "distance": 0.07692307692307687,
+          "synset": "file_allocation_table.n.01"
+        },
+        {
+          "word": "periodic table",
+          "distance": 0.07692307692307687,
+          "synset": "periodic_table.n.01"
+        },
+        {
+          "word": "array",
+          "distance": 0.09090909090909094,
+          "synset": "array.n.01"
+        },
+        {
+          "word": "mortality table",
+          "distance": 0.1428571428571429,
+          "synset": "mortality_table.n.01"
+        },
+        {
+          "word": "perpetual calendar",
+          "distance": 0.1428571428571429,
+          "synset": "perpetual_calendar.n.01"
+        },
+        {
+          "word": "matrix",
+          "distance": 0.16666666666666663,
+          "synset": "matrix.n.01"
+        },
+        {
+          "word": "row",
+          "distance": 0.16666666666666663,
+          "synset": "row.n.05"
+        },
+        {
+          "word": "column",
+          "distance": 0.16666666666666663,
+          "synset": "column.n.03"
+        },
+        {
+          "word": "panoply",
+          "distance": 0.16666666666666663,
+          "synset": "panoply.n.01"
+        },
+        {
+          "word": "bank",
+          "distance": 0.16666666666666663,
+          "synset": "bank.n.04"
+        },
+        {
+          "word": "spectrum",
+          "distance": 0.16666666666666663,
+          "synset": "spectrum.n.01"
+        },
+        {
+          "word": "arrangement",
+          "distance": 0.19999999999999996,
+          "synset": "arrangement.n.02"
+        },
+        {
+          "word": "correlation matrix",
+          "distance": 0.23076923076923073,
+          "synset": "correlation_matrix.n.01"
+        },
+        {
+          "word": "dot matrix",
+          "distance": 0.23076923076923073,
+          "synset": "dot_matrix.n.01"
+        },
+        {
+          "word": "square matrix",
+          "distance": 0.23076923076923073,
+          "synset": "square_matrix.n.01"
+        },
+        {
+          "word": "real matrix",
+          "distance": 0.23076923076923073,
+          "synset": "real_matrix.n.01"
+        }
+      ]
+    }
+  ],
+  "people": [
+    {
+      "synset": "people.n.01",
+      "definition": "(plural) any group of human beings (men or women or children) collectively",
+      "synonyms": [],
+      "closest_words": [
+        "peoples",
+        "age group",
+        "ancients",
+        "baffled",
+        "blind",
+        "blood",
+        "brave",
+        "timid",
+        "business people",
+        "damned",
+        "dead",
+        "living",
+        "deaf",
+        "defeated",
+        "disabled",
+        "doomed",
+        "enemy",
+        "episcopacy",
+        "folk",
+        "free"
+      ],
+      "closest_words_info": [
+        {
+          "word": "peoples",
+          "distance": 0.11111111111111116,
+          "synset": "peoples.n.01"
+        },
+        {
+          "word": "age group",
+          "distance": 0.11111111111111116,
+          "synset": "age_group.n.01"
+        },
+        {
+          "word": "ancients",
+          "distance": 0.11111111111111116,
+          "synset": "ancients.n.01"
+        },
+        {
+          "word": "baffled",
+          "distance": 0.11111111111111116,
+          "synset": "baffled.n.01"
+        },
+        {
+          "word": "blind",
+          "distance": 0.11111111111111116,
+          "synset": "blind.n.01"
+        },
+        {
+          "word": "blood",
+          "distance": 0.11111111111111116,
+          "synset": "blood.n.05"
+        },
+        {
+          "word": "brave",
+          "distance": 0.11111111111111116,
+          "synset": "brave.n.02"
+        },
+        {
+          "word": "timid",
+          "distance": 0.11111111111111116,
+          "synset": "timid.n.01"
+        },
+        {
+          "word": "business people",
+          "distance": 0.11111111111111116,
+          "synset": "business_people.n.01"
+        },
+        {
+          "word": "damned",
+          "distance": 0.11111111111111116,
+          "synset": "damned.n.01"
+        },
+        {
+          "word": "dead",
+          "distance": 0.11111111111111116,
+          "synset": "dead.n.01"
+        },
+        {
+          "word": "living",
+          "distance": 0.11111111111111116,
+          "synset": "living.n.02"
+        },
+        {
+          "word": "deaf",
+          "distance": 0.11111111111111116,
+          "synset": "deaf.n.01"
+        },
+        {
+          "word": "defeated",
+          "distance": 0.11111111111111116,
+          "synset": "defeated.n.01"
+        },
+        {
+          "word": "disabled",
+          "distance": 0.11111111111111116,
+          "synset": "disabled.n.01"
+        },
+        {
+          "word": "doomed",
+          "distance": 0.11111111111111116,
+          "synset": "doomed.n.01"
+        },
+        {
+          "word": "enemy",
+          "distance": 0.11111111111111116,
+          "synset": "enemy.n.03"
+        },
+        {
+          "word": "episcopacy",
+          "distance": 0.11111111111111116,
+          "synset": "episcopacy.n.01"
+        },
+        {
+          "word": "folk",
+          "distance": 0.11111111111111116,
+          "synset": "folk.n.01"
+        },
+        {
+          "word": "free",
+          "distance": 0.11111111111111116,
+          "synset": "free.n.01"
+        }
+      ]
+    }
+  ]
+}

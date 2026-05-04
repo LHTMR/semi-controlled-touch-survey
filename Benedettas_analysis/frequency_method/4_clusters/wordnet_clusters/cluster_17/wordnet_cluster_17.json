@@ -1,0 +1,57 @@
+{
+  "get": [
+    "get.v.01"
+  ],
+  "comforting": [
+    "comfort.v.01"
+  ],
+  "sad": [
+    "sad.a.01"
+  ],
+  "together": [
+    "together.s.01"
+  ],
+  "chilling": [
+    "chilling.s.01"
+  ],
+  "bad": [
+    "bad.a.01"
+  ],
+  "next": [
+    "following.s.02"
+  ],
+  "working": [
+    "work.v.02"
+  ],
+  "around": [
+    "about.r.03"
+  ],
+  "know": [
+    "know.v.01"
+  ],
+  "romantic": [
+    "amatory.s.01"
+  ],
+  "make": [
+    "make.v.03"
+  ],
+  "behind": [
+    "behind.r.01"
+  ],
+  "maybe": [
+    "possibly.r.01"
+  ],
+  "asleep": [
+    "asleep.a.01",
+    "asleep.r.01"
+  ],
+  "emotional": [
+    "emotional.a.01"
+  ],
+  "another": [
+    "another.s.01"
+  ],
+  "wake": [
+    "wake.v.01"
+  ]
+}

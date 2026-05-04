@@ -1,0 +1,35 @@
+{
+  "arm": [
+    "arm.n.01"
+  ],
+  "hand": [
+    "hand.n.01"
+  ],
+  "wants": [
+    "need.n.02"
+  ],
+  "back": [
+    "back.n.01"
+  ],
+  "shoulder": [
+    "shoulder.n.01"
+  ],
+  "forearm": [
+    "forearm.n.01"
+  ],
+  "finger": [
+    "finger.n.01"
+  ],
+  "leg": [
+    "leg.n.01"
+  ],
+  "face": [
+    "face.n.01"
+  ],
+  "skin": [
+    "skin.n.01"
+  ],
+  "head": [
+    "head.n.01"
+  ]
+}

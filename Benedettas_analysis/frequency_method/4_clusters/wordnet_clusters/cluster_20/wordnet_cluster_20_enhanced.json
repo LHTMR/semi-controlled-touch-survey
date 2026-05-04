@@ -1,0 +1,135 @@
+{
+  "rubbing": [
+    {
+      "synset": "rub.v.01",
+      "definition": "move over something with pressure",
+      "synonyms": [
+        "rub"
+      ],
+      "closest_words": [
+        "brush",
+        "pumice",
+        "gauge",
+        "puree",
+        "rosin",
+        "sponge down",
+        "worry",
+        "scrub",
+        "scour",
+        "smear",
+        "scrape",
+        "wipe",
+        "grate",
+        "paw",
+        "holystone",
+        "resmudge",
+        "dust",
+        "sponge",
+        "squeegee",
+        "sweep"
+      ],
+      "closest_words_info": [
+        {
+          "word": "brush",
+          "distance": 0.19999999999999996,
+          "synset": "brush.v.01"
+        },
+        {
+          "word": "pumice",
+          "distance": 0.19999999999999996,
+          "synset": "pumice.v.01"
+        },
+        {
+          "word": "gauge",
+          "distance": 0.19999999999999996,
+          "synset": "gauge.v.02"
+        },
+        {
+          "word": "puree",
+          "distance": 0.19999999999999996,
+          "synset": "puree.v.01"
+        },
+        {
+          "word": "rosin",
+          "distance": 0.19999999999999996,
+          "synset": "rosin.v.01"
+        },
+        {
+          "word": "sponge down",
+          "distance": 0.19999999999999996,
+          "synset": "sponge_down.v.01"
+        },
+        {
+          "word": "worry",
+          "distance": 0.19999999999999996,
+          "synset": "worry.v.06"
+        },
+        {
+          "word": "scrub",
+          "distance": 0.19999999999999996,
+          "synset": "scrub.v.01"
+        },
+        {
+          "word": "scour",
+          "distance": 0.19999999999999996,
+          "synset": "scour.v.03"
+        },
+        {
+          "word": "smear",
+          "distance": 0.19999999999999996,
+          "synset": "smear.v.02"
+        },
+        {
+          "word": "scrape",
+          "distance": 0.19999999999999996,
+          "synset": "scrape.v.01"
+        },
+        {
+          "word": "wipe",
+          "distance": 0.19999999999999996,
+          "synset": "wipe.v.01"
+        },
+        {
+          "word": "grate",
+          "distance": 0.19999999999999996,
+          "synset": "grate.v.03"
+        },
+        {
+          "word": "paw",
+          "distance": 0.33333333333333337,
+          "synset": "paw.v.01"
+        },
+        {
+          "word": "holystone",
+          "distance": 0.33333333333333337,
+          "synset": "holystone.v.01"
+        },
+        {
+          "word": "resmudge",
+          "distance": 0.33333333333333337,
+          "synset": "resmudge.v.01"
+        },
+        {
+          "word": "dust",
+          "distance": 0.33333333333333337,
+          "synset": "dust.v.02"
+        },
+        {
+          "word": "sponge",
+          "distance": 0.33333333333333337,
+          "synset": "sponge.v.01"
+        },
+        {
+          "word": "squeegee",
+          "distance": 0.33333333333333337,
+          "synset": "squeegee.v.01"
+        },
+        {
+          "word": "sweep",
+          "distance": 0.33333333333333337,
+          "synset": "sweep.v.03"
+        }
+      ]
+    }
+  ]
+}

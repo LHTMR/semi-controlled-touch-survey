@@ -1,0 +1,271 @@
+{
+  "day": [
+    {
+      "synset": "day.n.01",
+      "definition": "time for Earth to make a complete rotation on its axis",
+      "synonyms": [
+        "twenty-four_hours",
+        "twenty-four_hour_period",
+        "24-hour_interval",
+        "solar_day",
+        "mean_solar_day"
+      ],
+      "closest_words": [
+        "tomorrow",
+        "today",
+        "yesterday",
+        "morrow",
+        "eve",
+        "date",
+        "date",
+        "time unit",
+        "maturity",
+        "future date",
+        "rain date",
+        "sell-by date",
+        "D-day",
+        "birthday",
+        "night",
+        "mean time",
+        "terrestrial time",
+        "month",
+        "sidereal day",
+        "bell"
+      ],
+      "closest_words_info": [
+        {
+          "word": "tomorrow",
+          "distance": 0.09090909090909094,
+          "synset": "tomorrow.n.01"
+        },
+        {
+          "word": "today",
+          "distance": 0.09090909090909094,
+          "synset": "today.n.02"
+        },
+        {
+          "word": "yesterday",
+          "distance": 0.09090909090909094,
+          "synset": "yesterday.n.01"
+        },
+        {
+          "word": "morrow",
+          "distance": 0.09090909090909094,
+          "synset": "morrow.n.01"
+        },
+        {
+          "word": "eve",
+          "distance": 0.09090909090909094,
+          "synset": "eve.n.02"
+        },
+        {
+          "word": "date",
+          "distance": 0.09090909090909094,
+          "synset": "date.n.01"
+        },
+        {
+          "word": "date",
+          "distance": 0.09090909090909094,
+          "synset": "date.n.07"
+        },
+        {
+          "word": "time unit",
+          "distance": 0.11111111111111116,
+          "synset": "time_unit.n.01"
+        },
+        {
+          "word": "maturity",
+          "distance": 0.16666666666666663,
+          "synset": "maturity.n.03"
+        },
+        {
+          "word": "future date",
+          "distance": 0.16666666666666663,
+          "synset": "future_date.n.01"
+        },
+        {
+          "word": "rain date",
+          "distance": 0.16666666666666663,
+          "synset": "rain_date.n.01"
+        },
+        {
+          "word": "sell-by date",
+          "distance": 0.16666666666666663,
+          "synset": "sell-by_date.n.01"
+        },
+        {
+          "word": "D-day",
+          "distance": 0.16666666666666663,
+          "synset": "d-day.n.01"
+        },
+        {
+          "word": "birthday",
+          "distance": 0.16666666666666663,
+          "synset": "birthday.n.02"
+        },
+        {
+          "word": "night",
+          "distance": 0.19999999999999996,
+          "synset": "night.n.04"
+        },
+        {
+          "word": "mean time",
+          "distance": 0.19999999999999996,
+          "synset": "mean_time.n.01"
+        },
+        {
+          "word": "terrestrial time",
+          "distance": 0.19999999999999996,
+          "synset": "terrestrial_time.n.01"
+        },
+        {
+          "word": "month",
+          "distance": 0.19999999999999996,
+          "synset": "month.n.02"
+        },
+        {
+          "word": "sidereal day",
+          "distance": 0.19999999999999996,
+          "synset": "sidereal_day.n.01"
+        },
+        {
+          "word": "bell",
+          "distance": 0.19999999999999996,
+          "synset": "bell.n.04"
+        }
+      ]
+    },
+    {
+      "synset": "day.n.04",
+      "definition": "the time after sunrise and before sunset while it is light outside",
+      "synonyms": [
+        "daytime",
+        "daylight"
+      ],
+      "closest_words": [
+        "afternoon",
+        "midafternoon",
+        "evening",
+        "time period",
+        "guest night",
+        "trial period",
+        "time frame",
+        "hours",
+        "downtime",
+        "uptime",
+        "work time",
+        "time off",
+        "bout",
+        "hospitalization",
+        "travel time",
+        "times",
+        "time",
+        "elapsed time",
+        "duration",
+        "week"
+      ],
+      "closest_words_info": [
+        {
+          "word": "afternoon",
+          "distance": 0.07692307692307687,
+          "synset": "afternoon.n.01"
+        },
+        {
+          "word": "midafternoon",
+          "distance": 0.07692307692307687,
+          "synset": "midafternoon.n.01"
+        },
+        {
+          "word": "evening",
+          "distance": 0.07692307692307687,
+          "synset": "evening.n.01"
+        },
+        {
+          "word": "time period",
+          "distance": 0.09090909090909094,
+          "synset": "time_period.n.01"
+        },
+        {
+          "word": "guest night",
+          "distance": 0.1428571428571429,
+          "synset": "guest_night.n.01"
+        },
+        {
+          "word": "trial period",
+          "distance": 0.16666666666666663,
+          "synset": "trial_period.n.01"
+        },
+        {
+          "word": "time frame",
+          "distance": 0.16666666666666663,
+          "synset": "time_frame.n.01"
+        },
+        {
+          "word": "hours",
+          "distance": 0.16666666666666663,
+          "synset": "hours.n.02"
+        },
+        {
+          "word": "downtime",
+          "distance": 0.16666666666666663,
+          "synset": "downtime.n.01"
+        },
+        {
+          "word": "uptime",
+          "distance": 0.16666666666666663,
+          "synset": "uptime.n.01"
+        },
+        {
+          "word": "work time",
+          "distance": 0.16666666666666663,
+          "synset": "work_time.n.01"
+        },
+        {
+          "word": "time off",
+          "distance": 0.16666666666666663,
+          "synset": "time_off.n.01"
+        },
+        {
+          "word": "bout",
+          "distance": 0.16666666666666663,
+          "synset": "bout.n.02"
+        },
+        {
+          "word": "hospitalization",
+          "distance": 0.16666666666666663,
+          "synset": "hospitalization.n.01"
+        },
+        {
+          "word": "travel time",
+          "distance": 0.16666666666666663,
+          "synset": "travel_time.n.01"
+        },
+        {
+          "word": "times",
+          "distance": 0.16666666666666663,
+          "synset": "times.n.01"
+        },
+        {
+          "word": "time",
+          "distance": 0.16666666666666663,
+          "synset": "time.n.03"
+        },
+        {
+          "word": "elapsed time",
+          "distance": 0.16666666666666663,
+          "synset": "elapsed_time.n.01"
+        },
+        {
+          "word": "duration",
+          "distance": 0.16666666666666663,
+          "synset": "duration.n.01"
+        },
+        {
+          "word": "week",
+          "distance": 0.16666666666666663,
+          "synset": "week.n.03"
+        }
+      ]
+    }
+  ]
+}

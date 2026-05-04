@@ -1,0 +1,5 @@
+television_receiver.n.01
+sofa.n.01
+bed.n.01
+table.n.03
+telephone.n.01

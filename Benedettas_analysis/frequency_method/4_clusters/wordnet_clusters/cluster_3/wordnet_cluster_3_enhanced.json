@@ -1,0 +1,135 @@
+{
+  "home": [
+    {
+      "synset": "home.n.01",
+      "definition": "where you live at a particular time",
+      "synonyms": [
+        "place"
+      ],
+      "closest_words": [
+        "home away from home",
+        "residence",
+        "domicile",
+        "address",
+        "mailing address",
+        "street address",
+        "business address",
+        "geographic point",
+        "box number",
+        "post-office box number",
+        "workplace",
+        "confluence",
+        "epicenter",
+        "magnetic pole",
+        "pole",
+        "port",
+        "point",
+        "bakery",
+        "beehive",
+        "brokerage house"
+      ],
+      "closest_words_info": [
+        {
+          "word": "home away from home",
+          "distance": 0.052631578947368474,
+          "synset": "home_away_from_home.n.01"
+        },
+        {
+          "word": "residence",
+          "distance": 0.05882352941176472,
+          "synset": "residence.n.01"
+        },
+        {
+          "word": "domicile",
+          "distance": 0.11111111111111116,
+          "synset": "domicile.n.01"
+        },
+        {
+          "word": "address",
+          "distance": 0.125,
+          "synset": "address.n.02"
+        },
+        {
+          "word": "mailing address",
+          "distance": 0.17647058823529416,
+          "synset": "mailing_address.n.01"
+        },
+        {
+          "word": "street address",
+          "distance": 0.17647058823529416,
+          "synset": "street_address.n.01"
+        },
+        {
+          "word": "business address",
+          "distance": 0.17647058823529416,
+          "synset": "business_address.n.01"
+        },
+        {
+          "word": "geographic point",
+          "distance": 0.19999999999999996,
+          "synset": "geographic_point.n.01"
+        },
+        {
+          "word": "box number",
+          "distance": 0.2222222222222222,
+          "synset": "box_number.n.02"
+        },
+        {
+          "word": "post-office box number",
+          "distance": 0.2222222222222222,
+          "synset": "post-office_box_number.n.01"
+        },
+        {
+          "word": "workplace",
+          "distance": 0.25,
+          "synset": "workplace.n.01"
+        },
+        {
+          "word": "confluence",
+          "distance": 0.25,
+          "synset": "confluence.n.01"
+        },
+        {
+          "word": "epicenter",
+          "distance": 0.25,
+          "synset": "epicenter.n.01"
+        },
+        {
+          "word": "magnetic pole",
+          "distance": 0.25,
+          "synset": "magnetic_pole.n.01"
+        },
+        {
+          "word": "pole",
+          "distance": 0.25,
+          "synset": "pole.n.07"
+        },
+        {
+          "word": "port",
+          "distance": 0.25,
+          "synset": "port.n.01"
+        },
+        {
+          "word": "point",
+          "distance": 0.2857142857142857,
+          "synset": "point.n.02"
+        },
+        {
+          "word": "bakery",
+          "distance": 0.2941176470588235,
+          "synset": "bakery.n.01"
+        },
+        {
+          "word": "beehive",
+          "distance": 0.2941176470588235,
+          "synset": "beehive.n.01"
+        },
+        {
+          "word": "brokerage house",
+          "distance": 0.2941176470588235,
+          "synset": "brokerage_house.n.01"
+        }
+      ]
+    }
+  ]
+}

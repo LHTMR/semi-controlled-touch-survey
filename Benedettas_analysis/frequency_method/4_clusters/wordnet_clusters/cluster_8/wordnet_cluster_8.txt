@@ -1,0 +1,4 @@
+attention.n.01
+like.n.01
+pain.n.01
+know.n.01

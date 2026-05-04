@@ -1,0 +1,68 @@
+{
+  "touching": [
+    "touch.n.01"
+  ],
+  "watching": [
+    "observation.n.02"
+  ],
+  "touch": [
+    "contact.n.08"
+  ],
+  "sitting": [
+    "sitting.n.02"
+  ],
+  "movie": [
+    "movie.n.01"
+  ],
+  "tapping": [
+    "tapping.n.01"
+  ],
+  "work": [
+    "employment.n.02"
+  ],
+  "telling": [
+    "relation.n.04"
+  ],
+  "playing": [
+    "playing.n.02"
+  ],
+  "waiting": [
+    "wait.n.02"
+  ],
+  "poking": [
+    "jab.n.01"
+  ],
+  "caress": [
+    "caress.n.01"
+  ],
+  "starts": [
+    "start.n.01"
+  ],
+  "going": [
+    "departure.n.01"
+  ],
+  "show": [
+    "show.n.01"
+  ],
+  "walk": [
+    "walk.n.01"
+  ],
+  "getting": [
+    "acquiring.n.01"
+  ],
+  "rub": [
+    "rub.n.02"
+  ],
+  "lying": [
+    "lying.n.01"
+  ],
+  "massage": [
+    "massage.n.01"
+  ],
+  "catch": [
+    "catch.n.09"
+  ],
+  "stroking": [
+    "stroke.n.05"
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "feel": [
+    {
+      "synset": "tactile_property.n.01",
+      "definition": "a property perceived by touch",
+      "synonyms": [
+        "tactile_property"
+      ],
+      "closest_words": [
+        "touch",
+        "texture",
+        "property",
+        "nap",
+        "smoothness",
+        "roughness",
+        "actinism",
+        "isotropy",
+        "anisotropy",
+        "characteristic",
+        "connectivity",
+        "duality",
+        "heredity",
+        "age",
+        "manner",
+        "constitution",
+        "consistency",
+        "disposition",
+        "optics",
+        "visual property"
+      ],
+      "closest_words_info": [
+        {
+          "word": "touch",
+          "distance": 0.09090909090909094,
+          "synset": "touch.n.12"
+        },
+        {
+          "word": "texture",
+          "distance": 0.09090909090909094,
+          "synset": "texture.n.01"
+        },
+        {
+          "word": "property",
+          "distance": 0.11111111111111116,
+          "synset": "property.n.02"
+        },
+        {
+          "word": "nap",
+          "distance": 0.16666666666666663,
+          "synset": "nap.n.02"
+        },
+        {
+          "word": "smoothness",
+          "distance": 0.16666666666666663,
+          "synset": "smoothness.n.01"
+        },
+        {
+          "word": "roughness",
+          "distance": 0.16666666666666663,
+          "synset": "roughness.n.01"
+        },
+        {
+          "word": "actinism",
+          "distance": 0.19999999999999996,
+          "synset": "actinism.n.01"
+        },
+        {
+          "word": "isotropy",
+          "distance": 0.19999999999999996,
+          "synset": "isotropy.n.01"
+        },
+        {
+          "word": "anisotropy",
+          "distance": 0.19999999999999996,
+          "synset": "anisotropy.n.01"
+        },
+        {
+          "word": "characteristic",
+          "distance": 0.19999999999999996,
+          "synset": "characteristic.n.04"
+        },
+        {
+          "word": "connectivity",
+          "distance": 0.19999999999999996,
+          "synset": "connectivity.n.01"
+        },
+        {
+          "word": "duality",
+          "distance": 0.19999999999999996,
+          "synset": "duality.n.02"
+        },
+        {
+          "word": "heredity",
+          "distance": 0.19999999999999996,
+          "synset": "heredity.n.02"
+        },
+        {
+          "word": "age",
+          "distance": 0.19999999999999996,
+          "synset": "age.n.01"
+        },
+        {
+          "word": "manner",
+          "distance": 0.19999999999999996,
+          "synset": "manner.n.01"
+        },
+        {
+          "word": "constitution",
+          "distance": 0.19999999999999996,
+          "synset": "constitution.n.04"
+        },
+        {
+          "word": "consistency",
+          "distance": 0.19999999999999996,
+          "synset": "consistency.n.01"
+        },
+        {
+          "word": "disposition",
+          "distance": 0.19999999999999996,
+          "synset": "disposition.n.04"
+        },
+        {
+          "word": "optics",
+          "distance": 0.19999999999999996,
+          "synset": "optics.n.02"
+        },
+        {
+          "word": "visual property",
+          "distance": 0.19999999999999996,
+          "synset": "visual_property.n.01"
+        }
+      ]
+    }
+  ],
+  "way": [
+    {
+      "synset": "manner.n.01",
+      "definition": "how something is done or how it happens",
+      "synonyms": [
+        "manner",
+        "mode",
+        "style",
+        "fashion"
+      ],
+      "closest_words": [
+        "artistic style",
+        "drape",
+        "fit",
+        "form",
+        "life style",
+        "setup",
+        "touch",
+        "wise",
+        "response",
+        "property",
+        "baroque",
+        "classical style",
+        "order",
+        "rococo",
+        "High Renaissance",
+        "treatment",
+        "fast lane",
+        "free living",
+        "vanity fair",
+        "common touch"
+      ],
+      "closest_words_info": [
+        {
+          "word": "artistic style",
+          "distance": 0.09090909090909094,
+          "synset": "artistic_style.n.01"
+        },
+        {
+          "word": "drape",
+          "distance": 0.09090909090909094,
+          "synset": "drape.n.02"
+        },
+        {
+          "word": "fit",
+          "distance": 0.09090909090909094,
+          "synset": "fit.n.03"
+        },
+        {
+          "word": "form",
+          "distance": 0.09090909090909094,
+          "synset": "form.n.11"
+        },
+        {
+          "word": "life style",
+          "distance": 0.09090909090909094,
+          "synset": "life_style.n.01"
+        },
+        {
+          "word": "setup",
+          "distance": 0.09090909090909094,
+          "synset": "setup.n.02"
+        },
+        {
+          "word": "touch",
+          "distance": 0.09090909090909094,
+          "synset": "touch.n.04"
+        },
+        {
+          "word": "wise",
+          "distance": 0.09090909090909094,
+          "synset": "wise.n.01"
+        },
+        {
+          "word": "response",
+          "distance": 0.09090909090909094,
+          "synset": "response.n.07"
+        },
+        {
+          "word": "property",
+          "distance": 0.11111111111111116,
+          "synset": "property.n.02"
+        },
+        {
+          "word": "baroque",
+          "distance": 0.16666666666666663,
+          "synset": "baroque.n.02"
+        },
+        {
+          "word": "classical style",
+          "distance": 0.16666666666666663,
+          "synset": "classical_style.n.01"
+        },
+        {
+          "word": "order",
+          "distance": 0.16666666666666663,
+          "synset": "order.n.14"
+        },
+        {
+          "word": "rococo",
+          "distance": 0.16666666666666663,
+          "synset": "rococo.n.01"
+        },
+        {
+          "word": "High Renaissance",
+          "distance": 0.16666666666666663,
+          "synset": "high_renaissance.n.01"
+        },
+        {
+          "word": "treatment",
+          "distance": 0.16666666666666663,
+          "synset": "treatment.n.03"
+        },
+        {
+          "word": "fast lane",
+          "distance": 0.16666666666666663,
+          "synset": "fast_lane.n.01"
+        },
+        {
+          "word": "free living",
+          "distance": 0.16666666666666663,
+          "synset": "free_living.n.01"
+        },
+        {
+          "word": "vanity fair",
+          "distance": 0.16666666666666663,
+          "synset": "vanity_fair.n.01"
+        },
+        {
+          "word": "common touch",
+          "distance": 0.16666666666666663,
+          "synset": "common_touch.n.01"
+        }
+      ]
+    }
+  ],
+  "calm": [
+    {
+      "synset": "composure.n.01",
+      "definition": "steadiness of mind under stress",
+      "synonyms": [
+        "composure",
+        "calmness",
+        "equanimity"
+      ],
+      "closest_words": [
+        "aplomb",
+        "repose",
+        "disposition",
+        "ataraxia",
+        "aloneness",
+        "animalism",
+        "bloodiness",
+        "heart",
+        "nervousness",
+        "esprit de corps",
+        "moodiness",
+        "blood",
+        "perfectionism",
+        "permissiveness",
+        "unpermissiveness",
+        "good nature",
+        "agreeableness",
+        "ill nature",
+        "disagreeableness",
+        "willingness"
+      ],
+      "closest_words_info": [
+        {
+          "word": "aplomb",
+          "distance": 0.06666666666666665,
+          "synset": "aplomb.n.01"
+        },
+        {
+          "word": "repose",
+          "distance": 0.06666666666666665,
+          "synset": "repose.n.03"
+        },
+        {
+          "word": "disposition",
+          "distance": 0.07692307692307687,
+          "synset": "disposition.n.01"
+        },
+        {
+          "word": "ataraxia",
+          "distance": 0.125,
+          "synset": "ataraxia.n.01"
+        },
+        {
+          "word": "aloneness",
+          "distance": 0.1428571428571429,
+          "synset": "aloneness.n.01"
+        },
+        {
+          "word": "animalism",
+          "distance": 0.1428571428571429,
+          "synset": "animalism.n.02"
+        },
+        {
+          "word": "bloodiness",
+          "distance": 0.1428571428571429,
+          "synset": "bloodiness.n.02"
+        },
+        {
+          "word": "heart",
+          "distance": 0.1428571428571429,
+          "synset": "heart.n.06"
+        },
+        {
+          "word": "nervousness",
+          "distance": 0.1428571428571429,
+          "synset": "nervousness.n.03"
+        },
+        {
+          "word": "esprit de corps",
+          "distance": 0.1428571428571429,
+          "synset": "esprit_de_corps.n.01"
+        },
+        {
+          "word": "moodiness",
+          "distance": 0.1428571428571429,
+          "synset": "moodiness.n.02"
+        },
+        {
+          "word": "blood",
+          "distance": 0.1428571428571429,
+          "synset": "blood.n.02"
+        },
+        {
+          "word": "perfectionism",
+          "distance": 0.1428571428571429,
+          "synset": "perfectionism.n.01"
+        },
+        {
+          "word": "permissiveness",
+          "distance": 0.1428571428571429,
+          "synset": "permissiveness.n.01"
+        },
+        {
+          "word": "unpermissiveness",
+          "distance": 0.1428571428571429,
+          "synset": "unpermissiveness.n.01"
+        },
+        {
+          "word": "good nature",
+          "distance": 0.1428571428571429,
+          "synset": "good_nature.n.01"
+        },
+        {
+          "word": "agreeableness",
+          "distance": 0.1428571428571429,
+          "synset": "agreeableness.n.02"
+        },
+        {
+          "word": "ill nature",
+          "distance": 0.1428571428571429,
+          "synset": "ill_nature.n.01"
+        },
+        {
+          "word": "disagreeableness",
+          "distance": 0.1428571428571429,
+          "synset": "disagreeableness.n.02"
+        },
+        {
+          "word": "willingness",
+          "distance": 0.1428571428571429,
+          "synset": "willingness.n.01"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "tapping": [
+    {
+      "synset": "tap.v.03",
+      "definition": "strike lightly",
+      "synonyms": [
+        "tap",
+        "tip"
+      ],
+      "closest_words": [
+        "percuss",
+        "strike",
+        "jab",
+        "dab",
+        "butt",
+        "knock",
+        "down",
+        "spur",
+        "peck",
+        "hew",
+        "sideswipe",
+        "whip",
+        "beat",
+        "beat",
+        "sclaff",
+        "clout",
+        "rap",
+        "chop",
+        "slap",
+        "sclaff"
+      ],
+      "closest_words_info": [
+        {
+          "word": "percuss",
+          "distance": 0.1428571428571429,
+          "synset": "percuss.v.01"
+        },
+        {
+          "word": "strike",
+          "distance": 0.19999999999999996,
+          "synset": "strike.v.01"
+        },
+        {
+          "word": "jab",
+          "distance": 0.33333333333333337,
+          "synset": "jab.v.02"
+        },
+        {
+          "word": "dab",
+          "distance": 0.33333333333333337,
+          "synset": "dab.v.02"
+        },
+        {
+          "word": "butt",
+          "distance": 0.33333333333333337,
+          "synset": "butt.v.02"
+        },
+        {
+          "word": "knock",
+          "distance": 0.33333333333333337,
+          "synset": "knock.v.01"
+        },
+        {
+          "word": "down",
+          "distance": 0.33333333333333337,
+          "synset": "down.v.05"
+        },
+        {
+          "word": "spur",
+          "distance": 0.33333333333333337,
+          "synset": "spur.v.03"
+        },
+        {
+          "word": "peck",
+          "distance": 0.33333333333333337,
+          "synset": "peck.v.01"
+        },
+        {
+          "word": "hew",
+          "distance": 0.33333333333333337,
+          "synset": "hew.v.02"
+        },
+        {
+          "word": "sideswipe",
+          "distance": 0.33333333333333337,
+          "synset": "sideswipe.v.01"
+        },
+        {
+          "word": "whip",
+          "distance": 0.33333333333333337,
+          "synset": "whip.v.04"
+        },
+        {
+          "word": "beat",
+          "distance": 0.33333333333333337,
+          "synset": "beat.v.03"
+        },
+        {
+          "word": "beat",
+          "distance": 0.33333333333333337,
+          "synset": "beat.v.11"
+        },
+        {
+          "word": "sclaff",
+          "distance": 0.33333333333333337,
+          "synset": "sclaff.v.02"
+        },
+        {
+          "word": "clout",
+          "distance": 0.33333333333333337,
+          "synset": "clout.v.01"
+        },
+        {
+          "word": "rap",
+          "distance": 0.33333333333333337,
+          "synset": "rap.v.01"
+        },
+        {
+          "word": "chop",
+          "distance": 0.33333333333333337,
+          "synset": "chop.v.04"
+        },
+        {
+          "word": "slap",
+          "distance": 0.33333333333333337,
+          "synset": "slap.v.01"
+        },
+        {
+          "word": "sclaff",
+          "distance": 0.33333333333333337,
+          "synset": "sclaff.v.01"
+        }
+      ]
+    }
+  ],
+  "patting": [
+    {
+      "synset": "dab.v.02",
+      "definition": "hit lightly",
+      "synonyms": [
+        "dab",
+        "pat"
+      ],
+      "closest_words": [
+        "strike",
+        "jab",
+        "butt",
+        "knock",
+        "down",
+        "spur",
+        "peck",
+        "tap",
+        "hew",
+        "sideswipe",
+        "whip",
+        "beat",
+        "beat",
+        "sclaff",
+        "clout",
+        "rap",
+        "chop",
+        "slap",
+        "sclaff",
+        "buffet"
+      ],
+      "closest_words_info": [
+        {
+          "word": "strike",
+          "distance": 0.19999999999999996,
+          "synset": "strike.v.01"
+        },
+        {
+          "word": "jab",
+          "distance": 0.33333333333333337,
+          "synset": "jab.v.02"
+        },
+        {
+          "word": "butt",
+          "distance": 0.33333333333333337,
+          "synset": "butt.v.02"
+        },
+        {
+          "word": "knock",
+          "distance": 0.33333333333333337,
+          "synset": "knock.v.01"
+        },
+        {
+          "word": "down",
+          "distance": 0.33333333333333337,
+          "synset": "down.v.05"
+        },
+        {
+          "word": "spur",
+          "distance": 0.33333333333333337,
+          "synset": "spur.v.03"
+        },
+        {
+          "word": "peck",
+          "distance": 0.33333333333333337,
+          "synset": "peck.v.01"
+        },
+        {
+          "word": "tap",
+          "distance": 0.33333333333333337,
+          "synset": "tap.v.03"
+        },
+        {
+          "word": "hew",
+          "distance": 0.33333333333333337,
+          "synset": "hew.v.02"
+        },
+        {
+          "word": "sideswipe",
+          "distance": 0.33333333333333337,
+          "synset": "sideswipe.v.01"
+        },
+        {
+          "word": "whip",
+          "distance": 0.33333333333333337,
+          "synset": "whip.v.04"
+        },
+        {
+          "word": "beat",
+          "distance": 0.33333333333333337,
+          "synset": "beat.v.03"
+        },
+        {
+          "word": "beat",
+          "distance": 0.33333333333333337,
+          "synset": "beat.v.11"
+        },
+        {
+          "word": "sclaff",
+          "distance": 0.33333333333333337,
+          "synset": "sclaff.v.02"
+        },
+        {
+          "word": "clout",
+          "distance": 0.33333333333333337,
+          "synset": "clout.v.01"
+        },
+        {
+          "word": "rap",
+          "distance": 0.33333333333333337,
+          "synset": "rap.v.01"
+        },
+        {
+          "word": "chop",
+          "distance": 0.33333333333333337,
+          "synset": "chop.v.04"
+        },
+        {
+          "word": "slap",
+          "distance": 0.33333333333333337,
+          "synset": "slap.v.01"
+        },
+        {
+          "word": "sclaff",
+          "distance": 0.33333333333333337,
+          "synset": "sclaff.v.01"
+        },
+        {
+          "word": "buffet",
+          "distance": 0.33333333333333337,
+          "synset": "buffet.v.01"
+        }
+      ]
+    }
+  ]
+}

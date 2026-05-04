@@ -1,0 +1,940 @@
+{
+  "talking": [
+    {
+      "synset": "talk.n.01",
+      "definition": "an exchange of ideas via conversation",
+      "synonyms": [
+        "talk"
+      ],
+      "closest_words": [
+        "cant",
+        "dialogue",
+        "heart-to-heart",
+        "shmooze",
+        "shop talk",
+        "wind",
+        "yak",
+        "conversation",
+        "prate",
+        "crossfire",
+        "phatic speech",
+        "exchange",
+        "chat",
+        "gossiping",
+        "nothings",
+        "commerce",
+        "colloquy",
+        "rap",
+        "rap session",
+        "second-hand speech"
+      ],
+      "closest_words_info": [
+        {
+          "word": "cant",
+          "distance": 0.06666666666666665,
+          "synset": "cant.n.04"
+        },
+        {
+          "word": "dialogue",
+          "distance": 0.06666666666666665,
+          "synset": "dialogue.n.01"
+        },
+        {
+          "word": "heart-to-heart",
+          "distance": 0.06666666666666665,
+          "synset": "heart-to-heart.n.01"
+        },
+        {
+          "word": "shmooze",
+          "distance": 0.06666666666666665,
+          "synset": "shmooze.n.01"
+        },
+        {
+          "word": "shop talk",
+          "distance": 0.06666666666666665,
+          "synset": "shop_talk.n.01"
+        },
+        {
+          "word": "wind",
+          "distance": 0.06666666666666665,
+          "synset": "wind.n.04"
+        },
+        {
+          "word": "yak",
+          "distance": 0.06666666666666665,
+          "synset": "yak.n.01"
+        },
+        {
+          "word": "conversation",
+          "distance": 0.07692307692307687,
+          "synset": "conversation.n.01"
+        },
+        {
+          "word": "prate",
+          "distance": 0.125,
+          "synset": "prate.n.01"
+        },
+        {
+          "word": "crossfire",
+          "distance": 0.1428571428571429,
+          "synset": "crossfire.n.01"
+        },
+        {
+          "word": "phatic speech",
+          "distance": 0.1428571428571429,
+          "synset": "phatic_speech.n.01"
+        },
+        {
+          "word": "exchange",
+          "distance": 0.1428571428571429,
+          "synset": "exchange.n.02"
+        },
+        {
+          "word": "chat",
+          "distance": 0.1428571428571429,
+          "synset": "chat.n.01"
+        },
+        {
+          "word": "gossiping",
+          "distance": 0.1428571428571429,
+          "synset": "gossiping.n.01"
+        },
+        {
+          "word": "nothings",
+          "distance": 0.1428571428571429,
+          "synset": "nothings.n.01"
+        },
+        {
+          "word": "commerce",
+          "distance": 0.1428571428571429,
+          "synset": "commerce.n.03"
+        },
+        {
+          "word": "colloquy",
+          "distance": 0.1428571428571429,
+          "synset": "colloquy.n.02"
+        },
+        {
+          "word": "rap",
+          "distance": 0.1428571428571429,
+          "synset": "rap.n.04"
+        },
+        {
+          "word": "rap session",
+          "distance": 0.1428571428571429,
+          "synset": "rap_session.n.01"
+        },
+        {
+          "word": "second-hand speech",
+          "distance": 0.1428571428571429,
+          "synset": "second-hand_speech.n.01"
+        }
+      ]
+    }
+  ],
+  "talk": [
+    {
+      "synset": "talk.n.01",
+      "definition": "an exchange of ideas via conversation",
+      "synonyms": [
+        "talking"
+      ],
+      "closest_words": [
+        "cant",
+        "dialogue",
+        "heart-to-heart",
+        "shmooze",
+        "shop talk",
+        "wind",
+        "yak",
+        "conversation",
+        "prate",
+        "crossfire",
+        "phatic speech",
+        "exchange",
+        "chat",
+        "gossiping",
+        "nothings",
+        "commerce",
+        "colloquy",
+        "rap",
+        "rap session",
+        "second-hand speech"
+      ],
+      "closest_words_info": [
+        {
+          "word": "cant",
+          "distance": 0.06666666666666665,
+          "synset": "cant.n.04"
+        },
+        {
+          "word": "dialogue",
+          "distance": 0.06666666666666665,
+          "synset": "dialogue.n.01"
+        },
+        {
+          "word": "heart-to-heart",
+          "distance": 0.06666666666666665,
+          "synset": "heart-to-heart.n.01"
+        },
+        {
+          "word": "shmooze",
+          "distance": 0.06666666666666665,
+          "synset": "shmooze.n.01"
+        },
+        {
+          "word": "shop talk",
+          "distance": 0.06666666666666665,
+          "synset": "shop_talk.n.01"
+        },
+        {
+          "word": "wind",
+          "distance": 0.06666666666666665,
+          "synset": "wind.n.04"
+        },
+        {
+          "word": "yak",
+          "distance": 0.06666666666666665,
+          "synset": "yak.n.01"
+        },
+        {
+          "word": "conversation",
+          "distance": 0.07692307692307687,
+          "synset": "conversation.n.01"
+        },
+        {
+          "word": "prate",
+          "distance": 0.125,
+          "synset": "prate.n.01"
+        },
+        {
+          "word": "crossfire",
+          "distance": 0.1428571428571429,
+          "synset": "crossfire.n.01"
+        },
+        {
+          "word": "phatic speech",
+          "distance": 0.1428571428571429,
+          "synset": "phatic_speech.n.01"
+        },
+        {
+          "word": "exchange",
+          "distance": 0.1428571428571429,
+          "synset": "exchange.n.02"
+        },
+        {
+          "word": "chat",
+          "distance": 0.1428571428571429,
+          "synset": "chat.n.01"
+        },
+        {
+          "word": "gossiping",
+          "distance": 0.1428571428571429,
+          "synset": "gossiping.n.01"
+        },
+        {
+          "word": "nothings",
+          "distance": 0.1428571428571429,
+          "synset": "nothings.n.01"
+        },
+        {
+          "word": "commerce",
+          "distance": 0.1428571428571429,
+          "synset": "commerce.n.03"
+        },
+        {
+          "word": "colloquy",
+          "distance": 0.1428571428571429,
+          "synset": "colloquy.n.02"
+        },
+        {
+          "word": "rap",
+          "distance": 0.1428571428571429,
+          "synset": "rap.n.04"
+        },
+        {
+          "word": "rap session",
+          "distance": 0.1428571428571429,
+          "synset": "rap_session.n.01"
+        },
+        {
+          "word": "second-hand speech",
+          "distance": 0.1428571428571429,
+          "synset": "second-hand_speech.n.01"
+        }
+      ]
+    }
+  ],
+  "conversation": [
+    {
+      "synset": "conversation.n.01",
+      "definition": "the use of speech for informal exchange of views or ideas or information etc.",
+      "synonyms": [],
+      "closest_words": [
+        "crossfire",
+        "phatic speech",
+        "exchange",
+        "chat",
+        "gossiping",
+        "talk",
+        "nothings",
+        "commerce",
+        "colloquy",
+        "rap",
+        "rap session",
+        "second-hand speech",
+        "table talk",
+        "telephone conversation",
+        "tete-a-tete",
+        "speech",
+        "chitchat",
+        "scandalmongering",
+        "cant",
+        "dialogue"
+      ],
+      "closest_words_info": [
+        {
+          "word": "crossfire",
+          "distance": 0.07692307692307687,
+          "synset": "crossfire.n.01"
+        },
+        {
+          "word": "phatic speech",
+          "distance": 0.07692307692307687,
+          "synset": "phatic_speech.n.01"
+        },
+        {
+          "word": "exchange",
+          "distance": 0.07692307692307687,
+          "synset": "exchange.n.02"
+        },
+        {
+          "word": "chat",
+          "distance": 0.07692307692307687,
+          "synset": "chat.n.01"
+        },
+        {
+          "word": "gossiping",
+          "distance": 0.07692307692307687,
+          "synset": "gossiping.n.01"
+        },
+        {
+          "word": "talk",
+          "distance": 0.07692307692307687,
+          "synset": "talk.n.01"
+        },
+        {
+          "word": "nothings",
+          "distance": 0.07692307692307687,
+          "synset": "nothings.n.01"
+        },
+        {
+          "word": "commerce",
+          "distance": 0.07692307692307687,
+          "synset": "commerce.n.03"
+        },
+        {
+          "word": "colloquy",
+          "distance": 0.07692307692307687,
+          "synset": "colloquy.n.02"
+        },
+        {
+          "word": "rap",
+          "distance": 0.07692307692307687,
+          "synset": "rap.n.04"
+        },
+        {
+          "word": "rap session",
+          "distance": 0.07692307692307687,
+          "synset": "rap_session.n.01"
+        },
+        {
+          "word": "second-hand speech",
+          "distance": 0.07692307692307687,
+          "synset": "second-hand_speech.n.01"
+        },
+        {
+          "word": "table talk",
+          "distance": 0.07692307692307687,
+          "synset": "table_talk.n.01"
+        },
+        {
+          "word": "telephone conversation",
+          "distance": 0.07692307692307687,
+          "synset": "telephone_conversation.n.01"
+        },
+        {
+          "word": "tete-a-tete",
+          "distance": 0.07692307692307687,
+          "synset": "tete-a-tete.n.01"
+        },
+        {
+          "word": "speech",
+          "distance": 0.09090909090909094,
+          "synset": "speech.n.02"
+        },
+        {
+          "word": "chitchat",
+          "distance": 0.1428571428571429,
+          "synset": "chitchat.n.01"
+        },
+        {
+          "word": "scandalmongering",
+          "distance": 0.1428571428571429,
+          "synset": "scandalmongering.n.01"
+        },
+        {
+          "word": "cant",
+          "distance": 0.1428571428571429,
+          "synset": "cant.n.04"
+        },
+        {
+          "word": "dialogue",
+          "distance": 0.1428571428571429,
+          "synset": "dialogue.n.01"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "synset": "news.n.01",
+      "definition": "information about recent and important events",
+      "synonyms": [
+        "intelligence",
+        "tidings",
+        "word"
+      ],
+      "closest_words": [
+        "good word",
+        "latest",
+        "update",
+        "information",
+        "ammunition",
+        "factoid",
+        "misinformation",
+        "material",
+        "details",
+        "fact",
+        "format",
+        "gen",
+        "database",
+        "news",
+        "nuts and bolts",
+        "intelligence",
+        "confirmation",
+        "insider information",
+        "secret",
+        "secret"
+      ],
+      "closest_words_info": [
+        {
+          "word": "good word",
+          "distance": 0.07692307692307687,
+          "synset": "good_word.n.02"
+        },
+        {
+          "word": "latest",
+          "distance": 0.07692307692307687,
+          "synset": "latest.n.01"
+        },
+        {
+          "word": "update",
+          "distance": 0.07692307692307687,
+          "synset": "update.n.01"
+        },
+        {
+          "word": "information",
+          "distance": 0.09090909090909094,
+          "synset": "information.n.01"
+        },
+        {
+          "word": "ammunition",
+          "distance": 0.16666666666666663,
+          "synset": "ammunition.n.03"
+        },
+        {
+          "word": "factoid",
+          "distance": 0.16666666666666663,
+          "synset": "factoid.n.01"
+        },
+        {
+          "word": "misinformation",
+          "distance": 0.16666666666666663,
+          "synset": "misinformation.n.01"
+        },
+        {
+          "word": "material",
+          "distance": 0.16666666666666663,
+          "synset": "material.n.02"
+        },
+        {
+          "word": "details",
+          "distance": 0.16666666666666663,
+          "synset": "details.n.01"
+        },
+        {
+          "word": "fact",
+          "distance": 0.16666666666666663,
+          "synset": "fact.n.02"
+        },
+        {
+          "word": "format",
+          "distance": 0.16666666666666663,
+          "synset": "format.n.01"
+        },
+        {
+          "word": "gen",
+          "distance": 0.16666666666666663,
+          "synset": "gen.n.01"
+        },
+        {
+          "word": "database",
+          "distance": 0.16666666666666663,
+          "synset": "database.n.01"
+        },
+        {
+          "word": "news",
+          "distance": 0.16666666666666663,
+          "synset": "news.n.04"
+        },
+        {
+          "word": "nuts and bolts",
+          "distance": 0.16666666666666663,
+          "synset": "nuts_and_bolts.n.01"
+        },
+        {
+          "word": "intelligence",
+          "distance": 0.16666666666666663,
+          "synset": "intelligence.n.03"
+        },
+        {
+          "word": "confirmation",
+          "distance": 0.16666666666666663,
+          "synset": "confirmation.n.02"
+        },
+        {
+          "word": "insider information",
+          "distance": 0.16666666666666663,
+          "synset": "insider_information.n.01"
+        },
+        {
+          "word": "secret",
+          "distance": 0.16666666666666663,
+          "synset": "secret.n.02"
+        },
+        {
+          "word": "secret",
+          "distance": 0.16666666666666663,
+          "synset": "secret.n.01"
+        }
+      ]
+    }
+  ],
+  "video": [
+    {
+      "synset": "video.n.01",
+      "definition": "the visible part of a television transmission",
+      "synonyms": [
+        "picture"
+      ],
+      "closest_words": [
+        "visual communication",
+        "video",
+        "gesture",
+        "body language",
+        "demonstration",
+        "eye contact",
+        "projection",
+        "artwork",
+        "graphic design",
+        "chart",
+        "graph",
+        "communication",
+        "seismogram",
+        "sign",
+        "gesticulation",
+        "beck",
+        "facial expression",
+        "display",
+        "expression",
+        "exemplification"
+      ],
+      "closest_words_info": [
+        {
+          "word": "visual communication",
+          "distance": 0.11111111111111116,
+          "synset": "visual_communication.n.01"
+        },
+        {
+          "word": "video",
+          "distance": 0.19999999999999996,
+          "synset": "video.n.03"
+        },
+        {
+          "word": "gesture",
+          "distance": 0.19999999999999996,
+          "synset": "gesture.n.02"
+        },
+        {
+          "word": "body language",
+          "distance": 0.19999999999999996,
+          "synset": "body_language.n.01"
+        },
+        {
+          "word": "demonstration",
+          "distance": 0.19999999999999996,
+          "synset": "demonstration.n.05"
+        },
+        {
+          "word": "eye contact",
+          "distance": 0.19999999999999996,
+          "synset": "eye_contact.n.01"
+        },
+        {
+          "word": "projection",
+          "distance": 0.19999999999999996,
+          "synset": "projection.n.02"
+        },
+        {
+          "word": "artwork",
+          "distance": 0.19999999999999996,
+          "synset": "artwork.n.01"
+        },
+        {
+          "word": "graphic design",
+          "distance": 0.19999999999999996,
+          "synset": "graphic_design.n.01"
+        },
+        {
+          "word": "chart",
+          "distance": 0.19999999999999996,
+          "synset": "chart.n.01"
+        },
+        {
+          "word": "graph",
+          "distance": 0.19999999999999996,
+          "synset": "graph.n.01"
+        },
+        {
+          "word": "communication",
+          "distance": 0.25,
+          "synset": "communication.n.02"
+        },
+        {
+          "word": "seismogram",
+          "distance": 0.2727272727272727,
+          "synset": "seismogram.n.01"
+        },
+        {
+          "word": "sign",
+          "distance": 0.2727272727272727,
+          "synset": "sign.n.09"
+        },
+        {
+          "word": "gesticulation",
+          "distance": 0.2727272727272727,
+          "synset": "gesticulation.n.01"
+        },
+        {
+          "word": "beck",
+          "distance": 0.2727272727272727,
+          "synset": "beck.n.01"
+        },
+        {
+          "word": "facial expression",
+          "distance": 0.2727272727272727,
+          "synset": "facial_expression.n.01"
+        },
+        {
+          "word": "display",
+          "distance": 0.2727272727272727,
+          "synset": "display.n.01"
+        },
+        {
+          "word": "expression",
+          "distance": 0.2727272727272727,
+          "synset": "expression.n.02"
+        },
+        {
+          "word": "exemplification",
+          "distance": 0.2727272727272727,
+          "synset": "exemplification.n.01"
+        }
+      ]
+    }
+  ],
+  "chat": [
+    {
+      "synset": "chat.n.01",
+      "definition": "an informal conversation",
+      "synonyms": [
+        "confab",
+        "confabulation",
+        "schmooze",
+        "schmoose"
+      ],
+      "closest_words": [
+        "chitchat",
+        "conversation",
+        "crossfire",
+        "phatic speech",
+        "exchange",
+        "gossiping",
+        "talk",
+        "nothings",
+        "commerce",
+        "colloquy",
+        "rap",
+        "rap session",
+        "second-hand speech",
+        "table talk",
+        "telephone conversation",
+        "tete-a-tete",
+        "speech",
+        "scandalmongering",
+        "cant",
+        "dialogue"
+      ],
+      "closest_words_info": [
+        {
+          "word": "chitchat",
+          "distance": 0.06666666666666665,
+          "synset": "chitchat.n.01"
+        },
+        {
+          "word": "conversation",
+          "distance": 0.07692307692307687,
+          "synset": "conversation.n.01"
+        },
+        {
+          "word": "crossfire",
+          "distance": 0.1428571428571429,
+          "synset": "crossfire.n.01"
+        },
+        {
+          "word": "phatic speech",
+          "distance": 0.1428571428571429,
+          "synset": "phatic_speech.n.01"
+        },
+        {
+          "word": "exchange",
+          "distance": 0.1428571428571429,
+          "synset": "exchange.n.02"
+        },
+        {
+          "word": "gossiping",
+          "distance": 0.1428571428571429,
+          "synset": "gossiping.n.01"
+        },
+        {
+          "word": "talk",
+          "distance": 0.1428571428571429,
+          "synset": "talk.n.01"
+        },
+        {
+          "word": "nothings",
+          "distance": 0.1428571428571429,
+          "synset": "nothings.n.01"
+        },
+        {
+          "word": "commerce",
+          "distance": 0.1428571428571429,
+          "synset": "commerce.n.03"
+        },
+        {
+          "word": "colloquy",
+          "distance": 0.1428571428571429,
+          "synset": "colloquy.n.02"
+        },
+        {
+          "word": "rap",
+          "distance": 0.1428571428571429,
+          "synset": "rap.n.04"
+        },
+        {
+          "word": "rap session",
+          "distance": 0.1428571428571429,
+          "synset": "rap_session.n.01"
+        },
+        {
+          "word": "second-hand speech",
+          "distance": 0.1428571428571429,
+          "synset": "second-hand_speech.n.01"
+        },
+        {
+          "word": "table talk",
+          "distance": 0.1428571428571429,
+          "synset": "table_talk.n.01"
+        },
+        {
+          "word": "telephone conversation",
+          "distance": 0.1428571428571429,
+          "synset": "telephone_conversation.n.01"
+        },
+        {
+          "word": "tete-a-tete",
+          "distance": 0.1428571428571429,
+          "synset": "tete-a-tete.n.01"
+        },
+        {
+          "word": "speech",
+          "distance": 0.16666666666666663,
+          "synset": "speech.n.02"
+        },
+        {
+          "word": "scandalmongering",
+          "distance": 0.19999999999999996,
+          "synset": "scandalmongering.n.01"
+        },
+        {
+          "word": "cant",
+          "distance": 0.19999999999999996,
+          "synset": "cant.n.04"
+        },
+        {
+          "word": "dialogue",
+          "distance": 0.19999999999999996,
+          "synset": "dialogue.n.01"
+        }
+      ]
+    }
+  ],
+  "cry": [
+    {
+      "synset": "cry.n.01",
+      "definition": "a loud utterance; often in protest or opposition",
+      "synonyms": [
+        "outcry",
+        "call",
+        "yell",
+        "shout",
+        "vociferation"
+      ],
+      "closest_words": [
+        "bellow",
+        "blue murder",
+        "catcall",
+        "clamor",
+        "halloo",
+        "hoot",
+        "hosanna",
+        "noise",
+        "scream",
+        "whoop",
+        "war cry",
+        "yelling",
+        "yodel",
+        "boo",
+        "utterance",
+        "roll call",
+        "cry",
+        "croak",
+        "exclamation",
+        "expletive"
+      ],
+      "closest_words_info": [
+        {
+          "word": "bellow",
+          "distance": 0.07692307692307687,
+          "synset": "bellow.n.01"
+        },
+        {
+          "word": "blue murder",
+          "distance": 0.07692307692307687,
+          "synset": "blue_murder.n.01"
+        },
+        {
+          "word": "catcall",
+          "distance": 0.07692307692307687,
+          "synset": "catcall.n.01"
+        },
+        {
+          "word": "clamor",
+          "distance": 0.07692307692307687,
+          "synset": "clamor.n.02"
+        },
+        {
+          "word": "halloo",
+          "distance": 0.07692307692307687,
+          "synset": "halloo.n.01"
+        },
+        {
+          "word": "hoot",
+          "distance": 0.07692307692307687,
+          "synset": "hoot.n.01"
+        },
+        {
+          "word": "hosanna",
+          "distance": 0.07692307692307687,
+          "synset": "hosanna.n.01"
+        },
+        {
+          "word": "noise",
+          "distance": 0.07692307692307687,
+          "synset": "noise.n.04"
+        },
+        {
+          "word": "scream",
+          "distance": 0.07692307692307687,
+          "synset": "scream.n.01"
+        },
+        {
+          "word": "whoop",
+          "distance": 0.07692307692307687,
+          "synset": "whoop.n.01"
+        },
+        {
+          "word": "war cry",
+          "distance": 0.07692307692307687,
+          "synset": "war_cry.n.02"
+        },
+        {
+          "word": "yelling",
+          "distance": 0.07692307692307687,
+          "synset": "yelling.n.01"
+        },
+        {
+          "word": "yodel",
+          "distance": 0.07692307692307687,
+          "synset": "yodel.n.01"
+        },
+        {
+          "word": "boo",
+          "distance": 0.07692307692307687,
+          "synset": "boo.n.01"
+        },
+        {
+          "word": "utterance",
+          "distance": 0.09090909090909094,
+          "synset": "utterance.n.01"
+        },
+        {
+          "word": "roll call",
+          "distance": 0.16666666666666663,
+          "synset": "roll_call.n.01"
+        },
+        {
+          "word": "cry",
+          "distance": 0.16666666666666663,
+          "synset": "cry.n.02"
+        },
+        {
+          "word": "croak",
+          "distance": 0.16666666666666663,
+          "synset": "croak.n.01"
+        },
+        {
+          "word": "exclamation",
+          "distance": 0.16666666666666663,
+          "synset": "exclamation.n.01"
+        },
+        {
+          "word": "expletive",
+          "distance": 0.16666666666666663,
+          "synset": "expletive.n.02"
+        }
+      ]
+    }
+  ]
+}

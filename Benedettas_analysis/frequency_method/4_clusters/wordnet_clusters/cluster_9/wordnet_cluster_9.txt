@@ -1,0 +1,4 @@
+family.n.01
+family.n.04
+table.n.01
+people.n.01

@@ -1,0 +1,399 @@
+{
+  "touch": [
+    {
+      "synset": "touch.v.01",
+      "definition": "make physical contact with, come in contact with",
+      "synonyms": [],
+      "closest_words": [
+        "engage",
+        "touch",
+        "toe",
+        "pick up",
+        "strike",
+        "finger",
+        "feel",
+        "palpate",
+        "handle",
+        "stroke",
+        "hit",
+        "brush",
+        "skim over",
+        "hit",
+        "strike",
+        "snog",
+        "kiss",
+        "mouth",
+        "press",
+        "tag"
+      ],
+      "closest_words_info": [
+        {
+          "word": "engage",
+          "distance": 0.33333333333333337,
+          "synset": "engage.v.06"
+        },
+        {
+          "word": "touch",
+          "distance": 0.33333333333333337,
+          "synset": "touch.v.08"
+        },
+        {
+          "word": "toe",
+          "distance": 0.33333333333333337,
+          "synset": "toe.v.05"
+        },
+        {
+          "word": "pick up",
+          "distance": 0.33333333333333337,
+          "synset": "pick_up.v.02"
+        },
+        {
+          "word": "strike",
+          "distance": 0.33333333333333337,
+          "synset": "strike.v.10"
+        },
+        {
+          "word": "finger",
+          "distance": 0.33333333333333337,
+          "synset": "finger.v.01"
+        },
+        {
+          "word": "feel",
+          "distance": 0.33333333333333337,
+          "synset": "feel.v.13"
+        },
+        {
+          "word": "palpate",
+          "distance": 0.33333333333333337,
+          "synset": "palpate.v.01"
+        },
+        {
+          "word": "handle",
+          "distance": 0.33333333333333337,
+          "synset": "handle.v.04"
+        },
+        {
+          "word": "stroke",
+          "distance": 0.33333333333333337,
+          "synset": "stroke.v.01"
+        },
+        {
+          "word": "hit",
+          "distance": 0.33333333333333337,
+          "synset": "hit.v.02"
+        },
+        {
+          "word": "brush",
+          "distance": 0.33333333333333337,
+          "synset": "brush.v.02"
+        },
+        {
+          "word": "skim over",
+          "distance": 0.33333333333333337,
+          "synset": "skim_over.v.02"
+        },
+        {
+          "word": "hit",
+          "distance": 0.33333333333333337,
+          "synset": "hit.v.03"
+        },
+        {
+          "word": "strike",
+          "distance": 0.33333333333333337,
+          "synset": "strike.v.01"
+        },
+        {
+          "word": "snog",
+          "distance": 0.33333333333333337,
+          "synset": "snog.v.01"
+        },
+        {
+          "word": "kiss",
+          "distance": 0.33333333333333337,
+          "synset": "kiss.v.02"
+        },
+        {
+          "word": "mouth",
+          "distance": 0.33333333333333337,
+          "synset": "mouth.v.03"
+        },
+        {
+          "word": "press",
+          "distance": 0.33333333333333337,
+          "synset": "press.v.01"
+        },
+        {
+          "word": "tag",
+          "distance": 0.33333333333333337,
+          "synset": "tag.v.02"
+        }
+      ]
+    }
+  ],
+  "touched": [
+    {
+      "synset": "touch.v.01",
+      "definition": "make physical contact with, come in contact with",
+      "synonyms": [
+        "touch"
+      ],
+      "closest_words": [
+        "engage",
+        "touch",
+        "toe",
+        "pick up",
+        "strike",
+        "finger",
+        "feel",
+        "palpate",
+        "handle",
+        "stroke",
+        "hit",
+        "brush",
+        "skim over",
+        "hit",
+        "strike",
+        "snog",
+        "kiss",
+        "mouth",
+        "press",
+        "tag"
+      ],
+      "closest_words_info": [
+        {
+          "word": "engage",
+          "distance": 0.33333333333333337,
+          "synset": "engage.v.06"
+        },
+        {
+          "word": "touch",
+          "distance": 0.33333333333333337,
+          "synset": "touch.v.08"
+        },
+        {
+          "word": "toe",
+          "distance": 0.33333333333333337,
+          "synset": "toe.v.05"
+        },
+        {
+          "word": "pick up",
+          "distance": 0.33333333333333337,
+          "synset": "pick_up.v.02"
+        },
+        {
+          "word": "strike",
+          "distance": 0.33333333333333337,
+          "synset": "strike.v.10"
+        },
+        {
+          "word": "finger",
+          "distance": 0.33333333333333337,
+          "synset": "finger.v.01"
+        },
+        {
+          "word": "feel",
+          "distance": 0.33333333333333337,
+          "synset": "feel.v.13"
+        },
+        {
+          "word": "palpate",
+          "distance": 0.33333333333333337,
+          "synset": "palpate.v.01"
+        },
+        {
+          "word": "handle",
+          "distance": 0.33333333333333337,
+          "synset": "handle.v.04"
+        },
+        {
+          "word": "stroke",
+          "distance": 0.33333333333333337,
+          "synset": "stroke.v.01"
+        },
+        {
+          "word": "hit",
+          "distance": 0.33333333333333337,
+          "synset": "hit.v.02"
+        },
+        {
+          "word": "brush",
+          "distance": 0.33333333333333337,
+          "synset": "brush.v.02"
+        },
+        {
+          "word": "skim over",
+          "distance": 0.33333333333333337,
+          "synset": "skim_over.v.02"
+        },
+        {
+          "word": "hit",
+          "distance": 0.33333333333333337,
+          "synset": "hit.v.03"
+        },
+        {
+          "word": "strike",
+          "distance": 0.33333333333333337,
+          "synset": "strike.v.01"
+        },
+        {
+          "word": "snog",
+          "distance": 0.33333333333333337,
+          "synset": "snog.v.01"
+        },
+        {
+          "word": "kiss",
+          "distance": 0.33333333333333337,
+          "synset": "kiss.v.02"
+        },
+        {
+          "word": "mouth",
+          "distance": 0.33333333333333337,
+          "synset": "mouth.v.03"
+        },
+        {
+          "word": "press",
+          "distance": 0.33333333333333337,
+          "synset": "press.v.01"
+        },
+        {
+          "word": "tag",
+          "distance": 0.33333333333333337,
+          "synset": "tag.v.02"
+        }
+      ]
+    }
+  ],
+  "stroking": [
+    {
+      "synset": "stroke.v.01",
+      "definition": "touch lightly and repeatedly, as with brushing motions",
+      "synonyms": [
+        "stroke"
+      ],
+      "closest_words": [
+        "caress",
+        "lick",
+        "paw",
+        "grope",
+        "dandle",
+        "pet",
+        "chuck",
+        "nuzzle",
+        "pet",
+        "tickle",
+        "tongue",
+        "canoodle",
+        "gentle",
+        "neck",
+        "smooch",
+        "entity",
+        "breathe",
+        "act",
+        "be active",
+        "oversleep"
+      ],
+      "closest_words_info": [
+        {
+          "word": "caress",
+          "distance": 0.19999999999999996,
+          "synset": "caress.v.01"
+        },
+        {
+          "word": "lick",
+          "distance": 0.19999999999999996,
+          "synset": "lick.v.02"
+        },
+        {
+          "word": "paw",
+          "distance": 0.33333333333333337,
+          "synset": "paw.v.02"
+        },
+        {
+          "word": "grope",
+          "distance": 0.33333333333333337,
+          "synset": "grope.v.03"
+        },
+        {
+          "word": "dandle",
+          "distance": 0.33333333333333337,
+          "synset": "dandle.v.02"
+        },
+        {
+          "word": "pet",
+          "distance": 0.33333333333333337,
+          "synset": "pet.v.02"
+        },
+        {
+          "word": "chuck",
+          "distance": 0.33333333333333337,
+          "synset": "chuck.v.03"
+        },
+        {
+          "word": "nuzzle",
+          "distance": 0.33333333333333337,
+          "synset": "nuzzle.v.02"
+        },
+        {
+          "word": "pet",
+          "distance": 0.33333333333333337,
+          "synset": "pet.v.01"
+        },
+        {
+          "word": "tickle",
+          "distance": 0.33333333333333337,
+          "synset": "tickle.v.03"
+        },
+        {
+          "word": "tongue",
+          "distance": 0.33333333333333337,
+          "synset": "tongue.v.02"
+        },
+        {
+          "word": "canoodle",
+          "distance": 0.4285714285714286,
+          "synset": "canoodle.v.01"
+        },
+        {
+          "word": "gentle",
+          "distance": 0.4285714285714286,
+          "synset": "gentle.v.03"
+        },
+        {
+          "word": "neck",
+          "distance": 0.4285714285714286,
+          "synset": "neck.v.01"
+        },
+        {
+          "word": "smooch",
+          "distance": 0.5,
+          "synset": "smooch.v.01"
+        },
+        {
+          "word": "entity",
+          "distance": 0.6,
+          "synset": "entity.n.01"
+        },
+        {
+          "word": "breathe",
+          "distance": 0.6,
+          "synset": "breathe.v.01"
+        },
+        {
+          "word": "act",
+          "distance": 0.6,
+          "synset": "act.v.02"
+        },
+        {
+          "word": "be active",
+          "distance": 0.6,
+          "synset": "be_active.v.01"
+        },
+        {
+          "word": "oversleep",
+          "distance": 0.6,
+          "synset": "oversleep.v.01"
+        }
+      ]
+    }
+  ]
+}

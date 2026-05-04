@@ -1,0 +1,1459 @@
+{
+  "arm": [
+    {
+      "synset": "arm.n.01",
+      "definition": "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
+      "synonyms": [],
+      "closest_words": [
+        "limb",
+        "hind limb",
+        "forelimb",
+        "flipper",
+        "leg",
+        "crus",
+        "leg",
+        "thigh",
+        "cubitus",
+        "forearm",
+        "extremity",
+        "prehensor",
+        "animal leg",
+        "hind leg",
+        "foreleg",
+        "pin",
+        "bowleg",
+        "shank's mare",
+        "spindlelegs",
+        "lap"
+      ],
+      "closest_words_info": [
+        {
+          "word": "limb",
+          "distance": 0.05882352941176472,
+          "synset": "limb.n.01"
+        },
+        {
+          "word": "hind limb",
+          "distance": 0.11111111111111116,
+          "synset": "hind_limb.n.01"
+        },
+        {
+          "word": "forelimb",
+          "distance": 0.11111111111111116,
+          "synset": "forelimb.n.01"
+        },
+        {
+          "word": "flipper",
+          "distance": 0.11111111111111116,
+          "synset": "flipper.n.02"
+        },
+        {
+          "word": "leg",
+          "distance": 0.11111111111111116,
+          "synset": "leg.n.01"
+        },
+        {
+          "word": "crus",
+          "distance": 0.11111111111111116,
+          "synset": "crus.n.01"
+        },
+        {
+          "word": "leg",
+          "distance": 0.11111111111111116,
+          "synset": "leg.n.02"
+        },
+        {
+          "word": "thigh",
+          "distance": 0.11111111111111116,
+          "synset": "thigh.n.01"
+        },
+        {
+          "word": "cubitus",
+          "distance": 0.11111111111111116,
+          "synset": "cubitus.n.02"
+        },
+        {
+          "word": "forearm",
+          "distance": 0.11111111111111116,
+          "synset": "forearm.n.01"
+        },
+        {
+          "word": "extremity",
+          "distance": 0.125,
+          "synset": "extremity.n.01"
+        },
+        {
+          "word": "prehensor",
+          "distance": 0.1578947368421053,
+          "synset": "prehensor.n.01"
+        },
+        {
+          "word": "animal leg",
+          "distance": 0.1578947368421053,
+          "synset": "animal_leg.n.01"
+        },
+        {
+          "word": "hind leg",
+          "distance": 0.1578947368421053,
+          "synset": "hind_leg.n.01"
+        },
+        {
+          "word": "foreleg",
+          "distance": 0.1578947368421053,
+          "synset": "foreleg.n.01"
+        },
+        {
+          "word": "pin",
+          "distance": 0.1578947368421053,
+          "synset": "pin.n.05"
+        },
+        {
+          "word": "bowleg",
+          "distance": 0.1578947368421053,
+          "synset": "bowleg.n.01"
+        },
+        {
+          "word": "shank's mare",
+          "distance": 0.1578947368421053,
+          "synset": "shank's_mare.n.01"
+        },
+        {
+          "word": "spindlelegs",
+          "distance": 0.1578947368421053,
+          "synset": "spindlelegs.n.02"
+        },
+        {
+          "word": "lap",
+          "distance": 0.1578947368421053,
+          "synset": "lap.n.01"
+        }
+      ]
+    }
+  ],
+  "hand": [
+    {
+      "synset": "hand.n.01",
+      "definition": "the (prehensile) extremity of the superior limb",
+      "synonyms": [
+        "manus",
+        "mitt",
+        "paw"
+      ],
+      "closest_words": [
+        "fist",
+        "hooks",
+        "right",
+        "left",
+        "extremity",
+        "vertebrate foot",
+        "finger",
+        "toe",
+        "external body part",
+        "animal foot",
+        "foot",
+        "thumb",
+        "index",
+        "ring finger",
+        "middle finger",
+        "little finger",
+        "big toe",
+        "hammertoe",
+        "little toe",
+        "breast"
+      ],
+      "closest_words_info": [
+        {
+          "word": "fist",
+          "distance": 0.05882352941176472,
+          "synset": "fist.n.01"
+        },
+        {
+          "word": "hooks",
+          "distance": 0.05882352941176472,
+          "synset": "hooks.n.01"
+        },
+        {
+          "word": "right",
+          "distance": 0.05882352941176472,
+          "synset": "right.n.05"
+        },
+        {
+          "word": "left",
+          "distance": 0.05882352941176472,
+          "synset": "left.n.03"
+        },
+        {
+          "word": "extremity",
+          "distance": 0.06666666666666665,
+          "synset": "extremity.n.05"
+        },
+        {
+          "word": "vertebrate foot",
+          "distance": 0.125,
+          "synset": "vertebrate_foot.n.01"
+        },
+        {
+          "word": "finger",
+          "distance": 0.125,
+          "synset": "finger.n.01"
+        },
+        {
+          "word": "toe",
+          "distance": 0.125,
+          "synset": "toe.n.01"
+        },
+        {
+          "word": "external body part",
+          "distance": 0.1428571428571429,
+          "synset": "external_body_part.n.01"
+        },
+        {
+          "word": "animal foot",
+          "distance": 0.17647058823529416,
+          "synset": "animal_foot.n.01"
+        },
+        {
+          "word": "foot",
+          "distance": 0.17647058823529416,
+          "synset": "foot.n.01"
+        },
+        {
+          "word": "thumb",
+          "distance": 0.17647058823529416,
+          "synset": "thumb.n.01"
+        },
+        {
+          "word": "index",
+          "distance": 0.17647058823529416,
+          "synset": "index.n.05"
+        },
+        {
+          "word": "ring finger",
+          "distance": 0.17647058823529416,
+          "synset": "ring_finger.n.01"
+        },
+        {
+          "word": "middle finger",
+          "distance": 0.17647058823529416,
+          "synset": "middle_finger.n.01"
+        },
+        {
+          "word": "little finger",
+          "distance": 0.17647058823529416,
+          "synset": "little_finger.n.01"
+        },
+        {
+          "word": "big toe",
+          "distance": 0.17647058823529416,
+          "synset": "big_toe.n.01"
+        },
+        {
+          "word": "hammertoe",
+          "distance": 0.17647058823529416,
+          "synset": "hammertoe.n.01"
+        },
+        {
+          "word": "little toe",
+          "distance": 0.17647058823529416,
+          "synset": "little_toe.n.01"
+        },
+        {
+          "word": "breast",
+          "distance": 0.19999999999999996,
+          "synset": "breast.n.04"
+        }
+      ]
+    }
+  ],
+  "wants": [
+    {
+      "synset": "need.n.02",
+      "definition": "anything that is necessary but lacking",
+      "synonyms": [
+        "need",
+        "want"
+      ],
+      "closest_words": [
+        "necessity",
+        "desideratum",
+        "must",
+        "thing",
+        "subject",
+        "body of water",
+        "inessential",
+        "part",
+        "reservoir",
+        "unit",
+        "variable",
+        "body part",
+        "corpus",
+        "acicula",
+        "adjunct",
+        "backwater",
+        "base",
+        "bay",
+        "chain",
+        "channel"
+      ],
+      "closest_words_info": [
+        {
+          "word": "necessity",
+          "distance": 0.11111111111111116,
+          "synset": "necessity.n.02"
+        },
+        {
+          "word": "desideratum",
+          "distance": 0.19999999999999996,
+          "synset": "desideratum.n.01"
+        },
+        {
+          "word": "must",
+          "distance": 0.19999999999999996,
+          "synset": "must.n.01"
+        },
+        {
+          "word": "thing",
+          "distance": 0.25,
+          "synset": "thing.n.12"
+        },
+        {
+          "word": "subject",
+          "distance": 0.33333333333333337,
+          "synset": "subject.n.02"
+        },
+        {
+          "word": "body of water",
+          "distance": 0.33333333333333337,
+          "synset": "body_of_water.n.01"
+        },
+        {
+          "word": "inessential",
+          "distance": 0.33333333333333337,
+          "synset": "inessential.n.01"
+        },
+        {
+          "word": "part",
+          "distance": 0.33333333333333337,
+          "synset": "part.n.03"
+        },
+        {
+          "word": "reservoir",
+          "distance": 0.33333333333333337,
+          "synset": "reservoir.n.04"
+        },
+        {
+          "word": "unit",
+          "distance": 0.33333333333333337,
+          "synset": "unit.n.05"
+        },
+        {
+          "word": "variable",
+          "distance": 0.33333333333333337,
+          "synset": "variable.n.01"
+        },
+        {
+          "word": "body part",
+          "distance": 0.4,
+          "synset": "body_part.n.01"
+        },
+        {
+          "word": "corpus",
+          "distance": 0.4,
+          "synset": "corpus.n.03"
+        },
+        {
+          "word": "acicula",
+          "distance": 0.4,
+          "synset": "acicula.n.01"
+        },
+        {
+          "word": "adjunct",
+          "distance": 0.4,
+          "synset": "adjunct.n.01"
+        },
+        {
+          "word": "backwater",
+          "distance": 0.4,
+          "synset": "backwater.n.01"
+        },
+        {
+          "word": "base",
+          "distance": 0.4,
+          "synset": "base.n.04"
+        },
+        {
+          "word": "bay",
+          "distance": 0.4,
+          "synset": "bay.n.01"
+        },
+        {
+          "word": "chain",
+          "distance": 0.4,
+          "synset": "chain.n.02"
+        },
+        {
+          "word": "channel",
+          "distance": 0.4,
+          "synset": "channel.n.04"
+        }
+      ]
+    }
+  ],
+  "back": [
+    {
+      "synset": "back.n.01",
+      "definition": "the posterior part of a human (or animal) body from the neck to the end of the spine",
+      "synonyms": [
+        "dorsum"
+      ],
+      "closest_words": [
+        "body part",
+        "saddle",
+        "underpart",
+        "horseback",
+        "dock",
+        "ambulacrum",
+        "withers",
+        "cannon",
+        "loin",
+        "hindquarters",
+        "gaskin",
+        "flank",
+        "thorax",
+        "apparatus",
+        "adnexa",
+        "area",
+        "dilator",
+        "groove",
+        "partition",
+        "external body part"
+      ],
+      "closest_words_info": [
+        {
+          "word": "body part",
+          "distance": 0.09090909090909094,
+          "synset": "body_part.n.01"
+        },
+        {
+          "word": "saddle",
+          "distance": 0.16666666666666663,
+          "synset": "saddle.n.06"
+        },
+        {
+          "word": "underpart",
+          "distance": 0.16666666666666663,
+          "synset": "underpart.n.01"
+        },
+        {
+          "word": "horseback",
+          "distance": 0.16666666666666663,
+          "synset": "horseback.n.01"
+        },
+        {
+          "word": "dock",
+          "distance": 0.16666666666666663,
+          "synset": "dock.n.06"
+        },
+        {
+          "word": "ambulacrum",
+          "distance": 0.16666666666666663,
+          "synset": "ambulacrum.n.01"
+        },
+        {
+          "word": "withers",
+          "distance": 0.16666666666666663,
+          "synset": "withers.n.01"
+        },
+        {
+          "word": "cannon",
+          "distance": 0.16666666666666663,
+          "synset": "cannon.n.05"
+        },
+        {
+          "word": "loin",
+          "distance": 0.16666666666666663,
+          "synset": "loin.n.02"
+        },
+        {
+          "word": "hindquarters",
+          "distance": 0.16666666666666663,
+          "synset": "hindquarters.n.02"
+        },
+        {
+          "word": "gaskin",
+          "distance": 0.16666666666666663,
+          "synset": "gaskin.n.01"
+        },
+        {
+          "word": "flank",
+          "distance": 0.16666666666666663,
+          "synset": "flank.n.04"
+        },
+        {
+          "word": "thorax",
+          "distance": 0.16666666666666663,
+          "synset": "thorax.n.03"
+        },
+        {
+          "word": "apparatus",
+          "distance": 0.16666666666666663,
+          "synset": "apparatus.n.02"
+        },
+        {
+          "word": "adnexa",
+          "distance": 0.16666666666666663,
+          "synset": "adnexa.n.01"
+        },
+        {
+          "word": "area",
+          "distance": 0.16666666666666663,
+          "synset": "area.n.03"
+        },
+        {
+          "word": "dilator",
+          "distance": 0.16666666666666663,
+          "synset": "dilator.n.01"
+        },
+        {
+          "word": "groove",
+          "distance": 0.16666666666666663,
+          "synset": "groove.n.03"
+        },
+        {
+          "word": "partition",
+          "distance": 0.16666666666666663,
+          "synset": "partition.n.03"
+        },
+        {
+          "word": "external body part",
+          "distance": 0.16666666666666663,
+          "synset": "external_body_part.n.01"
+        }
+      ]
+    }
+  ],
+  "shoulder": [
+    {
+      "synset": "shoulder.n.01",
+      "definition": "the part of the body between the neck and the upper arm",
+      "synonyms": [],
+      "closest_words": [
+        "body part",
+        "saddle",
+        "underpart",
+        "horseback",
+        "dock",
+        "ambulacrum",
+        "withers",
+        "cannon",
+        "loin",
+        "hindquarters",
+        "gaskin",
+        "flank",
+        "thorax",
+        "apparatus",
+        "adnexa",
+        "area",
+        "dilator",
+        "groove",
+        "partition",
+        "external body part"
+      ],
+      "closest_words_info": [
+        {
+          "word": "body part",
+          "distance": 0.09090909090909094,
+          "synset": "body_part.n.01"
+        },
+        {
+          "word": "saddle",
+          "distance": 0.16666666666666663,
+          "synset": "saddle.n.06"
+        },
+        {
+          "word": "underpart",
+          "distance": 0.16666666666666663,
+          "synset": "underpart.n.01"
+        },
+        {
+          "word": "horseback",
+          "distance": 0.16666666666666663,
+          "synset": "horseback.n.01"
+        },
+        {
+          "word": "dock",
+          "distance": 0.16666666666666663,
+          "synset": "dock.n.06"
+        },
+        {
+          "word": "ambulacrum",
+          "distance": 0.16666666666666663,
+          "synset": "ambulacrum.n.01"
+        },
+        {
+          "word": "withers",
+          "distance": 0.16666666666666663,
+          "synset": "withers.n.01"
+        },
+        {
+          "word": "cannon",
+          "distance": 0.16666666666666663,
+          "synset": "cannon.n.05"
+        },
+        {
+          "word": "loin",
+          "distance": 0.16666666666666663,
+          "synset": "loin.n.02"
+        },
+        {
+          "word": "hindquarters",
+          "distance": 0.16666666666666663,
+          "synset": "hindquarters.n.02"
+        },
+        {
+          "word": "gaskin",
+          "distance": 0.16666666666666663,
+          "synset": "gaskin.n.01"
+        },
+        {
+          "word": "flank",
+          "distance": 0.16666666666666663,
+          "synset": "flank.n.04"
+        },
+        {
+          "word": "thorax",
+          "distance": 0.16666666666666663,
+          "synset": "thorax.n.03"
+        },
+        {
+          "word": "apparatus",
+          "distance": 0.16666666666666663,
+          "synset": "apparatus.n.02"
+        },
+        {
+          "word": "adnexa",
+          "distance": 0.16666666666666663,
+          "synset": "adnexa.n.01"
+        },
+        {
+          "word": "area",
+          "distance": 0.16666666666666663,
+          "synset": "area.n.03"
+        },
+        {
+          "word": "dilator",
+          "distance": 0.16666666666666663,
+          "synset": "dilator.n.01"
+        },
+        {
+          "word": "groove",
+          "distance": 0.16666666666666663,
+          "synset": "groove.n.03"
+        },
+        {
+          "word": "partition",
+          "distance": 0.16666666666666663,
+          "synset": "partition.n.03"
+        },
+        {
+          "word": "external body part",
+          "distance": 0.16666666666666663,
+          "synset": "external_body_part.n.01"
+        }
+      ]
+    }
+  ],
+  "forearm": [
+    {
+      "synset": "forearm.n.01",
+      "definition": "the part of the superior limb between the elbow and the wrist",
+      "synonyms": [],
+      "closest_words": [
+        "limb",
+        "hind limb",
+        "forelimb",
+        "flipper",
+        "leg",
+        "crus",
+        "leg",
+        "thigh",
+        "arm",
+        "cubitus",
+        "extremity",
+        "prehensor",
+        "animal leg",
+        "hind leg",
+        "foreleg",
+        "pin",
+        "bowleg",
+        "shank's mare",
+        "spindlelegs",
+        "lap"
+      ],
+      "closest_words_info": [
+        {
+          "word": "limb",
+          "distance": 0.05882352941176472,
+          "synset": "limb.n.01"
+        },
+        {
+          "word": "hind limb",
+          "distance": 0.11111111111111116,
+          "synset": "hind_limb.n.01"
+        },
+        {
+          "word": "forelimb",
+          "distance": 0.11111111111111116,
+          "synset": "forelimb.n.01"
+        },
+        {
+          "word": "flipper",
+          "distance": 0.11111111111111116,
+          "synset": "flipper.n.02"
+        },
+        {
+          "word": "leg",
+          "distance": 0.11111111111111116,
+          "synset": "leg.n.01"
+        },
+        {
+          "word": "crus",
+          "distance": 0.11111111111111116,
+          "synset": "crus.n.01"
+        },
+        {
+          "word": "leg",
+          "distance": 0.11111111111111116,
+          "synset": "leg.n.02"
+        },
+        {
+          "word": "thigh",
+          "distance": 0.11111111111111116,
+          "synset": "thigh.n.01"
+        },
+        {
+          "word": "arm",
+          "distance": 0.11111111111111116,
+          "synset": "arm.n.01"
+        },
+        {
+          "word": "cubitus",
+          "distance": 0.11111111111111116,
+          "synset": "cubitus.n.02"
+        },
+        {
+          "word": "extremity",
+          "distance": 0.125,
+          "synset": "extremity.n.01"
+        },
+        {
+          "word": "prehensor",
+          "distance": 0.1578947368421053,
+          "synset": "prehensor.n.01"
+        },
+        {
+          "word": "animal leg",
+          "distance": 0.1578947368421053,
+          "synset": "animal_leg.n.01"
+        },
+        {
+          "word": "hind leg",
+          "distance": 0.1578947368421053,
+          "synset": "hind_leg.n.01"
+        },
+        {
+          "word": "foreleg",
+          "distance": 0.1578947368421053,
+          "synset": "foreleg.n.01"
+        },
+        {
+          "word": "pin",
+          "distance": 0.1578947368421053,
+          "synset": "pin.n.05"
+        },
+        {
+          "word": "bowleg",
+          "distance": 0.1578947368421053,
+          "synset": "bowleg.n.01"
+        },
+        {
+          "word": "shank's mare",
+          "distance": 0.1578947368421053,
+          "synset": "shank's_mare.n.01"
+        },
+        {
+          "word": "spindlelegs",
+          "distance": 0.1578947368421053,
+          "synset": "spindlelegs.n.02"
+        },
+        {
+          "word": "lap",
+          "distance": 0.1578947368421053,
+          "synset": "lap.n.01"
+        }
+      ]
+    }
+  ],
+  "finger": [
+    {
+      "synset": "finger.n.01",
+      "definition": "any of the terminal members of the hand (sometimes excepting the thumb)",
+      "synonyms": [],
+      "closest_words": [
+        "thumb",
+        "index",
+        "ring finger",
+        "middle finger",
+        "little finger",
+        "digit",
+        "extremity",
+        "minimus",
+        "toe",
+        "extremity",
+        "vertebrate foot",
+        "hand",
+        "external body part",
+        "big toe",
+        "hammertoe",
+        "little toe",
+        "chelicera",
+        "mouthpart",
+        "fang",
+        "animal foot"
+      ],
+      "closest_words_info": [
+        {
+          "word": "thumb",
+          "distance": 0.052631578947368474,
+          "synset": "thumb.n.01"
+        },
+        {
+          "word": "index",
+          "distance": 0.052631578947368474,
+          "synset": "index.n.05"
+        },
+        {
+          "word": "ring finger",
+          "distance": 0.052631578947368474,
+          "synset": "ring_finger.n.01"
+        },
+        {
+          "word": "middle finger",
+          "distance": 0.052631578947368474,
+          "synset": "middle_finger.n.01"
+        },
+        {
+          "word": "little finger",
+          "distance": 0.052631578947368474,
+          "synset": "little_finger.n.01"
+        },
+        {
+          "word": "digit",
+          "distance": 0.05882352941176472,
+          "synset": "digit.n.03"
+        },
+        {
+          "word": "extremity",
+          "distance": 0.06666666666666665,
+          "synset": "extremity.n.05"
+        },
+        {
+          "word": "minimus",
+          "distance": 0.11111111111111116,
+          "synset": "minimus.n.01"
+        },
+        {
+          "word": "toe",
+          "distance": 0.11111111111111116,
+          "synset": "toe.n.01"
+        },
+        {
+          "word": "extremity",
+          "distance": 0.125,
+          "synset": "extremity.n.01"
+        },
+        {
+          "word": "vertebrate foot",
+          "distance": 0.125,
+          "synset": "vertebrate_foot.n.01"
+        },
+        {
+          "word": "hand",
+          "distance": 0.125,
+          "synset": "hand.n.01"
+        },
+        {
+          "word": "external body part",
+          "distance": 0.1428571428571429,
+          "synset": "external_body_part.n.01"
+        },
+        {
+          "word": "big toe",
+          "distance": 0.1578947368421053,
+          "synset": "big_toe.n.01"
+        },
+        {
+          "word": "hammertoe",
+          "distance": 0.1578947368421053,
+          "synset": "hammertoe.n.01"
+        },
+        {
+          "word": "little toe",
+          "distance": 0.1578947368421053,
+          "synset": "little_toe.n.01"
+        },
+        {
+          "word": "chelicera",
+          "distance": 0.17647058823529416,
+          "synset": "chelicera.n.01"
+        },
+        {
+          "word": "mouthpart",
+          "distance": 0.17647058823529416,
+          "synset": "mouthpart.n.01"
+        },
+        {
+          "word": "fang",
+          "distance": 0.17647058823529416,
+          "synset": "fang.n.02"
+        },
+        {
+          "word": "animal foot",
+          "distance": 0.17647058823529416,
+          "synset": "animal_foot.n.01"
+        }
+      ]
+    }
+  ],
+  "leg": [
+    {
+      "synset": "leg.n.01",
+      "definition": "a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle",
+      "synonyms": [],
+      "closest_words": [
+        "pin",
+        "bowleg",
+        "shank's mare",
+        "spindlelegs",
+        "limb",
+        "hind limb",
+        "forelimb",
+        "flipper",
+        "crus",
+        "leg",
+        "thigh",
+        "arm",
+        "cubitus",
+        "forearm",
+        "extremity",
+        "prehensor",
+        "animal leg",
+        "hind leg",
+        "foreleg",
+        "lap"
+      ],
+      "closest_words_info": [
+        {
+          "word": "pin",
+          "distance": 0.052631578947368474,
+          "synset": "pin.n.05"
+        },
+        {
+          "word": "bowleg",
+          "distance": 0.052631578947368474,
+          "synset": "bowleg.n.01"
+        },
+        {
+          "word": "shank's mare",
+          "distance": 0.052631578947368474,
+          "synset": "shank's_mare.n.01"
+        },
+        {
+          "word": "spindlelegs",
+          "distance": 0.052631578947368474,
+          "synset": "spindlelegs.n.02"
+        },
+        {
+          "word": "limb",
+          "distance": 0.05882352941176472,
+          "synset": "limb.n.01"
+        },
+        {
+          "word": "hind limb",
+          "distance": 0.11111111111111116,
+          "synset": "hind_limb.n.01"
+        },
+        {
+          "word": "forelimb",
+          "distance": 0.11111111111111116,
+          "synset": "forelimb.n.01"
+        },
+        {
+          "word": "flipper",
+          "distance": 0.11111111111111116,
+          "synset": "flipper.n.02"
+        },
+        {
+          "word": "crus",
+          "distance": 0.11111111111111116,
+          "synset": "crus.n.01"
+        },
+        {
+          "word": "leg",
+          "distance": 0.11111111111111116,
+          "synset": "leg.n.02"
+        },
+        {
+          "word": "thigh",
+          "distance": 0.11111111111111116,
+          "synset": "thigh.n.01"
+        },
+        {
+          "word": "arm",
+          "distance": 0.11111111111111116,
+          "synset": "arm.n.01"
+        },
+        {
+          "word": "cubitus",
+          "distance": 0.11111111111111116,
+          "synset": "cubitus.n.02"
+        },
+        {
+          "word": "forearm",
+          "distance": 0.11111111111111116,
+          "synset": "forearm.n.01"
+        },
+        {
+          "word": "extremity",
+          "distance": 0.125,
+          "synset": "extremity.n.01"
+        },
+        {
+          "word": "prehensor",
+          "distance": 0.1578947368421053,
+          "synset": "prehensor.n.01"
+        },
+        {
+          "word": "animal leg",
+          "distance": 0.1578947368421053,
+          "synset": "animal_leg.n.01"
+        },
+        {
+          "word": "hind leg",
+          "distance": 0.1578947368421053,
+          "synset": "hind_leg.n.01"
+        },
+        {
+          "word": "foreleg",
+          "distance": 0.1578947368421053,
+          "synset": "foreleg.n.01"
+        },
+        {
+          "word": "lap",
+          "distance": 0.1578947368421053,
+          "synset": "lap.n.01"
+        }
+      ]
+    }
+  ],
+  "face": [
+    {
+      "synset": "face.n.01",
+      "definition": "the front of the human head from the forehead to the chin and ear to ear",
+      "synonyms": [
+        "human_face"
+      ],
+      "closest_words": [
+        "countenance",
+        "external body part",
+        "pudding face",
+        "breast",
+        "throat",
+        "hood",
+        "arthromere",
+        "lip",
+        "labium",
+        "head",
+        "neck",
+        "frill",
+        "breast",
+        "extremity",
+        "extremity",
+        "face",
+        "body part",
+        "chelicera",
+        "mouthpart",
+        "fang"
+      ],
+      "closest_words_info": [
+        {
+          "word": "countenance",
+          "distance": 0.06666666666666665,
+          "synset": "countenance.n.03"
+        },
+        {
+          "word": "external body part",
+          "distance": 0.07692307692307687,
+          "synset": "external_body_part.n.01"
+        },
+        {
+          "word": "pudding face",
+          "distance": 0.125,
+          "synset": "pudding_face.n.01"
+        },
+        {
+          "word": "breast",
+          "distance": 0.1428571428571429,
+          "synset": "breast.n.04"
+        },
+        {
+          "word": "throat",
+          "distance": 0.1428571428571429,
+          "synset": "throat.n.04"
+        },
+        {
+          "word": "hood",
+          "distance": 0.1428571428571429,
+          "synset": "hood.n.10"
+        },
+        {
+          "word": "arthromere",
+          "distance": 0.1428571428571429,
+          "synset": "arthromere.n.01"
+        },
+        {
+          "word": "lip",
+          "distance": 0.1428571428571429,
+          "synset": "lip.n.01"
+        },
+        {
+          "word": "labium",
+          "distance": 0.1428571428571429,
+          "synset": "labium.n.01"
+        },
+        {
+          "word": "head",
+          "distance": 0.1428571428571429,
+          "synset": "head.n.01"
+        },
+        {
+          "word": "neck",
+          "distance": 0.1428571428571429,
+          "synset": "neck.n.01"
+        },
+        {
+          "word": "frill",
+          "distance": 0.1428571428571429,
+          "synset": "frill.n.02"
+        },
+        {
+          "word": "breast",
+          "distance": 0.1428571428571429,
+          "synset": "breast.n.01"
+        },
+        {
+          "word": "extremity",
+          "distance": 0.1428571428571429,
+          "synset": "extremity.n.01"
+        },
+        {
+          "word": "extremity",
+          "distance": 0.1428571428571429,
+          "synset": "extremity.n.05"
+        },
+        {
+          "word": "face",
+          "distance": 0.1428571428571429,
+          "synset": "face.n.07"
+        },
+        {
+          "word": "body part",
+          "distance": 0.16666666666666663,
+          "synset": "body_part.n.01"
+        },
+        {
+          "word": "chelicera",
+          "distance": 0.19999999999999996,
+          "synset": "chelicera.n.01"
+        },
+        {
+          "word": "mouthpart",
+          "distance": 0.19999999999999996,
+          "synset": "mouthpart.n.01"
+        },
+        {
+          "word": "fang",
+          "distance": 0.19999999999999996,
+          "synset": "fang.n.02"
+        }
+      ]
+    }
+  ],
+  "skin": [
+    {
+      "synset": "skin.n.01",
+      "definition": "a natural protective body covering and site of the sense of touch",
+      "synonyms": [
+        "tegument",
+        "cutis"
+      ],
+      "closest_words": [
+        "investment",
+        "thick skin",
+        "skin graft",
+        "buff",
+        "dewlap",
+        "prepuce",
+        "prepuce",
+        "scalp",
+        "cuticle",
+        "hangnail",
+        "connective tissue",
+        "body covering",
+        "pellicle",
+        "areolar tissue",
+        "bone",
+        "marrow",
+        "elastic tissue",
+        "endoneurium",
+        "ligament",
+        "perineurium"
+      ],
+      "closest_words_info": [
+        {
+          "word": "investment",
+          "distance": 0.052631578947368474,
+          "synset": "investment.n.04"
+        },
+        {
+          "word": "thick skin",
+          "distance": 0.052631578947368474,
+          "synset": "thick_skin.n.01"
+        },
+        {
+          "word": "skin graft",
+          "distance": 0.052631578947368474,
+          "synset": "skin_graft.n.01"
+        },
+        {
+          "word": "buff",
+          "distance": 0.052631578947368474,
+          "synset": "buff.n.03"
+        },
+        {
+          "word": "dewlap",
+          "distance": 0.052631578947368474,
+          "synset": "dewlap.n.01"
+        },
+        {
+          "word": "prepuce",
+          "distance": 0.052631578947368474,
+          "synset": "prepuce.n.02"
+        },
+        {
+          "word": "prepuce",
+          "distance": 0.052631578947368474,
+          "synset": "prepuce.n.01"
+        },
+        {
+          "word": "scalp",
+          "distance": 0.052631578947368474,
+          "synset": "scalp.n.01"
+        },
+        {
+          "word": "cuticle",
+          "distance": 0.052631578947368474,
+          "synset": "cuticle.n.01"
+        },
+        {
+          "word": "hangnail",
+          "distance": 0.052631578947368474,
+          "synset": "hangnail.n.01"
+        },
+        {
+          "word": "connective tissue",
+          "distance": 0.05882352941176472,
+          "synset": "connective_tissue.n.01"
+        },
+        {
+          "word": "body covering",
+          "distance": 0.06666666666666665,
+          "synset": "body_covering.n.01"
+        },
+        {
+          "word": "pellicle",
+          "distance": 0.09999999999999998,
+          "synset": "pellicle.n.01"
+        },
+        {
+          "word": "areolar tissue",
+          "distance": 0.11111111111111116,
+          "synset": "areolar_tissue.n.01"
+        },
+        {
+          "word": "bone",
+          "distance": 0.11111111111111116,
+          "synset": "bone.n.01"
+        },
+        {
+          "word": "marrow",
+          "distance": 0.11111111111111116,
+          "synset": "marrow.n.01"
+        },
+        {
+          "word": "elastic tissue",
+          "distance": 0.11111111111111116,
+          "synset": "elastic_tissue.n.01"
+        },
+        {
+          "word": "endoneurium",
+          "distance": 0.11111111111111116,
+          "synset": "endoneurium.n.01"
+        },
+        {
+          "word": "ligament",
+          "distance": 0.11111111111111116,
+          "synset": "ligament.n.01"
+        },
+        {
+          "word": "perineurium",
+          "distance": 0.11111111111111116,
+          "synset": "perineurium.n.01"
+        }
+      ]
+    }
+  ],
+  "head": [
+    {
+      "synset": "head.n.01",
+      "definition": "the upper part of the human body or the front part of the body in animals; contains the face and brains",
+      "synonyms": [
+        "caput"
+      ],
+      "closest_words": [
+        "human head",
+        "external body part",
+        "bullethead",
+        "attic",
+        "breast",
+        "throat",
+        "hood",
+        "arthromere",
+        "lip",
+        "labium",
+        "neck",
+        "frill",
+        "breast",
+        "extremity",
+        "extremity",
+        "face",
+        "face",
+        "body part",
+        "chelicera",
+        "mouthpart"
+      ],
+      "closest_words_info": [
+        {
+          "word": "human head",
+          "distance": 0.06666666666666665,
+          "synset": "human_head.n.01"
+        },
+        {
+          "word": "external body part",
+          "distance": 0.07692307692307687,
+          "synset": "external_body_part.n.01"
+        },
+        {
+          "word": "bullethead",
+          "distance": 0.125,
+          "synset": "bullethead.n.01"
+        },
+        {
+          "word": "attic",
+          "distance": 0.125,
+          "synset": "attic.n.03"
+        },
+        {
+          "word": "breast",
+          "distance": 0.1428571428571429,
+          "synset": "breast.n.04"
+        },
+        {
+          "word": "throat",
+          "distance": 0.1428571428571429,
+          "synset": "throat.n.04"
+        },
+        {
+          "word": "hood",
+          "distance": 0.1428571428571429,
+          "synset": "hood.n.10"
+        },
+        {
+          "word": "arthromere",
+          "distance": 0.1428571428571429,
+          "synset": "arthromere.n.01"
+        },
+        {
+          "word": "lip",
+          "distance": 0.1428571428571429,
+          "synset": "lip.n.01"
+        },
+        {
+          "word": "labium",
+          "distance": 0.1428571428571429,
+          "synset": "labium.n.01"
+        },
+        {
+          "word": "neck",
+          "distance": 0.1428571428571429,
+          "synset": "neck.n.01"
+        },
+        {
+          "word": "frill",
+          "distance": 0.1428571428571429,
+          "synset": "frill.n.02"
+        },
+        {
+          "word": "breast",
+          "distance": 0.1428571428571429,
+          "synset": "breast.n.01"
+        },
+        {
+          "word": "extremity",
+          "distance": 0.1428571428571429,
+          "synset": "extremity.n.01"
+        },
+        {
+          "word": "extremity",
+          "distance": 0.1428571428571429,
+          "synset": "extremity.n.05"
+        },
+        {
+          "word": "face",
+          "distance": 0.1428571428571429,
+          "synset": "face.n.01"
+        },
+        {
+          "word": "face",
+          "distance": 0.1428571428571429,
+          "synset": "face.n.07"
+        },
+        {
+          "word": "body part",
+          "distance": 0.16666666666666663,
+          "synset": "body_part.n.01"
+        },
+        {
+          "word": "chelicera",
+          "distance": 0.19999999999999996,
+          "synset": "chelicera.n.01"
+        },
+        {
+          "word": "mouthpart",
+          "distance": 0.19999999999999996,
+          "synset": "mouthpart.n.01"
+        }
+      ]
+    }
+  ]
+}

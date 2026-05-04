@@ -1,0 +1,530 @@
+{
+  "n_synsets": 123,
+  "n_clusters_requested": 30,
+  "n_clusters_actual": 31,
+  "exact_clusters_achieved": false,
+  "cut_height": 0.5714285714285714,
+  "clusters": [
+    {
+      "cluster_id": 1,
+      "size": 5,
+      "synsets": [
+        "television_receiver.n.01",
+        "sofa.n.01",
+        "bed.n.01",
+        "table.n.03",
+        "telephone.n.01"
+      ],
+      "words": [
+        "couch",
+        "bed",
+        "table",
+        "phone",
+        "tv"
+      ],
+      "word_count": 5
+    },
+    {
+      "cluster_id": 2,
+      "size": 12,
+      "synsets": [
+        "friend.n.01",
+        "person.n.01",
+        "child.n.01",
+        "spouse.n.01",
+        "doctor.n.01",
+        "kin.n.01",
+        "colleague.n.01",
+        "stranger.n.01",
+        "mother.n.01",
+        "member.n.01",
+        "girlfriend.n.01",
+        "therapist.n.01"
+      ],
+      "words": [
+        "person",
+        "colleague",
+        "friend",
+        "family",
+        "therapist",
+        "partner",
+        "child",
+        "doctor",
+        "member",
+        "mother",
+        "girlfriend",
+        "stranger"
+      ],
+      "word_count": 12
+    },
+    {
+      "cluster_id": 3,
+      "size": 1,
+      "synsets": [
+        "home.n.01"
+      ],
+      "words": [
+        "home"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 4,
+      "size": 11,
+      "synsets": [
+        "arm.n.01",
+        "hand.n.01",
+        "need.n.02",
+        "back.n.01",
+        "shoulder.n.01",
+        "forearm.n.01",
+        "finger.n.01",
+        "leg.n.01",
+        "face.n.01",
+        "skin.n.01",
+        "head.n.01"
+      ],
+      "words": [
+        "finger",
+        "forearm",
+        "hand",
+        "face",
+        "back",
+        "arm",
+        "leg",
+        "wants",
+        "shoulder",
+        "skin",
+        "head"
+      ],
+      "word_count": 11
+    },
+    {
+      "cluster_id": 5,
+      "size": 2,
+      "synsets": [
+        "cooling.n.01",
+        "caressing.n.01"
+      ],
+      "words": [
+        "chilling",
+        "cuddling"
+      ],
+      "word_count": 2
+    },
+    {
+      "cluster_id": 6,
+      "size": 1,
+      "synsets": [
+        "dinner.n.01"
+      ],
+      "words": [
+        "dinner"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 7,
+      "size": 22,
+      "synsets": [
+        "touch.n.01",
+        "observation.n.02",
+        "contact.n.08",
+        "sitting.n.02",
+        "movie.n.01",
+        "tapping.n.01",
+        "employment.n.02",
+        "relation.n.04",
+        "playing.n.02",
+        "wait.n.02",
+        "jab.n.01",
+        "caress.n.01",
+        "start.n.01",
+        "departure.n.01",
+        "show.n.01",
+        "walk.n.01",
+        "acquiring.n.01",
+        "rub.n.02",
+        "lying.n.01",
+        "massage.n.01",
+        "catch.n.09",
+        "stroke.n.05"
+      ],
+      "words": [
+        "getting",
+        "poking",
+        "massage",
+        "touch",
+        "going",
+        "waiting",
+        "work",
+        "starts",
+        "playing",
+        "catch",
+        "lying",
+        "sitting",
+        "caress",
+        "rub",
+        "stroking",
+        "tapping",
+        "walk",
+        "show",
+        "watching",
+        "touching",
+        "movie",
+        "telling"
+      ],
+      "word_count": 22
+    },
+    {
+      "cluster_id": 8,
+      "size": 4,
+      "synsets": [
+        "attention.n.01",
+        "like.n.01",
+        "pain.n.01",
+        "know.n.01"
+      ],
+      "words": [
+        "pain",
+        "know",
+        "like",
+        "attention"
+      ],
+      "word_count": 4
+    },
+    {
+      "cluster_id": 9,
+      "size": 4,
+      "synsets": [
+        "family.n.01",
+        "family.n.04",
+        "table.n.01",
+        "people.n.01"
+      ],
+      "words": [
+        "table",
+        "family",
+        "people"
+      ],
+      "word_count": 3
+    },
+    {
+      "cluster_id": 10,
+      "size": 10,
+      "synsets": [
+        "lack.n.01",
+        "comfort.n.01",
+        "feeling.n.01",
+        "need.n.01",
+        "situation.n.01",
+        "disturbance.n.02",
+        "life.n.01",
+        "pain.n.02",
+        "problem.n.01",
+        "affection.n.01"
+      ],
+      "words": [
+        "pain",
+        "life",
+        "feeling",
+        "need",
+        "situation",
+        "comfort",
+        "wants",
+        "problems",
+        "upset",
+        "affection"
+      ],
+      "word_count": 10
+    },
+    {
+      "cluster_id": 11,
+      "size": 3,
+      "synsets": [
+        "tactile_property.n.01",
+        "manner.n.01",
+        "composure.n.01"
+      ],
+      "words": [
+        "calm",
+        "way",
+        "feel"
+      ],
+      "word_count": 3
+    },
+    {
+      "cluster_id": 12,
+      "size": 2,
+      "synsets": [
+        "day.n.01",
+        "day.n.04"
+      ],
+      "words": [
+        "day"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 13,
+      "size": 6,
+      "synsets": [
+        "talk.n.01",
+        "conversation.n.01",
+        "news.n.01",
+        "video.n.01",
+        "chat.n.01",
+        "cry.n.01"
+      ],
+      "words": [
+        "conversation",
+        "video",
+        "news",
+        "talking",
+        "chat",
+        "cry"
+      ],
+      "word_count": 6
+    },
+    {
+      "cluster_id": 14,
+      "size": 1,
+      "synsets": [
+        "return.n.06"
+      ],
+      "words": [
+        "take"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 15,
+      "size": 2,
+      "synsets": [
+        "touch.v.01",
+        "stroke.v.01"
+      ],
+      "words": [
+        "touch",
+        "stroking"
+      ],
+      "word_count": 2
+    },
+    {
+      "cluster_id": 16,
+      "size": 1,
+      "synsets": [
+        "chuck.v.03"
+      ],
+      "words": [
+        "patting"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 17,
+      "size": 19,
+      "synsets": [
+        "get.v.01",
+        "comfort.v.01",
+        "sad.a.01",
+        "together.s.01",
+        "chilling.s.01",
+        "bad.a.01",
+        "following.s.02",
+        "work.v.02",
+        "about.r.03",
+        "know.v.01",
+        "amatory.s.01",
+        "make.v.03",
+        "behind.r.01",
+        "possibly.r.01",
+        "asleep.a.01",
+        "asleep.r.01",
+        "emotional.a.01",
+        "another.s.01",
+        "wake.v.01"
+      ],
+      "words": [
+        "emotional",
+        "know",
+        "sad",
+        "another",
+        "around",
+        "get",
+        "next",
+        "working",
+        "behind",
+        "asleep",
+        "wake",
+        "comforting",
+        "chilling",
+        "make",
+        "romantic",
+        "maybe",
+        "bad",
+        "together"
+      ],
+      "word_count": 18
+    },
+    {
+      "cluster_id": 18,
+      "size": 1,
+      "synsets": [
+        "try.v.01"
+      ],
+      "words": [
+        "trying"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 19,
+      "size": 2,
+      "synsets": [
+        "happen.v.01",
+        "happen.v.02"
+      ],
+      "words": [
+        "happened"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 20,
+      "size": 1,
+      "synsets": [
+        "rub.v.01"
+      ],
+      "words": [
+        "rubbing"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 21,
+      "size": 1,
+      "synsets": [
+        "rub.v.02"
+      ],
+      "words": [
+        "rubbing"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 22,
+      "size": 1,
+      "synsets": [
+        "come.v.01"
+      ],
+      "words": [
+        "comes"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 23,
+      "size": 1,
+      "synsets": [
+        "check.v.01"
+      ],
+      "words": [
+        "checking"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 24,
+      "size": 1,
+      "synsets": [
+        "see.v.01"
+      ],
+      "words": [
+        "see"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 25,
+      "size": 1,
+      "synsets": [
+        "relax.v.01"
+      ],
+      "words": [
+        "relaxing"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 26,
+      "size": 2,
+      "synsets": [
+        "pacify.v.01",
+        "reassure.v.01"
+      ],
+      "words": [
+        "reassured",
+        "gentle"
+      ],
+      "word_count": 2
+    },
+    {
+      "cluster_id": 27,
+      "size": 2,
+      "synsets": [
+        "tap.v.03",
+        "dab.v.02"
+      ],
+      "words": [
+        "tapping",
+        "patting"
+      ],
+      "word_count": 2
+    },
+    {
+      "cluster_id": 28,
+      "size": 1,
+      "synsets": [
+        "poke.v.03"
+      ],
+      "words": [
+        "poking"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 29,
+      "size": 1,
+      "synsets": [
+        "cuddle.v.01"
+      ],
+      "words": [
+        "cuddling"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 30,
+      "size": 1,
+      "synsets": [
+        "ask.v.01"
+      ],
+      "words": [
+        "ask"
+      ],
+      "word_count": 1
+    },
+    {
+      "cluster_id": 31,
+      "size": 1,
+      "synsets": [
+        "cuddle.v.02"
+      ],
+      "words": [
+        "cuddling"
+      ],
+      "word_count": 1
+    }
+  ]
+}

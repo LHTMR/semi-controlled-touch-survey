@@ -1,0 +1,806 @@
+{
+  "tv": [
+    {
+      "synset": "television_receiver.n.01",
+      "definition": "an electronic device that receives television signals and displays them on a screen",
+      "synonyms": [
+        "television_receiver",
+        "television",
+        "television_set",
+        "tv_set",
+        "idiot_box",
+        "boob_tube",
+        "telly",
+        "goggle_box"
+      ],
+      "closest_words": [
+        "receiver",
+        "direction finder",
+        "radio receiver",
+        "satellite receiver",
+        "set",
+        "clock radio",
+        "crystal set",
+        "goniometer",
+        "heterodyne receiver",
+        "push-button radio",
+        "radio compass",
+        "transmitter",
+        "electronic equipment",
+        "jammer",
+        "radio transmitter",
+        "satellite transmitter",
+        "television transmitter",
+        "amplifier",
+        "audio system",
+        "cassette player"
+      ],
+      "closest_words_info": [
+        {
+          "word": "receiver",
+          "distance": 0.04761904761904767,
+          "synset": "receiver.n.01"
+        },
+        {
+          "word": "direction finder",
+          "distance": 0.09090909090909094,
+          "synset": "direction_finder.n.01"
+        },
+        {
+          "word": "radio receiver",
+          "distance": 0.09090909090909094,
+          "synset": "radio_receiver.n.01"
+        },
+        {
+          "word": "satellite receiver",
+          "distance": 0.09090909090909094,
+          "synset": "satellite_receiver.n.01"
+        },
+        {
+          "word": "set",
+          "distance": 0.09999999999999998,
+          "synset": "set.n.13"
+        },
+        {
+          "word": "clock radio",
+          "distance": 0.13043478260869568,
+          "synset": "clock_radio.n.01"
+        },
+        {
+          "word": "crystal set",
+          "distance": 0.13043478260869568,
+          "synset": "crystal_set.n.01"
+        },
+        {
+          "word": "goniometer",
+          "distance": 0.13043478260869568,
+          "synset": "goniometer.n.01"
+        },
+        {
+          "word": "heterodyne receiver",
+          "distance": 0.13043478260869568,
+          "synset": "heterodyne_receiver.n.01"
+        },
+        {
+          "word": "push-button radio",
+          "distance": 0.13043478260869568,
+          "synset": "push-button_radio.n.01"
+        },
+        {
+          "word": "radio compass",
+          "distance": 0.13043478260869568,
+          "synset": "radio_compass.n.01"
+        },
+        {
+          "word": "transmitter",
+          "distance": 0.1428571428571429,
+          "synset": "transmitter.n.03"
+        },
+        {
+          "word": "electronic equipment",
+          "distance": 0.1578947368421053,
+          "synset": "electronic_equipment.n.01"
+        },
+        {
+          "word": "jammer",
+          "distance": 0.18181818181818177,
+          "synset": "jammer.n.01"
+        },
+        {
+          "word": "radio transmitter",
+          "distance": 0.18181818181818177,
+          "synset": "radio_transmitter.n.01"
+        },
+        {
+          "word": "satellite transmitter",
+          "distance": 0.18181818181818177,
+          "synset": "satellite_transmitter.n.01"
+        },
+        {
+          "word": "television transmitter",
+          "distance": 0.18181818181818177,
+          "synset": "television_transmitter.n.01"
+        },
+        {
+          "word": "amplifier",
+          "distance": 0.19999999999999996,
+          "synset": "amplifier.n.01"
+        },
+        {
+          "word": "audio system",
+          "distance": 0.19999999999999996,
+          "synset": "audio_system.n.01"
+        },
+        {
+          "word": "cassette player",
+          "distance": 0.19999999999999996,
+          "synset": "cassette_player.n.01"
+        }
+      ]
+    }
+  ],
+  "couch": [
+    {
+      "synset": "sofa.n.01",
+      "definition": "an upholstered seat for more than one person",
+      "synonyms": [
+        "sofa",
+        "lounge"
+      ],
+      "closest_words": [
+        "convertible",
+        "daybed",
+        "divan",
+        "love seat",
+        "settee",
+        "squab",
+        "seat",
+        "davenport",
+        "studio couch",
+        "bench",
+        "bench",
+        "box",
+        "box seat",
+        "chair",
+        "ottoman",
+        "Siege Perilous",
+        "stool",
+        "toilet seat",
+        "furniture",
+        "chesterfield"
+      ],
+      "closest_words_info": [
+        {
+          "word": "convertible",
+          "distance": 0.04761904761904767,
+          "synset": "convertible.n.03"
+        },
+        {
+          "word": "daybed",
+          "distance": 0.04761904761904767,
+          "synset": "daybed.n.01"
+        },
+        {
+          "word": "divan",
+          "distance": 0.04761904761904767,
+          "synset": "divan.n.01"
+        },
+        {
+          "word": "love seat",
+          "distance": 0.04761904761904767,
+          "synset": "love_seat.n.01"
+        },
+        {
+          "word": "settee",
+          "distance": 0.04761904761904767,
+          "synset": "settee.n.02"
+        },
+        {
+          "word": "squab",
+          "distance": 0.04761904761904767,
+          "synset": "squab.n.02"
+        },
+        {
+          "word": "seat",
+          "distance": 0.052631578947368474,
+          "synset": "seat.n.03"
+        },
+        {
+          "word": "davenport",
+          "distance": 0.09090909090909094,
+          "synset": "davenport.n.03"
+        },
+        {
+          "word": "studio couch",
+          "distance": 0.09090909090909094,
+          "synset": "studio_couch.n.01"
+        },
+        {
+          "word": "bench",
+          "distance": 0.09999999999999998,
+          "synset": "bench.n.01"
+        },
+        {
+          "word": "bench",
+          "distance": 0.09999999999999998,
+          "synset": "bench.n.07"
+        },
+        {
+          "word": "box",
+          "distance": 0.09999999999999998,
+          "synset": "box.n.08"
+        },
+        {
+          "word": "box seat",
+          "distance": 0.09999999999999998,
+          "synset": "box_seat.n.01"
+        },
+        {
+          "word": "chair",
+          "distance": 0.09999999999999998,
+          "synset": "chair.n.01"
+        },
+        {
+          "word": "ottoman",
+          "distance": 0.09999999999999998,
+          "synset": "ottoman.n.03"
+        },
+        {
+          "word": "Siege Perilous",
+          "distance": 0.09999999999999998,
+          "synset": "siege_perilous.n.01"
+        },
+        {
+          "word": "stool",
+          "distance": 0.09999999999999998,
+          "synset": "stool.n.01"
+        },
+        {
+          "word": "toilet seat",
+          "distance": 0.09999999999999998,
+          "synset": "toilet_seat.n.01"
+        },
+        {
+          "word": "furniture",
+          "distance": 0.11111111111111116,
+          "synset": "furniture.n.01"
+        },
+        {
+          "word": "chesterfield",
+          "distance": 0.13043478260869568,
+          "synset": "chesterfield.n.02"
+        }
+      ]
+    }
+  ],
+  "sofa": [
+    {
+      "synset": "sofa.n.01",
+      "definition": "an upholstered seat for more than one person",
+      "synonyms": [
+        "couch",
+        "lounge"
+      ],
+      "closest_words": [
+        "convertible",
+        "daybed",
+        "divan",
+        "love seat",
+        "settee",
+        "squab",
+        "seat",
+        "davenport",
+        "studio couch",
+        "bench",
+        "bench",
+        "box",
+        "box seat",
+        "chair",
+        "ottoman",
+        "Siege Perilous",
+        "stool",
+        "toilet seat",
+        "furniture",
+        "chesterfield"
+      ],
+      "closest_words_info": [
+        {
+          "word": "convertible",
+          "distance": 0.04761904761904767,
+          "synset": "convertible.n.03"
+        },
+        {
+          "word": "daybed",
+          "distance": 0.04761904761904767,
+          "synset": "daybed.n.01"
+        },
+        {
+          "word": "divan",
+          "distance": 0.04761904761904767,
+          "synset": "divan.n.01"
+        },
+        {
+          "word": "love seat",
+          "distance": 0.04761904761904767,
+          "synset": "love_seat.n.01"
+        },
+        {
+          "word": "settee",
+          "distance": 0.04761904761904767,
+          "synset": "settee.n.02"
+        },
+        {
+          "word": "squab",
+          "distance": 0.04761904761904767,
+          "synset": "squab.n.02"
+        },
+        {
+          "word": "seat",
+          "distance": 0.052631578947368474,
+          "synset": "seat.n.03"
+        },
+        {
+          "word": "davenport",
+          "distance": 0.09090909090909094,
+          "synset": "davenport.n.03"
+        },
+        {
+          "word": "studio couch",
+          "distance": 0.09090909090909094,
+          "synset": "studio_couch.n.01"
+        },
+        {
+          "word": "bench",
+          "distance": 0.09999999999999998,
+          "synset": "bench.n.01"
+        },
+        {
+          "word": "bench",
+          "distance": 0.09999999999999998,
+          "synset": "bench.n.07"
+        },
+        {
+          "word": "box",
+          "distance": 0.09999999999999998,
+          "synset": "box.n.08"
+        },
+        {
+          "word": "box seat",
+          "distance": 0.09999999999999998,
+          "synset": "box_seat.n.01"
+        },
+        {
+          "word": "chair",
+          "distance": 0.09999999999999998,
+          "synset": "chair.n.01"
+        },
+        {
+          "word": "ottoman",
+          "distance": 0.09999999999999998,
+          "synset": "ottoman.n.03"
+        },
+        {
+          "word": "Siege Perilous",
+          "distance": 0.09999999999999998,
+          "synset": "siege_perilous.n.01"
+        },
+        {
+          "word": "stool",
+          "distance": 0.09999999999999998,
+          "synset": "stool.n.01"
+        },
+        {
+          "word": "toilet seat",
+          "distance": 0.09999999999999998,
+          "synset": "toilet_seat.n.01"
+        },
+        {
+          "word": "furniture",
+          "distance": 0.11111111111111116,
+          "synset": "furniture.n.01"
+        },
+        {
+          "word": "chesterfield",
+          "distance": 0.13043478260869568,
+          "synset": "chesterfield.n.02"
+        }
+      ]
+    }
+  ],
+  "bed": [
+    {
+      "synset": "bed.n.01",
+      "definition": "a piece of furniture that provides a place to sleep",
+      "synonyms": [],
+      "closest_words": [
+        "berth",
+        "built-in bed",
+        "bunk",
+        "bunk bed",
+        "cot",
+        "couch",
+        "deathbed",
+        "double bed",
+        "four-poster",
+        "hammock",
+        "marriage bed",
+        "Murphy bed",
+        "plank-bed",
+        "platform bed",
+        "sickbed",
+        "single bed",
+        "sleigh bed",
+        "trundle bed",
+        "twin bed",
+        "water bed"
+      ],
+      "closest_words_info": [
+        {
+          "word": "berth",
+          "distance": 0.04761904761904767,
+          "synset": "berth.n.03"
+        },
+        {
+          "word": "built-in bed",
+          "distance": 0.04761904761904767,
+          "synset": "built-in_bed.n.01"
+        },
+        {
+          "word": "bunk",
+          "distance": 0.04761904761904767,
+          "synset": "bunk.n.03"
+        },
+        {
+          "word": "bunk bed",
+          "distance": 0.04761904761904767,
+          "synset": "bunk_bed.n.01"
+        },
+        {
+          "word": "cot",
+          "distance": 0.04761904761904767,
+          "synset": "cot.n.03"
+        },
+        {
+          "word": "couch",
+          "distance": 0.04761904761904767,
+          "synset": "couch.n.03"
+        },
+        {
+          "word": "deathbed",
+          "distance": 0.04761904761904767,
+          "synset": "deathbed.n.02"
+        },
+        {
+          "word": "double bed",
+          "distance": 0.04761904761904767,
+          "synset": "double_bed.n.01"
+        },
+        {
+          "word": "four-poster",
+          "distance": 0.04761904761904767,
+          "synset": "four-poster.n.01"
+        },
+        {
+          "word": "hammock",
+          "distance": 0.04761904761904767,
+          "synset": "hammock.n.02"
+        },
+        {
+          "word": "marriage bed",
+          "distance": 0.04761904761904767,
+          "synset": "marriage_bed.n.01"
+        },
+        {
+          "word": "Murphy bed",
+          "distance": 0.04761904761904767,
+          "synset": "murphy_bed.n.01"
+        },
+        {
+          "word": "plank-bed",
+          "distance": 0.04761904761904767,
+          "synset": "plank-bed.n.01"
+        },
+        {
+          "word": "platform bed",
+          "distance": 0.04761904761904767,
+          "synset": "platform_bed.n.01"
+        },
+        {
+          "word": "sickbed",
+          "distance": 0.04761904761904767,
+          "synset": "sickbed.n.01"
+        },
+        {
+          "word": "single bed",
+          "distance": 0.04761904761904767,
+          "synset": "single_bed.n.01"
+        },
+        {
+          "word": "sleigh bed",
+          "distance": 0.04761904761904767,
+          "synset": "sleigh_bed.n.01"
+        },
+        {
+          "word": "trundle bed",
+          "distance": 0.04761904761904767,
+          "synset": "trundle_bed.n.01"
+        },
+        {
+          "word": "twin bed",
+          "distance": 0.04761904761904767,
+          "synset": "twin_bed.n.01"
+        },
+        {
+          "word": "water bed",
+          "distance": 0.04761904761904767,
+          "synset": "water_bed.n.01"
+        }
+      ]
+    }
+  ],
+  "table": [
+    {
+      "synset": "table.n.03",
+      "definition": "a piece of furniture with tableware for a meal laid out on it",
+      "synonyms": [],
+      "closest_words": [
+        "dining table",
+        "furniture",
+        "dining-room table",
+        "dinner table",
+        "high table",
+        "refectory table",
+        "triclinium",
+        "baby bed",
+        "bedroom furniture",
+        "bedstead",
+        "bookcase",
+        "buffet",
+        "cabinet",
+        "chest of drawers",
+        "dining-room furniture",
+        "etagere",
+        "fitment",
+        "hallstand",
+        "lamp",
+        "lawn furniture"
+      ],
+      "closest_words_info": [
+        {
+          "word": "dining table",
+          "distance": 0.052631578947368474,
+          "synset": "dining_table.n.01"
+        },
+        {
+          "word": "furniture",
+          "distance": 0.05882352941176472,
+          "synset": "furniture.n.01"
+        },
+        {
+          "word": "dining-room table",
+          "distance": 0.09999999999999998,
+          "synset": "dining-room_table.n.01"
+        },
+        {
+          "word": "dinner table",
+          "distance": 0.09999999999999998,
+          "synset": "dinner_table.n.01"
+        },
+        {
+          "word": "high table",
+          "distance": 0.09999999999999998,
+          "synset": "high_table.n.01"
+        },
+        {
+          "word": "refectory table",
+          "distance": 0.09999999999999998,
+          "synset": "refectory_table.n.01"
+        },
+        {
+          "word": "triclinium",
+          "distance": 0.09999999999999998,
+          "synset": "triclinium.n.02"
+        },
+        {
+          "word": "baby bed",
+          "distance": 0.11111111111111116,
+          "synset": "baby_bed.n.01"
+        },
+        {
+          "word": "bedroom furniture",
+          "distance": 0.11111111111111116,
+          "synset": "bedroom_furniture.n.01"
+        },
+        {
+          "word": "bedstead",
+          "distance": 0.11111111111111116,
+          "synset": "bedstead.n.01"
+        },
+        {
+          "word": "bookcase",
+          "distance": 0.11111111111111116,
+          "synset": "bookcase.n.01"
+        },
+        {
+          "word": "buffet",
+          "distance": 0.11111111111111116,
+          "synset": "buffet.n.01"
+        },
+        {
+          "word": "cabinet",
+          "distance": 0.11111111111111116,
+          "synset": "cabinet.n.01"
+        },
+        {
+          "word": "chest of drawers",
+          "distance": 0.11111111111111116,
+          "synset": "chest_of_drawers.n.01"
+        },
+        {
+          "word": "dining-room furniture",
+          "distance": 0.11111111111111116,
+          "synset": "dining-room_furniture.n.01"
+        },
+        {
+          "word": "etagere",
+          "distance": 0.11111111111111116,
+          "synset": "etagere.n.01"
+        },
+        {
+          "word": "fitment",
+          "distance": 0.11111111111111116,
+          "synset": "fitment.n.01"
+        },
+        {
+          "word": "hallstand",
+          "distance": 0.11111111111111116,
+          "synset": "hallstand.n.01"
+        },
+        {
+          "word": "lamp",
+          "distance": 0.11111111111111116,
+          "synset": "lamp.n.02"
+        },
+        {
+          "word": "lawn furniture",
+          "distance": 0.11111111111111116,
+          "synset": "lawn_furniture.n.01"
+        }
+      ]
+    }
+  ],
+  "phone": [
+    {
+      "synset": "telephone.n.01",
+      "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+      "synonyms": [
+        "telephone",
+        "telephone_set"
+      ],
+      "closest_words": [
+        "desk phone",
+        "dial telephone",
+        "extension",
+        "handset",
+        "pay-phone",
+        "radiotelephone",
+        "speakerphone",
+        "electronic equipment",
+        "cellular telephone",
+        "amplifier",
+        "audio system",
+        "cassette player",
+        "CD player",
+        "central processing unit",
+        "circuitry",
+        "detector",
+        "equalizer",
+        "lens",
+        "mixer",
+        "modem"
+      ],
+      "closest_words_info": [
+        {
+          "word": "desk phone",
+          "distance": 0.052631578947368474,
+          "synset": "desk_phone.n.01"
+        },
+        {
+          "word": "dial telephone",
+          "distance": 0.052631578947368474,
+          "synset": "dial_telephone.n.01"
+        },
+        {
+          "word": "extension",
+          "distance": 0.052631578947368474,
+          "synset": "extension.n.10"
+        },
+        {
+          "word": "handset",
+          "distance": 0.052631578947368474,
+          "synset": "handset.n.01"
+        },
+        {
+          "word": "pay-phone",
+          "distance": 0.052631578947368474,
+          "synset": "pay-phone.n.01"
+        },
+        {
+          "word": "radiotelephone",
+          "distance": 0.052631578947368474,
+          "synset": "radiotelephone.n.02"
+        },
+        {
+          "word": "speakerphone",
+          "distance": 0.052631578947368474,
+          "synset": "speakerphone.n.01"
+        },
+        {
+          "word": "electronic equipment",
+          "distance": 0.05882352941176472,
+          "synset": "electronic_equipment.n.01"
+        },
+        {
+          "word": "cellular telephone",
+          "distance": 0.09999999999999998,
+          "synset": "cellular_telephone.n.01"
+        },
+        {
+          "word": "amplifier",
+          "distance": 0.11111111111111116,
+          "synset": "amplifier.n.01"
+        },
+        {
+          "word": "audio system",
+          "distance": 0.11111111111111116,
+          "synset": "audio_system.n.01"
+        },
+        {
+          "word": "cassette player",
+          "distance": 0.11111111111111116,
+          "synset": "cassette_player.n.01"
+        },
+        {
+          "word": "CD player",
+          "distance": 0.11111111111111116,
+          "synset": "cd_player.n.01"
+        },
+        {
+          "word": "central processing unit",
+          "distance": 0.11111111111111116,
+          "synset": "central_processing_unit.n.01"
+        },
+        {
+          "word": "circuitry",
+          "distance": 0.11111111111111116,
+          "synset": "circuitry.n.01"
+        },
+        {
+          "word": "detector",
+          "distance": 0.11111111111111116,
+          "synset": "detector.n.03"
+        },
+        {
+          "word": "equalizer",
+          "distance": 0.11111111111111116,
+          "synset": "equalizer.n.01"
+        },
+        {
+          "word": "lens",
+          "distance": 0.11111111111111116,
+          "synset": "lens.n.05"
+        },
+        {
+          "word": "mixer",
+          "distance": 0.11111111111111116,
+          "synset": "mixer.n.03"
+        },
+        {
+          "word": "modem",
+          "distance": 0.11111111111111116,
+          "synset": "modem.n.01"
+        }
+      ]
+    }
+  ]
+}
