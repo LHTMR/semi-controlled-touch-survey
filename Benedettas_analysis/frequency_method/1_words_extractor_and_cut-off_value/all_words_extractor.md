@@ -144,3 +144,7 @@ Output files created:
   word_frequencies_grouped.csv
   word_frequencies_raw.csv
   word_frequencies_tree.txt
+
+
+# Output 
+The word_frequencies_grouped.csv is the file I used in the next steps.
